@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Infection poison Vert Noir</deckname>
+    <comments>Fait à l'arrache mais je veux l'essayer. Je me suis fait massacrer par Micka à l'Algorythme le vendredi 10 décembre 2021 avec un deck semblable, je veux l'essayer pour voir ce qu'il vaut !</comments>
+    <zone name="main">
+        <card number="4" name="Overgrown Tomb"/>
+        <card number="6" name="Forest (b)"/>
+        <card number="6" name="Swamp (a)"/>
+        <card number="2" name="Skithiryx, the Blight Dragon"/>
+        <card number="2" name="Septic Rats"/>
+        <card number="2" name="Rot Wolf"/>
+        <card number="2" name="Reaper of Sheoldred"/>
+        <card number="4" name="Plague Stinger"/>
+        <card number="4" name="Plague Myr"/>
+        <card number="3" name="Phyrexian Hydra"/>
+        <card number="4" name="Phyrexian Crusader"/>
+        <card number="3" name="Putrefax"/>
+        <card number="2" name="Phyrexian Vatmother"/>
+        <card number="4" name="Inkmoth Nexus"/>
+        <card number="4" name="Hand of the Praetors"/>
+        <card number="4" name="Ichorclaw Myr"/>
+        <card number="4" name="Glistener Elf"/>
+        <card number="2" name="Corpse Cur"/>
+        <card number="4" name="Ignoble Hierarch"/>
+        <card number="4" name="Rogue's Passage"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Blightwidow"/>
+        <card number="4" name="Blossoming Defense"/>
+        <card number="3" name="Melira, Sylvok Outcast"/>
+        <card number="4" name="Viridian Corrupter"/>
+    </zone>
+</cockatrice_deck>

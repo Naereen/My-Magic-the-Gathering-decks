@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Combo noir gain/perte de vie</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Swamp (a)"/>
+        <card number="3" name="Vito, Thorn of the Dusk Rose"/>
+        <card number="4" name="Exquisite Blood"/>
+        <card number="4" name="Sanguine Bond"/>
+        <card number="4" name="Vampiric Tutor"/>
+        <card number="4" name="Healing Salve"/>
+        <card number="4" name="Dark Ritual"/>
+        <card number="4" name="Rhystic Tutor"/>
+        <card number="4" name="Grim Tutor"/>
+        <card number="4" name="Demonic Tutor"/>
+        <card number="3" name="Epicure of Blood"/>
+        <card number="4" name="Seraph Sanctuary"/>
+        <card number="4" name="Plains (a)"/>
+        <card number="4" name="Damnation"/>
+        <card number="4" name="Reaper's Talisman"/>
+        <card number="4" name="Godless Shrine"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Profane Tutor"/>
+        <card number="4" name="Cliffhaven Vampire"/>
+        <card number="4" name="Defiant Bloodlord"/>
+        <card number="3" name="Smallpox"/>
+    </zone>
+</cockatrice_deck>

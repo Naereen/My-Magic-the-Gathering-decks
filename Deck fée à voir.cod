@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Deck fée mono bleu</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="15" name="Island (a)"/>
+        <card number="3" name="Faerie Conclave"/>
+        <card number="4" name="Ghost Quarter"/>
+        <card number="4" name="Spellstutter Sprite"/>
+        <card number="4" name="Quickling"/>
+        <card number="2" name="Vendilion Clique"/>
+        <card number="4" name="Scion of Oona"/>
+        <card number="4" name="Mistblade Shinobi"/>
+        <card number="4" name="Mistbind Clique"/>
+        <card number="4" name="Vapor Snag"/>
+        <card number="4" name="Spell Pierce"/>
+        <card number="4" name="Remand"/>
+        <card number="4" name="Mana Leak"/>
+    </zone>
+</cockatrice_deck>

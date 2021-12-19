@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Gain de vie</deckname>
+    <comments>Donné par Rémi (nixia) le 11 décembre 2021, modifié lentement après.</comments>
+    <zone name="main">
+        <card number="4" name="Martyr of Sands"/>
+        <card number="2" name="Goldenglow Moth"/>
+        <card number="2" name="Ajani Goldmane"/>
+        <card number="3" name="Proclamation of Rebirth"/>
+        <card number="18" name="Plains"/>
+        <card number="2" name="Test of Endurance"/>
+        <card number="4" name="Reverse Damage"/>
+        <card number="4" name="Healing Salve"/>
+        <card number="2" name="Felidar Sovereign"/>
+        <card number="2" name="Wrath of God"/>
+        <card number="4" name="Serra Ascendant"/>
+        <card number="4" name="Voice of the Blessed"/>
+        <card number="4" name="Knight of Meadowgrain"/>
+        <card number="2" name="Flagstones of Trokair"/>
+        <card number="3" name="Path to Exile"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Ajani's Sunstriker"/>
+        <card number="2" name="Comeuppance"/>
+        <card number="3" name="Swords to Plowshares"/>
+        <card number="1" name="Path to Exile"/>
+    </zone>
+</cockatrice_deck>

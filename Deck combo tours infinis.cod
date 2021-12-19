@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Omnath, Locus of Creation"/>
+        <card number="3" name="Teferi, Time Raveler"/>
+        <card number="4" name="Wall of Omens"/>
+        <card number="4" name="Ice-Fang Coatl"/>
+        <card number="2" name="Eternal Witness"/>
+        <card number="4" name="Ephemerate"/>
+        <card number="3" name="Solitude"/>
+        <card number="1" name="Time Warp"/>
+        <card number="4" name="Soulherder"/>
+        <card number="4" name="Prismatic Ending"/>
+        <card number="4" name="Prismatic Vista"/>
+        <card number="2" name="Misty Rainforest"/>
+        <card number="2" name="Arid Mesa"/>
+        <card number="1" name="Raugrin Triome"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="2" name="Snow-Covered Island"/>
+        <card number="2" name="Snow-Covered Forest"/>
+        <card number="2" name="Snow-Covered Mountain"/>
+        <card number="2" name="Snow-Covered Plains"/>
+        <card number="1" name="Ketria Triome"/>
+        <card number="2" name="Wall of Blossoms"/>
+        <card number="2" name="Mulldrifter"/>
+        <card number="1" name="Endurance"/>
+        <card number="1" name="Jace, the Mind Sculptor"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Fury"/>
+        <card number="1" name="Endurance"/>
+        <card number="2" name="Heroic Intervention"/>
+        <card number="2" name="Knight of Autumn"/>
+        <card number="1" name="Emrakul, the Aeons Torn"/>
+        <card number="2" name="Venser, Shaper Savant"/>
+        <card number="4" name="Blood Moon"/>
+        <card number="1" name="Teferi, Time Raveler"/>
+    </zone>
+</cockatrice_deck>

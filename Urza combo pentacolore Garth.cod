@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Urza combo pentacolore Garth</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Dark Ritual"/>
+        <card number="4" name="Birds of Paradise"/>
+        <card number="4" name="Ornithopter of Paradise"/>
+        <card number="4" name="Elvish Piper"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Jegantha, the Wellspring"/>
+        <card number="2" name="Garth One-Eye"/>
+        <card number="1" name="Staff of Domination"/>
+        <card number="4" name="Urza's Tower"/>
+        <card number="4" name="Crystal Quarry"/>
+        <card number="4" name="Reflecting Pool"/>
+        <card number="4" name="Urza's Mine"/>
+        <card number="4" name="Urza's Power Plant"/>
+    </zone>
+</cockatrice_deck>

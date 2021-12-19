@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Chaton power</deckname>
+    <comments>Mon deck chaton</comments>
+    <zone name="main">
+        <card number="4" name="Rancor"/>
+        <card number="2" name="Kaheera, the Orphanguard"/>
+        <card number="2" name="Regal Caracal"/>
+        <card number="4" name="Cubwarden"/>
+        <card number="4" name="Feline Sovereign"/>
+        <card number="4" name="Pride Sovereign"/>
+        <card number="4" name="King of the Pride"/>
+        <card number="4" name="Bronzehide Lion"/>
+        <card number="4" name="Fleecemane Lion"/>
+        <card number="4" name="Loam Lion"/>
+        <card number="4" name="Savannah Lions"/>
+        <card number="5" name="Forest"/>
+        <card number="7" name="Plains"/>
+        <card number="4" name="Unclaimed Territory"/>
+        <card number="4" name="Temple Garden"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Kaheera, the Orphanguard"/>
+        <card number="4" name="Snakeskin Veil"/>
+        <card number="4" name="Thrashing Brontodon"/>
+        <card number="4" name="Return to Nature"/>
+        <card number="3" name="Naturalize"/>
+        <card number="4" name="Leonin Warleader"/>
+    </zone>
+</cockatrice_deck>

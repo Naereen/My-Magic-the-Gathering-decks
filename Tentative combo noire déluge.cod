@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Tentative combo noire déluge</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="11" name="Swamp (a)"/>
+        <card number="4" name="Isochron Scepter"/>
+        <card number="4" name="Vampiric Tutor"/>
+        <card number="4" name="Grim Tutor"/>
+        <card number="2" name="Paradox Engine"/>
+        <card number="4" name="Worn Powerstone"/>
+        <card number="4" name="Dramatic Reversal"/>
+        <card number="4" name="Damnation"/>
+        <card number="2" name="Mountain (b)"/>
+        <card number="4" name="Bloodstained Mire"/>
+        <card number="2" name="Smoldering Marsh"/>
+        <card number="4" name="Blood Crypt"/>
+        <card number="4" name="Grapeshot"/>
+        <card number="3" name="Diabolic Tutor"/>
+        <card number="4" name="Profane Tutor"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Hidden Strings"/>
+        <card number="4" name="Fabricate"/>
+        <card number="1" name="Island (a)"/>
+        <card number="1" name="Lotus Bloom"/>
+        <card number="3" name="Tendrils of Agony"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Rhystic Tutor"/>
+    </zone>
+</cockatrice_deck>
