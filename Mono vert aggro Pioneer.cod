@@ -5,7 +5,7 @@
 Le deck est trop gros je dois trouver quoi lui enlever (8 cartes).</comments>
     <zone name="main">
         <card number="3" name="Ram Through"/>
-        <card number="20" name="Forest"/>
+        <card number="19" name="Forest"/>
         <card number="2" name="Castle Garenbrig"/>
         <card number="4" name="Lovestruck Beast // Heart's Desire"/>
         <card number="3" name="Questing Beast"/>
@@ -19,7 +19,6 @@ Le deck est trop gros je dois trouver quoi lui enlever (8 cartes).</comments>
         <card number="4" name="Werewolf Pack Leader"/>
         <card number="2" name="Yorvo, Lord of Garenbrig"/>
         <card number="1" name="Garruk, Unleashed"/>
-        <card number="1" name="Kogla, the Titan Ape"/>
     </zone>
     <zone name="side">
         <card number="4" name="Return to Nature"/>
