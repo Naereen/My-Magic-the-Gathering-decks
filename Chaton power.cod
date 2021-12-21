@@ -14,10 +14,12 @@
         <card number="4" name="Fleecemane Lion"/>
         <card number="4" name="Loam Lion"/>
         <card number="4" name="Savannah Lions"/>
-        <card number="5" name="Forest"/>
-        <card number="7" name="Plains"/>
+        <card number="3" name="Forest"/>
+        <card number="5" name="Plains"/>
         <card number="4" name="Unclaimed Territory"/>
         <card number="4" name="Temple Garden"/>
+        <card number="2" name="Branchloft Pathway"/>
+        <card number="2" name="Boulderloft Pathway"/>
     </zone>
     <zone name="side">
         <card number="1" name="Kaheera, the Orphanguard"/>

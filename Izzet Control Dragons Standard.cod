@@ -27,8 +27,8 @@
         <card number="3" name="Mountain"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Environmental Sciences"/>
-        <card number="1" name="Teachings of the Archaics"/>
-        <card number="1" name="Introduction to Annihilation"/>
+        <card number="4" name="Environmental Sciences"/>
+        <card number="4" name="Teachings of the Archaics"/>
+        <card number="4" name="Introduction to Annihilation"/>
     </zone>
 </cockatrice_deck>

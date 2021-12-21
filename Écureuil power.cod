@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
     <deckname>Écureuil power</deckname>
-    <comments></comments>
+    <comments>Mon deck tribal vert/noir écureuil. Y'a du noir pour les capacités activées de Chatterfang et du Ravenous Squirrel, au cas où.</comments>
     <zone name="main">
-        <card number="10" name="Forest"/>
+        <card number="8" name="Forest"/>
         <card number="3" name="Chatterfang, Squirrel General"/>
         <card number="4" name="Ravenous Squirrel"/>
         <card number="4" name="Squirrel Mob"/>
         <card number="3" name="Squirrel Nest"/>
         <card number="4" name="Squirrel Sanctuary"/>
         <card number="4" name="Squirrel Sovereign"/>
-        <card number="4" name="Llanowar Wastes"/>
+        <card number="2" name="Llanowar Wastes"/>
         <card number="2" name="Coat of Arms"/>
         <card number="4" name="Scurrid Colony"/>
         <card number="2" name="Deep Forest Hermit"/>
@@ -19,6 +19,7 @@
         <card number="4" name="Verdant Command"/>
         <card number="4" name="Rancor"/>
         <card number="2" name="Chitterspitter"/>
+        <card number="4" name="Darkbore Pathway"/>
     </zone>
     <zone name="side">
         <card number="4" name="Blossoming Defense"/>

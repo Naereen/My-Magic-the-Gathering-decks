@@ -11,14 +11,16 @@
         <card number="19" name="Snow-Covered Mountain"/>
         <card number="3" name="Frost Bite"/>
         <card number="4" name="Char"/>
-        <card number="4" name="Spark Elemental"/>
+        <card number="2" name="Spark Elemental"/>
         <card number="4" name="Vexing Devil"/>
         <card number="4" name="Chain Lightning"/>
         <card number="3" name="Fiery Impulse"/>
+        <card number="2" name="Ball Lightning"/>
     </zone>
     <zone name="side">
         <card number="1" name="Obosh, the Preypiercer"/>
         <card number="4" name="Blood Moon"/>
-        <card number="4" name="Ball Lightning"/>
+        <card number="2" name="Ball Lightning"/>
+        <card number="2" name="Spark Elemental"/>
     </zone>
 </cockatrice_deck>
