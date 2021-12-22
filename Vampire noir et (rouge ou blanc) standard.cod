@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Vampire mono noir standard</deckname>
+    <comments>Une tentative de faire un deck vampire en mono noir, peut-être noir rouge en standard</comments>
+    <zone name="main">
+        <card number="4" name="Bloodvial Purveyor"/>
+        <card number="4" name="Slaughter Specialist"/>
+        <card number="3" name="Westgate Regent"/>
+        <card number="4" name="Vampire Nighthawk"/>
+        <card number="4" name="Nighthawk Scavenger"/>
+        <card number="3" name="Henrika Domnathi"/>
+        <card number="4" name="Nullpriest of Oblivion"/>
+        <card number="2" name="Drana, the Last Bloodchief"/>
+        <card number="21" name="Swamp (a)"/>
+        <card number="3" name="Haunting Voyage"/>
+        <card number="4" name="Baleful Mastery"/>
+        <card number="4" name="Hero's Downfall"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Henrika, Infernal Seer"/>
+        <card number="1" name="Bloodthirsty Adversary"/>
+        <card number="1" name="Cemetery Gatekeeper"/>
+        <card number="1" name="Blightstep Pathway"/>
+        <card number="1" name="Haunted Ridge"/>
+        <card number="1" name="Mountain (a)"/>
+    </zone>
+</cockatrice_deck>
