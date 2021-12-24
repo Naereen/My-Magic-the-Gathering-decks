@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Deck modern réanimation</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Unmarked Grave"/>
+        <card number="1" name="Archon of Cruelty"/>
+        <card number="3" name="Grief"/>
+        <card number="1" name="Serra's Emissary"/>
+        <card number="4" name="Marsh Flats"/>
+        <card number="3" name="Solitude"/>
+        <card number="4" name="Godless Shrine"/>
+        <card number="4" name="Unburial Rites"/>
+        <card number="4" name="Hallowed Fountain"/>
+        <card number="4" name="Flooded Strand"/>
+        <card number="4" name="Persist"/>
+        <card number="4" name="Ephemerate"/>
+        <card number="4" name="Concealed Courtyard"/>
+        <card number="4" name="Faithful Mending"/>
+        <card number="3" name="Swamp (a)"/>
+        <card number="1" name="Angel of Serenity"/>
+        <card number="4" name="Cleric Class"/>
+        <card number="4" name="Defy Death"/>
+    </zone>
+</cockatrice_deck>
