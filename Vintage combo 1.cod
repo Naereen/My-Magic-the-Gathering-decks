@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Vintage combo 1</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Black Lotus (A)"/>
+        <card number="1" name="Mox Sapphire (A)"/>
+        <card number="1" name="Mox Ruby (U)"/>
+        <card number="1" name="Mox Emerald"/>
+        <card number="4" name="Basalt Monolith"/>
+        <card number="4" name="Birds of Paradise"/>
+        <card number="4" name="Tropical Island"/>
+        <card number="4" name="Volcanic Island"/>
+        <card number="4" name="Emrakul, the Aeons Torn"/>
+        <card number="4" name="Kinnan, Bonder Prodigy"/>
+        <card number="4" name="Taiga"/>
+        <card number="4" name="Wooded Foothills"/>
+        <card number="4" name="Misty Rainforest"/>
+        <card number="4" name="Force of Will"/>
+        <card number="4" name="Fabricate"/>
+        <card number="4" name="Worldly Tutor"/>
+        <card number="4" name="Sylvan Tutor"/>
+        <card number="4" name="Guttural Response"/>
+    </zone>
+</cockatrice_deck>
