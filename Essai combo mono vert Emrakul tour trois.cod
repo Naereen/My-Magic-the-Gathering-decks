@@ -21,5 +21,6 @@
         <card number="4" name="Tooth and Nail"/>
         <card number="4" name="Blossoming Defense"/>
         <card number="4" name="Tranquility"/>
+        <card number="3" name="Xenagos, God of Revels"/>
     </zone>
 </cockatrice_deck>

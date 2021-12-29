@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Deck loup-garou et loup vert rouge Standard</deckname>
+    <comments>Deck loup-garou et loup vert rouge Standard, essai pour voir ce que ça peut donner mercredi 29 décembre 2021</comments>
+    <zone name="main">
+        <card number="2" name="Tovolar's Huntmaster"/>
+        <card number="4" name="Tovolar, Dire Overlord"/>
+        <card number="3" name="Rancor"/>
+        <card number="8" name="Forest"/>
+        <card number="4" name="Mountain"/>
+        <card number="3" name="Halana and Alena, Partners"/>
+        <card number="4" name="Ascendant Packleader"/>
+        <card number="4" name="Werewolf Pack Leader"/>
+        <card number="4" name="Cemetery Prowler"/>
+        <card number="4" name="Primal Adversary"/>
+        <card number="3" name="Ill-Tempered Loner"/>
+        <card number="3" name="Howlpack Piper"/>
+        <card number="3" name="Weaver of Blossoms"/>
+        <card number="3" name="Avabruck Caretaker"/>
+        <card number="2" name="Cragcrown Pathway"/>
+        <card number="2" name="Timbercrown Pathway"/>
+        <card number="4" name="Rockfall Vale"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Tovolar's Packleader"/>
+        <card number="1" name="Tovolar, the Midnight Scourge"/>
+        <card number="1" name="Blossom-Clad Werewolf"/>
+        <card number="4" name="Broken Wings"/>
+        <card number="1" name="Hollowhenge Huntmaster"/>
+        <card number="1" name="Wildsong Howler"/>
+        <card number="4" name="Return to Nature"/>
+    </zone>
+</cockatrice_deck>
