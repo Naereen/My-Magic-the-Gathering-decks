@@ -4,8 +4,8 @@
     <comments>Fait à l'arrache mais je veux l'essayer. Je me suis fait massacrer par Micka à l'Algorythme le vendredi 10 décembre 2021 avec un deck semblable, je veux l'essayer pour voir ce qu'il vaut !</comments>
     <zone name="main">
         <card number="4" name="Overgrown Tomb"/>
-        <card number="4" name="Forest (b)"/>
-        <card number="4" name="Swamp (a)"/>
+        <card number="2" name="Forest (b)"/>
+        <card number="2" name="Swamp (a)"/>
         <card number="2" name="Skithiryx, the Blight Dragon"/>
         <card number="2" name="Septic Rats"/>
         <card number="2" name="Rot Wolf"/>
@@ -25,6 +25,7 @@
         <card number="4" name="Rogue's Passage"/>
         <card number="2" name="Darkbore Pathway"/>
         <card number="2" name="Slitherbore Pathway"/>
+        <card number="4" name="Karn's Bastion"/>
     </zone>
     <zone name="side">
         <card number="4" name="Blightwidow"/>
