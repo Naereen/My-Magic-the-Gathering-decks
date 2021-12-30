@@ -28,6 +28,7 @@
         <card number="4" name="Broken Wings"/>
         <card number="1" name="Hollowhenge Huntmaster"/>
         <card number="1" name="Wildsong Howler"/>
-        <card number="4" name="Return to Nature"/>
+        <card number="3" name="Return to Nature"/>
+        <card number="3" name="Outland Liberator"/>
     </zone>
 </cockatrice_deck>
