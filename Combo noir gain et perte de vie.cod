@@ -3,29 +3,32 @@
     <deckname>Combo noir gain/perte de vie</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="12" name="Swamp (a)"/>
-        <card number="4" name="Vito, Thorn of the Dusk Rose"/>
+        <card number="5" name="Swamp (a)"/>
+        <card number="3" name="Vito, Thorn of the Dusk Rose"/>
         <card number="4" name="Exquisite Blood"/>
-        <card number="4" name="Sanguine Bond"/>
-        <card number="4" name="Healing Salve"/>
+        <card number="1" name="Sanguine Bond"/>
         <card number="4" name="Grim Tutor"/>
-        <card number="2" name="Epicure of Blood"/>
         <card number="4" name="Seraph Sanctuary"/>
         <card number="4" name="Plains (a)"/>
-        <card number="4" name="Damnation"/>
-        <card number="3" name="Reaper's Talisman"/>
+        <card number="3" name="Damnation"/>
         <card number="4" name="Godless Shrine"/>
         <card number="4" name="Profane Tutor"/>
         <card number="4" name="Idyllic Tutor"/>
-        <card number="2" name="Cliffhaven Vampire"/>
+        <card number="4" name="Marsh Flats"/>
+        <card number="4" name="Light of Hope"/>
+        <card number="4" name="Goldenglow Moth"/>
+        <card number="4" name="Marauding Blight-Priest"/>
+        <card number="4" name="Soul Warden"/>
     </zone>
     <zone name="side">
-        <card number="2" name="Cliffhaven Vampire"/>
-        <card number="4" name="Defiant Bloodlord"/>
+        <card number="1" name="Cliffhaven Vampire"/>
+        <card number="1" name="Defiant Bloodlord"/>
         <card number="3" name="Smallpox"/>
         <card number="1" name="Dark Ritual"/>
         <card number="1" name="Rhystic Tutor"/>
         <card number="1" name="Demonic Tutor"/>
         <card number="1" name="Vampiric Tutor"/>
+        <card number="1" name="Epicure of Blood"/>
+        <card number="1" name="Reaper's Talisman"/>
     </zone>
 </cockatrice_deck>
