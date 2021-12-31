@@ -10,7 +10,6 @@
         <card number="18" name="Plains"/>
         <card number="2" name="Test of Endurance"/>
         <card number="4" name="Reverse Damage"/>
-        <card number="4" name="Healing Salve"/>
         <card number="2" name="Felidar Sovereign"/>
         <card number="2" name="Wrath of God"/>
         <card number="4" name="Serra Ascendant"/>
@@ -18,6 +17,7 @@
         <card number="4" name="Knight of Meadowgrain"/>
         <card number="2" name="Flagstones of Trokair"/>
         <card number="3" name="Path to Exile"/>
+        <card number="4" name="Light of Hope"/>
     </zone>
     <zone name="side">
         <card number="2" name="Ajani's Sunstriker"/>
