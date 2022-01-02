@@ -22,8 +22,8 @@ Le deck est trop gros je dois trouver quoi lui enlever (8 cartes).</comments>
     </zone>
     <zone name="side">
         <card number="4" name="Return to Nature"/>
-        <card number="4" name="Chainweb Aracnir"/>
         <card number="4" name="Thrashing Brontodon"/>
         <card number="3" name="Snakeskin Veil"/>
+        <card number="4" name="Broken Wings"/>
     </zone>
 </cockatrice_deck>
