@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Elvish piper combo</deckname>
+    <deckname>Elvish piper combo Modern</deckname>
     <comments></comments>
     <zone name="main">
         <card number="4" name="Elvish Piper"/>
         <card number="4" name="Birds of Paradise"/>
-        <card number="17" name="Forest"/>
-        <card number="4" name="Castle Garenbrig"/>
-        <card number="2" name="Emrakul, the Promised End"/>
+        <card number="18" name="Forest"/>
+        <card number="3" name="Castle Garenbrig"/>
+        <card number="1" name="Emrakul, the Promised End"/>
         <card number="4" name="Emrakul, the Aeons Torn"/>
         <card number="4" name="Lightning Greaves"/>
-        <card number="4" name="Swiftfoot Boots"/>
-        <card number="4" name="Worldly Tutor"/>
-        <card number="2" name="Sylvan Tutor"/>
+        <card number="3" name="Swiftfoot Boots"/>
+        <card number="3" name="Worldly Tutor"/>
+        <card number="3" name="Sylvan Tutor"/>
         <card number="4" name="Ignoble Hierarch"/>
         <card number="4" name="Noble Hierarch"/>
         <card number="4" name="Summoner's Pact"/>
-        <card number="2" name="Worldspine Wurm"/>
+        <card number="1" name="Worldspine Wurm"/>
     </zone>
     <zone name="side">
         <card number="2" name="Kozilek, the Great Distortion"/>
         <card number="2" name="Kozilek, Butcher of Truth"/>
-        <card number="4" name="Eladamri's Call"/>
+        <card number="1" name="Eladamri's Call"/>
         <card number="2" name="Ghalta, Primal Hunger"/>
         <card number="2" name="Worldspine Wurm"/>
-        <card number="2" name="Rofellos, Llanowar Emissary"/>
+        <card number="4" name="Howlpack Piper"/>
+        <card number="1" name="Quicksilver Amulet"/>
+        <card number="1" name="Court of Bounty"/>
     </zone>
 </cockatrice_deck>
