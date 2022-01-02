@@ -4,18 +4,72 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Dark Ritual"/>
-        <card number="4" name="Birds of Paradise"/>
-        <card number="4" name="Ornithopter of Paradise"/>
-        <card number="4" name="Elvish Piper"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Elvish Piper"/>
+        <card number="1" name="Crystal Quarry"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="1" name="Urza's Mine"/>
+        <card number="1" name="Urza's Power Plant"/>
+        <card number="1" name="Urza's Tower"/>
+        <card number="1" name="Tundra"/>
+        <card number="1" name="Underground Sea"/>
+        <card number="1" name="Badlands"/>
+        <card number="1" name="Taiga"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Scrubland"/>
+        <card number="1" name="Volcanic Island"/>
+        <card number="1" name="Bayou"/>
+        <card number="1" name="Plateau"/>
+        <card number="1" name="Tropical Island"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Irrigated Farmland"/>
+        <card number="1" name="Fetid Pools"/>
+        <card number="1" name="Canyon Slough"/>
+        <card number="1" name="Sheltered Thicket"/>
+        <card number="1" name="Scattered Groves"/>
+        <card number="1" name="Ketria Triome"/>
+        <card number="1" name="Raugrin Triome"/>
+        <card number="1" name="Savai Triome"/>
+        <card number="1" name="Indatha Triome"/>
+        <card number="1" name="Zagoth Triome"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Mountain Valley"/>
+        <card number="1" name="Fabricate"/>
+        <card number="1" name="Neurok Stealthsuit"/>
+        <card number="1" name="General's Kabuto"/>
+        <card number="1" name="Platinum Angel"/>
+        <card number="1" name="Platinum Emperion"/>
+        <card number="1" name="Cloak and Dagger"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Emrakul, the Promised End"/>
+        <card number="1" name="Emrakul, the Aeons Torn"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Rhystic Tutor"/>
+        <card number="1" name="Sylvan Tutor"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Cruel Tutor"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Staff of Domination"/>
+        <card number="1" name="Champion's Helm"/>
+        <card number="1" name="Grapeshot"/>
+        <card number="1" name="Sword of the Paruns"/>
+        <card number="1" name="Isochron Scepter"/>
     </zone>
     <zone name="side">
-        <card number="4" name="Jegantha, the Wellspring"/>
-        <card number="2" name="Garth One-Eye"/>
-        <card number="1" name="Staff of Domination"/>
-        <card number="4" name="Urza's Tower"/>
-        <card number="4" name="Crystal Quarry"/>
-        <card number="4" name="Reflecting Pool"/>
-        <card number="4" name="Urza's Mine"/>
-        <card number="4" name="Urza's Power Plant"/>
+        <card number="1" name="Jegantha, the Wellspring"/>
+        <card number="1" name="Garth One-Eye"/>
     </zone>
 </cockatrice_deck>
