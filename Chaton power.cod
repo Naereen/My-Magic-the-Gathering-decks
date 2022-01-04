@@ -24,8 +24,9 @@
     <zone name="side">
         <card number="1" name="Kaheera, the Orphanguard"/>
         <card number="4" name="Snakeskin Veil"/>
-        <card number="4" name="Return to Nature"/>
+        <card number="2" name="Return to Nature"/>
         <card number="2" name="Leonin Warleader"/>
         <card number="4" name="Qasali Pridemage"/>
+        <card number="2" name="Sanctify"/>
     </zone>
 </cockatrice_deck>
