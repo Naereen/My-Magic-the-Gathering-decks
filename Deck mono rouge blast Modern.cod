@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Deck mono rouge blast</deckname>
+    <deckname>Deck mono rouge blast Modern</deckname>
     <comments></comments>
     <zone name="main">
         <card number="4" name="Shock"/>
@@ -8,7 +8,7 @@
         <card number="4" name="Play with Fire"/>
         <card number="3" name="Ragavan, Nimble Pilferer"/>
         <card number="4" name="Blazing Salvo"/>
-        <card number="19" name="Snow-Covered Mountain"/>
+        <card number="21" name="Snow-Covered Mountain"/>
         <card number="3" name="Frost Bite"/>
         <card number="4" name="Char"/>
         <card number="2" name="Spark Elemental"/>
@@ -16,11 +16,16 @@
         <card number="4" name="Chain Lightning"/>
         <card number="3" name="Fiery Impulse"/>
         <card number="2" name="Ball Lightning"/>
+        <card number="2" name="Fury"/>
     </zone>
     <zone name="side">
         <card number="1" name="Obosh, the Preypiercer"/>
         <card number="4" name="Blood Moon"/>
-        <card number="2" name="Ball Lightning"/>
-        <card number="2" name="Spark Elemental"/>
+        <card number="1" name="Ball Lightning"/>
+        <card number="1" name="Spark Elemental"/>
+        <card number="2" name="Seal of Fire"/>
+        <card number="2" name="Fury"/>
+        <card number="1" name="Deface"/>
+        <card number="3" name="Shattering Spree"/>
     </zone>
 </cockatrice_deck>
