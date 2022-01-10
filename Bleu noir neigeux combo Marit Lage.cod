@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Bleu noir neigeux combo Marit Lage</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Vampire Hexmage"/>
+        <card number="4" name="Marit Lage's Slumber"/>
+        <card number="4" name="Thespian's Stage"/>
+        <card number="4" name="Dark Depths"/>
+        <card number="3" name="Expedition Map"/>
+        <card number="3" name="Snow-Covered Island"/>
+        <card number="6" name="Snow-Covered Swamp"/>
+        <card number="2" name="Dead of Winter"/>
+        <card number="3" name="Draugr Necromancer"/>
+        <card number="3" name="Frost Augur"/>
+        <card number="2" name="Narfi, Betrayer King"/>
+        <card number="4" name="Lightning Greaves"/>
+        <card number="2" name="Replicating Ring"/>
+        <card number="1" name="Rimefeather Owl"/>
+        <card number="3" name="Arcum's Astrolabe"/>
+        <card number="4" name="Ice Tunnel"/>
+        <card number="2" name="Icebreaker Kraken"/>
+        <card number="4" name="Icehide Golem"/>
+        <card number="4" name="Thief of Blood"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Aether Snap"/>
+        <card number="2" name="Dead of Winter"/>
+        <card number="4" name="Hex Parasite"/>
+        <card number="4" name="Damnation"/>
+    </zone>
+</cockatrice_deck>
