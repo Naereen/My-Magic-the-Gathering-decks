@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Deck vert enchantements</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Season of Growth"/>
+        <card number="2" name="Rancor"/>
+        <card number="4" name="Forced Adaptation"/>
+        <card number="2" name="Spider Umbra"/>
+        <card number="4" name="Keen Sense"/>
+        <card number="2" name="Sixth Sense"/>
+        <card number="4" name="Tajuru Blightblade"/>
+        <card number="4" name="Moss Viper"/>
+        <card number="4" name="Sedge Scorpion"/>
+        <card number="4" name="Fynn, the Fangbearer"/>
+        <card number="4" name="Bitterblade Warrior"/>
+        <card number="20" name="Forest (a)"/>
+        <card number="4" name="Giant Growth"/>
+    </zone>
+</cockatrice_deck>
