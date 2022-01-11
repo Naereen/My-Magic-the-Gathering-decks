@@ -6,7 +6,7 @@
         <card number="4" name="Old-Growth Troll"/>
         <card number="4" name="Werewolf Pack Leader"/>
         <card number="4" name="Ascendant Packleader"/>
-        <card number="4" name="Khalni Ambush"/>
+        <card number="3" name="Khalni Ambush"/>
         <card number="2" name="Kazandu Mammoth"/>
         <card number="2" name="Turntimber Symbiosis"/>
         <card number="3" name="Battle Mammoth"/>
@@ -15,18 +15,19 @@
         <card number="3" name="Primal Adversary"/>
         <card number="4" name="Ulvenwald Oddity"/>
         <card number="1" name="The Tarrasque"/>
-        <card number="19" name="Snow-Covered Forest"/>
+        <card number="20" name="Snow-Covered Forest"/>
         <card number="4" name="Snakeskin Veil"/>
     </zone>
     <zone name="side">
         <card number="4" name="Outland Liberator"/>
-        <card number="4" name="Tajuru Blightblade"/>
+        <card number="1" name="Tajuru Blightblade"/>
         <card number="4" name="Blessing of Frost"/>
         <card number="4" name="Scale the Heights"/>
         <card number="4" name="You Find a Cursed Idol"/>
         <card number="1" name="Esika's Chariot"/>
-        <card number="4" name="Big Play"/>
+        <card number="1" name="Big Play"/>
         <card number="4" name="Return to Nature"/>
-        <card number="2" name="Augmenter Pugilist"/>
+        <card number="1" name="Augmenter Pugilist"/>
+        <card number="4" name="Broken Wings"/>
     </zone>
 </cockatrice_deck>
