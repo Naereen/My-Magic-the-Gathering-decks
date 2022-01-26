@@ -3,18 +3,18 @@
     <deckname>Deck infection noir vert Pauper</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="3" name="Forest (b)"/>
+        <card number="6" name="Forest (b)"/>
         <card number="2" name="Swamp Mosquito"/>
-        <card number="5" name="Swamp (a)"/>
+        <card number="6" name="Swamp (a)"/>
         <card number="4" name="Virulent Sliver"/>
         <card number="4" name="Viridian Betrayers"/>
-        <card number="4" name="Darkmoss Bridge"/>
-        <card number="4" name="Jungle Hollow"/>
+        <card number="2" name="Darkmoss Bridge"/>
+        <card number="3" name="Jungle Hollow"/>
         <card number="4" name="Glistener Elf"/>
         <card number="4" name="Flensermite"/>
         <card number="2" name="Tel-Jilad Fallen"/>
         <card number="4" name="Plague Stinger"/>
-        <card number="4" name="Witherbloom Campus"/>
+        <card number="3" name="Witherbloom Campus"/>
         <card number="4" name="Rot Wolf"/>
         <card number="4" name="Rancor"/>
         <card number="4" name="Blightwidow"/>
@@ -22,5 +22,7 @@
     </zone>
     <zone name="side">
         <card number="1" name="Sabertooth Cobra"/>
+        <card number="4" name="Snakeskin Veil"/>
+        <card number="4" name="Ranger's Guile"/>
     </zone>
 </cockatrice_deck>
