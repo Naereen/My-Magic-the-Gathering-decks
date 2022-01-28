@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Deck pentacolore Slivoïde Morophon en commandeur</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Crystal Quarry"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="1" name="Tundra"/>
+        <card number="1" name="Underground Sea"/>
+        <card number="1" name="Badlands"/>
+        <card number="1" name="Taiga"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Scrubland"/>
+        <card number="1" name="Volcanic Island"/>
+        <card number="1" name="Bayou"/>
+        <card number="1" name="Plateau"/>
+        <card number="1" name="Tropical Island"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Ketria Triome"/>
+        <card number="1" name="Raugrin Triome"/>
+        <card number="1" name="Savai Triome"/>
+        <card number="1" name="Indatha Triome"/>
+        <card number="1" name="Zagoth Triome"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Neurok Stealthsuit"/>
+        <card number="1" name="General's Kabuto"/>
+        <card number="1" name="Platinum Angel"/>
+        <card number="1" name="Platinum Emperion"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Champion's Helm"/>
+        <card number="1" name="Ignoble Hierarch"/>
+        <card number="1" name="Noble Hierarch"/>
+        <card number="2" name="Forest"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Island"/>
+        <card number="2" name="Mountain"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Bastion Protector"/>
+        <card number="1" name="Battering Sliver"/>
+        <card number="1" name="Battle Sliver"/>
+        <card number="1" name="Blur Sliver"/>
+        <card number="1" name="Bonescythe Sliver"/>
+        <card number="1" name="Bonesplitter Sliver"/>
+        <card number="1" name="Brood Sliver"/>
+        <card number="1" name="Cleaving Sliver"/>
+        <card number="1" name="Cloudshredder Sliver"/>
+        <card number="1" name="Diffusion Sliver"/>
+        <card number="1" name="Dregscape Sliver"/>
+        <card number="1" name="Essence Sliver"/>
+        <card number="1" name="Frenzy Sliver"/>
+        <card number="1" name="Fungus Sliver"/>
+        <card number="1" name="Fury Sliver"/>
+        <card number="1" name="Galerider Sliver"/>
+        <card number="1" name="Gemhide Sliver"/>
+        <card number="1" name="Groundshaker Sliver"/>
+        <card number="1" name="Heart Sliver"/>
+        <card number="1" name="Horned Sliver"/>
+        <card number="1" name="Lancer Sliver"/>
+        <card number="1" name="Lavabelly Sliver"/>
+        <card number="1" name="Leeching Sliver"/>
+        <card number="1" name="Manaweft Sliver"/>
+        <card number="1" name="Megantic Sliver"/>
+        <card number="1" name="Might Sliver"/>
+        <card number="1" name="Muscle Sliver"/>
+        <card number="1" name="Necrotic Sliver"/>
+        <card number="1" name="Plated Sliver"/>
+        <card number="1" name="Predatory Sliver"/>
+        <card number="1" name="Reflex Sliver"/>
+        <card number="1" name="Root Sliver"/>
+        <card number="1" name="Sentinel Sliver"/>
+        <card number="1" name="Shadow Sliver"/>
+        <card number="1" name="Shifting Sliver"/>
+        <card number="1" name="Sidewinder Sliver"/>
+        <card number="1" name="Sinew Sliver"/>
+        <card number="1" name="Sliver Hive"/>
+        <card number="1" name="Sliver Hivelord"/>
+        <card number="1" name="Sliver Legion"/>
+        <card number="1" name="Sliver Overlord"/>
+        <card number="1" name="Sliver Queen"/>
+        <card number="1" name="Spinneret Sliver"/>
+        <card number="1" name="Spiteful Sliver"/>
+        <card number="1" name="Steelform Sliver"/>
+        <card number="1" name="Striking Sliver"/>
+        <card number="1" name="Syphon Sliver"/>
+        <card number="1" name="Talon Sliver"/>
+        <card number="1" name="Tempered Sliver"/>
+        <card number="1" name="The First Sliver"/>
+        <card number="1" name="Toxin Sliver"/>
+        <card number="1" name="Venom Sliver"/>
+        <card number="1" name="Virulent Sliver"/>
+        <card number="1" name="Winged Sliver"/>
+        <card number="1" name="Coat of Arms"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Jegantha, the Wellspring"/>
+        <card number="1" name="Morophon, the Boundless"/>
+    </zone>
+</cockatrice_deck>
