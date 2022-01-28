@@ -21,8 +21,9 @@
         <card number="4" name="Giant Growth"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Sabertooth Cobra"/>
         <card number="4" name="Snakeskin Veil"/>
         <card number="4" name="Ranger's Guile"/>
+        <card number="4" name="Naturalize"/>
+        <card number="3" name="Return to Nature"/>
     </zone>
 </cockatrice_deck>
