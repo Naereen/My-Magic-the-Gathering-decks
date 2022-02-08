@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
     <deckname>Mono vert aggro Pioneer</deckname>
-    <comments>Mon deck mono vert aggro, un peu amélioré avec les Ascendant packleader et Werewolf Pack Leader que je n'ai qu'en un exemplaire.
-Le deck est trop gros je dois trouver quoi lui enlever (8 cartes).</comments>
+    <comments>Mon deck mono vert aggro, un peu amélioré avec les Ascendant packleader et Werewolf Pack Leader que je n'ai qu'en un exemplaire.</comments>
     <zone name="main">
-        <card number="3" name="Ram Through"/>
-        <card number="19" name="Forest"/>
-        <card number="2" name="Castle Garenbrig"/>
+        <card number="2" name="Ram Through"/>
+        <card number="15" name="Forest"/>
+        <card number="4" name="Castle Garenbrig"/>
         <card number="4" name="Lovestruck Beast // Heart's Desire"/>
         <card number="3" name="Questing Beast"/>
         <card number="2" name="Stonecoil Serpent"/>
-        <card number="3" name="Primal Might"/>
         <card number="3" name="Kazandu Mammoth"/>
         <card number="3" name="Wildborn Preserver"/>
         <card number="4" name="Steel Leaf Champion"/>
-        <card number="3" name="Gemrazer"/>
+        <card number="2" name="Gemrazer"/>
         <card number="4" name="Old-Growth Troll"/>
         <card number="4" name="Werewolf Pack Leader"/>
         <card number="2" name="Yorvo, Lord of Garenbrig"/>
         <card number="1" name="Garruk, Unleashed"/>
+        <card number="4" name="Scavenging Ooze"/>
+        <card number="4" name="Ascendant Packleader"/>
     </zone>
     <zone name="side">
         <card number="4" name="Return to Nature"/>
-        <card number="4" name="Thrashing Brontodon"/>
-        <card number="3" name="Snakeskin Veil"/>
+        <card number="3" name="Thrashing Brontodon"/>
+        <card number="4" name="Snakeskin Veil"/>
         <card number="4" name="Broken Wings"/>
     </zone>
 </cockatrice_deck>
