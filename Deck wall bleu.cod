@@ -1,28 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Deck mur bleu vert</deckname>
+    <deckname>Deck mur Charix bleu vert</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="9" name="Island"/>
-        <card number="9" name="Forest"/>
-        <card number="3" name="Wall of Runes"/>
-        <card number="3" name="Wall of Blossoms"/>
-        <card number="3" name="Overgrown Battlement"/>
+        <card number="5" name="Island"/>
+        <card number="4" name="Forest"/>
+        <card number="2" name="Wall of Runes"/>
+        <card number="2" name="Wall of Blossoms"/>
+        <card number="2" name="Overgrown Battlement"/>
         <card number="4" name="Tetsuko Umezawa, Fugitive"/>
         <card number="3" name="Guard Gomazoa"/>
-        <card number="3" name="Geist of the Archives"/>
         <card number="2" name="Axebane Guardian"/>
         <card number="4" name="Charix, the Raging Isle"/>
         <card number="2" name="Tree of Redemption"/>
-        <card number="4" name="Huatli, the Sun's Heart"/>
+        <card number="3" name="Huatli, the Sun's Heart"/>
         <card number="4" name="Assault Formation"/>
-        <card number="3" name="Treefolk Umbra"/>
+        <card number="4" name="Treefolk Umbra"/>
         <card number="4" name="Breeding Pool"/>
+        <card number="4" name="Noble Hierarch"/>
+        <card number="4" name="Yavimaya Coast"/>
+        <card number="4" name="Flooded Grove"/>
+        <card number="4" name="Wall of Roots"/>
     </zone>
     <zone name="side">
-        <card number="4" name="Wall of Roots"/>
         <card number="4" name="Back to Nature"/>
         <card number="4" name="Naturalize"/>
         <card number="3" name="Broken Wings"/>
+        <card number="4" name="Counterspell"/>
     </zone>
 </cockatrice_deck>
