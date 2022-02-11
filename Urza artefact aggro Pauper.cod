@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Urza artefact aggro Pauper</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Expedition Map"/>
+        <card number="4" name="Vault of Whispers"/>
+        <card number="4" name="Seat of the Synod"/>
+        <card number="4" name="Urza's Factory"/>
+        <card number="4" name="Urza's Mine"/>
+        <card number="4" name="Urza's Power Plant"/>
+        <card number="4" name="Urza's Tower"/>
+        <card number="4" name="Arcbound Bruiser"/>
+        <card number="4" name="Arcbound Hybrid"/>
+        <card number="4" name="Arcbound Stinger"/>
+        <card number="4" name="Arcbound Worker"/>
+        <card number="4" name="Bonded Construct"/>
+        <card number="4" name="Consulate Skygate"/>
+        <card number="4" name="Frogmite"/>
+        <card number="4" name="Foundry Inspector"/>
+        <card number="4" name="Hovermyr"/>
+        <card number="4" name="Ichorclaw Myr"/>
+        <card number="4" name="Shield Sphere"/>
+        <card number="4" name="Vault Skirge"/>
+    </zone>
+</cockatrice_deck>

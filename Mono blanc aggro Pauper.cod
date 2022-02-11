@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono blanc aggro anges Pauper</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Plains"/>
+        <card number="4" name="Idyllic Grange"/>
+        <card number="2" name="Radiant Fountain"/>
+        <card number="4" name="Seraph Sanctuary"/>
+        <card number="4" name="Cloudshift"/>
+        <card number="4" name="Ephemerate"/>
+        <card number="4" name="Segovian Angel"/>
+        <card number="3" name="Dawning Angel"/>
+        <card number="4" name="Angel of Mercy"/>
+        <card number="4" name="Angel of the Dawn"/>
+        <card number="4" name="Angelic Page"/>
+        <card number="4" name="Stalwart Valkyrie"/>
+        <card number="4" name="Feat of Resistance"/>
+        <card number="3" name="Otherworldly Journey"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Angelic Curator"/>
+        <card number="4" name="Light of Hope"/>
+    </zone>
+</cockatrice_deck>
