@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Deck combo Turing Complete</deckname>
+    <comments>Article : https://arxiv.org/pdf/1904.09828.pdf
+
+First video : https://www.youtube.com/watch?v=pdmODVYPDLA
+
+Complementary video : https://www.youtube.com/watch?v=xCDSVsXntOk</comments>
+    <zone name="main">
+        <card number="4" name="Ancient Tomb"/>
+        <card number="4" name="Lotus Petal"/>
+        <card number="4" name="Grim Monolith"/>
+        <card number="4" name="Power Artifact"/>
+        <card number="4" name="Gemstone Array"/>
+        <card number="4" name="Staff of Domination"/>
+        <card number="1" name="Memnarch"/>
+        <card number="1" name="Stolen Identity"/>
+        <card number="1" name="Artificial Evolution"/>
+        <card number="1" name="Olivia Voldaren"/>
+        <card number="1" name="Glamerdye"/>
+        <card number="1" name="Prismatic Lace"/>
+        <card number="1" name="Donate"/>
+        <card number="1" name="Reality Ripple"/>
+        <card number="1" name="Rotlung Reanimator"/>
+        <card number="1" name="Cloak of Invisibility"/>
+        <card number="1" name="Infest"/>
+        <card number="1" name="Cleansing Beam"/>
+        <card number="1" name="Soul Snuffers"/>
+        <card number="1" name="Illusory Gains"/>
+        <card number="1" name="Privileged Position"/>
+        <card number="1" name="Steely Resolve"/>
+        <card number="1" name="Vigor"/>
+        <card number="1" name="Fungus Sliver"/>
+        <card number="1" name="Dread of Night"/>
+        <card number="1" name="Wild Evocation"/>
+        <card number="1" name="Wheel of Sun and Moon"/>
+        <card number="1" name="Shared Triumph"/>
+        <card number="1" name="Xathrid Necromancer"/>
+        <card number="1" name="Mesmeric Orb"/>
+        <card number="1" name="Coalition Victory"/>
+        <card number="1" name="Prismatic Omen"/>
+        <card number="1" name="Choke"/>
+        <card number="1" name="Recycle"/>
+        <card number="1" name="Blazing Archon"/>
+        <card number="1" name="Djinn Illuminatus"/>
+        <card number="1" name="Reito Lantern"/>
+        <card number="1" name="Claws of Gix"/>
+        <card number="1" name="Riptide Replicator"/>
+        <card number="1" name="Capsize"/>
+        <card number="1" name="Karn Liberated"/>
+        <card number="1" name="Fathom Feeder"/>
+        <card number="1" name="Platinum Angel"/>
+        <card number="1" name="Isochron Scepter"/>
+        <card number="1" name="Counterspell"/>
+    </zone>
+</cockatrice_deck>
