@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Essai minotaure tribal rouge-noir pour Noam</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Lightning Bolt"/>
+        <card number="10" name="Mountain"/>
+        <card number="11" name="Swamp"/>
+        <card number="4" name="Terror"/>
+        <card number="4" name="Slaughter-Priest of Mogis"/>
+        <card number="3" name="Mogis, God of Slaughter"/>
+        <card number="4" name="Skophos Reaver"/>
+        <card number="4" name="Ragemonger"/>
+        <card number="4" name="Rageblood Shaman"/>
+        <card number="3" name="Neheb, the Worthy"/>
+        <card number="2" name="Neheb, the Eternal"/>
+        <card number="2" name="Neheb, Dreadhorde Champion"/>
+        <card number="2" name="Moraug, Fury of Akoum"/>
+        <card number="3" name="Kragma Warcaller"/>
+        <card number="4" name="Glint-Horn Buccaneer"/>
+        <card number="4" name="Felhide Petrifier"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Minotaur Sureshot"/>
+    </zone>
+</cockatrice_deck>
