@@ -10,22 +10,21 @@
         <card number="2" name="Overgrown Battlement"/>
         <card number="4" name="Tetsuko Umezawa, Fugitive"/>
         <card number="3" name="Guard Gomazoa"/>
-        <card number="2" name="Axebane Guardian"/>
         <card number="4" name="Charix, the Raging Isle"/>
-        <card number="2" name="Tree of Redemption"/>
-        <card number="3" name="Huatli, the Sun's Heart"/>
+        <card number="3" name="Tree of Redemption"/>
         <card number="4" name="Assault Formation"/>
         <card number="4" name="Treefolk Umbra"/>
         <card number="4" name="Breeding Pool"/>
         <card number="4" name="Noble Hierarch"/>
-        <card number="4" name="Yavimaya Coast"/>
         <card number="4" name="Flooded Grove"/>
         <card number="4" name="Wall of Roots"/>
+        <card number="4" name="Misty Rainforest"/>
+        <card number="3" name="Birds of Paradise"/>
     </zone>
     <zone name="side">
-        <card number="4" name="Back to Nature"/>
+        <card number="3" name="Back to Nature"/>
         <card number="4" name="Naturalize"/>
-        <card number="3" name="Broken Wings"/>
-        <card number="4" name="Counterspell"/>
+        <card number="4" name="Broken Wings"/>
+        <card number="4" name="Huatli, the Sun's Heart"/>
     </zone>
 </cockatrice_deck>
