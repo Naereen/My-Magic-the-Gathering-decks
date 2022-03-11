@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Nain équipements R/B Modern</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Bruenor Battlehammer"/>
+        <card number="9" name="Mountain"/>
+        <card number="2" name="Solemn Recruit"/>
+        <card number="2" name="Sram, Senior Edificer"/>
+        <card number="4" name="Colossus Hammer"/>
+        <card number="3" name="Depala, Pilot Exemplar"/>
+        <card number="3" name="Koll, the Forgemaster"/>
+        <card number="4" name="Loxodon Warhammer"/>
+        <card number="4" name="Renegade Wheelsmith"/>
+        <card number="3" name="Torbran, Thane of Red Fell"/>
+        <card number="1" name="Hofri Ghostforge"/>
+        <card number="2" name="Magda, Brazen Outlaw"/>
+        <card number="4" name="Staunch Shieldmate"/>
+        <card number="3" name="Aerial Responder"/>
+        <card number="7" name="Plains"/>
+        <card number="2" name="Stonehewer Giant"/>
+        <card number="4" name="Relic Seeker"/>
+        <card number="4" name="Sundown Pass"/>
+        <card number="4" name="Battlefield Forge"/>
+        <card number="1" name="Kaldra Compleat"/>
+    </zone>
+</cockatrice_deck>
