@@ -23,5 +23,6 @@
         <card number="4" name="Sundown Pass"/>
         <card number="4" name="Battlefield Forge"/>
         <card number="1" name="Kaldra Compleat"/>
+        <card number="4" name="Lightning Helix"/>
     </zone>
 </cockatrice_deck>
