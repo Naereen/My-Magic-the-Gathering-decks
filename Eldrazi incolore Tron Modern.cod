@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Eldrazi incolore Tron Modern</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Urza's Mine"/>
+        <card number="4" name="Urza's Power Plant"/>
+        <card number="4" name="Urza's Tower"/>
+        <card number="4" name="Expedition Map"/>
+        <card number="4" name="Eldrazi Temple"/>
+        <card number="4" name="Not of This World"/>
+        <card number="4" name="All Is Dust"/>
+        <card number="4" name="Skittering Invasion"/>
+        <card number="1" name="Hand of Emrakul"/>
+        <card number="4" name="Spawning Bed"/>
+        <card number="1" name="Spawnsire of Ulamog"/>
+        <card number="1" name="Artisan of Kozilek"/>
+        <card number="1" name="Bane of Bala Ged"/>
+        <card number="4" name="Dismember"/>
+        <card number="4" name="Conduit of Ruin"/>
+        <card number="4" name="Deceiver of Form"/>
+        <card number="1" name="Desolation Twin"/>
+        <card number="1" name="Eldrazi Conscription"/>
+        <card number="4" name="Eldrazi Mimic"/>
+        <card number="1" name="Eldrazi Devastator"/>
+        <card number="1" name="Emrakul, the Aeons Torn"/>
+        <card number="4" name="Endbringer"/>
+        <card number="4" name="Endless One"/>
+        <card number="1" name="It That Betrays"/>
+        <card number="4" name="Matter Reshaper"/>
+        <card number="1" name="Pathrazer of Ulamog"/>
+        <card number="4" name="Reality Smasher"/>
+        <card number="4" name="Thought-Knot Seer"/>
+        <card number="1" name="Ulamog's Crusher"/>
+        <card number="1" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" name="Void Winnower"/>
+        <card number="4" name="Warden of Geometries"/>
+        <card number="3" name="Ugin, the Ineffable"/>
+        <card number="3" name="Warping Wail"/>
+    </zone>
+</cockatrice_deck>
