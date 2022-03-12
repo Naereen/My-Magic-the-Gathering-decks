@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Commandeur vert noir elfe EDH</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Llanowar Reborn"/>
+        <card number="1" name="Llanowar Tribe"/>
+        <card number="25" name="Forest"/>
+        <card number="1" name="Dwynen, Gilt-Leaf Daen"/>
+        <card number="1" name="Wirewood Channeler"/>
+        <card number="1" name="Wirewood Herald"/>
+        <card number="1" name="Wirewood Hivemaster"/>
+        <card number="1" name="Wirewood Lodge"/>
+        <card number="1" name="Wirewood Pride"/>
+        <card number="1" name="Wirewood Symbiote"/>
+        <card number="1" name="Pendelhaven"/>
+        <card number="1" name="Marwyn, the Nurturer"/>
+        <card number="1" name="Numa, Joraga Chieftain"/>
+        <card number="1" name="Rishkar, Peema Renegade"/>
+        <card number="1" name="Ezuri, Renegade Leader"/>
+        <card number="1" name="Ezuri's Archers"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="1" name="Thorn Lieutenant"/>
+        <card number="1" name="Elvish Champion"/>
+        <card number="1" name="Yeva, Nature's Herald"/>
+        <card number="1" name="Drove of Elves"/>
+        <card number="1" name="Heedless One"/>
+        <card number="1" name="Jagged-Scar Archers"/>
+        <card number="1" name="Timberwatch Elf"/>
+        <card number="1" name="Allosaurus Rider"/>
+        <card number="1" name="Varis, Silverymoon Ranger"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Coat of Arms"/>
+        <card number="1" name="Tyvar Kell"/>
+        <card number="1" name="Nissa's Chosen"/>
+        <card number="1" name="Nissa's Expedition"/>
+        <card number="1" name="Nissa's Judgment"/>
+        <card number="1" name="Nissa's Renewal"/>
+        <card number="1" name="Nissa Revane"/>
+        <card number="1" name="Staff of Domination"/>
+        <card number="1" name="Castle Garenbrig"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Study Hall"/>
+        <card number="1" name="Opal Palace"/>
+        <card number="1" name="Wellwisher"/>
+        <card number="1" name="Imperious Perfect"/>
+        <card number="1" name="Immaculate Magistrate"/>
+        <card number="1" name="Worldspine Wurm"/>
+        <card number="1" name="Quirion Elves"/>
+        <card number="1" name="Quirion Ranger"/>
+        <card number="1" name="Joraga Warcaller"/>
+        <card number="1" name="Blossoming Defense"/>
+        <card number="1" name="Snakeskin Veil"/>
+        <card number="1" name="Arbor Elf"/>
+        <card number="1" name="Elvish Lyrist"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Essence Warden"/>
+        <card number="1" name="Elvish Scrapper"/>
+        <card number="1" name="Elvish Clancaller"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Fyndhorn Elder"/>
+        <card number="1" name="Gladecover Scout"/>
+        <card number="1" name="Glistener Elf"/>
+        <card number="1" name="Heritage Druid"/>
+        <card number="1" name="Jaspera Sentinel"/>
+        <card number="1" name="Joraga Treespeaker"/>
+        <card number="1" name="Scattershot Archer"/>
+        <card number="1" name="Dwynen's Elite"/>
+        <card number="1" name="Elvish Archdruid"/>
+        <card number="1" name="Elvish Warmaster"/>
+        <card number="1" name="Ambush Commander"/>
+        <card number="1" name="Gilanra, Caller of Wirewood"/>
+        <card number="1" name="Voice of the Woods"/>
+        <card number="1" name="Elven Ambush"/>
+        <card number="1" name="Sprouting Renewal"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="1" name="Freyalise, Llanowar's Fury"/>
+        <card number="1" name="Ghalta, Primal Hunger"/>
+        <card number="1" name="Nylea, Keen-Eyed"/>
+        <card number="1" name="Nylea, God of the Hunt"/>
+        <card number="1" name="Priest of Titania"/>
+        <card number="1" name="Canopy Tactician"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Circle of Dreams Druid"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Elvish Vanguard"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Wildborn Preserver"/>
+        <card number="1" name="Throne of the God-Pharaoh"/>
+        <card number="1" name="Oran-Rief, the Vastwood"/>
+        <card number="1" name="Mosswort Bridge"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Tyvar Kell (Emblem)"/>
+        <card number="1" name="Tomb of Annihilation"/>
+        <card number="5" name="Elf Warrior Token"/>
+    </zone>
+</cockatrice_deck>
