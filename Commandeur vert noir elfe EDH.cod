@@ -90,6 +90,8 @@
         <card number="1" name="Throne of the God-Pharaoh"/>
         <card number="1" name="Oran-Rief, the Vastwood"/>
         <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Nissa, Who Shakes the World"/>
+        <card number="1" name="Nissa, Worldwaker"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="Tyvar Kell (Emblem)"/>
