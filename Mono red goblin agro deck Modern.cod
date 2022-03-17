@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono red goblin agro deck Modern</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="19" name="Mountain"/>
+        <card number="4" name="Goblin Guide"/>
+        <card number="4" name="Goblin Chieftain"/>
+        <card number="4" name="Goblin Warchief"/>
+        <card number="4" name="Tarfire"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="4" name="Warren Instigator"/>
+        <card number="4" name="Goblin King"/>
+        <card number="4" name="Conspicuous Snoop"/>
+        <card number="2" name="Goblin Chainwhirler"/>
+        <card number="3" name="Goblin Rabblemaster"/>
+        <card number="3" name="Hobgoblin Bandit Lord"/>
+        <card number="2" name="Krenko, Mob Boss"/>
+        <card number="2" name="Krenko, Tin Street Kingpin"/>
+        <card number="4" name="Legion Loyalist"/>
+        <card number="1" name="Tuktuk the Explorer"/>
+    </zone>
+    <zone name="tokens">
+        <card number="10" name="Goblin Token"/>
+        <card number="1" name="Tuktuk The Returned"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Goblin Piledriver"/>
+        <card number="4" name="Blood Moon"/>
+        <card number="3" name="Goblin Trashmaster"/>
+    </zone>
+</cockatrice_deck>
