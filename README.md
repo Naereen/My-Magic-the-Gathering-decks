@@ -1,12 +1,16 @@
-# My "Magic the Gathering" decks - 2021+
+# My "Magic the Gathering" deck lists - 2021+
 
-After 12 years without playing Magic the Gathering, I started to play again after arriving in Strasbourg in August 2021... and I'm loving it!
+After 12 years without playing Magic the Gathering (I stopped in 2009), I started to play again after arriving in Strasbourg in August 2021... and I'm loving it!
 
-There are in the `.cod` format accepted by [Cockatrice](https://cockatrice.github.io/), the awesome free and open-source software to play Magic the Gathering alone or with other online.
-You can freely download and import any of the decks directly in Cockatrice.
+This small git repository contains the list of some Magic decks, most of which I don't own physically. Some I do.
 
-Note that most of the decks are work in progress, as I experiment with them and try to optimize them, before ordering them on [CardMarket](https://www.cardmarket.com/en/Magic/).
-In particular, the sideboards of most decks are incomplete.
+There are in the `.cod` format accepted by [Cockatrice](https://cockatrice.github.io/), the awesome free and open-source software to play Magic the Gathering alone or with others online.
+
+You can freely download and import any of the decks directly in Cockatrice. If you do and enjoy one of this deck, feel free to contact me!
+
+Note that most of the decks are work in progress, as I experiment with them and try to optimize them, before ordering some of them on [CardMarket](https://www.cardmarket.com/en/Magic/).
+
+In particular, the sideboards of most decks are incomplete, or even empty, and can surely be improved easily!
 
 > Author: [Lilian Besson (@Naereen)](https://github.com/Naereen/).
 
