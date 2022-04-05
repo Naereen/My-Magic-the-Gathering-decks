@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono blue delver Pioneer</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" name="Island"/>
+        <card number="4" name="Darksteel Citadel"/>
+        <card number="3" name="Castle Vantress"/>
+        <card number="4" name="Delver of Secrets"/>
+        <card number="4" name="Thing in the Ice"/>
+        <card number="4" name="Ensoul Artifact"/>
+        <card number="4" name="Opt"/>
+        <card number="4" name="Counterspell"/>
+        <card number="4" name="Negate"/>
+        <card number="4" name="Strategic Planning"/>
+        <card number="4" name="Compulsive Research"/>
+        <card number="3" name="Shark Typhoon"/>
+        <card number="2" name="Dig Through Time"/>
+        <card number="4" name="Murktide Regent"/>
+        <card number="3" name="Treasure Cruise"/>
+    </zone>
+</cockatrice_deck>
