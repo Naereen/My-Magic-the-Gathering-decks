@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono green Ooze Modern</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" name="Forest"/>
+        <card number="1" name="Pendelhaven"/>
+        <card number="3" name="Castle Garenbrig"/>
+        <card number="2" name="Boseiju, Who Endures"/>
+        <card number="4" name="Hardened Scales"/>
+        <card number="3" name="Doubling Season"/>
+        <card number="4" name="Scavenging Ooze"/>
+        <card number="2" name="Oran-Rief, the Vastwood"/>
+        <card number="4" name="Oran-Rief Ooze"/>
+        <card number="2" name="Aeve, Progenitor Ooze"/>
+        <card number="3" name="Biogenic Ooze"/>
+        <card number="3" name="Predator Ooze"/>
+        <card number="4" name="Snakeskin Veil"/>
+        <card number="4" name="Ochre Jelly"/>
+        <card number="3" name="Acidic Slime"/>
+        <card number="3" name="Mitotic Slime"/>
+        <card number="4" name="Experiment One"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Corrosive Ooze"/>
+    </zone>
+</cockatrice_deck>
