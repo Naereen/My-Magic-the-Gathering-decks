@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Mono blanc aggro tribal anges Modern</deckname>
+    <deckname>Mono blanc aggro tribal anges Commander</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="23" name="Plains"/>
+        <card number="21" name="Plains"/>
         <card number="1" name="Idyllic Grange"/>
         <card number="1" name="Seraph Sanctuary"/>
-        <card number="1" name="Ephemerate"/>
         <card number="1" name="Segovian Angel"/>
         <card number="1" name="Castle Ardenvale"/>
         <card number="1" name="Giada, Font of Hope"/>
@@ -31,9 +30,7 @@
         <card number="1" name="Eiganjo, Seat of the Empire"/>
         <card number="1" name="Emeria's Call"/>
         <card number="1" name="Sandstone Bridge"/>
-        <card number="1" name="Light of Hope"/>
         <card number="1" name="Angelic Curator"/>
-        <card number="1" name="Serra the Benevolent"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Angel of the Ruins"/>
         <card number="1" name="Platinum Angel"/>
@@ -42,42 +39,29 @@
         <card number="1" name="Angelic Field Marshal"/>
         <card number="1" name="Akroma, Vision of Ixidor"/>
         <card number="1" name="Akroma's Will"/>
-        <card number="1" name="Commander's Insignia"/>
         <card number="1" name="Commander's Plate"/>
         <card number="1" name="Empyrial Storm"/>
         <card number="1" name="Keleth, Sunmane Familiar"/>
         <card number="1" name="Spear of Heliod"/>
         <card number="1" name="Gold Myr"/>
-        <card number="1" name="Thunder Totem"/>
-        <card number="1" name="Flagstones of Trokair"/>
         <card number="1" name="Forbidding Watchtower"/>
         <card number="1" name="Kabira Crossroads"/>
         <card number="1" name="Kabira Takedown"/>
         <card number="1" name="Makindi Stampede"/>
         <card number="1" name="Sejiri Glacier"/>
-        <card number="1" name="Ondu Inversion"/>
-        <card number="1" name="Armageddon"/>
-        <card number="1" name="Wrath of God"/>
         <card number="1" name="Sanctify"/>
-        <card number="1" name="Take Vengeance"/>
-        <card number="1" name="Ironwright's Cleansing"/>
         <card number="1" name="Revoke Existence"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Fate Forgotten"/>
         <card number="1" name="Radiant Purge"/>
-        <card number="1" name="Reciprocate"/>
         <card number="1" name="Return to Dust"/>
         <card number="1" name="Defy Death"/>
         <card number="1" name="Starnheim Aspirant"/>
         <card number="1" name="Starnheim Unleashed"/>
         <card number="1" name="Entreat the Angels"/>
         <card number="1" name="Finale of Glory"/>
-        <card number="1" name="Admonition Angel"/>
         <card number="1" name="Aegis Angel"/>
         <card number="1" name="Aegis of the Gods"/>
-        <card number="1" name="Basri's Solidarity"/>
         <card number="1" name="Angel of Finality"/>
-        <card number="1" name="Angel of Destiny"/>
         <card number="1" name="Angel of Grace"/>
         <card number="1" name="Angel of Invention"/>
         <card number="1" name="Angel of Sanctions"/>
@@ -90,7 +74,6 @@
         <card number="1" name="Avacyn, Angel of Hope"/>
         <card number="1" name="Bishop of Wings"/>
         <card number="1" name="Valkyrie Harbinger"/>
-        <card number="1" name="Mind Stone"/>
         <card number="1" name="Sephara, Sky's Blade"/>
         <card number="1" name="Pearl Medallion"/>
         <card number="1" name="Sunblast Angel"/>
@@ -98,15 +81,12 @@
         <card number="1" name="Serra Ascendant"/>
         <card number="1" name="Resplendent Marshal"/>
         <card number="1" name="Unbreakable Formation"/>
-        <card number="1" name="Day of Judgment"/>
         <card number="1" name="Ravnica at War"/>
         <card number="1" name="Herald's Horn"/>
-        <card number="1" name="The Immortal Sun"/>
         <card number="1" name="Rogue's Passage"/>
     </zone>
     <zone name="tokens">
         <card number="6" name="Human Token"/>
-        <card number="1" name="Serra the Benevolent (Emblem)"/>
         <card number="3" name="Angel Token"/>
         <card number="3" name="Angel Token "/>
         <card number="2" name="Angel Token   "/>
