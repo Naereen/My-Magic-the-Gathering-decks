@@ -22,7 +22,6 @@
         <card number="1" name="Frondland Felidar"/>
         <card number="1" name="Felidar Cub"/>
         <card number="1" name="Umezawa's Jitte"/>
-        <card number="1" name="Loxodon Warhammer"/>
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Temple Garden"/>
@@ -30,13 +29,11 @@
         <card number="1" name="Savannah Sage"/>
         <card number="1" name="Brushland"/>
         <card number="1" name="Wooded Bastion"/>
-        <card number="1" name="Bountiful Promenade"/>
         <card number="1" name="Branchloft Pathway"/>
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Fortified Village"/>
         <card number="1" name="Gavony Township"/>
         <card number="1" name="Grove of the Guardian"/>
-        <card number="1" name="Horizon Canopy"/>
         <card number="1" name="Scattered Groves"/>
         <card number="1" name="Razorverge Thicket"/>
         <card number="1" name="Overgrown Farmland"/>
@@ -48,24 +45,21 @@
         <card number="1" name="Selesnya Sanctuary"/>
         <card number="1" name="Blossoming Sands"/>
         <card number="1" name="Graypelt Refuge"/>
-        <card number="1" name="Windswept Heath"/>
         <card number="3" name="Plains"/>
         <card number="1" name="Eiganjo Castle"/>
         <card number="1" name="Okina, Temple to the Grandfathers"/>
         <card number="1" name="Eiganjo, Seat of the Empire"/>
-        <card number="1" name="Boseiju, Who Endures"/>
         <card number="1" name="Windbrisk Heights"/>
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Oran-Rief, the Vastwood"/>
         <card number="1" name="Bala Ged Recovery"/>
-        <card number="3" name="Forest"/>
+        <card number="4" name="Forest"/>
         <card number="1" name="Kaldra Compleat"/>
         <card number="1" name="Bronzehide Lion"/>
         <card number="1" name="Fleecemane Lion"/>
         <card number="1" name="Noble Panther"/>
         <card number="1" name="Phantom Nishoba"/>
         <card number="1" name="Sabertooth Nishoba"/>
-        <card number="1" name="Grizzled Leotau"/>
         <card number="1" name="Qasali Ambusher"/>
         <card number="1" name="Qasali Pridemage"/>
         <card number="1" name="Qasali Slingers"/>
@@ -102,5 +96,8 @@
         <card number="1" name="Leonin Skyhunter"/>
         <card number="1" name="Ajani's Sunstriker"/>
         <card number="1" name="Pride Guardian"/>
+        <card number="1" name="Secluded Courtyard"/>
+        <card number="1" name="Armored Skyhunter"/>
+        <card number="1" name="Behemoth Sledge"/>
     </zone>
 </cockatrice_deck>
