@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Cheap mono black Zombie Modern</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="14" name="Swamp"/>
+        <card number="3" name="Bojuka Bog"/>
+        <card number="4" name="Foulmire Knight // Profane Insight"/>
+        <card number="4" name="Shambling Ghast"/>
+        <card number="4" name="Champion of the Perished"/>
+        <card number="4" name="Lord of the Accursed"/>
+        <card number="4" name="Diregraf Colossus"/>
+        <card number="4" name="Murderous Rider // Swift End"/>
+        <card number="4" name="Death Baron"/>
+        <card number="4" name="Cemetery Reaper"/>
+        <card number="3" name="Never // Return"/>
+        <card number="3" name="Infernal Grasp"/>
+        <card number="1" name="Hero's Downfall"/>
+        <card number="4" name="Cradle of the Accursed"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Defenestrate"/>
+        <card number="3" name="Hero's Downfall"/>
+        <card number="4" name="Tormod's Crypt"/>
+    </zone>
+</cockatrice_deck>
