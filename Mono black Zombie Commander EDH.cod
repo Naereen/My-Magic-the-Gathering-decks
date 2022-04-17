@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono black Zombie Commander EDH</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="28" name="Swamp"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Foulmire Knight // Profane Insight"/>
+        <card number="1" name="Shambling Ghast"/>
+        <card number="1" name="Champion of the Perished"/>
+        <card number="1" name="Lord of the Accursed"/>
+        <card number="1" name="Diregraf Colossus"/>
+        <card number="1" name="Murderous Rider // Swift End"/>
+        <card number="1" name="Death Baron"/>
+        <card number="1" name="Cemetery Reaper"/>
+        <card number="1" name="Never // Return"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Cradle of the Accursed"/>
+        <card number="1" name="Hero's Downfall"/>
+        <card number="1" name="Terror"/>
+        <card number="1" name="Ghoulcaller Gisa"/>
+        <card number="1" name="Liliana, Heretical Healer"/>
+        <card number="1" name="Castle Locthwain"/>
+        <card number="1" name="Headless Rider"/>
+        <card number="1" name="Undead Augur"/>
+        <card number="1" name="Undead Warchief"/>
+        <card number="1" name="Endless Ranks of the Dead"/>
+        <card number="1" name="Cryptbreaker"/>
+        <card number="1" name="Gravecrawler"/>
+        <card number="1" name="Lord of the Undead"/>
+        <card number="1" name="Liliana's Mastery"/>
+        <card number="1" name="Archghoul of Thraben"/>
+        <card number="1" name="Relentless Dead"/>
+        <card number="1" name="Tormod, the Desecrator"/>
+        <card number="1" name="Falthis, Shadowcat Familiar"/>
+        <card number="1" name="Hive of the Eye Tyrant"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Hagra Mauling"/>
+        <card number="1" name="Malakir Rebirth"/>
+        <card number="1" name="Leechridden Swamp"/>
+        <card number="1" name="Zof Consumption"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Army of the Damned"/>
+        <card number="1" name="Midnight Reaper"/>
+        <card number="1" name="Plague Belcher"/>
+        <card number="1" name="Zombie Apocalypse"/>
+        <card number="1" name="Liliana, Death's Majesty"/>
+        <card number="1" name="Shepherd of Rot"/>
+        <card number="1" name="Crypt Ghast"/>
+        <card number="1" name="Tomb Tyrant"/>
+        <card number="1" name="Exsanguinate"/>
+        <card number="1" name="Wound Reflection"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Vorpal Sword"/>
+        <card number="1" name="Cauldron Familiar"/>
+        <card number="1" name="Archfiend of Depravity"/>
+        <card number="1" name="Unbreathing Horde"/>
+        <card number="1" name="Risen Executioner"/>
+        <card number="1" name="Liliana's Devotee"/>
+        <card number="1" name="Tainted Adversary"/>
+        <card number="1" name="Soulless One"/>
+        <card number="1" name="Tragic Slip"/>
+        <card number="1" name="Murder"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Doom Blade"/>
+        <card number="1" name="Bontu's Monument"/>
+        <card number="1" name="Graf Harvest"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Tattered Mummy"/>
+        <card number="1" name="Vampire Spawn"/>
+        <card number="1" name="Okiba Reckoner Raid"/>
+        <card number="1" name="Blood Tithe"/>
+        <card number="1" name="Mire in Misery"/>
+        <card number="1" name="Loyal Subordinate"/>
+        <card number="1" name="Dredge the Mire"/>
+    </zone>
+</cockatrice_deck>
