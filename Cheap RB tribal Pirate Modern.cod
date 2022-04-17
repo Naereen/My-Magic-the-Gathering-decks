@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Cheap RB tribal Pirate Modern</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Dire Fleet Poisoner"/>
+        <card number="4" name="Foreboding Ruins"/>
+        <card number="6" name="Mountain"/>
+        <card number="6" name="Swamp"/>
+        <card number="4" name="Smoldering Marsh"/>
+        <card number="4" name="Daring Buccaneer"/>
+        <card number="2" name="Grasping Scoundrel"/>
+        <card number="4" name="Rigging Runner"/>
+        <card number="4" name="Fanatical Firebrand"/>
+        <card number="4" name="Kitesail Freebooter"/>
+        <card number="4" name="Dire Fleet Captain"/>
+        <card number="3" name="Dire Fleet Neckbreaker"/>
+        <card number="2" name="Fathom Fleet Captain"/>
+        <card number="4" name="Forerunner of the Coalition"/>
+        <card number="2" name="Kari Zev, Skyship Raider"/>
+        <card number="4" name="Terminate"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Ragavan"/>
+        <card number="4" name="Pirate Token"/>
+    </zone>
+</cockatrice_deck>
