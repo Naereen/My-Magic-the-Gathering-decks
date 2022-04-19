@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>GW equipment combo Luxior Devoted Druid Modern</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Luxior, Giada's Gift"/>
+        <card number="4" name="Devoted Druid"/>
+        <card number="4" name="Morselhoarder"/>
+        <card number="1" name="Emrakul, the Promised End"/>
+        <card number="3" name="Emrakul, the Aeons Torn"/>
+        <card number="4" name="Living Wish"/>
+        <card number="4" name="Taj-Nar Swordsmith"/>
+        <card number="4" name="Stoneforge Mystic"/>
+        <card number="4" name="Steelshaper's Gift"/>
+        <card number="4" name="Relic Seeker"/>
+        <card number="4" name="Open the Armory"/>
+        <card number="2" name="Boseiju, Who Endures"/>
+        <card number="4" name="Eladamri's Call"/>
+        <card number="4" name="Temple Garden"/>
+        <card number="4" name="Windswept Heath"/>
+        <card number="4" name="Summoner's Pact"/>
+        <card number="4" name="Time of Need"/>
+        <card number="4" name="Wooded Bastion"/>
+        <card number="4" name="Brushland"/>
+        <card number="4" name="Razorverge Thicket"/>
+        <card number="1" name="Kaldra Compleat"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Path to Exile"/>
+        <card number="1" name="Emrakul, the Aeons Torn"/>
+        <card number="1" name="Emrakul, the Promised End"/>
+    </zone>
+</cockatrice_deck>
