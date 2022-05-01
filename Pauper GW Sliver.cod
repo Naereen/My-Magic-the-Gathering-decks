@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Pauper GW Sliver</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Muscle Sliver"/>
+        <card number="4" name="Predatory Sliver"/>
+        <card number="3" name="Gemhide Sliver"/>
+        <card number="4" name="Sentinel Sliver"/>
+        <card number="4" name="Virulent Sliver"/>
+        <card number="3" name="Horned Sliver"/>
+        <card number="3" name="Lancer Sliver"/>
+        <card number="3" name="Sidewinder Sliver"/>
+        <card number="4" name="Plated Sliver"/>
+        <card number="3" name="Selesnya Sanctuary"/>
+        <card number="2" name="Blossoming Sands"/>
+        <card number="4" name="Rancor"/>
+        <card number="4" name="Armadillo Cloak"/>
+        <card number="8" name="Forest"/>
+        <card number="7" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Spider Umbra"/>
+        <card number="4" name="Snakeskin Veil"/>
+        <card number="4" name="Return to Nature"/>
+        <card number="4" name="Spinneret Sliver"/>
+    </zone>
+</cockatrice_deck>
