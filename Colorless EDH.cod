@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Colorless EDH</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Urza's Factory"/>
+        <card number="1" name="Urza's Mine"/>
+        <card number="1" name="Urza's Power Plant"/>
+        <card number="1" name="Urza's Saga"/>
+        <card number="1" name="Urza's Tower"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="1" name="Kozilek, the Great Distortion"/>
+        <card number="1" name="Kozilek's Channeler"/>
+        <card number="1" name="All Is Dust"/>
+        <card number="1" name="Traxos, Scourge of Kroog"/>
+        <card number="1" name="Voltaic Key"/>
+        <card number="1" name="Mutavault"/>
+        <card number="1" name="Mishra's Factory"/>
+        <card number="1" name="Mishra's Workshop"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" name="Eye of Ugin"/>
+        <card number="1" name="Sanctum of Ugin"/>
+        <card number="1" name="Ugin, the Ineffable"/>
+        <card number="1" name="Ugin, the Spirit Dragon"/>
+        <card number="1" name="Eldrazi Temple"/>
+        <card number="1" name="Emrakul, the Promised End"/>
+        <card number="1" name="Walking Atlas"/>
+        <card number="1" name="Walking Ballista"/>
+        <card number="1" name="Sword of Body and Mind"/>
+        <card number="1" name="Sword of Feast and Famine"/>
+        <card number="1" name="Sword of Fire and Ice"/>
+        <card number="1" name="Sword of Hearth and Home"/>
+        <card number="1" name="Sword of Light and Shadow"/>
+        <card number="1" name="Sword of Sinew and Steel"/>
+        <card number="1" name="Sword of Truth and Justice"/>
+        <card number="1" name="Sword of War and Peace"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="1" name="Hope of Ghirapur"/>
+        <card number="1" name="Shrine of the Forsaken Gods"/>
+        <card number="1" name="Forsaken Monument"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Darksteel Citadel"/>
+        <card number="1" name="Darksteel Juggernaut"/>
+        <card number="1" name="Darksteel Forge"/>
+        <card number="1" name="Darksteel Colossus"/>
+        <card number="1" name="Palladium Myr"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Endbringer"/>
+        <card number="1" name="Scour from Existence"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Zhalfirin Void"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Conduit of Ruin"/>
+        <card number="1" name="Warping Wail"/>
+        <card number="1" name="Wurmcoil Engine"/>
+        <card number="1" name="Stonecoil Serpent"/>
+        <card number="1" name="Artisan of Kozilek"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="1" name="Wandering Archaic"/>
+        <card number="1" name="Tomb of the Spirit Dragon"/>
+        <card number="1" name="Karn, the Great Creator"/>
+        <card number="1" name="Mycosynth Lattice"/>
+        <card number="1" name="Homeward Path"/>
+        <card number="1" name="Tyrite Sanctum"/>
+        <card number="1" name="Forge of Heroes"/>
+        <card number="1" name="Blinkmoth Nexus"/>
+        <card number="1" name="Inkmoth Nexus"/>
+        <card number="1" name="Labyrinth of Skophos"/>
+        <card number="1" name="Crawling Barrens"/>
+        <card number="1" name="Spawning Bed"/>
+        <card number="1" name="Foundry of the Consuls"/>
+        <card number="1" name="Gargoyle Castle"/>
+        <card number="1" name="Dread Statuary"/>
+        <card number="1" name="Mobilized District"/>
+        <card number="1" name="Tower of the Magistrate"/>
+        <card number="1" name="Blinkmoth Well"/>
+        <card number="1" name="Dunes of the Dead"/>
+        <card number="1" name="Stalking Stones"/>
+        <card number="1" name="Void Winnower"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Titan's Presence"/>
+        <card number="1" name="Manifold Key"/>
+        <card number="1" name="Unlicensed Hearse"/>
+        <card number="1" name="Oblivion Sower"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Not of This World"/>
+        <card number="1" name="It That Betrays"/>
+        <card number="1" name="Unwinding Clock"/>
+        <card number="1" name="Meteor Golem"/>
+        <card number="1" name="Geode Golem"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Spatial Contortion"/>
+        <card number="1" name="Introduction to Annihilation"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Duplicant"/>
+        <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Kuldotha Forgemaster"/>
+        <card number="1" name="Platinum Angel"/>
+        <card number="1" name="Platinum Emperion"/>
+        <card number="1" name="Kaldra Compleat"/>
+        <card number="1" name="Triplicate Titan"/>
+        <card number="1" name="Metalwork Colossus"/>
+        <card number="1" name="Smuggler's Copter"/>
+        <card number="1" name="Mechtitan Core"/>
+        <card number="1" name="Weathered Sentinels"/>
+        <card number="1" name="Sea Gate Wreckage"/>
+        <card number="1" name="Chief of the Foundry"/>
+        <card number="1" name="Ancient Stone Idol"/>
+        <card number="1" name="Endless One"/>
+        <card number="1" name="Lodestone Golem"/>
+        <card number="1" name="Colossus of Akros"/>
+        <card number="1" name="Thought-Knot Seer"/>
+        <card number="1" name="Reality Smasher"/>
+        <card number="1" name="Etched Champion"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Radiant Fountain"/>
+        <card number="1" name="Jhoira's Familiar"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Dreamstone Hedron"/>
+    </zone>
+</cockatrice_deck>
