@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Snow UG Modern Marit Lage</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Marit Lage's Slumber"/>
+        <card number="6" name="Snow-Covered Island"/>
+        <card number="4" name="Faceless Haven"/>
+        <card number="3" name="Rimefeather Owl"/>
+        <card number="4" name="Replicating Ring"/>
+        <card number="3" name="Graven Lore"/>
+        <card number="4" name="Icehide Golem"/>
+        <card number="2" name="Icebreaker Kraken"/>
+        <card number="6" name="Snow-Covered Forest"/>
+        <card number="4" name="Boreal Druid"/>
+        <card number="4" name="Sculptor of Winter"/>
+        <card number="4" name="Rime Tender"/>
+        <card number="4" name="Lightning Greaves"/>
+        <card number="4" name="Rimewood Falls"/>
+        <card number="4" name="Ice-Fang Coatl"/>
+    </zone>
+</cockatrice_deck>
