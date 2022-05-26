@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Gate commander RGBUW</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Archway Angel"/>
+        <card number="1" name="Armory Guard"/>
+        <card number="1" name="Azorius Guildgate"/>
+        <card number="1" name="Boros Guildgate"/>
+        <card number="1" name="Dimir Guildgate"/>
+        <card number="1" name="Golgari Guildgate"/>
+        <card number="1" name="Gruul Guildgate"/>
+        <card number="1" name="Izzet Guildgate"/>
+        <card number="1" name="Orzhov Guildgate"/>
+        <card number="1" name="Rakdos Guildgate"/>
+        <card number="1" name="Selesnya Guildgate"/>
+        <card number="1" name="Simic Guildgate"/>
+        <card number="1" name="Greenside Watcher"/>
+        <card number="1" name="Gateway Plaza"/>
+        <card number="1" name="Gateway Shade"/>
+        <card number="1" name="Gateway Sneak"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Crackling Doom"/>
+        <card number="1" name="Crackling Perimeter"/>
+        <card number="1" name="District Guide"/>
+        <card number="1" name="Garrison Sergeant"/>
+        <card number="1" name="Gate Colossus"/>
+        <card number="1" name="Gatecreeper Vine"/>
+        <card number="1" name="Gates Ablaze"/>
+        <card number="1" name="Hold the Gates"/>
+        <card number="1" name="Open the Gates"/>
+        <card number="1" name="Gatebreaker Ram"/>
+        <card number="1" name="Gatekeeper Gargoyle"/>
+        <card number="1" name="Opal Lake Gatekeepers"/>
+        <card number="1" name="Saruli Gatekeepers"/>
+        <card number="1" name="Smelt-Ward Gatekeepers"/>
+        <card number="1" name="Sunspire Gatekeepers"/>
+        <card number="1" name="Ubul Sar Gatekeepers"/>
+        <card number="1" name="Glaive of the Guildpact"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Guild Summit"/>
+        <card number="1" name="Maze's End"/>
+        <card number="1" name="Root Maze"/>
+        <card number="1" name="Amulet of Vigor"/>
+        <card number="1" name="Plaza of Harmony"/>
+        <card number="1" name="Way of the Thief"/>
+        <card number="1" name="Jodah, Archmage Eternal"/>
+        <card number="1" name="Expedition Map"/>
+        <card number="1" name="Ramunap Excavator"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Magus of the Future"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Augur of Autumn"/>
+        <card number="1" name="Ancient Greenwarden"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Deathsprout"/>
+        <card number="10" name="Forest"/>
+        <card number="1" name="Arboreal Grazer"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="1" name="Hour of Promise"/>
+        <card number="1" name="Kura, the Boundless Sky"/>
+        <card number="1" name="Sylvan Scrying"/>
+        <card number="1" name="Reshape the Earth"/>
+        <card number="1" name="Reap and Sow"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Realms Uncharted"/>
+        <card number="1" name="Pir's Whim"/>
+        <card number="1" name="Nylea's Intervention"/>
+        <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Burgeoning"/>
+        <card number="1" name="Escape to the Wilds"/>
+        <card number="1" name="Explore"/>
+        <card number="1" name="Scale the Heights"/>
+        <card number="1" name="Tomik, Distinguished Advokist"/>
+        <card number="1" name="Urban Evolution"/>
+        <card number="1" name="Verge Rangers"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+        <card number="1" name="Song of the Dryads"/>
+        <card number="1" name="Druid Class"/>
+        <card number="1" name="Enter the Unknown"/>
+        <card number="1" name="Exploration"/>
+        <card number="1" name="Mina and Denn, Wildborn"/>
+        <card number="1" name="Summer Bloom"/>
+        <card number="1" name="Wayward Swordtooth"/>
+        <card number="1" name="Azusa, Lost but Seeking"/>
+        <card number="1" name="Azusa's Many Journeys"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Primeval Titan"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="Broken Bond"/>
+        <card number="1" name="Cartographer's Survey"/>
+        <card number="1" name="Eureka Moment"/>
+        <card number="1" name="Into the Wilds"/>
+        <card number="1" name="Llanowar Scout"/>
+        <card number="1" name="Scaled Herbalist"/>
+        <card number="1" name="Sakura-Tribe Scout"/>
+        <card number="1" name="Zimone, Quandrix Prodigy"/>
+        <card number="1" name="Baldur's Gate"/>
+        <card number="1" name="Explore the Underdark"/>
+        <card number="1" name="Gond Gate"/>
+        <card number="1" name="Nine-Fingers Keene"/>
+    </zone>
+</cockatrice_deck>
