@@ -101,5 +101,12 @@
         <card number="1" name="Explore the Underdark"/>
         <card number="1" name="Gond Gate"/>
         <card number="1" name="Nine-Fingers Keene"/>
+        <card number="1" name="Black Dragon Gate"/>
+        <card number="1" name="Citadel Gate"/>
+        <card number="1" name="Sea Gate"/>
+        <card number="1" name="Cliffgate"/>
+        <card number="1" name="Manor Gate"/>
+        <card number="1" name="Heap Gate"/>
+        <card number="1" name="Basilisk Gate"/>
     </zone>
 </cockatrice_deck>
