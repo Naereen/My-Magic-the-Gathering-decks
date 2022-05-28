@@ -3,7 +3,6 @@
     <deckname>Mono blanc aggro tribal anges Commander</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="21" name="Plains"/>
         <card number="1" name="Idyllic Grange"/>
         <card number="1" name="Seraph Sanctuary"/>
         <card number="1" name="Segovian Angel"/>
@@ -41,9 +40,6 @@
         <card number="1" name="Akroma's Will"/>
         <card number="1" name="Commander's Plate"/>
         <card number="1" name="Empyrial Storm"/>
-        <card number="1" name="Keleth, Sunmane Familiar"/>
-        <card number="1" name="Spear of Heliod"/>
-        <card number="1" name="Gold Myr"/>
         <card number="1" name="Forbidding Watchtower"/>
         <card number="1" name="Kabira Crossroads"/>
         <card number="1" name="Kabira Takedown"/>
@@ -71,7 +67,6 @@
         <card number="1" name="Archangel of Strife"/>
         <card number="1" name="Archangel of Thune"/>
         <card number="1" name="Archangel of Tithes"/>
-        <card number="1" name="Avacyn, Angel of Hope"/>
         <card number="1" name="Bishop of Wings"/>
         <card number="1" name="Valkyrie Harbinger"/>
         <card number="1" name="Sephara, Sky's Blade"/>
@@ -84,6 +79,12 @@
         <card number="1" name="Ravnica at War"/>
         <card number="1" name="Herald's Horn"/>
         <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Herald of War"/>
+        <card number="1" name="Emeria, the Sky Ruin"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="19" name="Plains"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Battle Angels of Tyr"/>
     </zone>
     <zone name="tokens">
         <card number="6" name="Human Token"/>
