@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono Red Dog Aggro Combo Pauper (from MTGGoldFish)</deckname>
+    <comments>https://www.mtggoldfish.com/deck/4843666#paper</comments>
+    <zone name="main">
+        <card number="4" name="Brute Force"/>
+        <card number="4" name="Burning Prophet"/>
+        <card number="3" name="Crash Through"/>
+        <card number="4" name="Faithless Looting"/>
+        <card number="3" name="Festival Crasher"/>
+        <card number="4" name="Fists of Flame"/>
+        <card number="1" name="Fling"/>
+        <card number="2" name="Forgotten Cave"/>
+        <card number="4" name="Kiln Fiend"/>
+        <card number="4" name="Lava Dart"/>
+        <card number="16" name="Mountain"/>
+        <card number="2" name="Raze the Effigy"/>
+        <card number="4" name="Satyr Hoplite"/>
+        <card number="1" name="Satyr's Cunning"/>
+        <card number="3" name="Temur Battle Rage"/>
+        <card number="1" name="Thermo-Alchemist"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Fiery Cannonade"/>
+        <card number="1" name="Pyromatics"/>
+        <card number="4" name="Shock"/>
+        <card number="4" name="Shower of Sparks"/>
+        <card number="2" name="Thermo-Alchemist"/>
+        <card number="2" name="Underworld Rage-Hound"/>
+    </zone>
+</cockatrice_deck>

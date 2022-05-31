@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Multi-Colored Elves Pauper (from MTGGoldFish)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Birchlore Rangers"/>
+        <card number="4" name="Distant Melody"/>
+        <card number="2" name="Elvish Mystic"/>
+        <card number="4" name="Elvish Vanguard"/>
+        <card number="13" name="Forest"/>
+        <card number="2" name="Fyndhorn Elves"/>
+        <card number="4" name="Jaspera Sentinel"/>
+        <card number="4" name="Lead the Stampede"/>
+        <card number="2" name="Llanowar Elves"/>
+        <card number="4" name="Lys Alana Huntmaster"/>
+        <card number="2" name="Nettle Sentinel"/>
+        <card number="4" name="Priest of Titania"/>
+        <card number="4" name="Quirion Ranger"/>
+        <card number="4" name="Timberwatch Elf"/>
+        <card number="1" name="Valakut Invoker"/>
+        <card number="3" name="Wellwisher"/>
+    </zone>
+    <zone name="side">
+        <card number="1" "Coalition Honor Guard"/>
+        <card number="2" "Dispel"/>
+        <card number="1" "Fog"/>
+        <card number="1" "Gleeful Sabotage"/>
+        <card number="2" "Hydroblast"/>
+        <card number="1" "Nature's Claim"/>
+        <card number="2" "Scattershot Archer"/>
+        <card number="2" "Spidersilk Armor"/>
+        <card number="1" "Vines of Vastwood"/>
+        <card number="1" "Viridian Longbow"/>
+        <card number="1" "Wrap in Vigor"/>
+    </zone>
+</cockatrice_deck>
