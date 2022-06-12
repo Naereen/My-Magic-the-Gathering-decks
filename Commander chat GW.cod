@@ -24,7 +24,6 @@
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Temple Garden"/>
-        <card number="1" name="Savannah Lions"/>
         <card number="1" name="Brushland"/>
         <card number="1" name="Wooded Bastion"/>
         <card number="1" name="Branchloft Pathway"/>
@@ -40,10 +39,9 @@
         <card number="1" name="Sunpetal Grove"/>
         <card number="1" name="Temple of Plenty"/>
         <card number="1" name="Nantuko Monastery"/>
-        <card number="1" name="Selesnya Sanctuary"/>
         <card number="1" name="Blossoming Sands"/>
         <card number="1" name="Graypelt Refuge"/>
-        <card number="4" name="Plains"/>
+        <card number="5" name="Plains"/>
         <card number="1" name="Eiganjo Castle"/>
         <card number="1" name="Okina, Temple to the Grandfathers"/>
         <card number="1" name="Eiganjo, Seat of the Empire"/>
@@ -55,7 +53,6 @@
         <card number="1" name="Kaldra Compleat"/>
         <card number="1" name="Bronzehide Lion"/>
         <card number="1" name="Fleecemane Lion"/>
-        <card number="1" name="Noble Panther"/>
         <card number="1" name="Phantom Nishoba"/>
         <card number="1" name="Sabertooth Nishoba"/>
         <card number="1" name="Qasali Ambusher"/>
@@ -65,7 +62,6 @@
         <card number="1" name="Pride Sovereign"/>
         <card number="1" name="Feline Sovereign"/>
         <card number="1" name="Hungry Lynx"/>
-        <card number="1" name="Steppe Lynx"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Selesnya Charm"/>
         <card number="1" name="Selesnya Cluestone"/>
@@ -76,9 +72,7 @@
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Prowling Serpopard"/>
         <card number="1" name="Longtusk Cub"/>
-        <card number="1" name="Scythe Leopard"/>
         <card number="1" name="Ajani's Pridemate"/>
-        <card number="1" name="Pridemalkin"/>
         <card number="1" name="Wild Nacatl"/>
         <card number="1" name="Cubwarden"/>
         <card number="1" name="Leonin Arbiter"/>
@@ -91,10 +85,15 @@
         <card number="1" name="Leonin Vanguard"/>
         <card number="1" name="Leonin Skyhunter"/>
         <card number="1" name="Ajani's Sunstriker"/>
-        <card number="1" name="Pride Guardian"/>
         <card number="1" name="Secluded Courtyard"/>
         <card number="1" name="Armored Skyhunter"/>
         <card number="1" name="Behemoth Sledge"/>
         <card number="1" name="Keeper of Fables"/>
+        <card number="1" name="Teferi's Protection"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Urza's Incubator"/>
     </zone>
 </cockatrice_deck>
