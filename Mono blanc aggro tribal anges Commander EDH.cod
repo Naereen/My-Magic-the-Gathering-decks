@@ -85,6 +85,8 @@
         <card number="19" name="Plains"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Battle Angels of Tyr"/>
+        <card number="1" name="Teferi's Protection"/>
+        <card number="1" name="Smothering Tithe"/>
     </zone>
     <zone name="tokens">
         <card number="6" name="Human Token"/>
