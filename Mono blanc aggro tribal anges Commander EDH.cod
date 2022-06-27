@@ -87,6 +87,7 @@
         <card number="1" name="Battle Angels of Tyr"/>
         <card number="1" name="Teferi's Protection"/>
         <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Chancellor of the Annex"/>
     </zone>
     <zone name="tokens">
         <card number="6" name="Human Token"/>

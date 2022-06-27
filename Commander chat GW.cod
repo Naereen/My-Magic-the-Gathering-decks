@@ -58,7 +58,6 @@
         <card number="1" name="Qasali Ambusher"/>
         <card number="1" name="Qasali Pridemage"/>
         <card number="1" name="Qasali Slingers"/>
-        <card number="1" name="Leonin Armorguard"/>
         <card number="1" name="Pride Sovereign"/>
         <card number="1" name="Feline Sovereign"/>
         <card number="1" name="Hungry Lynx"/>
@@ -95,5 +94,6 @@
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Realmwalker"/>
         <card number="1" name="Urza's Incubator"/>
+        <card number="1" name="Oreskos Explorer"/>
     </zone>
 </cockatrice_deck>
