@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>MonoW Yorion DeathTaxes Modern</deckname>
+    <comments>https://www.cardmarket.com/en/Magic/Wants/14308606
+pour les moins chères
+
+https://www.cardmarket.com/en/Magic/Wants/14396320
+pour les plus chères, et les cartes juste pour le Legacy
+</comments>
+    <zone name="main">
+        <card number="2" name="Eiganjo, Seat of the Empire"/>
+        <card number="4" name="Silent Clearing"/>
+        <card number="4" name="Aether Vial"/>
+        <card number="4" name="Archon of Emeria"/>
+        <card number="2" name="Charming Prince"/>
+        <card number="16" name="Snow-Covered Plains"/>
+        <card number="3" name="On Thin Ice"/>
+        <card number="4" name="Ephemerate"/>
+        <card number="4" name="Esper Sentinel"/>
+        <card number="2" name="Extraction Specialist"/>
+        <card number="2" name="Field of Ruin"/>
+        <card number="2" name="Flickerwisp"/>
+        <card number="4" name="Ghost Quarter"/>
+        <card number="3" name="Giver of Runes"/>
+        <card number="1" name="Batterskull"/>
+        <card number="4" name="Leonin Arbiter"/>
+        <card number="1" name="Lion Sash"/>
+        <card number="3" name="March of Otherworldly Light"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="3" name="Skyclave Apparition"/>
+        <card number="4" name="Thalia, Guardian of Thraben"/>
+        <card number="4" name="Stoneforge Mystic"/>
+        <card number="4" name="Solitude"/>
+        <card number="1" name="Kaldra Compleat"/>
+        <card number="4" name="Rishadan Port"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Leyline of Sanctity"/>
+        <card number="3" name="Surgical Extraction"/>
+        <card number="4" name="Blossoming Calm"/>
+        <card number="4" name="Containment Priest"/>
+        <card number="4" name="Drannith Magistrate"/>
+        <card number="1" name="Yorion, Sky Nomad"/>
+        <card number="3" name="Hushbringer"/>
+        <card number="3" name="Kataki, War's Wage"/>
+        <card number="4" name="Kor Firewalker"/>
+        <card number="4" name="Rest in Peace"/>
+        <card number="1" name="On Thin Ice"/>
+        <card number="1" name="March of Otherworldly Light"/>
+        <card number="1" name="Stoneforge Mystic"/>
+    </zone>
+</cockatrice_deck>
