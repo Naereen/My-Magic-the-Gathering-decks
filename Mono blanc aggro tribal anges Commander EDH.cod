@@ -61,7 +61,6 @@
         <card number="1" name="Court of Grace"/>
         <card number="1" name="Honor of the Pure"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Umezawa's Jitte"/>
         <card number="1" name="Fateful Absence"/>
@@ -79,6 +78,7 @@
         <card number="1" name="Windshaper Planetar"/>
         <card number="1" name="Angel of Serenity"/>
         <card number="1" name="Angelic Arbiter"/>
+        <card number="1" name="Heraldic Banner"/>
     </zone>
     <zone name="tokens">
         <card number="6" name="Human Token"/>
