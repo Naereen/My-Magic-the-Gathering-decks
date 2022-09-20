@@ -21,7 +21,7 @@
         <card number="1" name="Ravnica at War"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Emeria, the Sky Ruin"/>
-        <card number="29" name="Plains"/>
+        <card number="28" name="Plains"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Study Hall"/>
         <card number="1" name="Temple of the False God"/>
@@ -40,7 +40,6 @@
         <card number="1" name="Wrath of God"/>
         <card number="1" name="Descend upon the Sinful"/>
         <card number="1" name="Palace Jailer"/>
-        <card number="1" name="Herald's Horn"/>
         <card number="1" name="Revoke Existence"/>
         <card number="1" name="Sanctify"/>
         <card number="1" name="Rally the Ranks"/>
@@ -82,6 +81,40 @@
         <card number="1" name="Cho-Arrim Bruiser"/>
         <card number="1" name="Irregular Cohort"/>
         <card number="1" name="Crib Swap"/>
+        <card number="1" name="Adaptive Automaton"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Icon of Ancestry"/>
+        <card number="1" name="Obelisk of Urd"/>
+        <card number="1" name="Hall of Triumph"/>
+        <card number="1" name="Heraldic Banner"/>
+        <card number="1" name="Strixhaven Stadium"/>
+        <card number="1" name="Dusk // Dawn"/>
+        <card number="1" name="Slaughter the Strong"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Citywide Bust"/>
+        <card number="1" name="Spear of Heliod"/>
+        <card number="1" name="Konda's Banner"/>
+        <card number="1" name="Radiant Destiny"/>
+        <card number="1" name="Glorious Anthem"/>
+        <card number="1" name="Shared Triumph"/>
+        <card number="1" name="Always Watching"/>
+        <card number="1" name="True Conviction"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="1" name="Borrowed Time"/>
+        <card number="1" name="Brave the Sands"/>
+        <card number="1" name="Banishing Light"/>
+        <card number="1" name="Force of Virtue"/>
+        <card number="1" name="Mutavault"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Bloodline Pretender"/>
+        <card number="1" name="Drumbellower"/>
+        <card number="1" name="Heartstone"/>
+        <card number="1" name="Thousand-Year Elixir"/>
+        <card number="1" name="Illusionist's Bracers"/>
+        <card number="1" name="Rings of Brighthearth"/>
+        <card number="1" name="Pariah"/>
     </zone>
     <zone name="side">
         <card number="1" name="Smothering Tithe"/>
