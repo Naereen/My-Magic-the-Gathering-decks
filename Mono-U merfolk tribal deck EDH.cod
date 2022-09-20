@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono-U merfolk tribal deck EDH</deckname>
+    <comments>Way too much cards right now: 127.
+I have to work on it and decide what to cut.</comments>
+    <zone name="main">
+        <card number="26" name="Island"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Heraldic Banner"/>
+        <card number="1" name="Konda's Banner"/>
+        <card number="1" name="Obelisk of Urd"/>
+        <card number="1" name="Hall of Triumph"/>
+        <card number="1" name="Icon of Ancestry"/>
+        <card number="1" name="Svyelun of Sea and Sky"/>
+        <card number="1" name="Emperor Mihail II"/>
+        <card number="1" name="Kopala, Warden of Waves"/>
+        <card number="1" name="Thassa, God of the Sea"/>
+        <card number="1" name="Thassa, Deep-Dwelling"/>
+        <card number="1" name="Thada Adel, Acquisitor"/>
+        <card number="1" name="Vodalian Hexcatcher"/>
+        <card number="1" name="Gray Harbor Merfolk"/>
+        <card number="1" name="Master of the Pearl Trident"/>
+        <card number="1" name="Merfolk Sovereign"/>
+        <card number="1" name="Merrow Reejerey"/>
+        <card number="1" name="Seafloor Oracle"/>
+        <card number="1" name="Deeproot Waters"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Archmage's Charm"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Lord of Atlantis"/>
+        <card number="1" name="Stonybrook Banneret"/>
+        <card number="1" name="Merrow Harbinger"/>
+        <card number="1" name="Thieving Skydiver"/>
+        <card number="1" name="Spreading Seas"/>
+        <card number="1" name="Riptide Pilferer"/>
+        <card number="1" name="Merfolk Trickster"/>
+        <card number="1" name="Tide Shaper"/>
+        <card number="1" name="Lullmage Mentor"/>
+        <card number="1" name="Harbinger of the Tides"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Aquitect's Will"/>
+        <card number="1" name="Deepchannel Mentor"/>
+        <card number="1" name="Silvergill Adept"/>
+        <card number="1" name="Coralhelm Commander"/>
+        <card number="1" name="Streambed Aquitects"/>
+        <card number="1" name="Tempest Caller"/>
+        <card number="1" name="Wanderwine Prophets"/>
+        <card number="1" name="Rishadan Dockhand"/>
+        <card number="1" name="Master of Waves"/>
+        <card number="1" name="Mist-Cloaked Herald"/>
+        <card number="1" name="Seahunter"/>
+        <card number="1" name="River Sneak"/>
+        <card number="1" name="True-Name Nemesis"/>
+        <card number="1" name="Adaptive Automaton"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Wake Thrasher"/>
+        <card number="1" name="Triton Shorestalker"/>
+        <card number="1" name="Cursecatcher"/>
+        <card number="1" name="Cosi's Trickster"/>
+        <card number="1" name="Stormtide Leviathan"/>
+        <card number="1" name="Tidal Warrior"/>
+        <card number="1" name="Mistcaller"/>
+        <card number="1" name="Talrand, Sky Summoner"/>
+        <card number="1" name="Surgespanner"/>
+        <card number="1" name="Empress Galina"/>
+        <card number="1" name="Library Larcenist"/>
+        <card number="1" name="Sea Scryer"/>
+        <card number="1" name="Sigil Tracer"/>
+        <card number="1" name="Wonder"/>
+        <card number="1" name="Glasspool Mimic"/>
+        <card number="1" name="Tidal Courier"/>
+        <card number="1" name="Merfolk Windrobber"/>
+        <card number="1" name="Fallowsage"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Wash Away"/>
+        <card number="1" name="Thassa's Rebuff"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="1" name="Wizard's Retort"/>
+        <card number="1" name="Distant Melody"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Robe of the Archmagi"/>
+        <card number="1" name="Aquatic Incursion"/>
+        <card number="1" name="Imprisoned in the Moon"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Witness Protection"/>
+        <card number="1" name="Narset, Parter of Veils"/>
+        <card number="1" name="Mystic Sanctuary"/>
+        <card number="1" name="Castle Vantress"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Lonely Sandbar"/>
+        <card number="1" name="Riptide Laboratory"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Hall of Storm Giants"/>
+        <card number="1" name="Mutavault"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Midnight Clock"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Merrow Commerce"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Defiler of Dreams"/>
+        <card number="1" name="Rootwater Thief"/>
+        <card number="1" name="Pact of Negation"/>
+        <card number="1" name="Force of Will"/>
+        <card number="1" name="Force of Negation"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Rhystic Study"/>
+    </zone>
+</cockatrice_deck>
