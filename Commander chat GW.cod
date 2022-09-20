@@ -12,7 +12,6 @@ See https://mtg.fandom.com/wiki/Companion#Rulings</comments>
         <card number="1" name="Jedit Ojanen of Efrava"/>
         <card number="1" name="Kemba's Skyguard"/>
         <card number="1" name="Mirri, Cat Warrior"/>
-        <card number="1" name="Raksha Golden Cub"/>
         <card number="1" name="Felidar Sovereign"/>
         <card number="1" name="Highcliff Felidar"/>
         <card number="1" name="Felidar Cub"/>
@@ -64,7 +63,6 @@ See https://mtg.fandom.com/wiki/Companion#Rulings</comments>
         <card number="1" name="Spirit of the Hearth"/>
         <card number="1" name="Stalking Leonin"/>
         <card number="1" name="King of the Pride"/>
-        <card number="1" name="Loam Lion"/>
         <card number="1" name="Leonin Skyhunter"/>
         <card number="1" name="Secluded Courtyard"/>
         <card number="1" name="Keeper of Fables"/>
@@ -99,7 +97,9 @@ See https://mtg.fandom.com/wiki/Companion#Rulings</comments>
         <card number="1" name="Nishoba Brawler"/>
         <card number="1" name="Sacred Cat"/>
         <card number="1" name="Savannah Lions"/>
-        <card number="1" name="Zar Ojanen, Scion of Efrava"/>
+        <card number="1" name="Lion Sash"/>
+        <card number="1" name="Leonin Relic-Warder"/>
+        <card number="1" name="Trove Warden"/>
     </zone>
     <zone name="side">
         <card number="1" name="Heroic Intervention"/>
