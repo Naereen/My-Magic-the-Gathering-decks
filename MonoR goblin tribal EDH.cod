@@ -107,6 +107,11 @@ Very much not sure of what to include or what to cut: i guess I'll not buy the m
         <card number="1" name="Goatnapper"/>
         <card number="1" name="Goblin General"/>
         <card number="1" name="Kyren Legate"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Obelisk of Urd"/>
+        <card number="1" name="Konda's Banner"/>
+        <card number="1" name="Heraldic Banner"/>
+        <card number="1" name="Adaptive Automaton"/>
     </zone>
     <zone name="tokens">
         <card number="10" name="Goblin Token"/>
