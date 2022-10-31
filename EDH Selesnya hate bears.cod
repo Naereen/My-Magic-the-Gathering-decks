@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>EDH Selesnya hate bears</deckname>
+    <comments>Liste en progression.</comments>
+    <zone name="main">
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Anointed Peacekeeper"/>
+        <card number="1" name="Archon of Emeria"/>
+        <card number="1" name="Archon of Valor's Reach"/>
+        <card number="1" name="Armadillo Cloak"/>
+        <card number="1" name="Augur of Autumn"/>
+        <card number="1" name="Aura of Silence"/>
+        <card number="1" name="Aura Shards"/>
+        <card number="1" name="Authority of the Consuls"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Blind Obedience"/>
+        <card number="1" name="Bloom Tender"/>
+        <card number="1" name="Collective Blessing"/>
+        <card number="1" name="Collector Ouphe"/>
+        <card number="1" name="Containment Priest"/>
+        <card number="1" name="Damping Sphere"/>
+        <card number="1" name="Deafening Silence"/>
+        <card number="1" name="Defiler of Vigor"/>
+        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Dragonlord Dromoka"/>
+        <card number="1" name="Drannith Magistrate"/>
+        <card number="1" name="Dryad Militant"/>
+        <card number="1" name="Dueling Grounds"/>
+        <card number="1" name="Eidolon of Rhetoric"/>
+        <card number="1" name="Eladamri's Call"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Ethersworn Canonist"/>
+        <card number="1" name="Faeburrow Elder"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Gaddock Teeg"/>
+        <card number="1" name="Glare of Subdual"/>
+        <card number="1" name="Grafdigger's Cage"/>
+        <card number="1" name="Hushbringer"/>
+        <card number="1" name="Hushwing Gryff"/>
+        <card number="1" name="Karametra, God of Harvests"/>
+        <card number="1" name="Kataki, War's Wage"/>
+        <card number="1" name="Katilda, Dawnhart Prime"/>
+        <card number="1" name="Kenrith's Transformation"/>
+        <card number="1" name="King Darien XLVIII"/>
+        <card number="1" name="Knight of Autumn"/>
+        <card number="1" name="Leonin Arbiter"/>
+        <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="1" name="Linvala, Keeper of Silence"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Loxodon Hierarch"/>
+        <card number="1" name="Loxodon Smiter"/>
+        <card number="1" name="Manglehorn"/>
+        <card number="1" name="Melira, Sylvok Outcast"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Qasali Pridemage"/>
+        <card number="1" name="Rest in Peace"/>
+        <card number="1" name="Rhys the Redeemed"/>
+        <card number="1" name="Root Maze"/>
+        <card number="1" name="Rule of Law"/>
+        <card number="1" name="Runic Armasaur"/>
+        <card number="1" name="Saffi Eriksdotter"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Shalai, Voice of Plenty"/>
+        <card number="1" name="Shield of the Oversoul"/>
+        <card number="1" name="Sigarda, Champion of Light"/>
+        <card number="1" name="Sigarda, Host of Herons"/>
+        <card number="1" name="Silence"/>
+        <card number="1" name="Silverback Elder"/>
+        <card number="1" name="Spirit of the Labyrinth"/>
+        <card number="1" name="Stony Silence"/>
+        <card number="1" name="Sylvan Reclamation"/>
+        <card number="1" name="Tajuru Preserver"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Thalia, Guardian of Thraben"/>
+        <card number="1" name="Thalia, Heretic Cathar"/>
+        <card number="1" name="Thorn of Amethyst"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Tireless Provisioner"/>
+        <card number="1" name="Torens, Fist of the Angels"/>
+        <card number="1" name="Trinisphere"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="1" name="Unflinching Courage"/>
+        <card number="1" name="Vivien, Champion of the Wilds"/>
+        <card number="1" name="Vivien, Monsters' Advocate"/>
+        <card number="1" name="Voice of Resurgence"/>
+        <card number="1" name="Vryn Wingmare"/>
+        <card number="1" name="Weathered Runestone"/>
+        <card number="1" name="Wilson, Refined Grizzly"/>
+        <card number="1" name="Wilt-Leaf Liege"/>
+        <card number="1" name="Wrath of God"/>
+        <card number="1" name="Yasharn, Implacable Earth"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Path to Exile"/>
+    </zone>
+</cockatrice_deck>
