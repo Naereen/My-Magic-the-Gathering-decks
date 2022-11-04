@@ -3,7 +3,6 @@
     <deckname>EDH Selesnya hate bears</deckname>
     <comments>Liste en progression.</comments>
     <zone name="main">
-        <card number="1" name="Acidic Slime"/>
         <card number="1" name="Anointed Peacekeeper"/>
         <card number="1" name="Archon of Emeria"/>
         <card number="1" name="Archon of Valor's Reach"/>
@@ -21,7 +20,6 @@
         <card number="1" name="Collective Blessing"/>
         <card number="1" name="Collector Ouphe"/>
         <card number="1" name="Containment Priest"/>
-        <card number="1" name="Damping Sphere"/>
         <card number="1" name="Deafening Silence"/>
         <card number="1" name="Defiler of Vigor"/>
         <card number="1" name="Destiny Spinner"/>
@@ -97,8 +95,11 @@
         <card number="1" name="Wilt-Leaf Liege"/>
         <card number="1" name="Wrath of God"/>
         <card number="1" name="Yasharn, Implacable Earth"/>
+        <card number="1" name="Acidic Slime"/>
     </zone>
     <zone name="side">
         <card number="1" name="Path to Exile"/>
+        <card number="1" name="Damping Sphere"/>
+        <card number="1" name="Acidic Slime"/>
     </zone>
 </cockatrice_deck>
