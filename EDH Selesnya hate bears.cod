@@ -97,7 +97,6 @@
         <card number="1" name="Yasharn, Implacable Earth"/>
         <card number="1" name="Acidic Slime"/>
         <card number="1" name="Archivist of Oghma"/>
-
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Temple Garden"/>
@@ -153,7 +152,8 @@
     </zone>
     <zone name="side">
         <card number="1" name="Path to Exile"/>
-        <card number="1" name="Damping Sphere"/>
-        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Path to Exile"/>
     </zone>
 </cockatrice_deck>
