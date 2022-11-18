@@ -53,7 +53,7 @@
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Herald of War"/>
         <card number="1" name="Emeria, the Sky Ruin"/>
-        <card number="25" name="Plains"/>
+        <card number="24" name="Plains"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Study Hall"/>
         <card number="1" name="Temple of the False God"/>
@@ -79,6 +79,8 @@
         <card number="1" name="Angel of Serenity"/>
         <card number="1" name="Angelic Arbiter"/>
         <card number="1" name="Heraldic Banner"/>
+        <card number="1" name="Ondu Inversion"/>
+        <card number="1" name="Rally the Ranks"/>
     </zone>
     <zone name="tokens">
         <card number="6" name="Human Token"/>
