@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Commander chat GW</deckname>
+    <comments>101 cards as I use Kaheera as a companion (and &quot;Although the Commander variant does not use a sideboard, a companion is not counted as one of the deck's 100 cards.&quot;)
+See https://mtg.fandom.com/wiki/Companion#Rulings</comments>
+    <zone name="main">
+        <card number="1" name="Nazahn, Revered Bladesmith"/>
+        <card number="1" name="Arahbo, Roar of the World"/>
+        <card number="1" name="Jareth, Leonine Titan"/>
+        <card number="1" name="Jazal Goldmane"/>
+        <card number="1" name="Kaheera, the Orphanguard"/>
+        <card number="1" name="Jedit Ojanen of Efrava"/>
+        <card number="1" name="Kemba's Skyguard"/>
+        <card number="1" name="Mirri, Cat Warrior"/>
+        <card number="1" name="Felidar Sovereign"/>
+        <card number="1" name="Highcliff Felidar"/>
+        <card number="1" name="Felidar Cub"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Branchloft Pathway"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Gavony Township"/>
+        <card number="1" name="Scattered Groves"/>
+        <card number="1" name="Razorverge Thicket"/>
+        <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Stirring Wildwood"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Blossoming Sands"/>
+        <card number="1" name="Graypelt Refuge"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Okina, Temple to the Grandfathers"/>
+        <card number="1" name="Windbrisk Heights"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Oran-Rief, the Vastwood"/>
+        <card number="3" name="Forest"/>
+        <card number="1" name="Bronzehide Lion"/>
+        <card number="1" name="Fleecemane Lion"/>
+        <card number="1" name="Phantom Nishoba"/>
+        <card number="1" name="Sabertooth Nishoba"/>
+        <card number="1" name="Qasali Ambusher"/>
+        <card number="1" name="Qasali Pridemage"/>
+        <card number="1" name="Qasali Slingers"/>
+        <card number="1" name="Pride Sovereign"/>
+        <card number="1" name="Feline Sovereign"/>
+        <card number="1" name="Hungry Lynx"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Selesnya Charm"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Prowling Serpopard"/>
+        <card number="1" name="Ajani's Pridemate"/>
+        <card number="1" name="Wild Nacatl"/>
+        <card number="1" name="Cubwarden"/>
+        <card number="1" name="Leonin Arbiter"/>
+        <card number="1" name="Leonin Warleader"/>
+        <card number="1" name="Regal Caracal"/>
+        <card number="1" name="Spirit of the Hearth"/>
+        <card number="1" name="Stalking Leonin"/>
+        <card number="1" name="King of the Pride"/>
+        <card number="1" name="Leonin Skyhunter"/>
+        <card number="1" name="Secluded Courtyard"/>
+        <card number="1" name="Keeper of Fables"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Oreskos Explorer"/>
+        <card number="1" name="Turntimber Symbiosis"/>
+        <card number="1" name="Kabira Takedown"/>
+        <card number="1" name="Animal Sanctuary"/>
+        <card number="1" name="Arctic Flats"/>
+        <card number="1" name="Arctic Treeline"/>
+        <card number="1" name="Radiant Grove"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Horizon Canopy"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Pendelhaven"/>
+        <card number="1" name="Talisman of Unity"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="1" name="Rally the Ranks"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Ajani, Adversary of Tyrants"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Fateful Absence"/>
+        <card number="1" name="White Sun's Zenith"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Nishoba Brawler"/>
+        <card number="1" name="Sacred Cat"/>
+        <card number="1" name="Savannah Lions"/>
+        <card number="1" name="Lion Sash"/>
+        <card number="1" name="Leonin Relic-Warder"/>
+        <card number="1" name="Trove Warden"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Teferi's Protection"/>
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
+        <card number="1" name="Urza's Incubator"/>
+        <card number="1" name="Mirri, Weatherlight Duelist"/>
+        <card number="1" name="Noble Panther"/>
+        <card number="1" name="Leonin Vanguard"/>
+        <card number="1" name="Brimaz, King of Oreskos"/>
+        <card number="1" name="Balan, Wandering Knight"/>
+        <card number="1" name="Armored Skyhunter"/>
+        <card number="1" name="Ajani's Sunstriker"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Wooded Bastion"/>
+        <card number="1" name="Smothering Tithe"/>
+    </zone>
+</cockatrice_deck>

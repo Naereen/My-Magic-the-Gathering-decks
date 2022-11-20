@@ -1,79 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Commander chat GW</deckname>
-    <comments>101 cards as I use Kaheera as a companion (and &quot;Although the Commander variant does not use a sideboard, a companion is not counted as one of the deck's 100 cards.&quot;)
-See https://mtg.fandom.com/wiki/Companion#Rulings</comments>
-    <zone name="main">
-        <card number="1" name="Umezawa's Jitte"/>
-        <card number="1" name="Commander's Sphere"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Temple Garden"/>
-        <card number="1" name="Brushland"/>
-        <card number="1" name="Branchloft Pathway"/>
-        <card number="1" name="Canopy Vista"/>
-        <card number="1" name="Fortified Village"/>
-        <card number="1" name="Gavony Township"/>
-        <card number="1" name="Scattered Groves"/>
-        <card number="1" name="Razorverge Thicket"/>
-        <card number="1" name="Overgrown Farmland"/>
-        <card number="1" name="Stirring Wildwood"/>
-        <card number="1" name="Sungrass Prairie"/>
-        <card number="1" name="Sunpetal Grove"/>
-        <card number="1" name="Temple of Plenty"/>
-        <card number="1" name="Blossoming Sands"/>
-        <card number="1" name="Graypelt Refuge"/>
-        <card number="3" name="Plains"/>
-        <card number="1" name="Okina, Temple to the Grandfathers"/>
-        <card number="1" name="Windbrisk Heights"/>
-        <card number="1" name="Mosswort Bridge"/>
-        <card number="1" name="Oran-Rief, the Vastwood"/>
-        <card number="4" name="Forest"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Selesnya Charm"/>
-        <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Path to Exile"/>
-        <card number="1" name="Secluded Courtyard"/>
-        <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Turntimber Symbiosis"/>
-        <card number="1" name="Kabira Takedown"/>
-        <card number="1" name="Arctic Flats"/>
-        <card number="1" name="Arctic Treeline"/>
-        <card number="1" name="Radiant Grove"/>
-        <card number="1" name="Selesnya Sanctuary"/>
-        <card number="1" name="Bountiful Promenade"/>
-        <card number="1" name="Horizon Canopy"/>
-        <card number="1" name="Unclaimed Territory"/>
-        <card number="1" name="Pendelhaven"/>
-        <card number="1" name="Talisman of Unity"/>
-        <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Farseek"/>
-        <card number="1" name="Cultivate"/>
-        <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Ezuri's Predation"/>
-        <card number="1" name="Rally the Ranks"/>
-        <card number="1" name="Felidar Retreat"/>
-        <card number="1" name="Ajani, Adversary of Tyrants"/>
-        <card number="1" name="Beast Within"/>
-        <card number="1" name="Generous Gift"/>
-        <card number="1" name="Fateful Absence"/>
-        <card number="1" name="White Sun's Zenith"/>
-        <card number="1" name="Unbreakable Formation"/>
-        <card number="1" name="Realmwalker"/>
-    </zone>
-    <zone name="side">
-        <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Teferi's Protection"/>
-        <card number="1" name="Eiganjo, Seat of the Empire"/>
-        <card number="1" name="Urza's Incubator"/>
-        <card number="1" name="Mirri, Weatherlight Duelist"/>
-        <card number="1" name="Noble Panther"/>
-        <card number="1" name="Leonin Vanguard"/>
-        <card number="1" name="Brimaz, King of Oreskos"/>
-        <card number="1" name="Balan, Wandering Knight"/>
-        <card number="1" name="Armored Skyhunter"/>
-        <card number="1" name="Ajani's Sunstriker"/>
-        <card number="1" name="Selesnya Signet"/>
-        <card number="1" name="Wooded Bastion"/>
-        <card number="1" name="Smothering Tithe"/>
-    </zone>
-</cockatrice_deck>
+    <deckname>Base for a commander vert-blancc</deckname>
+    <comments>Work in progress!</comments>
+
+1	Adaptive Automaton
+		1	Adorned Pouncer
+		1	Adorned Pouncer Token
+		1	Angelic Accord
+		4	Banisher Priest
+Game Night: Free For All
+
+	Any	Any	Any	N/A	N
+		1	Banishing Light
+Friday Night Magic Promos
+
+	Any	Any	Any	N/A	N
+		1	Bastion Protector
+Universes Beyond: Warhammer 40,000
+
+	Any	Any	Any	N/A	N
+		4	Blast Zone
+3	Bloodline Pretender
+1	Borrowed Time
+Innistrad: Midnight Hunt
+
+	Any	Any	Any	N/A	N
+		1	Brave the Sands
+5	Brushland
+The Brothers' War: Extras
+
+	Any	Any	Any	N/A	N
+		1	Cenn's Enlistment
+1	Cenn's Tactician
+Gateway Promos
+
+	Any	Any	Any	N/A	N
+		1	Citywide Bust
+1	Cloudgoat Ranger
+4	Crib Swap
+4	Eldrazi Displacer
+1	Elvish Harbinger
+1	Emeria Shepherd
+1	Emeria, the Sky Ruin
+1	Emmara, Soul of the Accord
+Store Championship Promos
+
+	Any	Any	Any	N/A	N
+		1	End-Raze Forerunners
+Ravnica Allegiance: Extras
+
+	Any	Any	Any	N/A	N
+		4	Ethersworn Canonist
+4	Faceless Haven
+1	Force of Virtue
+4	Foundation Breaker
+1	Gala Greeters
+3	Goat Token (W 0/1) // Zombie Token (B 2/2)
+Commander: Streets of New Capenna: Extras
+
+	Any	Any	Any	N/A	N
+		1	Gorm the Great
+1	Gwenna, Eyes of Gaea
+The Brothers' War
+
+	Any	Any	Any	N/A	N
+		1	Hall of Triumph
+		4	Hallowed Moonlight
+1	Heartstone
+1	Heraldic Banner
+1	Icon of Ancestry
+1	Illusionist's Bracers
+1	Keleth, Sunmane Familiar
+1	Kithkin Armor
+1	Konda's Banner
+1	Leaf-Crowned Visionary
+Dominaria United
+
+	Any	Any	Any	N/A	N
+		1	Leonin Relic-Warder
+4	Leyline of the Void
+1	Lightning Greaves
+1	Lion Sash
+1	Llanowar Loamspeaker
+Dominaria United
+
+	Any	Any	Any	N/A	N
+		1	Mirror Entity
+Time Spiral Remastered: Extras
+1	Nullmage Shepherd
+1	Oakhame Adversary
+1	Obelisk of Urd
+1	Oblivion Ring
+1	Oketra's Monument
+1	Old One Eye
+1	Patriar's Seal
+1	Radiant Destiny
+1	Radiant, Serra Archangel
+1	Rings of Brighthearth
+1	Rustic Clachan
+4	Seasoned Dungeoneer
+1	Seht's Tiger
+1	Sharpshooter Elf
+1	Slaughter the Strong
+4	Soul-Guide Lantern
+1	Spear of Heliod
+1	Springjack Shepherd
+4	Springleaf Drum (V.1)
+Retro Frame Artifacts Version 1
+1	Steel Seraph
+1	Stoneforge Masterwork
+1	Surge of Thoughtweft
+1	Swiftfoot Boots
+1	Sword-Swallowing Seraph
+1	Thousand-Year Elixir
+4	Touch the Spirit Realm
+1	Trove Warden
+1	True Conviction
+1	Umbral Mantle
+4	Undermountain Adventurer
+Commander Legends: Battle for Baldur's Gate
+
+	Any	Any	Any	N/A	N
+	Any	Any	Any	N/A	N
+		1	Wall of Roots (Anniversary Celebration)
+4	White Plume Adventurer
+1	Wood Elves (30th Anniversary Celebration)
+
+	Any	Any	Any	N/A
