@@ -70,7 +70,6 @@
         <card number="1" name="Martial Coup"/>
         <card number="1" name="Wrath of God"/>
         <card number="1" name="Descend upon the Sinful"/>
-        <card number="1" name="Knight of the White Orchid"/>
         <card number="1" name="Reidane, God of the Worthy"/>
         <card number="1" name="Palace Jailer"/>
         <card number="1" name="Battlegrace Angel"/>
@@ -81,6 +80,8 @@
         <card number="1" name="Heraldic Banner"/>
         <card number="1" name="Ondu Inversion"/>
         <card number="1" name="Rally the Ranks"/>
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
+        <card number="1" name="Knight of the White Orchid"/>
     </zone>
     <zone name="tokens">
         <card number="6" name="Human Token"/>
@@ -94,7 +95,6 @@
         <card number="1" name="Akroma's Will"/>
         <card number="1" name="Teferi's Protection"/>
         <card number="1" name="Bonders' Enclave"/>
-        <card number="1" name="Eiganjo, Seat of the Empire"/>
         <card number="1" name="Defy Death"/>
         <card number="1" name="Revoke Existence"/>
         <card number="1" name="Sanctify"/>
@@ -118,5 +118,6 @@
         <card number="1" name="Thraben Watcher"/>
         <card number="1" name="Valkyrie Harbinger"/>
         <card number="1" name="Youthful Valkyrie"/>
+        <card number="1" name="Radiant, Serra Archangel"/>
     </zone>
 </cockatrice_deck>
