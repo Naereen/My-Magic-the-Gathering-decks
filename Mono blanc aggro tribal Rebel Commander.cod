@@ -45,7 +45,7 @@
         <card number="1" name="Rally the Ranks"/>
         <card number="1" name="Bastion Protector"/>
         <card number="1" name="Knight of the White Orchid"/>
-        <card number="1" name="Bound in Silence"/>
+        <card number="3" name="Bound in Silence"/>
         <card number="1" name="Crib Swap"/>
         <card number="1" name="Surge of Thoughtweft"/>
         <card number="1" name="Amrou Scout"/>
@@ -63,7 +63,6 @@
         <card number="1" name="Heraldic Banner"/>
         <card number="1" name="Strixhaven Stadium"/>
         <card number="1" name="Mentor of the Meek"/>
-        <card number="1" name="Drumbellower"/>
         <card number="1" name="Cenn's Enlistment"/>
         <card number="1" name="Dusk // Dawn"/>
         <card number="1" name="Slaughter the Strong"/>
@@ -84,6 +83,28 @@
         <card number="1" name="Rustic Clachan"/>
         <card number="1" name="Mutavault"/>
         <card number="1" name="Cathedral of War"/>
+        <card number="1" name="Aven Riftwatcher"/>
+        <card number="2" name="Cho-Arrim Bruiser"/>
+        <card number="2" name="Cho-Manno, Revolutionary"/>
+        <card number="2" name="Defiant Falcon"/>
+        <card number="2" name="Defiant Vanguard"/>
+        <card number="2" name="Errant Doomsayers"/>
+        <card number="1" name="Jhovall Queen"/>
+        <card number="1" name="Jhovall Rider"/>
+        <card number="1" name="Knight of the Holy Nimbus"/>
+        <card number="1" name="Lawbringer"/>
+        <card number="1" name="Lightbringer"/>
+        <card number="1" name="Lin Sivvi, Defiant Hero"/>
+        <card number="1" name="Outrider en-Kor"/>
+        <card number="1" name="Pious Warrior"/>
+        <card number="1" name="Ramosian Captain"/>
+        <card number="1" name="Children of Korlis"/>
+        <card number="1" name="Universal Automaton"/>
+        <card number="1" name="Ramosian Commander"/>
+        <card number="1" name="Drumbellower"/>
+        <card number="1" name="Ramosian Sky Marshal"/>
+        <card number="1" name="Riftmarked Knight"/>
+        <card number="1" name="Samite Censer-Bearer"/>
     </zone>
     <zone name="side">
         <card number="1" name="Smothering Tithe"/>
