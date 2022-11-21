@@ -2,7 +2,7 @@
 <cockatrice_deck version="1">
     <deckname>Mono blanc aggro tribal Kithkin/sangami</deckname>
     <comments>https://www.cardmarket.com/en/Magic/Wants/14523631
-52 cartes à retirer, gros chantier en bordel</comments>
+35 cartes à METTTRE puis ajouter, gros chantier en bordel</comments>
     <zone name="main">
         <card number="1" name="Castle Ardenvale"/>
         <card number="1" name="Path to Exile"/>
@@ -46,47 +46,9 @@
         <card number="1" name="Sanctify"/>
         <card number="1" name="Rally the Ranks"/>
         <card number="1" name="Knight of the White Orchid"/>
-        <card number="1" name="Bound in Silence"/>
         <card number="1" name="Crib Swap"/>
-        <card number="1" name="Mosquito Guard"/>
-        <card number="1" name="Goldmeadow Dodger"/>
-        <card number="1" name="Burrenton Forge-Tender"/>
-        <card number="1" name="Cenn's Tactician"/>
-        <card number="1" name="Goldmeadow Harrier"/>
-        <card number="1" name="Goldmeadow Stalwart"/>
-        <card number="1" name="Cenn's Heir"/>
         <card number="1" name="Surge of Thoughtweft"/>
-        <card number="1" name="Order of the Golden Cricket"/>
-        <card number="1" name="Patrol Signaler"/>
-        <card number="1" name="Kithkin Zealot"/>
         <card number="1" name="Militia's Pride"/>
-        <card number="1" name="Kinsbaile Skirmisher"/>
-        <card number="1" name="Kithkin Shielddare"/>
-        <card number="1" name="Mistmeadow Skulk"/>
-        <card number="1" name="Wizened Cenn"/>
-        <card number="1" name="Knight of Meadowgrain"/>
-        <card number="1" name="Kinsbaile Borderguard"/>
-        <card number="1" name="Order of Whiteclay"/>
-        <card number="1" name="Burrenton Bombardier"/>
-        <card number="1" name="Kithkin Healer"/>
-        <card number="1" name="Kithkin Harbinger"/>
-        <card number="1" name="Preeminent Captain"/>
-        <card number="1" name="Kithkin Zephyrnaut"/>
-        <card number="1" name="Kinsbaile Courier"/>
-        <card number="1" name="Springjack Knight"/>
-        <card number="1" name="Thoughtweft Trio"/>
-        <card number="1" name="Brigid, Hero of Kinsbaile"/>
-        <card number="1" name="Kinsbaile Balloonist"/>
-        <card number="1" name="Springjack Shepherd"/>
-        <card number="1" name="Goldmeadow Lookout"/>
-        <card number="1" name="Kithkin Rabble"/>
-        <card number="1" name="Galepowder Mage"/>
-        <card number="1" name="Kinsbaile Cavalier"/>
-        <card number="1" name="Plover Knights"/>
-        <card number="1" name="Battletide Alchemist"/>
-        <card number="1" name="Kithkin Spellduster"/>
-        <card number="1" name="Resplendent Mentor"/>
-        <card number="1" name="Burrenton Shield-Bearers"/>
         <card number="1" name="Adaptive Automaton"/>
         <card number="1" name="Metallic Mimic"/>
         <card number="1" name="Icon of Ancestry"/>
@@ -97,10 +59,8 @@
         <card number="1" name="Hall of Triumph"/>
         <card number="1" name="Stoneforge Masterwork"/>
         <card number="1" name="Heraldic Banner"/>
-        <card number="1" name="Cloudgoat Ranger"/>
         <card number="1" name="Mentor of the Meek"/>
         <card number="1" name="Drumbellower"/>
-        <card number="1" name="Cenn's Enlistment"/>
         <card number="1" name="Dusk // Dawn"/>
         <card number="1" name="Slaughter the Strong"/>
         <card number="1" name="Austere Command"/>
@@ -108,11 +68,9 @@
         <card number="1" name="Spear of Heliod"/>
         <card number="1" name="Konda's Banner"/>
         <card number="1" name="Radiant Destiny"/>
-        <card number="1" name="Glorious Anthem"/>
         <card number="1" name="Shared Triumph"/>
         <card number="1" name="Always Watching"/>
         <card number="1" name="Kithkin Armor"/>
-        <card number="1" name="True Conviction"/>
         <card number="1" name="Oblivion Ring"/>
         <card number="1" name="Borrowed Time"/>
         <card number="1" name="Banishing Light"/>
