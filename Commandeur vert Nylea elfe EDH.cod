@@ -63,7 +63,6 @@
         <card number="1" name="Reclamation Sage"/>
         <card number="1" name="Circle of Dreams Druid"/>
         <card number="1" name="Realmwalker"/>
-        <card number="1" name="Elvish Vanguard"/>
         <card number="1" name="Seedborn Muse"/>
         <card number="1" name="Wildborn Preserver"/>
         <card number="1" name="Throne of the God-Pharaoh"/>
@@ -86,6 +85,7 @@
         <card number="1" name="Lair of the Hydra"/>
         <card number="1" name="Entourage of Trest"/>
         <card number="1" name="Okina, Temple to the Grandfathers"/>
+        <card number="1" name="Gala Greeters"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="Tyvar Kell (Emblem)"/>
@@ -102,5 +102,6 @@
         <card number="1" name="Gladecover Scout"/>
         <card number="1" name="Blossoming Defense"/>
         <card number="1" name="Wirewood Hivemaster"/>
+        <card number="1" name="Elvish Vanguard"/>
     </zone>
 </cockatrice_deck>
