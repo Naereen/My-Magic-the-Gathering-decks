@@ -2,7 +2,7 @@
 <cockatrice_deck version="1">
     <deckname>Mono blanc aggro tribal Rebels</deckname>
     <comments>https://www.cardmarket.com/en/Magic/Wants/14523631
-35 cartes à enlever</comments>
+29 cartes à enlever</comments>
     <zone name="main">
         <card number="1" name="Castle Ardenvale"/>
         <card number="1" name="Path to Exile"/>
@@ -78,6 +78,35 @@
         <card number="1" name="Rustic Clachan"/>
         <card number="1" name="Mutavault"/>
         <card number="1" name="Ascend from Avernus"/>
+        <card number="1" name="Ramosian Sergeant"/>
+        <card number="1" name="Children of Korlis"/>
+        <card number="1" name="Amrou Scout"/>
+        <card number="1" name="Defiant Falcon"/>
+        <card number="1" name="Steadfast Guard"/>
+        <card number="1" name="Whipcorder"/>
+        <card number="1" name="Knight of the Holy Nimbus"/>
+        <card number="1" name="Lin Sivvi, Defiant Hero"/>
+        <card number="1" name="Riftmarked Knight"/>
+        <card number="1" name="Ramosian Captain"/>
+        <card number="1" name="Bound in Silence"/>
+        <card number="1" name="Zealot il-Vec"/>
+        <card number="1" name="Outrider en-Kor"/>
+        <card number="1" name="Amrou Seekers"/>
+        <card number="1" name="Nightwind Glider"/>
+        <card number="1" name="Soul Charmer"/>
+        <card number="1" name="Aven Riftwatcher"/>
+        <card number="1" name="Thermal Glider"/>
+        <card number="1" name="Defiant Vanguard"/>
+        <card number="1" name="Reveille Squad"/>
+        <card number="1" name="Rappelling Scouts"/>
+        <card number="1" name="Ramosian Commander"/>
+        <card number="1" name="Cho-Manno, Revolutionary"/>
+        <card number="1" name="Ramosian Revivalist"/>
+        <card number="1" name="Pious Warrior"/>
+        <card number="1" name="Ramosian Sky Marshal"/>
+        <card number="1" name="Jhovall Rider"/>
+        <card number="1" name="Jhovall Queen"/>
+        <card number="1" name="Cho-Arrim Bruiser"/>
     </zone>
     <zone name="side">
         <card number="1" name="Smothering Tithe"/>
