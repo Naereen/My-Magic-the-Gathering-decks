@@ -118,5 +118,6 @@ See https://mtg.fandom.com/wiki/Companion#Rulings</comments>
         <card number="1" name="Smothering Tithe"/>
         <card number="1" name="Anara, Wolvid Familiar"/>
         <card number="1" name="Prava of the Steel Legion"/>
+        <card number="1" name="Seht's Tiger"/>
     </zone>
 </cockatrice_deck>

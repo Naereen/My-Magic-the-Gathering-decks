@@ -6,6 +6,8 @@
 - duel : remove Sol Ring, remove Staff of Domination OR Elvish Champion, depending on the level of the opponent's deck
 - multi : remove two among Staff of Domination, Elvish Champion, Scattershot Archer, depending on the level of the opponent's deck</comments>
     <zone name="main">
+        <card number="1" name="Staff of Titania"/>
+        <card number="1" name="Sharpshooter Elf"/>
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Llanowar Reborn"/>
         <card number="1" name="Llanowar Tribe"/>
@@ -103,5 +105,6 @@
         <card number="1" name="Blossoming Defense"/>
         <card number="1" name="Wirewood Hivemaster"/>
         <card number="1" name="Elvish Vanguard"/>
+        <card number="1" name="Wood Elves"/>
     </zone>
 </cockatrice_deck>

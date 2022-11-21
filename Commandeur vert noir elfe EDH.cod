@@ -3,6 +3,7 @@
     <deckname>Commandeur vert Nylea elfe EDH</deckname>
     <comments></comments>
     <zone name="main">
+        <card number="1" name="Gwenna, Eyes of Gaea"/>
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Llanowar Reborn"/>
         <card number="1" name="Llanowar Tribe"/>
