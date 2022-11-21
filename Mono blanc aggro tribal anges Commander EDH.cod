@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
     <deckname>Mono blanc aggro tribal anges Commander</deckname>
-    <comments></comments>
+    <comments>3 cartes à enlever</comments>
     <zone name="main">
         <card number="1" name="Seraph Sanctuary"/>
         <card number="1" name="Segovian Angel"/>
@@ -78,7 +78,6 @@
         <card number="1" name="Angel of Serenity"/>
         <card number="1" name="Angelic Arbiter"/>
         <card number="1" name="Heraldic Banner"/>
-        <card number="1" name="Ondu Inversion"/>
         <card number="1" name="Rally the Ranks"/>
         <card number="1" name="Eiganjo, Seat of the Empire"/>
         <card number="1" name="Knight of the White Orchid"/>

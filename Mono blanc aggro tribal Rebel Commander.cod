@@ -2,7 +2,7 @@
 <cockatrice_deck version="1">
     <deckname>Mono blanc aggro tribal Rebels Commander</deckname>
     <comments>https://www.cardmarket.com/en/Magic/Wants/14523631
-15 cartes à enlever, et ajouter des monstres ?
+10 cartes à enlever, et ajouter des monstres ?
 </comments>
     <zone name="main">
         <card number="1" name="Patriar's Seal"/>
@@ -22,7 +22,7 @@
         <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Emeria, the Sky Ruin"/>
-        <card number="25" name="Plains"/>
+        <card number="23" name="Plains"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Temple of the False God"/>
         <card number="1" name="Path of Ancestry"/>
@@ -39,8 +39,6 @@
         <card number="1" name="Martial Coup"/>
         <card number="1" name="Palace Jailer"/>
         <card number="1" name="Herald's Horn"/>
-        <card number="1" name="Revoke Existence"/>
-        <card number="1" name="Sanctify"/>
         <card number="1" name="Rally the Ranks"/>
         <card number="1" name="Bastion Protector"/>
         <card number="1" name="Knight of the White Orchid"/>
@@ -93,7 +91,6 @@
         <card number="1" name="Keeper of the Accord"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Springjack Pasture"/>
         <card number="1" name="Mistveil Plains"/>
         <card number="1" name="Idyllic Grange"/>
     </zone>
