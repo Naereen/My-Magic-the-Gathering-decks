@@ -22,14 +22,11 @@
         <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Emeria, the Sky Ruin"/>
-        <card number="23" name="Plains"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Temple of the False God"/>
         <card number="1" name="Path of Ancestry"/>
-        <card number="1" name="Court of Grace"/>
         <card number="1" name="Honor of the Pure"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Umezawa's Jitte"/>
         <card number="1" name="Fateful Absence"/>
@@ -87,12 +84,20 @@
         <card number="1" name="Eiganjo, Seat of the Empire"/>
         <card number="1" name="Platinum Angel"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Aven Mindcensor"/>
         <card number="1" name="Keeper of the Accord"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Mistveil Plains"/>
+        <card number="2" name="Mistveil Plains"/>
         <card number="1" name="Idyllic Grange"/>
+        <card number="1" name="Divine Reckoning"/>
+        <card number="1" name="Zirda, the Dawnwaker"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="War Room"/>
+        <card number="20" name="Snow-Covered Plains"/>
+        <card number="1" name="Faceless Haven"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Court of Grace"/>
+        <card number="1" name="Blind Obedience"/>
     </zone>
     <zone name="side">
         <card number="1" name="Smothering Tithe"/>
@@ -122,5 +127,12 @@
         <card number="1" name="Kithkin Armor"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Caged Sun"/>
+        <card number="1" name="Brave the Elements"/>
+        <card number="1" name="Paraselene"/>
+        <card number="1" name="Elspeth, Sun's Champion"/>
+        <card number="1" name="Land Tax"/>
+        <card number="1" name="Paladin Class"/>
+        <card number="1" name="Brave the Sands"/>
+        <card number="1" name="Deafening Silence"/>
     </zone>
 </cockatrice_deck>
