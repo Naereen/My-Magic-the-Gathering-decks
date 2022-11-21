@@ -33,12 +33,12 @@ See https://mtg.fandom.com/wiki/Companion#Rulings</comments>
         <card number="1" name="Temple of Plenty"/>
         <card number="1" name="Blossoming Sands"/>
         <card number="1" name="Graypelt Refuge"/>
-        <card number="3" name="Plains"/>
+        <card number="2" name="Plains"/>
         <card number="1" name="Okina, Temple to the Grandfathers"/>
         <card number="1" name="Windbrisk Heights"/>
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Oran-Rief, the Vastwood"/>
-        <card number="3" name="Forest"/>
+        <card number="4" name="Forest"/>
         <card number="1" name="Bronzehide Lion"/>
         <card number="1" name="Fleecemane Lion"/>
         <card number="1" name="Phantom Nishoba"/>
@@ -100,6 +100,7 @@ See https://mtg.fandom.com/wiki/Companion#Rulings</comments>
         <card number="1" name="Lion Sash"/>
         <card number="1" name="Leonin Relic-Warder"/>
         <card number="1" name="Trove Warden"/>
+        <card number="1" name="Wooded Bastion"/>
     </zone>
     <zone name="side">
         <card number="1" name="Heroic Intervention"/>
@@ -114,7 +115,8 @@ See https://mtg.fandom.com/wiki/Companion#Rulings</comments>
         <card number="1" name="Armored Skyhunter"/>
         <card number="1" name="Ajani's Sunstriker"/>
         <card number="1" name="Selesnya Signet"/>
-        <card number="1" name="Wooded Bastion"/>
         <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Anara, Wolvid Familiar"/>
+        <card number="1" name="Prava of the Steel Legion"/>
     </zone>
 </cockatrice_deck>
