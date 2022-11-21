@@ -52,7 +52,7 @@
         <card number="1" name="Goldmeadow Dodger"/>
         <card number="1" name="Burrenton Forge-Tender"/>
         <card number="1" name="Cenn's Tactician"/>
-        <card number="4" name="Goldmeadow Harrier"/>
+        <card number="1" name="Goldmeadow Harrier"/>
         <card number="1" name="Goldmeadow Stalwart"/>
         <card number="1" name="Cenn's Heir"/>
         <card number="1" name="Surge of Thoughtweft"/>
@@ -128,6 +128,7 @@
         <card number="1" name="Mutavault"/>
         <card number="1" name="Apothecary Initiate"/>
         <card number="1" name="Ballynock Cohort"/>
+        <card number="1" name="Ascend from Avernus"/>
     </zone>
     <zone name="side">
         <card number="1" name="Smothering Tithe"/>
