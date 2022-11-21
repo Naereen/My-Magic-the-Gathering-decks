@@ -38,7 +38,7 @@ See https://mtg.fandom.com/wiki/Companion#Rulings</comments>
         <card number="1" name="Windbrisk Heights"/>
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Oran-Rief, the Vastwood"/>
-        <card number="4" name="Forest"/>
+        <card number="3" name="Forest"/>
         <card number="1" name="Bronzehide Lion"/>
         <card number="1" name="Fleecemane Lion"/>
         <card number="1" name="Phantom Nishoba"/>
@@ -101,11 +101,11 @@ See https://mtg.fandom.com/wiki/Companion#Rulings</comments>
         <card number="1" name="Leonin Relic-Warder"/>
         <card number="1" name="Trove Warden"/>
         <card number="1" name="Wooded Bastion"/>
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
     </zone>
     <zone name="side">
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Teferi's Protection"/>
-        <card number="1" name="Eiganjo, Seat of the Empire"/>
         <card number="1" name="Urza's Incubator"/>
         <card number="1" name="Mirri, Weatherlight Duelist"/>
         <card number="1" name="Noble Panther"/>
