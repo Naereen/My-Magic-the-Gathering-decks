@@ -3,11 +3,11 @@
     <deckname>Mono blanc aggro tribal Rebels Commander</deckname>
     <comments>https://www.cardmarket.com/en/Magic/Wants/14523631</comments>
     <zone name="main">
+        <card number="1" name="Patriar's Seal"/>
         <card number="1" name="Castle Ardenvale"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Windbrisk Heights"/>
         <card number="1" name="Cave of the Frost Dragon"/>
-        <card number="1" name="Emeria's Call"/>
         <card number="1" name="Sandstone Bridge"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Archaeomancer's Map"/>
@@ -18,10 +18,9 @@
         <card number="1" name="Return to Dust"/>
         <card number="1" name="Finale of Glory"/>
         <card number="1" name="Unbreakable Formation"/>
-        <card number="1" name="Ravnica at War"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Emeria, the Sky Ruin"/>
-        <card number="27" name="Plains"/>
+        <card number="25" name="Plains"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Temple of the False God"/>
         <card number="1" name="Path of Ancestry"/>
@@ -36,8 +35,6 @@
         <card number="1" name="Heliod's Intervention"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Martial Coup"/>
-        <card number="1" name="Wrath of God"/>
-        <card number="1" name="Descend upon the Sinful"/>
         <card number="1" name="Palace Jailer"/>
         <card number="1" name="Herald's Horn"/>
         <card number="1" name="Revoke Existence"/>
@@ -45,38 +42,20 @@
         <card number="1" name="Rally the Ranks"/>
         <card number="1" name="Bastion Protector"/>
         <card number="1" name="Knight of the White Orchid"/>
-        <card number="3" name="Bound in Silence"/>
-        <card number="1" name="Crib Swap"/>
-        <card number="1" name="Surge of Thoughtweft"/>
         <card number="1" name="Amrou Scout"/>
         <card number="1" name="Militia's Pride"/>
         <card number="1" name="Amrou Seekers"/>
         <card number="1" name="Adaptive Automaton"/>
         <card number="1" name="Metallic Mimic"/>
         <card number="1" name="Icon of Ancestry"/>
-        <card number="1" name="Vanquisher's Banner"/>
-        <card number="1" name="Door of Destinies"/>
         <card number="1" name="Obelisk of Urd"/>
-        <card number="1" name="Oketra's Monument"/>
-        <card number="1" name="Hall of Triumph"/>
-        <card number="1" name="Stoneforge Masterwork"/>
         <card number="1" name="Heraldic Banner"/>
-        <card number="1" name="Strixhaven Stadium"/>
         <card number="1" name="Mentor of the Meek"/>
-        <card number="1" name="Cenn's Enlistment"/>
-        <card number="1" name="Dusk // Dawn"/>
-        <card number="1" name="Slaughter the Strong"/>
-        <card number="1" name="Austere Command"/>
-        <card number="1" name="Citywide Bust"/>
         <card number="1" name="Spear of Heliod"/>
         <card number="1" name="Konda's Banner"/>
         <card number="1" name="Radiant Destiny"/>
-        <card number="1" name="Glorious Anthem"/>
         <card number="1" name="Shared Triumph"/>
         <card number="1" name="Always Watching"/>
-        <card number="1" name="Kithkin Armor"/>
-        <card number="1" name="True Conviction"/>
-        <card number="1" name="Oblivion Ring"/>
         <card number="1" name="Borrowed Time"/>
         <card number="1" name="Banishing Light"/>
         <card number="1" name="Force of Virtue"/>
@@ -84,11 +63,11 @@
         <card number="1" name="Mutavault"/>
         <card number="1" name="Cathedral of War"/>
         <card number="1" name="Aven Riftwatcher"/>
-        <card number="2" name="Cho-Arrim Bruiser"/>
-        <card number="2" name="Cho-Manno, Revolutionary"/>
-        <card number="2" name="Defiant Falcon"/>
-        <card number="2" name="Defiant Vanguard"/>
-        <card number="2" name="Errant Doomsayers"/>
+        <card number="1" name="Cho-Arrim Bruiser"/>
+        <card number="1" name="Cho-Manno, Revolutionary"/>
+        <card number="1" name="Defiant Falcon"/>
+        <card number="1" name="Defiant Vanguard"/>
+        <card number="1" name="Errant Doomsayers"/>
         <card number="1" name="Jhovall Queen"/>
         <card number="1" name="Jhovall Rider"/>
         <card number="1" name="Knight of the Holy Nimbus"/>
@@ -101,21 +80,48 @@
         <card number="1" name="Children of Korlis"/>
         <card number="1" name="Universal Automaton"/>
         <card number="1" name="Ramosian Commander"/>
-        <card number="1" name="Drumbellower"/>
         <card number="1" name="Ramosian Sky Marshal"/>
         <card number="1" name="Riftmarked Knight"/>
         <card number="1" name="Samite Censer-Bearer"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
+        <card number="1" name="Platinum Angel"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Springjack Pasture"/>
+        <card number="1" name="Mistveil Plains"/>
+        <card number="1" name="Idyllic Grange"/>
     </zone>
     <zone name="side">
         <card number="1" name="Smothering Tithe"/>
-        <card number="1" name="Akroma's Will"/>
-        <card number="1" name="Teferi's Protection"/>
+        <card number="2" name="Akroma's Will"/>
+        <card number="2" name="Teferi's Protection"/>
         <card number="1" name="Bonders' Enclave"/>
-        <card number="1" name="Eiganjo, Seat of the Empire"/>
         <card number="1" name="Commander's Plate"/>
         <card number="1" name="Kabira Crossroads"/>
         <card number="1" name="Idyllic Grange"/>
         <card number="1" name="Eiganjo Castle"/>
         <card number="1" name="Pearl Medallion"/>
+        <card number="1" name="Citywide Bust"/>
+        <card number="1" name="Descend upon the Sinful"/>
+        <card number="1" name="Dusk // Dawn"/>
+        <card number="1" name="Emeria's Call"/>
+        <card number="1" name="Ravnica at War"/>
+        <card number="1" name="Slaughter the Strong"/>
+        <card number="1" name="Wrath of God"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Drannith Magistrate"/>
+        <card number="1" name="Grand Abolisher"/>
+        <card number="1" name="Kinsbaile Skirmisher"/>
+        <card number="1" name="True Conviction"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="1" name="Kithkin Armor"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Caged Sun"/>
     </zone>
 </cockatrice_deck>
