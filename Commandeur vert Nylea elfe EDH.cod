@@ -40,7 +40,6 @@
         <card number="1" name="Wellwisher"/>
         <card number="1" name="Imperious Perfect"/>
         <card number="1" name="Immaculate Magistrate"/>
-        <card number="1" name="Worldspine Wurm"/>
         <card number="1" name="Quirion Ranger"/>
         <card number="1" name="Joraga Warcaller"/>
         <card number="1" name="Snakeskin Veil"/>
@@ -75,7 +74,6 @@
         <card number="1" name="Gaea's Cradle"/>
         <card number="1" name="Elvish Visionary"/>
         <card number="1" name="Wren's Run Vanquisher"/>
-        <card number="1" name="Terastodon"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Treetop Village"/>
         <card number="1" name="Basilisk Collar"/>
@@ -106,5 +104,7 @@
         <card number="1" name="Wirewood Hivemaster"/>
         <card number="1" name="Elvish Vanguard"/>
         <card number="1" name="Wood Elves"/>
+        <card number="1" name="Worldspine Wurm"/>
+        <card number="1" name="Terastodon"/>
     </zone>
 </cockatrice_deck>
