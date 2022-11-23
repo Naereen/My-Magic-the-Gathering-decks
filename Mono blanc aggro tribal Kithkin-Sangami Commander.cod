@@ -2,7 +2,7 @@
 <cockatrice_deck version="1">
     <deckname>Mono blanc aggro tribal Kithkin/sangami</deckname>
     <comments>https://www.cardmarket.com/en/Magic/Wants/14523631
-29 cartes à enlever</comments>
+14 cartes à enlever</comments>
     <zone name="main">
         <card number="1" name="Castle Ardenvale"/>
         <card number="1" name="Path to Exile"/>
@@ -16,21 +16,17 @@
         <card number="1" name="Makindi Stampede"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Radiant Purge"/>
-        <card number="1" name="Return to Dust"/>
         <card number="1" name="Finale of Glory"/>
         <card number="1" name="Unbreakable Formation"/>
-        <card number="1" name="Ravnica at War"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Emeria, the Sky Ruin"/>
         <card number="27" name="Plains"/>
         <card number="1" name="Ghostly Prison"/>
-        <card number="1" name="Study Hall"/>
         <card number="1" name="Temple of the False God"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Court of Grace"/>
         <card number="1" name="Honor of the Pure"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Umezawa's Jitte"/>
         <card number="1" name="Fateful Absence"/>
@@ -38,11 +34,8 @@
         <card number="1" name="Heliod's Intervention"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Martial Coup"/>
-        <card number="1" name="Descend upon the Sinful"/>
         <card number="1" name="Palace Jailer"/>
         <card number="1" name="Herald's Horn"/>
-        <card number="1" name="Revoke Existence"/>
-        <card number="1" name="Sanctify"/>
         <card number="1" name="Rally the Ranks"/>
         <card number="1" name="Knight of the White Orchid"/>
         <card number="1" name="Crib Swap"/>
@@ -52,29 +45,19 @@
         <card number="1" name="Metallic Mimic"/>
         <card number="1" name="Obelisk of Urd"/>
         <card number="1" name="Oketra's Monument"/>
-        <card number="1" name="Hall of Triumph"/>
         <card number="1" name="Heraldic Banner"/>
         <card number="1" name="Mentor of the Meek"/>
         <card number="1" name="Drumbellower"/>
-        <card number="1" name="Dusk // Dawn"/>
         <card number="1" name="Slaughter the Strong"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Citywide Bust"/>
         <card number="1" name="Spear of Heliod"/>
-        <card number="1" name="Konda's Banner"/>
-        <card number="1" name="Radiant Destiny"/>
         <card number="1" name="Shared Triumph"/>
-        <card number="1" name="Always Watching"/>
-        <card number="1" name="Kithkin Armor"/>
         <card number="1" name="Oblivion Ring"/>
-        <card number="1" name="Borrowed Time"/>
-        <card number="1" name="Banishing Light"/>
-        <card number="1" name="Force of Virtue"/>
         <card number="1" name="Rustic Clachan"/>
         <card number="1" name="Mutavault"/>
         <card number="1" name="Ascend from Avernus"/>
         <card number="1" name="Mirror Entity"/>
-        <card number="1" name="Irregular Cohort"/>
         <card number="1" name="Avian Changeling"/>
         <card number="1" name="Kithkin Spellduster"/>
         <card number="1" name="Battletide Alchemist"/>
@@ -107,6 +90,8 @@
         <card number="1" name="Goldmeadow Stalwart"/>
         <card number="1" name="Cenn's Tactician"/>
         <card number="1" name="Goldmeadow Dodger"/>
+        <card number="1" name="Kithkin Armor"/>
+        <card number="1" name="Sun Titan"/>
     </zone>
     <zone name="side">
         <card number="1" name="Smothering Tithe"/>
