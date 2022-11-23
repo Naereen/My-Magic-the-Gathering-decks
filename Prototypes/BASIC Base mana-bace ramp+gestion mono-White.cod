@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Mono blanc aggro tribal Rebels Commander</deckname>
-    <comments>https://www.cardmarket.com/en/Magic/Wants/14523631</comments>
+    <deckname>BASIC Base mana-bace ramp+gestion mono-White</deckname>
+    <comments>BASIC Base mana-bace ramp+gestion mono-White</comments>
     <zone name="main">
         <card number="1" name="Castle Ardenvale"/>
         <card number="1" name="Path to Exile"/>
@@ -39,26 +39,15 @@
         <card number="1" name="Wrath of God"/>
         <card number="1" name="Descend upon the Sinful"/>
         <card number="1" name="Palace Jailer"/>
-        <card number="1" name="Herald's Horn"/>
         <card number="1" name="Revoke Existence"/>
         <card number="1" name="Sanctify"/>
         <card number="1" name="Rally the Ranks"/>
         <card number="1" name="Bastion Protector"/>
         <card number="1" name="Knight of the White Orchid"/>
         <card number="1" name="Crib Swap"/>
-        <card number="1" name="Surge of Thoughtweft"/>
         <card number="1" name="Militia's Pride"/>
         <card number="1" name="Adaptive Automaton"/>
         <card number="1" name="Metallic Mimic"/>
-        <card number="1" name="Icon of Ancestry"/>
-        <card number="1" name="Vanquisher's Banner"/>
-        <card number="1" name="Door of Destinies"/>
-        <card number="1" name="Obelisk of Urd"/>
-        <card number="1" name="Oketra's Monument"/>
-        <card number="1" name="Hall of Triumph"/>
-        <card number="1" name="Stoneforge Masterwork"/>
-        <card number="1" name="Heraldic Banner"/>
-        <card number="1" name="Strixhaven Stadium"/>
         <card number="1" name="Mentor of the Meek"/>
         <card number="1" name="Drumbellower"/>
         <card number="1" name="Cenn's Enlistment"/>
@@ -66,13 +55,10 @@
         <card number="1" name="Slaughter the Strong"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Citywide Bust"/>
-        <card number="1" name="Spear of Heliod"/>
-        <card number="1" name="Konda's Banner"/>
         <card number="1" name="Radiant Destiny"/>
         <card number="1" name="Glorious Anthem"/>
         <card number="1" name="Shared Triumph"/>
         <card number="1" name="Always Watching"/>
-        <card number="1" name="Kithkin Armor"/>
         <card number="1" name="True Conviction"/>
         <card number="1" name="Oblivion Ring"/>
         <card number="1" name="Borrowed Time"/>
@@ -81,7 +67,6 @@
         <card number="1" name="Rustic Clachan"/>
         <card number="1" name="Mutavault"/>
         <card number="1" name="Cathedral of War"/>
-        <card number="1" name="Universal Automaton"/>
     </zone>
     <zone name="side">
         <card number="1" name="Smothering Tithe"/>
