@@ -80,6 +80,7 @@ https://www.cardmarket.com/en/Magic/Wants/13834225</comments>
         <card number="1" name="Cho-Arrim Bruiser"/>
         <card number="1" name="Emeria's Call"/>
         <card number="1" name="Elspeth, Sun's Champion"/>
+        <card number="1" name="Universal Automaton"/>
     </zone>
     <zone name="side">
         <card number="1" name="Smothering Tithe"/>
