@@ -2,7 +2,7 @@
 <cockatrice_deck version="1">
     <deckname>Mono blanc aggro tribal Rebels</deckname>
     <comments>https://www.cardmarket.com/en/Magic/Wants/14523631
-16 cartes à enlever</comments>
+5 cartes à enlever</comments>
     <zone name="main">
         <card number="1" name="Castle Ardenvale"/>
         <card number="1" name="Path to Exile"/>
@@ -15,8 +15,6 @@
         <card number="1" name="Makindi Stampede"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Radiant Purge"/>
-        <card number="1" name="Return to Dust"/>
-        <card number="1" name="Finale of Glory"/>
         <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Ravnica at War"/>
         <card number="1" name="Rogue's Passage"/>
@@ -29,16 +27,13 @@
         <card number="1" name="Court of Grace"/>
         <card number="1" name="Honor of the Pure"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Umezawa's Jitte"/>
         <card number="1" name="Fateful Absence"/>
         <card number="1" name="Sejiri Shelter"/>
         <card number="1" name="Heliod's Intervention"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Martial Coup"/>
         <card number="1" name="Palace Jailer"/>
-        <card number="1" name="Herald's Horn"/>
         <card number="1" name="Revoke Existence"/>
         <card number="1" name="Sanctify"/>
         <card number="1" name="Rally the Ranks"/>
@@ -56,11 +51,8 @@
         <card number="1" name="Slaughter the Strong"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Citywide Bust"/>
-        <card number="1" name="Spear of Heliod"/>
-        <card number="1" name="Radiant Destiny"/>
         <card number="1" name="Shared Triumph"/>
         <card number="1" name="Always Watching"/>
-        <card number="1" name="Kithkin Armor"/>
         <card number="1" name="Oblivion Ring"/>
         <card number="1" name="Borrowed Time"/>
         <card number="1" name="Banishing Light"/>
@@ -79,17 +71,14 @@
         <card number="1" name="Ramosian Captain"/>
         <card number="1" name="Bound in Silence"/>
         <card number="1" name="Zealot il-Vec"/>
-        <card number="1" name="Outrider en-Kor"/>
         <card number="1" name="Amrou Seekers"/>
         <card number="1" name="Nightwind Glider"/>
-        <card number="1" name="Soul Charmer"/>
         <card number="1" name="Aven Riftwatcher"/>
         <card number="1" name="Thermal Glider"/>
         <card number="1" name="Defiant Vanguard"/>
         <card number="1" name="Reveille Squad"/>
         <card number="1" name="Rappelling Scouts"/>
         <card number="1" name="Ramosian Commander"/>
-        <card number="1" name="Cho-Manno, Revolutionary"/>
         <card number="1" name="Ramosian Revivalist"/>
         <card number="1" name="Ramosian Sky Marshal"/>
         <card number="1" name="Jhovall Rider"/>
