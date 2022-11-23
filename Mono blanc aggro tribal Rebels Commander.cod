@@ -2,13 +2,12 @@
 <cockatrice_deck version="1">
     <deckname>Mono blanc aggro tribal Rebels</deckname>
     <comments>https://www.cardmarket.com/en/Magic/Wants/14523631
-29 cartes à enlever</comments>
+16 cartes à enlever</comments>
     <zone name="main">
         <card number="1" name="Castle Ardenvale"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Windbrisk Heights"/>
         <card number="1" name="Cave of the Frost Dragon"/>
-        <card number="1" name="Emeria's Call"/>
         <card number="1" name="Sandstone Bridge"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Archaeomancer's Map"/>
@@ -22,7 +21,7 @@
         <card number="1" name="Ravnica at War"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Emeria, the Sky Ruin"/>
-        <card number="27" name="Plains"/>
+        <card number="25" name="Plains"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Study Hall"/>
         <card number="1" name="Temple of the False God"/>
@@ -38,8 +37,6 @@
         <card number="1" name="Heliod's Intervention"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Martial Coup"/>
-        <card number="1" name="Wrath of God"/>
-        <card number="1" name="Descend upon the Sinful"/>
         <card number="1" name="Palace Jailer"/>
         <card number="1" name="Herald's Horn"/>
         <card number="1" name="Revoke Existence"/>
@@ -51,22 +48,15 @@
         <card number="1" name="Militia's Pride"/>
         <card number="1" name="Adaptive Automaton"/>
         <card number="1" name="Metallic Mimic"/>
-        <card number="1" name="Icon of Ancestry"/>
-        <card number="1" name="Vanquisher's Banner"/>
-        <card number="1" name="Door of Destinies"/>
         <card number="1" name="Obelisk of Urd"/>
-        <card number="1" name="Oketra's Monument"/>
         <card number="1" name="Hall of Triumph"/>
-        <card number="1" name="Stoneforge Masterwork"/>
         <card number="1" name="Heraldic Banner"/>
         <card number="1" name="Mentor of the Meek"/>
         <card number="1" name="Drumbellower"/>
-        <card number="1" name="Dusk // Dawn"/>
         <card number="1" name="Slaughter the Strong"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Citywide Bust"/>
         <card number="1" name="Spear of Heliod"/>
-        <card number="1" name="Konda's Banner"/>
         <card number="1" name="Radiant Destiny"/>
         <card number="1" name="Shared Triumph"/>
         <card number="1" name="Always Watching"/>
@@ -74,7 +64,6 @@
         <card number="1" name="Oblivion Ring"/>
         <card number="1" name="Borrowed Time"/>
         <card number="1" name="Banishing Light"/>
-        <card number="1" name="Force of Virtue"/>
         <card number="1" name="Rustic Clachan"/>
         <card number="1" name="Mutavault"/>
         <card number="1" name="Ascend from Avernus"/>
@@ -102,11 +91,11 @@
         <card number="1" name="Ramosian Commander"/>
         <card number="1" name="Cho-Manno, Revolutionary"/>
         <card number="1" name="Ramosian Revivalist"/>
-        <card number="1" name="Pious Warrior"/>
         <card number="1" name="Ramosian Sky Marshal"/>
         <card number="1" name="Jhovall Rider"/>
         <card number="1" name="Jhovall Queen"/>
         <card number="1" name="Cho-Arrim Bruiser"/>
+        <card number="1" name="Emeria's Call"/>
     </zone>
     <zone name="side">
         <card number="1" name="Smothering Tithe"/>

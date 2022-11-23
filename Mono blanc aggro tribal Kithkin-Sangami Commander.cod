@@ -2,7 +2,7 @@
 <cockatrice_deck version="1">
     <deckname>Mono blanc aggro tribal Kithkin/sangami</deckname>
     <comments>https://www.cardmarket.com/en/Magic/Wants/14523631
-34 cartes à enlever</comments>
+30 cartes à enlever</comments>
     <zone name="main">
         <card number="1" name="Castle Ardenvale"/>
         <card number="1" name="Path to Exile"/>
@@ -50,13 +50,9 @@
         <card number="1" name="Militia's Pride"/>
         <card number="1" name="Adaptive Automaton"/>
         <card number="1" name="Metallic Mimic"/>
-        <card number="1" name="Icon of Ancestry"/>
-        <card number="1" name="Vanquisher's Banner"/>
-        <card number="1" name="Door of Destinies"/>
         <card number="1" name="Obelisk of Urd"/>
         <card number="1" name="Oketra's Monument"/>
         <card number="1" name="Hall of Triumph"/>
-        <card number="1" name="Stoneforge Masterwork"/>
         <card number="1" name="Heraldic Banner"/>
         <card number="1" name="Mentor of the Meek"/>
         <card number="1" name="Drumbellower"/>
@@ -101,7 +97,6 @@
         <card number="1" name="Kinsbaile Borderguard"/>
         <card number="1" name="Knight of Meadowgrain"/>
         <card number="1" name="Wizened Cenn"/>
-        <card number="1" name="Gaddock Teeg"/>
         <card number="1" name="Mistmeadow Skulk"/>
         <card number="1" name="Patrol Signaler"/>
         <card number="1" name="Ballyrush Banneret"/>
@@ -124,5 +119,6 @@
         <card number="1" name="Idyllic Grange"/>
         <card number="1" name="Eiganjo Castle"/>
         <card number="1" name="Pearl Medallion"/>
+        <card number="1" name="Gaddock Teeg"/>
     </zone>
 </cockatrice_deck>
