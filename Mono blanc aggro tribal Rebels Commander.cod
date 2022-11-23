@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
     <deckname>Mono blanc aggro tribal Rebels</deckname>
-    <comments>https://www.cardmarket.com/en/Magic/Wants/14523631
-5 cartes à enlever</comments>
+    <comments>C'est bon avec les cartes de la dernière commande :
+https://www.cardmarket.com/en/Magic/Wants/13834225</comments>
     <zone name="main">
         <card number="1" name="Castle Ardenvale"/>
         <card number="1" name="Path to Exile"/>
@@ -14,9 +14,7 @@
         <card number="1" name="Kabira Takedown"/>
         <card number="1" name="Makindi Stampede"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Radiant Purge"/>
         <card number="1" name="Unbreakable Formation"/>
-        <card number="1" name="Ravnica at War"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Emeria, the Sky Ruin"/>
         <card number="25" name="Plains"/>
@@ -27,7 +25,6 @@
         <card number="1" name="Court of Grace"/>
         <card number="1" name="Honor of the Pure"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Mind Stone"/>
         <card number="1" name="Umezawa's Jitte"/>
         <card number="1" name="Fateful Absence"/>
         <card number="1" name="Sejiri Shelter"/>
@@ -53,9 +50,6 @@
         <card number="1" name="Citywide Bust"/>
         <card number="1" name="Shared Triumph"/>
         <card number="1" name="Always Watching"/>
-        <card number="1" name="Oblivion Ring"/>
-        <card number="1" name="Borrowed Time"/>
-        <card number="1" name="Banishing Light"/>
         <card number="1" name="Rustic Clachan"/>
         <card number="1" name="Mutavault"/>
         <card number="1" name="Ascend from Avernus"/>
@@ -85,6 +79,7 @@
         <card number="1" name="Jhovall Queen"/>
         <card number="1" name="Cho-Arrim Bruiser"/>
         <card number="1" name="Emeria's Call"/>
+        <card number="1" name="Elspeth, Sun's Champion"/>
     </zone>
     <zone name="side">
         <card number="1" name="Smothering Tithe"/>
@@ -97,5 +92,8 @@
         <card number="1" name="Idyllic Grange"/>
         <card number="1" name="Eiganjo Castle"/>
         <card number="1" name="Pearl Medallion"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Elspeth, Sun's Champion (Emblem)"/>
     </zone>
 </cockatrice_deck>
