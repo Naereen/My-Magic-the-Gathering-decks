@@ -125,5 +125,6 @@
         <card number="1" name="Youthful Valkyrie"/>
         <card number="1" name="Radiant, Serra Archangel"/>
         <card number="1" name="Gift of Estates"/>
+        <card number="1" name="Commander's Insignia"/>
     </zone>
 </cockatrice_deck>
