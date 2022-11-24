@@ -4,7 +4,6 @@
     <comments>Mon deck commandeur favori, construit par moi-même. Je n'ai pas joué les vieux bilands parce que je ne les ai pas en vrai, je préfère jouer le deck exactement comme je l'ai.</comments>
     <zone name="side">
         <card number="1" name="Doran, the Siege Tower"/>
-        <card number="1" name="Gorm the Great"/>
     </zone>
     <zone name="main">
         <card number="1" name="Flagstones of Trokair"/>
