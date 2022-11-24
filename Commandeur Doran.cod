@@ -64,7 +64,6 @@
         <card number="1" name="Cathar's Shield"/>
         <card number="1" name="Murmuring Bosk"/>
         <card number="1" name="Shambling Vent"/>
-        <card number="1" name="Adeline, Resplendent Cathar"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Life // Death"/>
         <card number="1" name="Ornithopter"/>
@@ -106,5 +105,6 @@
         <card number="2" name="Forest"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Gorm the Great"/>
     </zone>
 </cockatrice_deck>
