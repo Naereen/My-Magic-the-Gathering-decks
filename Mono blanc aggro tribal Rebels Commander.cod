@@ -2,7 +2,10 @@
 <cockatrice_deck version="1">
     <deckname>Mono blanc aggro tribal Rebels</deckname>
     <comments>C'est bon avec les cartes de la dernière commande :
-https://www.cardmarket.com/en/Magic/Wants/13834225</comments>
+https://www.cardmarket.com/en/Magic/Wants/13834225
+
+Cf. https://edhrec.com/commanders/lin-sivvi-defiant-hero/rebel
+</comments>
     <zone name="main">
         <card number="1" name="Castle Ardenvale"/>
         <card number="1" name="Path to Exile"/>
@@ -17,7 +20,6 @@ https://www.cardmarket.com/en/Magic/Wants/13834225</comments>
         <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Emeria, the Sky Ruin"/>
-        <card number="25" name="Plains"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Study Hall"/>
         <card number="1" name="Temple of the False God"/>
@@ -81,6 +83,20 @@ https://www.cardmarket.com/en/Magic/Wants/13834225</comments>
         <card number="1" name="Emeria's Call"/>
         <card number="1" name="Elspeth, Sun's Champion"/>
         <card number="1" name="Universal Automaton"/>
+        <card number="21" name="Snow-Covered Plains"/>
+        <card number="1" name="Illusionist's Bracers"/>
+        <card number="1" name="Konda's Banner"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Idyllic Grange"/>
+        <card number="1" name="Shefet Dunes"/>
+        <card number="1" name="Rings of Brighthearth"/>
+        <card number="1" name="Shield Dancer"/>
+        <card number="1" name="Hallowed Burial"/>
+        <card number="1" name="Gift of Estates"/>
+        <card number="1" name="Terminus"/>
+        <card number="1" name="Bloodline Pretender"/>
+        <card number="1" name="Solemn Simulacrum"/>
     </zone>
     <zone name="side">
         <card number="1" name="Smothering Tithe"/>
@@ -93,6 +109,11 @@ https://www.cardmarket.com/en/Magic/Wants/13834225</comments>
         <card number="1" name="Idyllic Grange"/>
         <card number="1" name="Eiganjo Castle"/>
         <card number="1" name="Pearl Medallion"/>
+        <card number="1" name="Maskwood Nexus"/>
+        <card number="1" name="Dismantling Wave"/>
+        <card number="1" name="Irregular Cohort"/>
+        <card number="1" name="Soul Charmer"/>
+        <card number="1" name="Condemn"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="Elspeth, Sun's Champion (Emblem)"/>
