@@ -53,7 +53,6 @@
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Herald of War"/>
         <card number="1" name="Emeria, the Sky Ruin"/>
-        <card number="22" name="Plains"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Study Hall"/>
         <card number="1" name="Temple of the False God"/>
@@ -85,6 +84,9 @@
         <card number="1" name="Mutavault"/>
         <card number="1" name="The Book of Exalted Deeds"/>
         <card number="1" name="Idyllic Grange"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="20" name="Snow-Covered Plains"/>
+        <card number="1" name="Shefet Dunes"/>
     </zone>
     <zone name="tokens">
         <card number="6" name="Human Token"/>
@@ -122,5 +124,6 @@
         <card number="1" name="Valkyrie Harbinger"/>
         <card number="1" name="Youthful Valkyrie"/>
         <card number="1" name="Radiant, Serra Archangel"/>
+        <card number="1" name="Gift of Estates"/>
     </zone>
 </cockatrice_deck>
