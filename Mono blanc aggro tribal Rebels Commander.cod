@@ -39,7 +39,6 @@ Cf. https://edhrec.com/commanders/lin-sivvi-defiant-hero/rebel
         <card number="1" name="Knight of the White Orchid"/>
         <card number="1" name="Crib Swap"/>
         <card number="1" name="Surge of Thoughtweft"/>
-        <card number="1" name="Militia's Pride"/>
         <card number="1" name="Adaptive Automaton"/>
         <card number="1" name="Metallic Mimic"/>
         <card number="1" name="Obelisk of Urd"/>
@@ -97,6 +96,7 @@ Cf. https://edhrec.com/commanders/lin-sivvi-defiant-hero/rebel
         <card number="1" name="Terminus"/>
         <card number="1" name="Bloodline Pretender"/>
         <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="True Conviction"/>
     </zone>
     <zone name="side">
         <card number="1" name="Smothering Tithe"/>
@@ -114,6 +114,10 @@ Cf. https://edhrec.com/commanders/lin-sivvi-defiant-hero/rebel
         <card number="1" name="Irregular Cohort"/>
         <card number="1" name="Soul Charmer"/>
         <card number="1" name="Condemn"/>
+        <card number="1" name="Your Temple Is Under Attack"/>
+        <card number="1" name="Silence"/>
+        <card number="1" name="Abolish"/>
+        <card number="1" name="Radiant Destiny"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="Elspeth, Sun's Champion (Emblem)"/>
