@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
     <deckname>Commandeur vert Nylea elfe EDH</deckname>
@@ -10,7 +11,7 @@
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Llanowar Reborn"/>
         <card number="1" name="Llanowar Tribe"/>
-        <card number="22" name="Forest"/>
+        <card number="23" name="Forest"/>
         <card number="1" name="Dwynen, Gilt-Leaf Daen"/>
         <card number="1" name="Wirewood Channeler"/>
         <card number="1" name="Wirewood Lodge"/>
@@ -70,7 +71,6 @@
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Nissa, Worldwaker"/>
         <card number="1" name="Beast Whisperer"/>
-        <card number="1" name="Gaea's Cradle"/>
         <card number="1" name="Elvish Visionary"/>
         <card number="1" name="Wren's Run Vanquisher"/>
         <card number="1" name="Beast Within"/>
