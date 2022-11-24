@@ -20,7 +20,7 @@
         <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Emeria, the Sky Ruin"/>
-        <card number="27" name="Plains"/>
+        <card number="25" name="Plains"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Temple of the False God"/>
         <card number="1" name="Path of Ancestry"/>
@@ -92,6 +92,9 @@
         <card number="1" name="Goldmeadow Dodger"/>
         <card number="1" name="Kithkin Armor"/>
         <card number="1" name="Sun Titan"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Cavern of Souls"/>
     </zone>
     <zone name="side">
         <card number="1" name="Smothering Tithe"/>
