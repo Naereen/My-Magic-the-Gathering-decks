@@ -11,7 +11,7 @@
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Llanowar Reborn"/>
         <card number="1" name="Llanowar Tribe"/>
-        <card number="23" name="Forest"/>
+        <card number="22" name="Forest"/>
         <card number="1" name="Dwynen, Gilt-Leaf Daen"/>
         <card number="1" name="Wirewood Channeler"/>
         <card number="1" name="Wirewood Lodge"/>
@@ -86,6 +86,7 @@
         <card number="1" name="Entourage of Trest"/>
         <card number="1" name="Okina, Temple to the Grandfathers"/>
         <card number="1" name="Gala Greeters"/>
+        <card number="1" name="Cavern of Souls"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="Tyvar Kell (Emblem)"/>
