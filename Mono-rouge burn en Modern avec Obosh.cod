@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono-rouge burn en Modern avec Obosh</deckname>
+    <comments>Mono-rouge burn en Modern avec Obosh.
+
+Jouable en Pauper ou Modern avec qqs changements.</comments>
+    <zone name="main">
+        <card number="13" name="Mountain"/>
+        <card number="2" name="Castle Embereth"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="4" name="Lava Spike"/>
+        <card number="4" name="Monastery Swiftspear"/>
+        <card number="4" name="Goblin Guide"/>
+        <card number="4" name="Bonecrusher Giant // Stomp"/>
+        <card number="3" name="Ball Lightning"/>
+        <card number="4" name="Rift Bolt"/>
+        <card number="2" name="Den of the Bugbear"/>
+        <card number="4" name="Exquisite Firecraft"/>
+        <card number="4" name="Skewer the Critics"/>
+        <card number="3" name="Blood Moon"/>
+        <card number="4" name="Play with Fire"/>
+        <card number="4" name="Burst Lightning"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Obosh, the Preypiercer"/>
+        <card number="4" name="Eidolon of the Great Revel"/>
+        <card number="1" name="Alpine Moon"/>
+        <card number="2" name="Dead // Gone"/>
+        <card number="1" name="Pithing Needle"/>
+        <card number="2" name="Red Elemental Blast"/>
+        <card number="4" name="Searing Blood"/>
+        <card number="4" name="Smash to Smithereens"/>
+        <card number="2" name="Tormod's Crypt"/>
+        <card number="3" name="Volcanic Fallout"/>
+        <card number="1" name="Pyrite Spellbomb"/>
+        <card number="3" name="Sulfuric Vortex"/>
+        <card number="4" name="Roiling Vortex"/>
+    </zone>
+</cockatrice_deck>
