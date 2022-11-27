@@ -2,6 +2,8 @@
 
 After 12 years without playing Magic the Gathering (I stopped in 2009), I started to play again after arriving in Strasbourg in August 2021... and I'm loving it!
 
+*NOTE:* I also use [MoxField](https://www.moxfield.com/users/Naereen) pour tenir mes decks liste, uniquement pour celles que je peux construire en vrai.
+
 This small git repository contains the list of some Magic decks, most of which I don't own physically. Some I do.
 
 There are in the `.cod` format accepted by [Cockatrice](https://cockatrice.github.io/), the awesome free and open-source software to play Magic the Gathering alone or with others online.
