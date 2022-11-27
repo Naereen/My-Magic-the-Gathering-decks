@@ -1,0 +1,99 @@
+1 Abzan Banner
+1 Arctic Treeline
+1 Assault Formation
+1 Belligerent Brontodon
+1 Birds of Paradise
+1 Blossoming Sands
+1 Bojuka Bog
+1 Branchloft Pathway
+1 Brawn
+1 Brushland
+1 Canopy Vista
+1 Carven Caryatid
+1 Cathar's Shield
+1 Colfenor, the Last Yew
+1 Colfenor's Urn
+1 Command Tower
+1 Crumbling Vestige
+1 Despark
+1 Disowned Ancestor
+1 Doran, the Siege Tower
+1 Dryad Arbor
+1 Dusk/Dawn
+1 Eland Umbra
+1 Fateful Absence
+1 Field of Ruin
+1 Flagstones of Trokair
+1 Forbidding Watchtower
+2 Forest
+1 Fracture
+1 Frondland Felidar
+1 Golgari Guildgate
+1 Gorm the Great
+1 Graypelt Refuge
+1 Grizzled Leotau
+1 Huatli, the Sun's Heart
+1 Hushbringer
+1 Ikra Shidiqi, the Usurper
+1 Indatha Crystal
+1 Indatha Triome
+1 Indomitable Ancients
+1 Jungle Hollow
+1 Life/Death
+1 Llanowar Loamspeaker
+1 Magus of the Tabernacle
+1 Meekstone
+1 Mortify
+1 Murmuring Bosk
+1 Nyx-Fleece Ram
+1 Obelisk Spider
+1 Oketra the True
+1 Ornithopter
+1 Orzhov Guildgate
+1 Path of Ancestry
+1 Phyrexian Walker
+1 Primal Might
+1 Putrefy
+1 Reflecting Pool
+1 Return to Nature
+1 Rogue's Passage
+1 Runic Armasaur
+1 Sakura-Tribe Elder
+1 Sandsteppe Citadel
+1 Sapling of Colfenor
+1 Scattered Groves
+1 Scoured Barrens
+1 Seedborn Muse
+1 Selesnya Guildgate
+1 Selesnya Sanctuary
+1 Shadrix Silverquill
+1 Shambling Vent
+1 Sidar Kondo of Jamuraa
+1 Silklash Spider
+1 Skinshifter
+1 Slagwurm Armor
+1 Slaughter the Strong
+1 Snowfield Sinkhole
+1 Status/Statue
+1 Stirring Wildwood
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Temple Garden
+1 Temple of Malady
+1 Temple of Plenty
+1 Temple of Silence
+1 Timber Protector
+1 Tocatli Honor Guard
+1 Tower Defense
+1 Tree of Perdition
+1 Tree of Redemption
+1 Treefolk Harbinger
+1 Treefolk Umbra
+1 Umezawa's Jitte
+1 Unearth
+1 Vindicate
+1 Wall of Hope
+1 Wall of Ice
+1 Wall of Roots
+1 Woodland Chasm
+1 Zetalpa, Primal Dawn

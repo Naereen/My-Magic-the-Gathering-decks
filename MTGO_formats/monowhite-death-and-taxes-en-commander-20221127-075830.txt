@@ -1,0 +1,137 @@
+1 Aether Vial
+1 Angel of Jubilation
+1 Anointed Peacekeeper
+1 Arcane Signet
+1 Archaeomancer's Map
+1 Archon of Coronation
+1 Archon of Emeria
+1 Aura of Silence
+1 Austere Command
+1 Authority of the Consuls
+1 Aven Mindcensor
+1 Banisher Priest
+1 Banishing Light
+1 Bastion Protector
+1 Batterskull
+1 Blast Zone
+1 Blind Obedience
+1 Blossoming Calm
+1 Borrowed Time
+1 Brave the Sands
+1 Castle Ardenvale
+1 Cathedral of War
+1 Cave of the Frost Dragon
+1 Cavern of Souls
+1 Charming Prince
+1 Command Tower
+1 Commander's Plate
+1 Commander's Sphere
+1 Containment Priest
+1 Court of Grace
+1 Cursed Totem
+1 Damping Sphere
+1 Deafening Silence
+1 Deep Gnome Terramancer
+1 Descend upon the Sinful
+1 Dismantling Wave
+1 Drannith Magistrate
+1 Drumbellower
+1 Eidolon of Rhetoric
+1 Eiganjo Castle
+1 Eiganjo, Seat of the Empire
+1 Eldrazi Displacer
+1 Emeria, the Sky Ruin
+1 Emeria's Call
+1 Empyrial Storm
+1 Enduring Angel
+1 Ephemerate
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Extraction Specialist
+1 Faceless Haven
+1 Fateful Absence
+1 Finale of Glory
+1 Flickerwisp
+1 Force of Virtue
+1 Generous Gift
+1 Ghostly Prison
+1 Gift of Estates
+1 Grafdigger's Cage
+1 Hall of Triumph
+1 Hallowed Moonlight
+1 Heliod's Intervention
+1 Honor of the Pure
+1 Hushbringer
+1 Hushwing Gryff
+1 Idyllic Grange
+1 Kabira Crossroads
+1 Kabira Takedown
+1 Kaldra Compleat
+1 Kataki, War's Wage
+1 Knight of the White Orchid
+1 Kor Firewalker
+1 Leonin Arbiter
+1 Leyline of Sanctity
+1 Lightning Greaves
+1 Linvala, Keeper of Silence
+1 Lion Sash
+1 Loran of the Third Path
+1 Makindi Stampede
+1 March of Otherworldly Light
+1 Martial Coup
+1 Mind Stone
+1 Mirror Entity
+1 Mother of Runes
+1 Mutavault
+1 Myrel, Shield of Argive
+1 Oblivion Ring
+1 On Thin Ice
+1 Palace Jailer
+1 Path of Ancestry
+1 Path to Exile
+1 Pearl Medallion
+15 Plains
+1 Platinum Angel
+1 Radiant Purge
+1 Ravnica at War
+1 Rest in Peace
+1 Return to Dust
+1 Revoke Existence
+1 Rishadan Port
+1 Rule of Law
+1 Sanctify
+1 Sandstone Bridge
+1 Scavenger Grounds
+1 Sejiri Shelter
+1 Seraph Sanctuary
+1 Serra's Emissary
+1 Shadowspear
+1 Shalai, Voice of Plenty
+1 Shefet Dunes
+1 Silence
+1 Skyclave Apparition
+1 Slaughter the Strong
+1 Smothering Tithe
+1 Sol Ring
+1 Solemn Simulacrum
+1 Solitude
+1 Spirit of the Labyrinth
+1 Starnheim Unleashed
+1 Stoneforge Mystic
+1 Stony Silence
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Temple of the False God
+1 Thalia, Guardian of Thraben
+1 Thalia, Heretic Cathar
+1 Thorn of Amethyst
+1 Trinisphere
+1 Umezawa's Jitte
+1 Unbreakable Formation
+1 Vryn Wingmare
+1 War Room
+1 Weathered Runestone
+1 White Sun's Zenith
+1 Windbrisk Heights
+1 Wrath of God

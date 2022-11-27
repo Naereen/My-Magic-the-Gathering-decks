@@ -1,0 +1,83 @@
+1 Arbor Elf
+1 Basilisk Collar
+1 Beast Whisperer
+1 Beast Within
+1 Canopy Tactician
+1 Castle Garenbrig
+1 Cavern of Souls
+1 Circle of Dreams Druid
+1 Drove of Elves
+1 Dwynen, Gilt-Leaf Daen
+1 Dwynen's Elite
+1 Elven Ambush
+1 Elvish Archdruid
+1 Elvish Champion
+1 Elvish Mystic
+1 Elvish Soultiller
+1 Elvish Visionary
+1 Elvish Warmaster
+1 Entourage of Trest
+1 Ezuri, Renegade Leader
+1 Ezuri's Archers
+1 Ezuri's Predation
+23 Forest
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Gala Greeters
+1 Glistener Elf
+1 Heedless One
+1 Heritage Druid
+1 Immaculate Magistrate
+1 Imperious Perfect
+1 Jagged-Scar Archers
+1 Jaspera Sentinel
+1 Joraga Treespeaker
+1 Joraga Warcaller
+1 Lair of the Hydra
+1 Llanowar Elves
+1 Llanowar Reborn
+1 Llanowar Tribe
+1 Marwyn, the Nurturer
+1 Mosswort Bridge
+1 Nissa Revane
+1 Nissa, Worldwaker
+1 Nissa's Chosen
+1 Nissa's Judgment
+1 Nylea, Keen-Eyed
+1 Okina, Temple to the Grandfathers
+1 Oran-Rief, the Vastwood
+1 Pendelhaven
+1 Priest of Titania
+1 Quirion Ranger
+1 Realmwalker
+1 Reclamation Sage
+1 Rishkar, Peema Renegade
+1 Scattershot Archer
+1 Seedborn Muse
+1 Sharpshooter Elf
+1 Skullclamp
+1 Snakeskin Veil
+1 Sol Ring
+1 Sprouting Renewal
+1 Staff of Domination
+1 Sylvan Advocate
+1 Thorn Lieutenant
+1 Throne of the God-Pharaoh
+1 Timberwatch Elf
+1 Treetop Village
+1 Umezawa's Jitte
+1 Varis, Silverymoon Ranger
+1 Wellwisher
+1 Wildborn Preserver
+1 Wirewood Channeler
+1 Wirewood Lodge
+1 Wirewood Pride
+1 Wirewood Symbiote
+1 Wolverine Riders
+1 Wren's Run Vanquisher
+1 Yeva, Nature's Herald
+
+SIDEBOARD:
+1 Nylea, God of the Hunt
+1 Old One Eye
+1 Tajuru Preserver

@@ -1,0 +1,104 @@
+1 Ajani, Adversary of Tyrants
+1 Ajani's Pridemate
+1 Anara, Wolvid Familiar
+1 Animal Sanctuary
+1 Arahbo, Roar of the World
+1 Arcane Signet
+1 Arctic Flats
+1 Arctic Treeline
+1 Beast Within
+1 Blossoming Sands
+1 Bountiful Promenade
+1 Branchloft Pathway
+1 Bronzehide Lion
+1 Brushland
+1 Canopy Vista
+1 Cavern of Souls
+1 Command Tower
+1 Commander's Sphere
+1 Cubwarden
+1 Cultivate
+1 Eiganjo, Seat of the Empire
+1 Ezuri's Predation
+1 Farseek
+1 Fateful Absence
+1 Felidar Cub
+1 Felidar Retreat
+1 Felidar Sovereign
+1 Feline Sovereign
+1 Fleecemane Lion
+2 Forest
+1 Fortified Village
+1 Gavony Township
+1 Generous Gift
+1 Graypelt Refuge
+1 Highcliff Felidar
+1 Horizon Canopy
+1 Hungry Lynx
+1 Jareth, Leonine Titan
+1 Jazal Goldmane
+1 Jedit Ojanen of Efrava
+1 Kabira Takedown
+1 Keeper of Fables
+1 Kemba's Skyguard
+1 King of the Pride
+1 Kodama's Reach
+1 Leonin Arbiter
+1 Leonin Relic-Warder
+1 Leonin Skyhunter
+1 Leonin Warleader
+1 Lion Sash
+1 Mirri, Cat Warrior
+1 Mosswort Bridge
+1 Nature's Lore
+1 Nazahn, Revered Bladesmith
+1 Nishoba Brawler
+1 Okina, Temple to the Grandfathers
+1 Oran-Rief, the Vastwood
+1 Oreskos Explorer
+1 Overgrown Farmland
+1 Path to Exile
+1 Pendelhaven
+1 Phantom Nishoba
+2 Plains
+1 Prava of the Steel Legion
+1 Pride Sovereign
+1 Prowling Serpopard
+1 Qasali Ambusher
+1 Qasali Pridemage
+1 Qasali Slingers
+1 Radiant Grove
+1 Rally the Ranks
+1 Razorverge Thicket
+1 Realmwalker
+1 Regal Caracal
+1 Sabertooth Nishoba
+1 Sacred Cat
+1 Savannah
+1 Savannah Lions
+1 Scattered Groves
+1 Secluded Courtyard
+1 Selesnya Charm
+1 Selesnya Sanctuary
+1 Sol Ring
+1 Spirit of the Hearth
+1 Stalking Leonin
+1 Stirring Wildwood
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Swords to Plowshares
+1 Talisman of Unity
+1 Temple Garden
+1 Temple of Plenty
+1 Trove Warden
+1 Turntimber Symbiosis
+1 Umezawa's Jitte
+1 Unbreakable Formation
+1 Unclaimed Territory
+1 White Sun's Zenith
+1 Wild Nacatl
+1 Windbrisk Heights
+1 Wooded Bastion
+
+SIDEBOARD:
+1 Kaheera, the Orphanguard

@@ -1,0 +1,87 @@
+1 Aegis Angel
+1 Akroma, Angel of Wrath
+1 Angel of Finality
+1 Angel of Grace
+1 Angel of Invention
+1 Angel of Jubilation
+1 Angel of Sanctions
+1 Angel of Serenity
+1 Angel of the Dire Hour
+1 Angel of the Ruins
+1 Angel of Vitality
+1 Angelic Arbiter
+1 Angelic Guardian
+1 Angelic Skirmisher
+1 Arcane Signet
+1 Archaeomancer's Map
+1 Baneslayer Angel
+1 Bastion Protector
+1 Battlegrace Angel
+1 Bishop of Wings
+1 Castle Ardenvale
+1 Cave of the Frost Dragon
+1 Cavern of Souls
+1 Court of Grace
+1 Descend upon the Sinful
+1 Eiganjo Castle
+1 Eiganjo, Seat of the Empire
+1 Emeria, the Sky Ruin
+1 Emeria's Call
+1 Empyrial Storm
+1 Enduring Angel
+1 Entreat the Angels
+1 Exquisite Archangel
+1 Fateful Absence
+1 Finale of Glory
+1 Generous Gift
+1 Ghostly Prison
+1 Giada, Font of Hope
+1 Heliod's Intervention
+1 Herald of War
+1 Heraldic Banner
+1 Honor of the Pure
+1 Idyllic Grange
+1 Kabira Takedown
+1 Knight of the White Orchid
+1 Lyra Dawnbringer
+1 Makindi Stampede
+1 Martial Coup
+1 Mind Stone
+1 Mutavault
+1 Palace Jailer
+1 Path of Ancestry
+1 Path to Exile
+19 Plains
+1 Platinum Angel
+1 Radiant Purge
+1 Rally the Ranks
+1 Ravnica at War
+1 Reidane, God of the Worthy
+1 Resplendent Marshal
+1 Return to Dust
+1 Righteous Valkyrie
+1 Rogue's Passage
+1 Sandstone Bridge
+1 Segovian Angel
+1 Sejiri Shelter
+1 Sephara, Sky's Blade
+1 Seraph Sanctuary
+1 Serra's Emissary
+1 Serra's Guardian
+1 Shared Triumph
+1 Shefet Dunes
+1 Sol Ring
+1 Starnheim Aspirant
+1 Starnheim Unleashed
+1 Sunblast Angel
+1 Swords to Plowshares
+1 Temple of the False God
+1 The Book of Exalted Deeds
+1 Umezawa's Jitte
+1 Unbreakable Formation
+1 Windbrisk Heights
+1 Windshaper Planetar
+
+SIDEBOARD:
+1 Akroma, Vision of Ixidor
+1 Radiant, Serra Archangel

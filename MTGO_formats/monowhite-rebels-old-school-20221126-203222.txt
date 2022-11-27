@@ -1,0 +1,86 @@
+1 Adaptive Automaton
+1 Always Watching
+1 Amrou Scout
+1 Amrou Seekers
+1 Arcane Signet
+1 Archaeomancer's Map
+1 Austere Command
+1 Aven Riftwatcher
+1 Bloodline Pretender
+1 Bound in Silence
+1 Castle Ardenvale
+1 Cave of the Frost Dragon
+1 Cavern of Souls
+1 Children of Korlis
+1 Cho-Arrim Bruiser
+1 Citywide Bust
+1 Court of Grace
+1 Crib Swap
+1 Defiant Falcon
+1 Defiant Vanguard
+1 Drumbellower
+1 Eiganjo Castle
+1 Eiganjo, Seat of the Empire
+1 Elspeth, Sun's Champion
+1 Emeria, the Sky Ruin
+1 Emeria's Call
+1 Fateful Absence
+1 Generous Gift
+1 Ghostly Prison
+1 Gift of Estates
+1 Hall of Triumph
+1 Hallowed Burial
+1 Heliod's Intervention
+1 Heraldic Banner
+1 Honor of the Pure
+1 Idyllic Grange
+1 Illusionist's Bracers
+1 Jhovall Queen
+1 Jhovall Rider
+1 Kabira Takedown
+1 Knight of the Holy Nimbus
+1 Knight of the White Orchid
+1 Konda's Banner
+1 Lin Sivvi, Defiant Hero
+1 Makindi Stampede
+1 Mentor of the Meek
+1 Metallic Mimic
+1 Mutavault
+1 Nightwind Glider
+1 Obelisk of Urd
+1 Palace Jailer
+1 Path of Ancestry
+1 Path to Exile
+20 Plains
+1 Rally the Ranks
+1 Ramosian Captain
+1 Ramosian Commander
+1 Ramosian Revivalist
+1 Ramosian Sergeant
+1 Ramosian Sky Marshal
+1 Rappelling Scouts
+1 Reveille Squad
+1 Riftmarked Knight
+1 Rings of Brighthearth
+1 Rogue's Passage
+1 Sanctify
+1 Sandstone Bridge
+1 Sejiri Shelter
+1 Shared Triumph
+1 Shefet Dunes
+1 Shield Dancer
+1 Slaughter the Strong
+1 Sol Ring
+1 Solemn Simulacrum
+1 Steadfast Guard
+1 Swords to Plowshares
+1 Temple of the False God
+1 Terminus
+1 Thermal Glider
+1 True Conviction
+1 Umezawa's Jitte
+1 Unbreakable Formation
+1 Universal Automaton
+1 War Room
+1 Whipcorder
+1 Windbrisk Heights
