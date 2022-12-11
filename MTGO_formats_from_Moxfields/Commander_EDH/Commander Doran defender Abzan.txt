@@ -14,15 +14,15 @@
 1 Colfenor, the Last Yew
 1 Colfenor's Urn
 1 Command Tower
-1 Crumbling Vestige
 1 Despark
 1 Disowned Ancestor
 1 Doran, the Siege Tower
 1 Dryad Arbor
 1 Dusk/Dawn
 1 Eland Umbra
+1 Elspeth, Sun's Champion
 1 Fateful Absence
-1 Field of Ruin
+1 Fell the Mighty
 1 Flagstones of Trokair
 1 Forbidding Watchtower
 2 Forest
@@ -48,10 +48,8 @@
 1 Nyx-Fleece Ram
 1 Obelisk Spider
 1 Oketra the True
-1 Ornithopter
 1 Orzhov Guildgate
 1 Path of Ancestry
-1 Phyrexian Walker
 1 Primal Might
 1 Putrefy
 1 Reflecting Pool
@@ -78,10 +76,11 @@
 1 Stirring Wildwood
 1 Sungrass Prairie
 1 Sunpetal Grove
+1 Swamp
 1 Temple Garden
 1 Temple of Malady
 1 Temple of Plenty
-1 Temple of Silence
+2 Temple of Silence
 1 Timber Protector
 1 Tocatli Honor Guard
 1 Tower Defense

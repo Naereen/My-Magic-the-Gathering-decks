@@ -1,6 +1,5 @@
 1 Ajani, Adversary of Tyrants
 1 Ajani's Pridemate
-1 Anara, Wolvid Familiar
 1 Animal Sanctuary
 1 Arahbo, Roar of the World
 1 Arcane Signet
@@ -8,6 +7,7 @@
 1 Arctic Treeline
 1 Beast Within
 1 Blossoming Sands
+1 Boseiju, Who Endures
 1 Bountiful Promenade
 1 Branchloft Pathway
 1 Bronzehide Lion
@@ -15,10 +15,10 @@
 1 Canopy Vista
 1 Cavern of Souls
 1 Command Tower
-1 Commander's Sphere
 1 Cubwarden
 1 Cultivate
 1 Eiganjo, Seat of the Empire
+1 Esika's Chariot
 1 Ezuri's Predation
 1 Farseek
 1 Fateful Absence
@@ -27,7 +27,7 @@
 1 Felidar Sovereign
 1 Feline Sovereign
 1 Fleecemane Lion
-2 Forest
+1 Forest
 1 Fortified Village
 1 Gavony Township
 1 Generous Gift
@@ -60,8 +60,7 @@
 1 Path to Exile
 1 Pendelhaven
 1 Phantom Nishoba
-2 Plains
-1 Prava of the Steel Legion
+1 Plains
 1 Pride Sovereign
 1 Prowling Serpopard
 1 Qasali Ambusher
@@ -74,9 +73,9 @@
 1 Regal Caracal
 1 Sabertooth Nishoba
 1 Sacred Cat
-1 Savannah
 1 Savannah Lions
 1 Scattered Groves
+1 Scavenger Grounds
 1 Secluded Courtyard
 1 Selesnya Charm
 1 Selesnya Sanctuary
@@ -101,4 +100,9 @@
 1 Wooded Bastion
 
 SIDEBOARD:
+1 Anara, Wolvid Familiar
+1 Cathedral of War
+1 Gemrazer
 1 Kaheera, the Orphanguard
+1 Mirri, Weatherlight Duelist
+1 Prava of the Steel Legion

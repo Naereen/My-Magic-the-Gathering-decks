@@ -1,0 +1,57 @@
+1 Alms Collector
+1 Archon of Coronation
+1 Aven Mindcensor
+1 Baird, Steward of Argive
+1 Banisher Priest
+1 Charming Prince
+1 Commander's Plate
+1 Containment Priest
+1 Drannith Magistrate
+1 Eldrazi Displacer
+1 Ephemerate
+1 Ethersworn Canonist
+1 Extraction Specialist
+1 Field of Ruin
+1 Flickerwisp
+1 Ghost Quarter
+1 God-Eternal Oketra
+1 Grand Abolisher
+1 Hushwing Gryff
+1 Leonin Arbiter
+1 Lion Sash
+1 Loran of the Third Path
+1 Loxodon Gatekeeper
+1 Luminous Broodmoth
+1 March of Otherworldly Light
+1 Mother of Runes
+1 Myrel, Shield of Argive
+1 Oblivion Ring
+1 Pearl Medallion
+1 Reidane, God of the Worthy
+1 Sanctum Prelate
+1 Seasoned Dungeoneer
+1 Shadowspear
+1 Sigrid, God-Favored
+1 Skyclave Apparition
+1 Solitude
+1 Spirit of the Labyrinth
+1 Teleportation Circle
+1 Thalia, Guardian of Thraben
+1 Thalia, Heretic Cathar
+1 Urza's Saga
+1 White Plume Adventurer
+
+SIDEBOARD:
+1 Akroma's Will
+1 Austere Command
+1 Batterskull
+1 Cataclysm
+1 Icingdeath, Frost Tyrant
+1 Kaldra Compleat
+1 Orim's Chant
+1 Portable Hole
+1 Radiant Purge
+1 Rick, Steadfast Leader
+1 Smothering Tithe
+1 Solemnity
+1 Stoneforge Mystic

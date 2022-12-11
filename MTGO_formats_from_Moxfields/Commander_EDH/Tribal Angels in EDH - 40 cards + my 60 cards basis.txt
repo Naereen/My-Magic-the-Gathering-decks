@@ -1,0 +1,64 @@
+1 Aegis Angel
+1 Akroma, Angel of Wrath
+1 Akroma, Vision of Ixidor
+1 Angel of Finality
+1 Angel of Grace
+1 Angel of Invention
+1 Angel of Sanctions
+1 Angel of Serenity
+1 Angel of the Dire Hour
+1 Angel of the Ruins
+1 Angel of Vitality
+1 Angelic Arbiter
+1 Angelic Guardian
+1 Angelic Skirmisher
+1 Baneslayer Angel
+1 Battlegrace Angel
+1 Bishop of Wings
+1 Empyrial Storm
+1 Enduring Angel
+1 Exquisite Archangel
+1 Giada, Font of Hope
+1 Herald of War
+1 Linvala, the Preserver
+1 Lyra Dawnbringer
+1 Platinum Angel
+1 Resplendent Marshal
+1 Righteous Valkyrie
+1 Segovian Angel
+1 Sephara, Sky's Blade
+1 Seraph Sanctuary
+1 Serra Angel
+1 Serra Avenger
+1 Serra's Emissary
+1 Serra's Guardian
+1 Starnheim Aspirant
+1 Starnheim Unleashed
+1 Steel Seraph
+1 Sublime Archangel
+1 Sunblast Angel
+1 Windshaper Planetar
+1 Youthful Valkyrie
+
+SIDEBOARD:
+1 Adaptive Automaton
+1 Angel of Destiny
+1 Angelic Field Marshal
+1 Archangel of Strife
+1 Archangel of Thune
+1 Archangel of Tithes
+1 Battle Angels of Tyr
+1 Bloodline Pretender
+1 Chancellor of the Annex
+1 Entreat the Angels
+1 Herald's Horn
+1 Heraldic Banner
+1 Icon of Ancestry
+1 Linvala, Keeper of Silence
+1 Obelisk of Urd
+1 Oketra's Monument
+1 Resplendent Angel
+1 Unbreakable Formation
+1 Urza's Incubator
+1 Valkyrie Harbinger
+1 Youthful Valkyrie

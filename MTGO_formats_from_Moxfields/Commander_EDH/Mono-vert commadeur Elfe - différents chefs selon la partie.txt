@@ -1,7 +1,9 @@
+1 Allosaurus Shepherd
 1 Arbor Elf
 1 Basilisk Collar
 1 Beast Whisperer
 1 Beast Within
+1 Boseiju, Who Endures
 1 Canopy Tactician
 1 Castle Garenbrig
 1 Cavern of Souls
@@ -14,13 +16,14 @@
 1 Elvish Champion
 1 Elvish Mystic
 1 Elvish Soultiller
+1 Elvish Vanguard
 1 Elvish Visionary
 1 Elvish Warmaster
 1 Entourage of Trest
 1 Ezuri, Renegade Leader
 1 Ezuri's Archers
 1 Ezuri's Predation
-23 Forest
+21 Forest
 1 Fyndhorn Elves
 1 Gaea's Cradle
 1 Gala Greeters
@@ -39,12 +42,11 @@
 1 Llanowar Tribe
 1 Marwyn, the Nurturer
 1 Mosswort Bridge
-1 Nissa Revane
 1 Nissa, Worldwaker
-1 Nissa's Chosen
 1 Nissa's Judgment
 1 Nylea, Keen-Eyed
 1 Okina, Temple to the Grandfathers
+1 Old One Eye
 1 Oran-Rief, the Vastwood
 1 Pendelhaven
 1 Priest of Titania
@@ -53,10 +55,10 @@
 1 Reclamation Sage
 1 Rishkar, Peema Renegade
 1 Scattershot Archer
+1 Scavenger Grounds
 1 Seedborn Muse
 1 Sharpshooter Elf
 1 Skullclamp
-1 Snakeskin Veil
 1 Sol Ring
 1 Sprouting Renewal
 1 Staff of Domination
@@ -76,8 +78,3 @@
 1 Wolverine Riders
 1 Wren's Run Vanquisher
 1 Yeva, Nature's Herald
-
-SIDEBOARD:
-1 Nylea, God of the Hunt
-1 Old One Eye
-1 Tajuru Preserver

@@ -1,0 +1,74 @@
+1 Ancestral Blade
+1 Ardenn, Intrepid Archaeologist
+1 Argentum Armor
+1 Armored Skyhunter
+1 Basilisk Collar
+1 Batterskull
+1 Blackblade Reforged
+1 Blinkmoth Nexus
+1 Cathar Commando
+1 Citizen's Crowbar
+1 Cloudsteel Kirin
+1 Colossus Hammer
+1 Danitha Capashen, Paragon
+1 Danitha, Benalia's Hope
+1 Darksteel Plate
+1 Gingerbrute
+1 Grafted Exoskeleton
+1 Greatsword of Tyr
+1 Halvar, God of Battle
+1 Heavenly Blademaster
+1 Hero's Blade
+1 Horn of Valhalla
+1 Icingdeath, Frost Tyrant
+1 Inkmoth Nexus
+1 Kaldra Compleat
+1 Kayla's Command
+1 Kemba, Kha Regent
+1 Kor Outfitter
+1 Lightning Greaves
+1 Lion Sash
+1 Loxodon Punisher
+1 Loxodon Warhammer
+1 Maul of the Skyclaves
+1 Moonsilver Spear
+1 Nahiri, the Lithomancer
+1 Nettlecyst
+1 Open the Armory
+1 Patriar's Seal
+1 Prowler's Helm
+1 Puresteel Paladin
+1 Relic Seeker
+1 Seraphic Greatsword
+1 Sigarda's Aid
+1 Sigiled Sword of Valeron
+1 Sram, Senior Edificer
+1 Steelshaper's Gift
+1 Stoneforge Mystic
+1 Stonehewer Giant
+1 Strength of Arms
+1 Swiftfoot Boots
+1 Sword of Body and Mind
+1 Sword of Kaldra
+1 Sword of the Animist
+1 Sword of Vengeance
+1 Taj-Nar Swordsmith
+1 Tormod's Crypt
+1 Trailblazer's Boots
+1 Urza's Saga
+1 Whispersilk Cloak
+
+SIDEBOARD:
+1 Champion's Helm
+1 Commander's Plate
+1 Enlightened Tutor
+1 Godsend
+1 Hammer of Nazahn
+1 Mantle of the Ancients
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of Hearth and Home
+1 Sword of Light and Shadow
+1 Sword of Sinew and Steel
+1 Sword of Truth and Justice
+1 Sword of War and Peace

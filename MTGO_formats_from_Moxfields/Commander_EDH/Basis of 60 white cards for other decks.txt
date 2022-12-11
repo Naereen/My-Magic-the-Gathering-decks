@@ -1,0 +1,52 @@
+1 Arcane Signet
+1 Archaeomancer's Map
+1 Bastion Protector
+1 Castle Ardenvale
+1 Cathedral of War
+1 Cave of the Frost Dragon
+1 Cavern of Souls
+1 Commander's Sphere
+1 Court of Grace
+1 Descend upon the Sinful
+1 Eiganjo Castle
+1 Emeria, the Sky Ruin
+1 Emeria's Call
+1 Farewell
+1 Fateful Absence
+1 Finale of Glory
+1 Flagstones of Trokair
+1 Generous Gift
+1 Ghostly Prison
+1 Heliod's Intervention
+1 Kabira Takedown
+1 Knight of the White Orchid
+1 Makindi Stampede
+1 Martial Coup
+1 Mind Stone
+1 Mutavault
+1 Ondu Inversion
+1 Palace Jailer
+1 Path of Ancestry
+1 Path to Exile
+19 Plains
+1 Return to Dust
+1 Rishadan Port
+1 Rogue's Passage
+1 Sandstone Bridge
+1 Sejiri Shelter
+1 Sol Ring
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Umezawa's Jitte
+1 Windbrisk Heights
+1 Wrath of God
+
+SIDEBOARD:
+1 Bonders' Enclave
+1 Idyllic Grange
+1 Kabira Crossroads
+1 Pearl Medallion
+1 Scavenger Grounds
+1 Temple of the False God
+1 Unbreakable Formation
+1 War Room
