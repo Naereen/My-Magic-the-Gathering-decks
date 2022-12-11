@@ -1,0 +1,21 @@
+4 Armadillo Cloak
+3 Blossoming Sands
+8 Forest
+3 Gemhide Sliver
+4 Lead the Stampede
+4 Muscle Sliver
+7 Plains
+4 Plated Sliver
+4 Predatory Sliver
+3 Rancor
+2 Selesnya Sanctuary
+3 Sidewinder Sliver
+4 Sinew Sliver
+4 Virulent Sliver
+3 Winding Way
+
+SIDEBOARD:
+4 Masked Vandal
+4 Snakeskin Veil
+3 Spider Umbra
+4 Spinneret Sliver

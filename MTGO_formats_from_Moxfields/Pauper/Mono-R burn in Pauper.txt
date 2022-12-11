@@ -1,0 +1,20 @@
+4 Burst Lightning
+4 Chain Lightning
+4 Fireblast
+1 Forgotten Cave
+4 Ghitu Lavarunner
+4 Lava Spike
+4 Lightning Bolt
+4 Monastery Swiftspear
+16 Mountain
+4 Rift Bolt
+3 Searing Blaze
+4 Skewer the Critics
+4 Voldaren Epicure
+
+SIDEBOARD:
+3 Dead/Gone
+4 Fiery Cannonade
+3 Red Elemental Blast
+3 Smash to Smithereens
+2 Tormod's Crypt
