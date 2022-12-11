@@ -1,0 +1,27 @@
+1 Aether Spellbomb
+4 Ancient Tomb
+4 Chalice of the Void
+4 Emry, Lurker of the Loch
+4 Force of Will
+2 Island
+3 Kappa Cannoneer
+4 Lotus Petal
+4 Mishra's Bauble
+1 Mox Amber
+4 Mox Opal
+2 Otawara, Soaring City
+4 Sai, Master Thopterist
+4 Seat of the Synod
+3 Thought Monitor
+4 Thoughtcast
+4 Urza's Bauble
+4 Urza's Saga
+
+SIDEBOARD:
+2 Brazen Borrower
+3 Dismember
+2 Flusterstorm
+4 Force of Negation
+1 Pithing Needle
+1 Shadowspear
+2 Tormod's Crypt

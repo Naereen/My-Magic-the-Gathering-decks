@@ -1,0 +1,26 @@
+1 Castle Embereth
+4 Chain Lightning
+3 Exquisite Firecraft
+4 Fireblast
+1 Forgotten Cave
+4 Goblin Guide
+4 Lava Spike
+4 Lightning Bolt
+4 Monastery Swiftspear
+14 Mountain
+4 Price of Progress
+4 Rift Bolt
+2 Sokenzan, Crucible of Defiance
+3 Sulfuric Vortex
+4 Vexing Devil
+
+SIDEBOARD:
+1 Alpine Moon
+1 Blood Moon
+2 Dead/Gone
+1 Pithing Needle
+2 Red Elemental Blast
+2 Searing Blood
+2 Smash to Smithereens
+2 Tormod's Crypt
+2 Volcanic Fallout
