@@ -1,0 +1,28 @@
+1 Batterskull
+2 Blacksmith's Skill
+4 Colossus Hammer
+1 Eiganjo, Seat of the Empire
+4 Esper Sentinel
+1 Gingerbrute
+3 Inkmoth Nexus
+1 Kaldra Compleat
+2 March of Otherworldly Light
+4 Memnite
+2 Ornithopter
+2 Path to Exile
+4 Puresteel Paladin
+1 Shadowspear
+4 Sigarda's Aid
+4 Silent Clearing
+10 Snow-Covered Plains
+2 Steelshaper's Gift
+4 Stoneforge Mystic
+4 Urza's Saga
+
+SIDEBOARD:
+4 Drannith Magistrate
+3 Kor Firewalker
+3 On Thin Ice
+1 Pithing Needle
+1 Relic of Progenitus
+3 Rest in Peace

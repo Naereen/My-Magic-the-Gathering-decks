@@ -1,0 +1,24 @@
+4 Branchloft Pathway
+4 Bronzehide Lion
+4 Cubwarden
+4 Feline Sovereign
+4 Fleecemane Lion
+3 Forest
+2 Kaheera, the Orphanguard
+4 King of the Pride
+4 Loam Lion
+5 Plains
+4 Pride Sovereign
+4 Rancor
+2 Regal Caracal
+4 Savannah Lions
+4 Temple Garden
+4 Unclaimed Territory
+
+SIDEBOARD:
+1 Kaheera, the Orphanguard
+2 Leonin Warleader
+4 Qasali Pridemage
+2 Return to Nature
+2 Sanctify
+4 Snakeskin Veil

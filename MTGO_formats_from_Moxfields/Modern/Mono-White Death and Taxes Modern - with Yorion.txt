@@ -1,0 +1,34 @@
+4 Aether Vial
+4 Archon of Emeria
+1 Batterskull
+1 Charming Prince
+2 Eiganjo, Seat of the Empire
+2 Ephemerate
+4 Esper Sentinel
+1 Extraction Specialist
+2 Field of Ruin
+2 Flickerwisp
+4 Ghost Quarter
+2 Giver of Runes
+1 Kaldra Compleat
+3 Leonin Arbiter
+1 Lion Sash
+2 March of Otherworldly Light
+3 On Thin Ice
+2 Path to Exile
+4 Rishadan Port
+1 Shadowspear
+4 Silent Clearing
+2 Skyclave Apparition
+16 Snow-Covered Plains
+4 Solitude
+4 Stoneforge Mystic
+4 Thalia, Guardian of Thraben
+
+SIDEBOARD:
+3 Blossoming Calm
+3 Kataki, War's Wage
+3 Kor Firewalker
+2 Skyclave Apparition
+3 Solemnity
+1 Yorion, Sky Nomad

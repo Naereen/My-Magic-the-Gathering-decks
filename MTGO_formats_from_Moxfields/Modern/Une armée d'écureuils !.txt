@@ -1,0 +1,23 @@
+3 Chatterfang, Squirrel General
+2 Chitterspitter
+2 Coat of Arms
+4 Darkbore Pathway
+2 Deep Forest Hermit
+8 Forest
+2 Llanowar Wastes
+2 Pendelhaven
+4 Rancor
+4 Ravenous Squirrel
+4 Scurrid Colony
+4 Squirrel Mob
+3 Squirrel Nest
+4 Squirrel Sanctuary
+4 Squirrel Sovereign
+4 Swarmyard
+4 Verdant Command
+
+SIDEBOARD:
+4 Blossoming Defense
+4 Charge Through
+4 Return to Nature
+3 Thrashing Brontodon

@@ -1,0 +1,25 @@
+4 Bronzehide Lion
+3 Cubwarden
+4 Feline Sovereign
+4 Fleecemane Lion
+2 Horizon Canopy
+4 King of the Pride
+4 Path to Exile
+2 Plains
+4 Pride Sovereign
+3 Rancor
+3 Razorverge Thicket
+2 Regal Caracal
+4 Savannah Lions
+4 Secluded Courtyard
+4 Temple Garden
+3 Unclaimed Territory
+4 Wild Nacatl
+2 Wooded Bastion
+
+SIDEBOARD:
+1 Kaheera, the Orphanguard
+4 Qasali Pridemage
+4 Rest in Peace
+2 Return to Nature
+4 Snakeskin Veil
