@@ -1,10 +1,11 @@
 1 Ancestral Blade
-1 Ardenn, Intrepid Archaeologist
 1 Argentum Armor
 1 Armored Skyhunter
+1 Auriok Steelshaper
 1 Basilisk Collar
 1 Batterskull
 1 Blackblade Reforged
+1 Blacksmith's Skill
 1 Blinkmoth Nexus
 1 Cathar Commando
 1 Citizen's Crowbar
@@ -25,7 +26,7 @@
 1 Kaldra Compleat
 1 Kayla's Command
 1 Kemba, Kha Regent
-1 Kor Outfitter
+1 Leonin Shikari
 1 Lightning Greaves
 1 Lion Sash
 1 Loxodon Punisher
@@ -35,11 +36,9 @@
 1 Nahiri, the Lithomancer
 1 Nettlecyst
 1 Open the Armory
-1 Patriar's Seal
 1 Prowler's Helm
 1 Puresteel Paladin
 1 Relic Seeker
-1 Seraphic Greatsword
 1 Sigarda's Aid
 1 Sigiled Sword of Valeron
 1 Sram, Senior Edificer
@@ -48,27 +47,32 @@
 1 Stonehewer Giant
 1 Strength of Arms
 1 Swiftfoot Boots
-1 Sword of Body and Mind
-1 Sword of Kaldra
 1 Sword of the Animist
 1 Sword of Vengeance
 1 Taj-Nar Swordsmith
-1 Tormod's Crypt
 1 Trailblazer's Boots
 1 Urza's Saga
 1 Whispersilk Cloak
 
 SIDEBOARD:
+1 Ardenn, Intrepid Archaeologist
 1 Champion's Helm
 1 Commander's Plate
 1 Enlightened Tutor
 1 Godsend
 1 Hammer of Nazahn
+1 Keleth, Sunmane Familiar
+1 Kor Outfitter
 1 Mantle of the Ancients
+1 Patriar's Seal
+1 Seraphic Greatsword
+1 Sword of Body and Mind
 1 Sword of Feast and Famine
 1 Sword of Fire and Ice
 1 Sword of Hearth and Home
+1 Sword of Kaldra
 1 Sword of Light and Shadow
 1 Sword of Sinew and Steel
 1 Sword of Truth and Justice
 1 Sword of War and Peace
+1 Tormod's Crypt
