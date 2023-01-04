@@ -1,0 +1,40 @@
+1 Eiganjo Castle (CHK) 275
+1 Emeria, the Sky Ruin (C14) 293
+1 Adorned Pouncer (HOU) 2
+1 Elspeth, Sun's Champion (THS) 9
+1 Oketra's Monument (AKH) 233
+1 Bloodline Pretender (KHM) 235
+1 Drumbellower (NEC) 6
+1 Mentor of the Meek (2X2) 340
+1 Metallic Mimic (SLD) 194
+1 Universal Automaton (H1R) 38
+1 Citywide Bust (C20) 82
+1 Gift of Estates (C14) 73
+1 Hallowed Burial (CN2) 91
+1 Slaughter the Strong (PRIX) 22s
+1 Terminus (MM3) 26
+1 Herald's Horn (CLB) 862
+1 Heraldic Banner (ELD) 222
+1 Illusionist's Bracers (GTC) 231
+1 Konda's Banner (CHK) 259
+1 Lightning Greaves (MPS) 14
+1 Meekstone (MPS) 40
+1 Obelisk of Urd (ZNC) 115
+1 Patriar's Seal (CLB) 332
+1 Rings of Brighthearth (MPS) 21
+1 Swiftfoot Boots (BRR) 58
+1 Puresteel Paladin (AFC) 69
+1 Sigarda's Aid (EMN) 41
+1 Blacksmith's Skill (MH2) 381
+1 Steelshaper's Gift (TD2) 24
+1 Nettlecyst (MH2) 471
+1 Giver of Runes (H1R) 3
+1 Inkmoth Nexus (SLD) 45
+1 Blinkmoth Nexus (TD2) 37
+1 Patriar's Seal (CLB) 332
+1 Felidar Sovereign (SLD) 1182
+1 Mox Amber (BRR) 35
+4 Thought Monitor (BRC) 98
+2 Kappa Cannoneer (NEC) 50
+1 Halvar, God of Battle // Sword of the Realms (KHM) 299
+1 Nahiri, the Lithomancer (PZ1) 9

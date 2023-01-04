@@ -1,0 +1,24 @@
+1 Ancestral Blade (GN3) 6
+1 Armored Skyhunter (CMR) 11
+1 Blackblade Reforged (BRR) 6
+1 Citizen's Crowbar (SNC) 8
+1 Commander's Plate (PHED) 64
+1 Danitha Capashen, Paragon (SLD) 1031
+1 Danitha, Benalia's Hope (DMU) 287
+1 Darksteel Plate (MBS) 104
+1 Grafted Exoskeleton (TD2) 74
+1 Heavenly Blademaster (C18) 3
+1 Hero's Blade (DMC) 186
+1 Horn of Valhalla // Ysgard's Call (CLB) 26
+1 Icingdeath, Frost Tyrant (AFR) 20
+1 Inkmoth Nexus (SLD) 45
+1 Kemba, Kha Regent (C14) 75
+1 Lion Sash (NEO) 368
+1 Loxodon Warhammer (SLD) 1034
+1 Maul of the Skyclaves (ZNR) 27
+1 Open the Armory (CMR) 34
+1 Sigiled Sword of Valeron (PM19) 244s
+1 Strength of Arms (SOI) 40
+1 Sword of Vengeance (NEC) 164
+1 Trailblazer's Boots (ZEN) 208
+1 Whispersilk Cloak (PCA) 115
