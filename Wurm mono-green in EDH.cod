@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ooze in EDH</deckname>
+    <comments>Question: Golgari or BGU ?
+What is the purpose of the blue color here? Except for &quot;The Mimeoplasm&quot; creature.</comments>
+    <zone name="main">
+        <card number="25" name="Forest"/>
+        <card number="1" name="Pendelhaven"/>
+        <card number="1" name="Castle Garenbrig"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Doubling Season"/>
+        <card number="1" name="Oran-Rief, the Vastwood"/>
+        <card number="1" name="Snakeskin Veil"/>
+        <card number="1" name="The Ozolith"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="1" name="Bone Sabres"/>
+        <card number="1" name="Clamavus"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Llanowar Reborn"/>
+        <card number="1" name="Cazur, Ruthless Stalker"/>
+        <card number="1" name="Inspiring Call"/>
+        <card number="1" name="Nexos"/>
+        <card number="1" name="New Horizons"/>
+        <card number="1" name="Journey to Eternity"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Gaea's Cradle"/>
+        <card number="1" name="Hall of Triumph"/>
+        <card number="1" name="Heraldic Banner"/>
+        <card number="1" name="Obelisk of Urd"/>
+        <card number="1" name="Adaptive Automaton"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Mutavault"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Basilisk Collar"/>
+        <card number="1" name="Wurmcoil Engine"/>
+        <card number="1" name="Llanowar Loamspeaker"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Vivien, Champion of the Wilds"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Bloodline Pretender"/>
+        <card number="1" name="Defiler of Vigor"/>
+        <card number="1" name="Vigor"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Thunderfoot Baloth"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Triumph of the Hordes"/>
+        <card number="1" name="Khalni Ambush"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Emerald Medallion"/>
+        <card number="1" name="Rhonas's Monument"/>
+        <card number="1" name="Branching Evolution"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Sylvan Anthem"/>
+        <card number="1" name="Karn's Bastion"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Winding Constrictor"/>
+        <card number="1" name="Baru, Wurmspeaker"/>
+        <card number="1" name="Worldspine Wurm"/>
+        <card number="1" name="Bellowing Tanglewurm"/>
+        <card number="1" name="Impervious Greatwurm"/>
+        <card number="1" name="Grothama, All-Devouring"/>
+        <card number="1" name="Arrogant Wurm"/>
+        <card number="1" name="Boneyard Wurm"/>
+        <card number="1" name="Bookwurm"/>
+        <card number="1" name="Bramble Wurm"/>
+        <card number="1" name="Carnage Wurm"/>
+        <card number="1" name="Crush of Wurms"/>
+        <card number="1" name="Elderscale Wurm"/>
+        <card number="1" name="Elfhame Wurm"/>
+        <card number="1" name="Engulfing Slagwurm"/>
+        <card number="1" name="Gravetiller Wurm"/>
+        <card number="1" name="Pathbreaker Wurm"/>
+        <card number="1" name="Pelakka Wurm"/>
+        <card number="1" name="Penumbra Wurm"/>
+        <card number="1" name="Phantom Wurm"/>
+        <card number="1" name="Plated Slagwurm"/>
+        <card number="1" name="Pouncing Wurm"/>
+        <card number="1" name="Roar of the Wurm"/>
+        <card number="1" name="Roaring Slagwurm"/>
+        <card number="1" name="Sandwurm Convergence"/>
+        <card number="1" name="Siege Wurm"/>
+        <card number="1" name="Symbiotic Wurm"/>
+        <card number="1" name="Teething Wurmlet"/>
+        <card number="1" name="Voracious Wurm"/>
+        <card number="1" name="Witherscale Wurm"/>
+        <card number="1" name="Wurmcalling"/>
+        <card number="1" name="Wurmweaver Coil"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Force of Vigor"/>
+    </zone>
+</cockatrice_deck>
