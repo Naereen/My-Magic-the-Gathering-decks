@@ -128,6 +128,7 @@ What is the purpose of the blue color here? Except for &quot;The Mimeoplasm&quot
         <card number="1" name="Karn's Bastion"/>
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Malakir Rebirth"/>
+        <card number="1" name="Winding Constrictor"/>
     </zone>
     <zone name="side">
         <card number="1" name="The Mimeoplasm"/>
