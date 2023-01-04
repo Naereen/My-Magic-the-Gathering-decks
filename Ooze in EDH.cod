@@ -4,7 +4,7 @@
     <comments>Question: Golgari or BGU ?
 What is the purpose of the blue color here? Except for &quot;The Mimeoplasm&quot; creature.</comments>
     <zone name="main">
-        <card number="3" name="Forest"/>
+        <card number="1" name="Forest"/>
         <card number="1" name="Pendelhaven"/>
         <card number="1" name="Castle Garenbrig"/>
         <card number="1" name="Boseiju, Who Endures"/>
@@ -25,21 +25,13 @@ What is the purpose of the blue color here? Except for &quot;The Mimeoplasm&quot
         <card number="1" name="Reyhan, Last of the Abzan"/>
         <card number="1" name="The Ozolith"/>
         <card number="1" name="Umezawa's Jitte"/>
-        <card number="1" name="Mind Stone"/>
         <card number="1" name="Golgari Rot Farm"/>
         <card number="1" name="Golgari Guildgate"/>
-        <card number="1" name="Golgari Signet"/>
         <card number="1" name="Golgari Charm"/>
-        <card number="1" name="Golgari Locket"/>
-        <card number="1" name="Golgari Keyrune"/>
-        <card number="1" name="Golgari Cluestone"/>
-        <card number="1" name="Thought Vessel"/>
         <card number="1" name="Bone Sabres"/>
         <card number="1" name="Clamavus"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Three Visits"/>
-        <card number="1" name="Cultivate"/>
-        <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Llanowar Reborn"/>
         <card number="1" name="Llanowar Wastes"/>
         <card number="1" name="Bayou"/>
@@ -50,7 +42,7 @@ What is the purpose of the blue color here? Except for &quot;The Mimeoplasm&quot
         <card number="1" name="New Horizons"/>
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Undergrowth Stadium"/>
-        <card number="3" name="Swamp"/>
+        <card number="1" name="Swamp"/>
         <card number="1" name="Woodland Cemetery"/>
         <card number="1" name="Temple of Malady"/>
         <card number="1" name="Deathcap Glade"/>
@@ -62,7 +54,6 @@ What is the purpose of the blue color here? Except for &quot;The Mimeoplasm&quot
         <card number="1" name="Necroblossom Snarl"/>
         <card number="1" name="Journey to Eternity"/>
         <card number="1" name="Blooming Marsh"/>
-        <card number="1" name="Foul Orchard"/>
         <card number="1" name="Darkmoss Bridge"/>
         <card number="1" name="Witherbloom Campus"/>
         <card number="1" name="Hissing Quagmire"/>
@@ -75,6 +66,68 @@ What is the purpose of the blue color here? Except for &quot;The Mimeoplasm&quot
         <card number="1" name="Necrotic Ooze"/>
         <card number="1" name="Biowaste Blob"/>
         <card number="1" name="Uchuulon"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Gaea's Cradle"/>
+        <card number="1" name="Ravenous Slime"/>
+        <card number="1" name="Consuming Blob"/>
+        <card number="1" name="Hall of Triumph"/>
+        <card number="1" name="Heraldic Banner"/>
+        <card number="1" name="Obelisk of Urd"/>
+        <card number="1" name="Adaptive Automaton"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Mutavault"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="1" name="Gelatinous Cube"/>
+        <card number="1" name="Inexorable Blob"/>
+        <card number="1" name="Splitting Slime"/>
+        <card number="1" name="Gluttonous Slime"/>
+        <card number="1" name="Consumptive Goo"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Basilisk Collar"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Wurmcoil Engine"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Abrupt Decay"/>
+        <card number="1" name="Deathsprout"/>
+        <card number="1" name="Tear Asunder"/>
+        <card number="1" name="Llanowar Loamspeaker"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Status // Statue"/>
+        <card number="1" name="Casualties of War"/>
+        <card number="1" name="Gaze of Granite"/>
+        <card number="1" name="Vivien, Champion of the Wilds"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Bloodline Pretender"/>
+        <card number="1" name="Defiler of Vigor"/>
+        <card number="1" name="Vigor"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Thunderfoot Baloth"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Triumph of the Hordes"/>
+        <card number="1" name="Khalni Ambush"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Emerald Medallion"/>
+        <card number="1" name="Rhonas's Monument"/>
+        <card number="1" name="Branching Evolution"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Sylvan Anthem"/>
+        <card number="1" name="Karn's Bastion"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Malakir Rebirth"/>
     </zone>
     <zone name="side">
         <card number="1" name="The Mimeoplasm"/>
@@ -82,5 +135,9 @@ What is the purpose of the blue color here? Except for &quot;The Mimeoplasm&quot
         <card number="1" name="It Came from Planet Glurg"/>
         <card number="1" name="Experiment Kraj"/>
         <card number="1" name="Slogurk, the Overslime"/>
+        <card number="1" name="Mystic Genesis"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Force of Vigor"/>
     </zone>
 </cockatrice_deck>
