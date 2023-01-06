@@ -120,6 +120,7 @@
         <card number="1" name="Bonders' Enclave"/>
         <card number="1" name="Caged Sun"/>
         <card number="1" name="Sceptre of Eternal Glory"/>
+        <card number="1" name="Avatar of the Resolute"/>
     </zone>
     <zone name="side">
         <card number="1" name="Rampant Growth"/>
