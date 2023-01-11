@@ -1,0 +1,101 @@
+1 Adaptive Automaton
+1 Ancient Tomb
+1 Apex Devastator
+1 Arcane Signet
+1 Bear Umbra
+1 Beast Within
+1 Benevolent Hydra
+1 Bonders' Enclave
+1 Bone Sabres
+1 Boseiju, Who Endures
+1 Branching Evolution
+1 Caged Sun
+1 Capricopian
+1 Castle Garenbrig
+1 Cavern of Souls
+1 Clamavus
+1 Colossal Majesty
+1 Cultivate
+1 Defiler of Vigor
+1 Doubling Season
+1 Elemental Bond
+1 Elementalist's Palette
+1 Emerald Medallion
+22 Forest
+1 Gaea's Cradle
+1 Gaea's Gift
+1 Gargos, Vicious Watcher
+1 Garruk's Uprising
+1 Genesis Hydra
+1 Glorious Sunrise
+1 Gwenna, Eyes of Gaea
+1 Hardened Scales
+1 Herald's Horn
+1 Heroes' Bane
+1 Heroic Intervention
+1 Hooded Hydra
+1 Hungering Hydra
+1 Hydra Broodmaster
+1 Hydra Omnivore
+1 Hydra's Growth
+1 Inspiring Call
+1 Invigorating Surge
+1 Ironscale Hydra
+1 Kalonian Hydra
+1 Karn's Bastion
+1 Kodama's Reach
+1 Lair of the Hydra
+1 Lifeblood Hydra
+1 Lightning Greaves
+1 Llanowar Reborn
+1 Mana Reflection
+1 Managorger Hydra
+1 Metallic Mimic
+1 Mistcutter Hydra
+1 Mosswort Bridge
+1 Nature's Lore
+1 Nessian Wilds Ravager
+1 Neverwinter Hydra
+1 Nexos
+1 Nykthos, Shrine to Nyx
+1 Nyxbloom Ancient
+1 Oran-Rief Hydra
+1 Oran-Rief, the Vastwood
+1 Path of Ancestry
+1 Pendelhaven
+1 Polukranos, World Eater
+1 Primal Vigor
+1 Primordial Hydra
+1 Protean Hydra
+1 Rampant Rejuvenator
+1 Realmwalker
+1 Rhonas's Monument
+1 Rishkar's Expertise
+1 Runadi, Behemoth Caller
+1 Selvala, Heart of the Wilds
+1 Shadowspear
+1 Sol Ring
+1 Solidarity of Heroes
+1 Song of the Dryads
+1 Steelbane Hydra
+1 Stumpsquall Hydra
+1 Sylvan Library
+1 The Great Henge
+1 The Ozolith
+1 Three Visits
+1 Triumph of the Hordes
+1 Ulvenwald Hydra
+1 Unbound Flourishing
+1 Unnatural Growth
+1 Urza's Incubator
+1 Vanquisher's Banner
+1 Vastwood Hydra
+1 Vigor
+1 Visions of Dominance
+1 Vivien, Champion of the Wilds
+1 Voracious Hydra
+1 Vorinclex, Monstrous Raider
+1 Whiptongue Hydra
+1 Wren's Run Hydra
+1 Yavimaya Hollow
+1 Zendikar Resurgent
