@@ -3,7 +3,7 @@
     <deckname>Mono black Zombie Commander EDH</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="28" name="Swamp"/>
+        <card number="32" name="Swamp"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Foulmire Knight // Profane Insight"/>
         <card number="1" name="Shambling Ghast"/>
@@ -31,8 +31,6 @@
         <card number="1" name="Liliana's Mastery"/>
         <card number="1" name="Archghoul of Thraben"/>
         <card number="1" name="Relentless Dead"/>
-        <card number="1" name="Tormod, the Desecrator"/>
-        <card number="1" name="Falthis, Shadowcat Familiar"/>
         <card number="1" name="Hive of the Eye Tyrant"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Sol Ring"/>
@@ -41,7 +39,6 @@
         <card number="1" name="Leechridden Swamp"/>
         <card number="1" name="Zof Consumption"/>
         <card number="1" name="Gray Merchant of Asphodel"/>
-        <card number="1" name="Fleshbag Marauder"/>
         <card number="1" name="Feed the Swarm"/>
         <card number="1" name="Army of the Damned"/>
         <card number="1" name="Midnight Reaper"/>
@@ -55,7 +52,6 @@
         <card number="1" name="Wound Reflection"/>
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Vorpal Sword"/>
-        <card number="1" name="Cauldron Familiar"/>
         <card number="1" name="Archfiend of Depravity"/>
         <card number="1" name="Unbreathing Horde"/>
         <card number="1" name="Risen Executioner"/>
@@ -70,11 +66,11 @@
         <card number="1" name="Graf Harvest"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Tattered Mummy"/>
-        <card number="1" name="Vampire Spawn"/>
-        <card number="1" name="Okiba Reckoner Raid"/>
         <card number="1" name="Blood Tithe"/>
         <card number="1" name="Mire in Misery"/>
         <card number="1" name="Loyal Subordinate"/>
         <card number="1" name="Dredge the Mire"/>
+        <card number="1" name="Jet Medallion"/>
+        <card number="1" name="Mikaeus, the Unhallowed"/>
     </zone>
 </cockatrice_deck>
