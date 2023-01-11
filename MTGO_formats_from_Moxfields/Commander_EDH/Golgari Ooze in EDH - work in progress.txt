@@ -1,0 +1,135 @@
+1 Abrupt Decay
+1 Acidic Slime
+1 Adaptive Automaton
+1 Aeve, Progenitor Ooze
+1 Arcane Signet
+1 Assassin's Trophy
+1 Basilisk Collar
+1 Bayou
+1 Beast Whisperer
+1 Biogenic Ooze
+1 Biowaste Blob
+1 Bloodline Pretender
+1 Blooming Marsh
+1 Bone Sabres
+1 Boseiju, Who Endures
+1 Branching Evolution
+1 Castle Garenbrig
+1 Casualties of War
+1 Cavern of Souls
+1 Cazur, Ruthless Stalker
+1 Clamavus
+1 Command Tower
+1 Commander's Sphere
+1 Consumptive Goo
+1 Corrosive Ooze
+1 Darkbore Pathway
+1 Deathcap Glade
+1 Deathsprout
+1 Defiler of Vigor
+1 Doubling Season
+1 Emerald Medallion
+1 Experiment One
+1 Ezuri's Predation
+1 Force of Vigor
+9 Forest
+1 Gaea's Cradle
+1 Garruk's Uprising
+1 Gaze of Granite
+1 Gelatinous Cube
+1 Green Sun's Zenith
+1 Hall of Triumph
+1 Hardened Scales
+1 Herald's Horn
+1 Heraldic Banner
+1 Hissing Quagmire
+1 Inexorable Blob
+1 Inspiring Call
+1 Journey to Eternity
+1 Karn's Bastion
+1 Khalni Ambush
+1 Lightning Greaves
+1 Llanowar Reborn
+1 Llanowar Wastes
+1 Malakir Rebirth
+1 Metallic Mimic
+1 Mitotic Slime
+1 Mosswort Bridge
+1 Mutavault
+1 Nature's Claim
+1 Nature's Lore
+1 Necrotic Ooze
+1 Nurturing Peatland
+1 Obelisk of Urd
+1 Ochre Jelly
+1 Oran-Rief Ooze
+1 Oran-Rief, the Vastwood
+1 Overgrown Tomb
+1 Path of Ancestry
+1 Pendelhaven
+1 Predator Ooze
+1 Putrefy
+1 Rancor
+1 Ravenous Slime
+1 Realmwalker
+1 Return of the Wildspeaker
+1 Reyhan, Last of the Abzan
+1 Reyhan, Last of the Abzan
+1 Rhonas's Monument
+1 Scavenging Ooze
+1 Slurrk, All-Ingesting
+1 Sol Ring
+1 Solemn Simulacrum
+1 Splitting Slime
+1 Status/Statue
+1 Svogthos, the Restless Tomb
+1 Swamp
+1 Sylvan Anthem
+1 Talisman of Resilience
+1 Tear Asunder
+1 Temple of Malady
+1 The Ozolith
+1 Three Visits
+1 Thunderfoot Baloth
+1 Triumph of the Hordes
+1 Twilight Mire
+1 Uchuulon
+1 Umezawa's Jitte
+1 Umori, the Collector
+1 Undergrowth Stadium
+1 Vigor
+1 Vivien, Champion of the Wilds
+1 Winding Constrictor
+1 Woodland Cemetery
+
+SIDEBOARD:
+1 Birds of Paradise
+1 Consuming Blob
+1 Cultivate
+1 Darkmoss Bridge
+1 Experiment Kraj
+1 Gluttonous Slime
+1 Golgari Charm
+1 Golgari Guildgate
+1 Golgari Rot Farm
+1 Haunted Mire
+1 It Came from Planet Glurg
+1 Jungle Hollow
+1 Kodama's Reach
+1 Krosan Grip
+1 Llanowar Loamspeaker
+1 Necroblossom Snarl
+1 New Horizons
+1 Nexos
+1 Rampant Growth
+1 Skemfar Elderhall
+1 Skullclamp
+1 Slogurk, the Overslime
+1 Snakeskin Veil
+1 Swiftfoot Boots
+1 Tainted Wood
+1 The Mimeoplasm
+1 Vanquisher's Banner
+1 Witherbloom Campus
+1 Woodland Chasm
+1 Wurmcoil Engine
