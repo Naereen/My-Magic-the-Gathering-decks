@@ -1,0 +1,120 @@
+1 Adaptive Automaton
+1 Akroma's Memorial
+1 Arcane Signet
+1 Arrogant Wurm
+1 Baru, Wurmspeaker
+1 Basilisk Collar
+1 Beast Whisperer
+1 Belbe's Portal
+1 Bellowing Tanglewurm
+1 Birds of Paradise
+1 Bloodline Pretender
+1 Bonders' Enclave
+1 Bone Sabres
+1 Boneyard Wurm
+1 Bookwurm
+1 Boseiju, Who Endures
+1 Bramble Wurm
+1 Branching Evolution
+1 Caged Sun
+1 Carnage Wurm
+1 Castle Garenbrig
+1 Cavern of Souls
+1 Cazur, Ruthless Stalker
+1 Clamavus
+1 Commander's Sphere
+1 Crush of Wurms
+1 Cultivate
+1 Deathcoil Wurm
+1 Defiler of Vigor
+1 Doubling Season
+1 Elderscale Wurm
+1 Elfhame Wurm
+1 Elvish Mystic
+1 Emerald Medallion
+1 Engulfing Slagwurm
+1 Ezuri's Predation
+1 Force of Vigor
+22 Forest
+1 Fyndhorn Elves
+1 Garruk's Uprising
+1 Goreclaw, Terror of Qal Sisma
+1 Gravetiller Wurm
+1 Green Sun's Zenith
+1 Grothama, All-Devouring
+1 Gwenna, Eyes of Gaea
+1 Hall of Triumph
+1 Hardened Scales
+1 Herald's Horn
+1 Heraldic Banner
+1 Heroic Intervention
+1 Impervious Greatwurm
+1 Inspiring Call
+1 Iron-Craw Crusher
+1 Karn's Bastion
+1 Khalni Ambush
+1 Kodama's Reach
+1 Krosan Grip
+1 Lightning Greaves
+1 Llanowar Elves
+1 Llanowar Loamspeaker
+1 Llanowar Reborn
+1 Metallic Mimic
+1 Monster Manual
+1 Mosswort Bridge
+1 Mutavault
+1 Nature's Claim
+1 Nature's Lore
+1 New Horizons
+1 Nexos
+1 Nykthos, Shrine to Nyx
+1 Obelisk of Urd
+1 Oran-Rief, the Vastwood
+1 Path of Ancestry
+1 Pathbreaker Wurm
+1 Pelakka Wurm
+1 Pendelhaven
+1 Penumbra Wurm
+1 Phantom Wurm
+1 Plated Slagwurm
+1 Pouncing Wurm
+1 Ram Through
+1 Rampant Growth
+1 Rancor
+1 Realmwalker
+1 Return of the Wildspeaker
+1 Rhonas's Monument
+1 Roar of the Wurm
+1 Roaring Slagwurm
+1 Rogue's Passage
+1 Runadi, Behemoth Caller
+1 Sandwurm Convergence
+1 Sceptre of Eternal Glory
+1 Shadowspear
+1 Siege Wurm
+1 Skullclamp
+1 Snakeskin Veil
+1 Sol Ring
+1 Solemn Simulacrum
+1 Somberwald Sage
+1 Soul Swallower
+1 Swiftfoot Boots
+1 Sylvan Anthem
+1 Symbiotic Wurm
+1 Teething Wurmlet
+1 The Ozolith
+1 Three Visits
+1 Thunderfoot Baloth
+1 Triumph of the Hordes
+1 Ulvenwald Tracker
+1 Umezawa's Jitte
+1 Urza's Incubator
+1 Vanquisher's Banner
+1 Vigor
+1 Vivien, Champion of the Wilds
+1 Voracious Wurm
+1 Witherscale Wurm
+1 Worldspine Wurm
+1 Wurmcalling
+2 Wurmcoil Engine
+1 Wurmweaver Coil
