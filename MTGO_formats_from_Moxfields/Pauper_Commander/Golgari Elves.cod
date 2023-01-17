@@ -18,7 +18,7 @@
         <card number="1" name="Wirewood Savage"/>
         <card number="1" name="Nissa's Chosen"/>
         <card number="1" name="Nissa's Pilgrimage"/>
-        <card number="37" name="Forest"/>
+        <card number="21" name="Forest"/>
         <card number="1" name="Arbor Elf"/>
         <card number="1" name="Arbor Armament"/>
         <card number="1" name="Elvish Vanguard"/>
@@ -89,5 +89,6 @@
         <card number="1" name="Cast Down"/>
         <card number="1" name="Eaten Alive"/>
         <card number="1" name="Bone Splinters"/>
+        <card number="9" name="Swamp"/>
     </zone>
 </cockatrice_deck>

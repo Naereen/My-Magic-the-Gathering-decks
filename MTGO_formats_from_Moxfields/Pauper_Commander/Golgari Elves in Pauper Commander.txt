@@ -1,0 +1,88 @@
+1 Abomination of Llanowar
+1 Arbor Armament
+1 Arbor Elf
+1 Birchlore Rangers
+1 Bone Shards
+1 Bone Splinters
+1 Broken Wings
+1 Cast Down
+1 Consume Strength
+1 Copperhorn Scout
+1 Darkmoss Bridge
+1 Doom Blade
+1 Eaten Alive
+1 Elderfang Disciple
+1 Elephant Guide
+1 Elves of Deep Shadow
+1 Elvish Doomsayer
+1 Elvish Mystic
+1 Elvish Vanguard
+1 Elvish Visionary
+1 Entourage of Trest
+1 Essence Warden
+1 Eyeblight Cullers
+1 Eyeblight's Ending
+1 Ezuri's Archers
+1 Farhaven Elf
+1 Feed the Swarm
+1 Fog
+18 Forest
+1 Fyndhorn Elves
+1 Giant Growth
+1 Glistener Elf
+1 Go for the Throat
+1 Golgari Guildgate
+1 Golgari Rot Farm
+1 Golgari Signet
+1 Haunted Mire
+1 Ivy Lane Denizen
+1 Jaspera Sentinel
+1 Jungle Hollow
+1 Llanowar Dead
+1 Llanowar Elves
+1 Llanowar Visionary
+1 Lys Alana Bowmaster
+1 Lys Alana Huntmaster
+1 Murder
+1 Natural Reclamation
+1 Nihil Spellbomb
+1 Nissa's Pilgrimage
+1 Pollenbright Druid
+1 Priest of Titania
+1 Quirion Elves
+1 Quirion Ranger
+1 Rancor
+1 Return to Nature
+1 Scattershot Archer
+1 Smell Fear
+1 Snakeskin Veil
+1 Springbloom Druid
+8 Swamp
+1 Tajuru Beastmaster
+1 Tajuru Blightblade
+1 Tajuru Pathwarden
+1 Tajuru Snarecaster
+1 Tamiyo's Safekeeping
+1 Tangletrap
+1 Thornbow Archer
+1 Timberwatch Elf
+1 Tranquility
+1 Vines of Vastwood
+1 Wellwisher
+1 Wirewood Pride
+1 Wirewood Savage
+1 Witherbloom Campus
+1 Wood Elves
+1 Woodland Chasm
+
+SIDEBOARD:
+1 Broken Bond
+1 Glowspore Shaman
+1 Golgari Cluestone
+1 Golgari Locket
+1 Naturalize
+1 Nissa's Chosen
+1 Rift Sower
+1 Run Afoul
+1 Wirewood Elf
+1 Wirewood Herald
