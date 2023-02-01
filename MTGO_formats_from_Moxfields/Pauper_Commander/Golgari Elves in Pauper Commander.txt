@@ -28,7 +28,6 @@
 1 Fog
 18 Forest
 1 Fyndhorn Elves
-1 Giant Growth
 1 Glistener Elf
 1 Go for the Throat
 1 Golgari Guildgate
@@ -45,6 +44,7 @@
 1 Lys Alana Huntmaster
 1 Murder
 1 Natural Reclamation
+1 Nettle Sentinel
 1 Nihil Spellbomb
 1 Nissa's Pilgrimage
 1 Pollenbright Druid
@@ -77,6 +77,7 @@
 
 SIDEBOARD:
 1 Broken Bond
+1 Giant Growth
 1 Glowspore Shaman
 1 Golgari Cluestone
 1 Golgari Locket
