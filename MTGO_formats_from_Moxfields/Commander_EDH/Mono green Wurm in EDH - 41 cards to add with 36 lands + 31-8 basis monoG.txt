@@ -1,0 +1,59 @@
+1 Akroma's Memorial
+1 Baru, Wurmspeaker
+1 Belbe's Portal
+1 Bellowing Tanglewurm
+1 Birds of Paradise
+1 Bookwurm
+1 Bramble Wurm
+1 Carnage Wurm
+1 Crush of Wurms
+1 Elderscale Wurm
+1 Elvish Mystic
+1 Engulfing Slagwurm
+1 Fyndhorn Elves
+1 Goreclaw, Terror of Qal Sisma
+1 Gravetiller Wurm
+1 Gwenna, Eyes of Gaea
+1 Impervious Greatwurm
+1 Iron-Craw Crusher
+1 Lightning Greaves
+1 Llanowar Elves
+1 Monster Manual
+1 Obelisk of Urd
+1 Pathbreaker Wurm
+1 Pelakka Wurm
+1 Penumbra Wurm
+1 Phantom Wurm
+1 Plated Slagwurm
+1 Pouncing Wurm
+1 Roar of the Wurm
+1 Runadi, Behemoth Caller
+1 Sandwurm Convergence
+1 Somberwald Sage
+1 Soul Swallower
+1 Symbiotic Wurm
+1 Thunderfoot Baloth
+1 Urza's Incubator
+1 Vanquisher's Banner
+1 Voracious Wurm
+1 Wurmcalling
+1 Wurmcoil Engine
+1 Wurmquake
+
+SIDEBOARD:
+1 Arrogant Wurm
+1 Basilisk Collar
+1 Boneyard Wurm
+1 Deathcoil Wurm
+1 Elfhame Wurm
+1 Garruk's Uprising
+1 Grothama, All-Devouring
+1 Herald's Horn
+1 New Horizons
+1 Rancor
+1 Roaring Slagwurm
+1 Sceptre of Eternal Glory
+1 Shadowspear
+1 Siege Wurm
+1 Swiftfoot Boots
+1 Wurmweaver Coil
