@@ -1,0 +1,88 @@
+1 Adaptive Automaton
+1 Ancient Tomb
+1 Arcane Signet
+1 Beast Within
+1 Bonders' Enclave
+1 Boseiju, Who Endures
+1 Branching Evolution
+1 Caged Sun
+1 Castle Garenbrig
+1 Cavern of Souls
+1 Commander's Sphere
+1 Cultivate
+1 Defiler of Vigor
+1 Doubling Season
+1 Emerald Medallion
+1 Ezuri's Predation
+17 Forest
+1 Gaea's Cradle
+1 Hardened Scales
+1 Heraldic Banner
+1 Inspiring Call
+1 Karn's Bastion
+1 Khalni Ambush
+1 Kodama's Reach
+1 Lair of the Hydra
+1 Llanowar Reborn
+1 Metallic Mimic
+1 Mosswort Bridge
+1 Mutavault
+1 Nature's Lore
+1 Nissa's Judgment
+1 Nykthos, Shrine to Nyx
+1 Okina, Temple to the Grandfathers
+1 Oran-Rief, the Vastwood
+1 Path of Ancestry
+1 Pendelhaven
+1 Primal Vigor
+1 Realmwalker
+1 Rhonas's Monument
+1 Rishkar's Expertise
+1 Sol Ring
+1 Sylvan Anthem
+1 The Ozolith
+1 Three Visits
+1 Treetop Village
+1 Triumph of the Hordes
+1 Umezawa's Jitte
+1 Vigor
+1 Visions of Dominance
+1 War Room
+1 Yavimaya Hollow
+
+SIDEBOARD:
+1 Beast Whisperer
+1 Bloodline Pretender
+1 Bone Sabres
+1 Chameleon Colossus
+1 Clamavus
+1 Colossal Majesty
+1 Elementalist's Palette
+1 Force of Vigor
+1 Gaea's Gift
+1 Garruk's Uprising
+1 Glorious Sunrise
+1 Gwenna, Eyes of Gaea
+1 Herald's Horn
+1 Heroic Intervention
+1 Invigorating Surge
+1 Krosan Grip
+1 Lightning Greaves
+1 Mana Reflection
+1 Mind Stone
+1 Nature's Claim
+1 Nyxbloom Ancient
+1 Ram Through
+1 Return of the Wildspeaker
+1 Shadowspear
+1 Snakeskin Veil
+1 Solidarity of Heroes
+1 Song of the Dryads
+1 Sylvan Library
+1 The Great Henge
+1 Unbound Flourishing
+1 Unnatural Growth
+1 Urza's Incubator
+1 Vanquisher's Banner
+1 Vorinclex, Monstrous Raider
+1 Zendikar Resurgent
