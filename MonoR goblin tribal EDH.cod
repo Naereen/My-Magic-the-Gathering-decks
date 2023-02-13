@@ -114,12 +114,10 @@ So far, it's about 170€ after cutting the top 3 expensive cards (including pos
         <card number="1" name="Konda's Banner"/>
         <card number="1" name="Heraldic Banner"/>
         <card number="1" name="Adaptive Automaton"/>
+        <card number="1" name="Dockside Extortionist"/>
     </zone>
     <zone name="tokens">
         <card number="10" name="Goblin Token"/>
         <card number="1" name="Tuktuk The Returned"/>
-    </zone>
-    <zone name="side">
-        <card number="1" name="Dockside Extortionist"/>
     </zone>
 </cockatrice_deck>
