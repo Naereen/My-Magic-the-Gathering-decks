@@ -3,7 +3,6 @@
     <deckname>Mono black Zombie Commander EDH</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="32" name="Swamp"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Foulmire Knight // Profane Insight"/>
         <card number="1" name="Shambling Ghast"/>
@@ -71,6 +70,9 @@
         <card number="1" name="Loyal Subordinate"/>
         <card number="1" name="Dredge the Mire"/>
         <card number="1" name="Jet Medallion"/>
+        <card number="32" name="Snow-Covered Swamp"/>
+    </zone>
+    <zone name="side">
         <card number="1" name="Mikaeus, the Unhallowed"/>
     </zone>
 </cockatrice_deck>
