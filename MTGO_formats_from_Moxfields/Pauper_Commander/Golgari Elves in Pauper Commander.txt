@@ -1,6 +1,7 @@
 1 Abomination of Llanowar
 1 Arbor Armament
 1 Arbor Elf
+1 Avenging Hunter
 1 Birchlore Rangers
 1 Bone Shards
 1 Bone Splinters
@@ -47,7 +48,6 @@
 1 Nettle Sentinel
 1 Nihil Spellbomb
 1 Nissa's Pilgrimage
-1 Pollenbright Druid
 1 Priest of Titania
 1 Quirion Elves
 1 Quirion Ranger
@@ -83,6 +83,7 @@ SIDEBOARD:
 1 Golgari Locket
 1 Naturalize
 1 Nissa's Chosen
+1 Pollenbright Druid
 1 Rift Sower
 1 Run Afoul
 1 Wirewood Elf
