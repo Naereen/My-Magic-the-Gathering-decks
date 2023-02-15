@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Sliver (slivoïde) en Selesnya</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Armadillo Cloak"/>
+        <card number="3" name="Blossoming Sands"/>
+        <card number="8" name="Forest"/>
+        <card number="3" name="Gemhide Sliver"/>
+        <card number="4" name="Lead the Stampede"/>
+        <card number="4" name="Muscle Sliver"/>
+        <card number="7" name="Plains"/>
+        <card number="4" name="Plated Sliver"/>
+        <card number="4" name="Predatory Sliver"/>
+        <card number="3" name="Rancor"/>
+        <card number="2" name="Selesnya Sanctuary"/>
+        <card number="3" name="Sidewinder Sliver"/>
+        <card number="4" name="Sinew Sliver"/>
+        <card number="4" name="Virulent Sliver"/>
+        <card number="3" name="Winding Way"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Masked Vandal"/>
+        <card number="4" name="Snakeskin Veil"/>
+        <card number="3" name="Spider Umbra"/>
+        <card number="4" name="Spinneret Sliver"/>
+    </zone>
+</cockatrice_deck>
