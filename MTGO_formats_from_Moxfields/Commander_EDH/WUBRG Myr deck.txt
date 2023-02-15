@@ -1,27 +1,29 @@
-1 Adaptive Automaton
+1 All Is Dust
 1 Alloy Myr
 1 Ancient Den
 1 Ancient Tomb
 1 Arcane Signet
-1 Bloodline Pretender
+1 Buried Ruin
+1 Cascading Cataracts
 1 Cavern of Souls
 1 Channel the Suns
+1 Chief of the Foundry
 1 Chromatic Lantern
 1 Chromatic Orrery
-1 Command Beacon
 1 Command Tower
 1 Copper Myr
 1 Crystal Quarry
 1 Darksteel Citadel
-1 Darksteel Myr
+1 Dispatch
 1 Dryad of the Ilysian Grove
 1 Emrakul, the Promised End
 1 Etched Monstrosity
 1 Everflowing Chalice
-1 Exotic Orchard
 1 Expedition Map
 1 Fist of Suns
 1 Forest
+1 Forsaken Monument
+1 Foundry Inspector
 1 Geode Golem
 1 Gold Myr
 1 Great Furnace
@@ -36,21 +38,18 @@
 1 Leaden Myr
 1 Legacy Weapon
 1 Lightning Greaves
-1 Lodestone Myr
 1 Maze of Ith
-1 Metallic Mimic
 1 Morophon, the Boundless
 1 Mountain
-1 Mycosynth Golem
+1 Mutavault
 1 Myr Battlesphere
 1 Myr Convert
 1 Myr Custodian
 1 Myr Enforcer
 1 Myr Galvanizer
 1 Myr Kinsmith
-1 Myr Moonvessel
+1 Myr Reservoir
 1 Myr Retriever
-1 Myr Scrapling
 1 Myr Sire
 1 Myr Superion
 1 Myr Welder
@@ -63,23 +62,22 @@
 1 Prismatic Lens
 1 Prismatic Omen
 1 Raggadragga, Goreguts Boss
-1 Reliquary Tower
 1 Rogue's Passage
 1 Seat of the Synod
 1 Secluded Courtyard
 1 Shadowspear
 1 Shimmer Myr
+1 Shrine of the Forsaken Gods
 1 Silver Myr
 1 Slagwoods Bridge
 1 Sol Ring
+1 Steel Overseer
 1 Strip Mine
-1 Swiftfoot Boots
 1 Sword of Feast and Famine
 1 Sword of Fire and Ice
 1 Sylvan Scrying
-1 Temple of the False God
+1 The Mycosynth Gardens
 1 Thought Monitor
-1 Thought Vessel
 1 Thoughtcast
 1 Timeless Lotus
 1 Treasure Vault
@@ -90,6 +88,7 @@
 1 Unclaimed Territory
 1 Urtet, Remnant of Memnarch
 1 Urza's Factory
+1 Urza's Incubator
 1 Urza's Mine
 1 Urza's Power Plant
 1 Urza's Saga
@@ -98,30 +97,30 @@
 1 Vanquisher's Banner
 1 Vault of Whispers
 1 Vedalken Orrery
-1 War Room
 1 Wasteland
-1 Wastes
 
 SIDEBOARD:
-1 Brass Squire
+1 Adaptive Automaton
+1 Bloodline Pretender
 1 Chromatic Sphere
 1 Chromatic Star
-1 Cloudpost
-1 Cultivate
-1 Esika, God of the Tree
-1 Glimmerpost
-1 Golden Guardian
-1 Hovermyr
+1 Command Beacon
+1 Exotic Orchard
+1 Eye of Ugin
 1 Jegantha, the Wellspring
 1 Kozilek, the Great Distortion
+1 Lodestone Myr
 1 Mana Crypt
 1 Mana Vault
+1 Metallic Mimic
 1 Mind Stone
-1 Myr Adapter
-1 Myr Mindservant
-1 Myr Propagator
-1 Myr Prototype
-1 Myr Quadropod
-1 Omega Myr
-1 Suntouched Myr
-1 Treasure Map
+1 Mirrodin Besieged
+1 Mycosynth Golem
+1 Myr Matrix
+1 Myr Turbine
+1 Myrsmith
+1 Realmwalker
+1 Reliquary Tower
+1 Sanctum of Ugin
+1 Temple of the False God
+1 Thought Vessel
