@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono-Green elves in Pauper</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Birchlore Rangers"/>
+        <card number="2" name="Elvish Mystic"/>
+        <card number="4" name="Elvish Vanguard"/>
+        <card number="2" name="Fyndhorn Elves"/>
+        <card number="3" name="Jaspera Sentinel"/>
+        <card number="3" name="Lead the Stampede"/>
+        <card number="3" name="Llanowar Elves"/>
+        <card number="3" name="Lys Alana Huntmaster"/>
+        <card number="4" name="Nettle Sentinel"/>
+        <card number="4" name="Priest of Titania"/>
+        <card number="4" name="Quirion Ranger"/>
+        <card number="4" name="Timberwatch Elf"/>
+        <card number="3" name="Winding Way"/>
+        <card number="3" name="You Meet in a Tavern"/>
+        <card number="14" name="Forest"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Faerie Macabre"/>
+        <card number="3" name="Masked Vandal"/>
+        <card number="4" name="Scattershot Archer"/>
+        <card number="1" name="Ulamog's Crusher"/>
+        <card number="1" name="Valakut Invoker"/>
+        <card number="3" name="Wellwisher"/>
+    </zone>
+</cockatrice_deck>
