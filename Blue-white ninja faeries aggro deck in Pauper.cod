@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Blue-white ninja faeries aggro deck in Pauper</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="11" name="Snow-Covered Island"/>
+        <card number="4" name="Snow-Covered Plains"/>
+        <card number="1" name="Secluded Steppe"/>
+        <card number="1" name="Lonely Sandbar"/>
+        <card number="1" name="Desert"/>
+        <card number="2" name="Tranquil Cove"/>
+        <card number="4" name="Thraben Inspector"/>
+        <card number="4" name="Kor Skyfisher"/>
+        <card number="4" name="Faerie Seer"/>
+        <card number="4" name="Faerie Miscreant"/>
+        <card number="4" name="Moon-Circuit Hacker"/>
+        <card number="4" name="Spellstutter Sprite"/>
+        <card number="4" name="Ninja of the Deep Hours"/>
+        <card number="4" name="Battlefield Raptor"/>
+        <card number="4" name="Azure Fleet Admiral"/>
+        <card number="4" name="Palace Sentinels"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Hydroblast"/>
+        <card number="4" name="Blue Elemental Blast"/>
+        <card number="1" name="Desert"/>
+        <card number="4" name="Momentary Blink"/>
+    </zone>
+</cockatrice_deck>
