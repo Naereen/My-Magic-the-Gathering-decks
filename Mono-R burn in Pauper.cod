@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono-R burn in Pauper</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Burst Lightning"/>
+        <card number="4" name="Chain Lightning"/>
+        <card number="4" name="Fireblast"/>
+        <card number="4" name="Ghitu Lavarunner"/>
+        <card number="4" name="Lava Spike"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="4" name="Monastery Swiftspear"/>
+        <card number="16" name="Mountain"/>
+        <card number="4" name="Rift Bolt"/>
+        <card number="4" name="Searing Blaze"/>
+        <card number="4" name="Skewer the Critics"/>
+        <card number="4" name="Voldaren Epicure"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Fiery Cannonade"/>
+        <card number="4" name="Red Elemental Blast"/>
+        <card number="3" name="Smash to Smithereens"/>
+        <card number="2" name="Tormod's Crypt"/>
+        <card number="3" name="Dead // Gone"/>
+    </zone>
+</cockatrice_deck>
