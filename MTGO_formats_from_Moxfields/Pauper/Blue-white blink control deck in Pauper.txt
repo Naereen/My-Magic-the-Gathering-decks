@@ -1,0 +1,24 @@
+4 Brainstorm
+4 Dawnbringer Cleric
+1 Desert
+4 Ephemerate
+4 Journey to Nowhere
+1 Lonely Sandbar
+4 Mana Leak
+4 Mulldrifter
+4 Oblivion Ring
+1 Secluded Steppe
+2 Snapback
+11 Snow-Covered Island
+4 Snow-Covered Plains
+2 Soul of Migration
+4 Spirited Companion
+4 Stonehorn Dignitary
+2 Tranquil Cove
+
+SIDEBOARD:
+4 Blue Elemental Blast
+1 Desert
+3 Hydroblast
+4 Momentary Blink
+3 Wispmare
