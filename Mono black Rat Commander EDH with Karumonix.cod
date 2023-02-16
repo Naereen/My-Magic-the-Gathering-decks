@@ -1,93 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Cheap mono-Black rat EDH deck</deckname>
+    <deckname>Mono black Rat Commander EDH with Karumonix</deckname>
     <comments></comments>
     <zone name="main">
         <card number="1" name="Leechridden Swamp"/>
-        <card number="23" name="Swamp"/>
         <card number="1" name="Mutavault"/>
         <card number="1" name="Castle Locthwain"/>
-        <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Marrow-Gnawer"/>
         <card number="1" name="Patron of the Nezumi"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Terror"/>
         <card number="1" name="Pack Rat"/>
         <card number="1" name="Piper of the Swarm"/>
         <card number="1" name="Wave of Rats"/>
-        <card number="1" name="Gnat Miser"/>
         <card number="1" name="Ogre Slumlord"/>
-        <card number="1" name="Typhoid Rats"/>
         <card number="1" name="Herald's Horn"/>
         <card number="1" name="Ratcatcher"/>
-        <card number="1" name="Pestilence Rats"/>
         <card number="1" name="Crypt Rats"/>
-        <card number="1" name="Umezawa's Jitte"/>
         <card number="1" name="Sword of the Animist"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Burglar Rat"/>
         <card number="1" name="Swarm of Rats"/>
-        <card number="1" name="Nezumi Bladeblesser"/>
-        <card number="1" name="Nezumi Cutthroat"/>
         <card number="1" name="Nezumi Graverobber"/>
-        <card number="1" name="Nezumi Prowler"/>
-        <card number="1" name="Nezumi Ronin"/>
-        <card number="1" name="Nezumi Shortfang"/>
-        <card number="1" name="Locust Miser"/>
         <card number="1" name="Rancid Rats"/>
         <card number="1" name="Bontu's Monument"/>
         <card number="1" name="Throat Slitter"/>
         <card number="1" name="Nashi, Moon Sage's Scion"/>
         <card number="1" name="Okiba Reckoner Raid"/>
         <card number="1" name="Okiba-Gang Shinobi"/>
-        <card number="1" name="Ravenous Rats"/>
         <card number="1" name="Chittering Witch"/>
-        <card number="1" name="Stronghold Rats"/>
         <card number="1" name="Species Specialist"/>
-        <card number="1" name="Drainpipe Vermin"/>
         <card number="1" name="Skullsnatcher"/>
         <card number="1" name="Mukotai Ambusher"/>
-        <card number="1" name="Rotting Rats"/>
         <card number="1" name="Septic Rats"/>
-        <card number="1" name="Relentless Rats"/>
         <card number="1" name="Ichor Rats"/>
-        <card number="1" name="Gray Merchant of Asphodel"/>
-        <card number="1" name="Sinuous Vermin"/>
-        <card number="1" name="Zulaport Cutthroat"/>
-        <card number="1" name="Chittering Rats"/>
         <card number="1" name="Adaptive Automaton"/>
-        <card number="1" name="Kuro's Taken"/>
         <card number="1" name="Crypt Ghast"/>
-        <card number="1" name="Blood Artist"/>
         <card number="1" name="Bloodline Pretender"/>
-        <card number="1" name="Graf Rats"/>
-        <card number="1" name="Midnight Scavengers"/>
-        <card number="1" name="Diseased Vermin"/>
-        <card number="1" name="Graveshifter"/>
-        <card number="1" name="Morbid Opportunist"/>
-        <card number="1" name="Syr Konrad, the Grim"/>
-        <card number="1" name="Dirty Wererat"/>
-        <card number="1" name="Disease Carriers"/>
-        <card number="1" name="Village Rites"/>
         <card number="1" name="Dark Ritual"/>
-        <card number="1" name="Defile"/>
-        <card number="1" name="Murder"/>
-        <card number="1" name="Deadly Dispute"/>
-        <card number="1" name="Foul-Tongue Shriek"/>
         <card number="1" name="Infernal Grasp"/>
-        <card number="1" name="Tragic Slip"/>
         <card number="1" name="Doom Blade"/>
         <card number="1" name="Hero's Downfall"/>
         <card number="1" name="Go for the Throat"/>
-        <card number="1" name="Drag to the Underworld"/>
         <card number="1" name="Force of Despair"/>
         <card number="1" name="Baleful Mastery"/>
         <card number="1" name="Malicious Affliction"/>
         <card number="1" name="Cast Down"/>
         <card number="1" name="Malakir Rebirth"/>
-        <card number="1" name="Heartless Act"/>
         <card number="1" name="Feed the Swarm"/>
         <card number="1" name="Crippling Fear"/>
         <card number="1" name="Lab Rats"/>
@@ -95,23 +55,16 @@
         <card number="1" name="Rat Colony"/>
         <card number="1" name="Eaten Alive"/>
         <card number="1" name="Bone Shards"/>
-        <card number="1" name="Syphon Mind"/>
         <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Bolas's Citadel"/>
         <card number="1" name="Vorpal Sword"/>
         <card number="1" name="Obelisk of Urd"/>
-        <card number="1" name="Hall of Triumph"/>
-        <card number="1" name="Stoneforge Masterwork"/>
         <card number="1" name="Cabal Coffers"/>
         <card number="1" name="Tribute to Horobi"/>
-        <card number="1" name="Bad Moon"/>
         <card number="1" name="Black Market"/>
         <card number="1" name="Black Market Connections"/>
         <card number="1" name="Dictate of Erebos"/>
         <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Underworld Connections"/>
-        <card number="1" name="Palace Siege"/>
         <card number="1" name="Swarmyard"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Cabal Stronghold"/>
@@ -120,13 +73,61 @@
         <card number="1" name="War Room"/>
         <card number="1" name="Westvale Abbey"/>
         <card number="1" name="Heraldic Banner"/>
-        <card number="1" name="Konda's Banner"/>
-    </zone>
-    <zone name="side">
-        <card number="1" name="Door of Destinies"/>
-        <card number="1" name="Strixhaven Stadium"/>
+        <card number="1" name="Ashcoat of the Shadow Swarm"/>
+        <card number="1" name="Karumonix, the Rat King"/>
+        <card number="1" name="Hive of the Eye Tyrant"/>
+        <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Takenuma, Abandoned Mire"/>
         <card number="1" name="Vanquisher's Banner"/>
         <card number="1" name="Ink-Eyes, Servant of Oni"/>
         <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Blightbelly Rat"/>
+        <card number="20" name="Snow-Covered Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Stoneforge Masterwork"/>
+        <card number="1" name="Hall of Triumph"/>
+        <card number="1" name="Konda's Banner"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Dirty Wererat"/>
+        <card number="1" name="Disease Carriers"/>
+        <card number="1" name="Diseased Vermin"/>
+        <card number="1" name="Drainpipe Vermin"/>
+        <card number="1" name="Graveshifter"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Kuro's Taken"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="1" name="Nezumi Bladeblesser"/>
+        <card number="1" name="Nezumi Prowler"/>
+        <card number="1" name="Nezumi Ronin"/>
+        <card number="1" name="Nezumi Shortfang"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="1" name="Pestilence Rats"/>
+        <card number="1" name="Relentless Rats"/>
+        <card number="1" name="Ravenous Rats"/>
+        <card number="1" name="Rotting Rats"/>
+        <card number="1" name="Sinuous Vermin"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Typhoid Rats"/>
+        <card number="1" name="Stronghold Rats"/>
+        <card number="1" name="Bad Moon"/>
+        <card number="1" name="Palace Siege"/>
+        <card number="1" name="Underworld Connections"/>
+        <card number="1" name="Deadly Dispute"/>
+        <card number="1" name="Defile"/>
+        <card number="1" name="Drag to the Underworld"/>
+        <card number="1" name="Foul-Tongue Shriek"/>
+        <card number="1" name="Heartless Act"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Murder"/>
+        <card number="1" name="Chittering Rats"/>
+        <card number="1" name="Gnat Miser"/>
+        <card number="1" name="Locust Miser"/>
+        <card number="1" name="Nezumi Cutthroat"/>
+        <card number="1" name="Terror"/>
+        <card number="1" name="Tragic Slip"/>
+        <card number="2" name="Swamp"/>
     </zone>
 </cockatrice_deck>
