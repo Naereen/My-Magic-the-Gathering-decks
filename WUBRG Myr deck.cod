@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Mono black Zombie Commander EDH</deckname>
+    <deckname>WUBRG Myr deck with Jegantha as companion and Urtet as commander</deckname>
     <comments></comments>
     <zone name="main">
         <card number="1" name="All Is Dust"/>
@@ -88,7 +88,6 @@
         <card number="1" name="Treasure Vault"/>
         <card number="1" name="Tree of Tales"/>
         <card number="1" name="Ulamog, the Ceaseless Hunger"/>
-        <card number="1" name="Ulamog, the Infinite Gyre"/>
         <card number="1" name="Umezawa's Jitte"/>
         <card number="1" name="Unclaimed Territory"/>
         <card number="1" name="Urza's Factory"/>
@@ -102,9 +101,15 @@
         <card number="1" name="Vault of Whispers"/>
         <card number="1" name="Vedalken Orrery"/>
         <card number="1" name="Wasteland"/>
+        <card number="1" name="Cryptolith Rite"/>
     </zone>
     <zone name="side">
         <card number="1" name="Urtet, Remnant of Memnarch"/>
         <card number="1" name="Jegantha, the Wellspring"/>
+        <card number="1" name="Nameless Inversion"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" name="Citanul Hierophants"/>
+        <card number="1" name="Crib Swap"/>
+        <card number="1" name="Eldrazi Conscription"/>
     </zone>
 </cockatrice_deck>
