@@ -7,11 +7,11 @@
         <card number="4" name="Journey to Nowhere"/>
         <card number="4" name="Brainstorm"/>
         <card number="4" name="Mulldrifter"/>
-        <card number="4" name="Spirited Companion"/>
+        <card number="3" name="Spirited Companion"/>
         <card number="2" name="Snapback"/>
         <card number="4" name="Mana Leak"/>
-        <card number="4" name="Dawnbringer Cleric"/>
-        <card number="4" name="Stonehorn Dignitary"/>
+        <card number="3" name="Dawnbringer Cleric"/>
+        <card number="3" name="Stonehorn Dignitary"/>
         <card number="4" name="Ephemerate"/>
         <card number="2" name="Soul of Migration"/>
         <card number="11" name="Snow-Covered Island"/>
@@ -20,12 +20,13 @@
         <card number="1" name="Lonely Sandbar"/>
         <card number="1" name="Desert"/>
         <card number="2" name="Tranquil Cove"/>
+        <card number="3" name="Inspiring Overseer"/>
     </zone>
     <zone name="side">
         <card number="3" name="Hydroblast"/>
         <card number="4" name="Blue Elemental Blast"/>
         <card number="1" name="Desert"/>
         <card number="3" name="Wispmare"/>
-        <card number="4" name="Momentary Blink"/>
+        <card number="4" name="Fade Away"/>
     </zone>
 </cockatrice_deck>
