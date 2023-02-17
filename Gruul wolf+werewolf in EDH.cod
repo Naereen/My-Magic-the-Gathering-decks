@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Gruul wolf+werewolf in EDH - work in progress</deckname>
-    <comments></comments>
+    <deckname>Gruul wolf+werewolf in EDH</deckname>
+    <comments>I did this deck quite quickly, as a fun activity. I do NOT intend to print it in proxies or buy it, I don't think it would be powerful enough to own in paper. But it sure should be fun to play with!</comments>
     <zone name="main">
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Artifact Mutation"/>
@@ -13,15 +13,13 @@
         <card number="1" name="Cindervines"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Copperline Gorge"/>
-        <card number="1" name="Cragcrown Pathway / Timbercrown Pathway"/>
-        <card number="1" name="Cryptolith Rite"/>
         <card number="1" name="Decimate"/>
         <card number="1" name="Den of the Bugbear"/>
         <card number="1" name="Destructive Revelry"/>
         <card number="1" name="Ezuri's Predation"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Fire-Lit Thicket"/>
-        <card number="1" name="Forest"/>
+        <card number="5" name="Forest"/>
         <card number="1" name="Fury of the Horde"/>
         <card number="1" name="Game Trail"/>
         <card number="1" name="Gnottvold Slumbermound"/>
@@ -32,87 +30,77 @@
         <card number="1" name="Karplusan Forest"/>
         <card number="1" name="Kazandu Refuge"/>
         <card number="1" name="Kessig Wolf Run"/>
-        <card number="1" name="Khalni Ambush / Khalni Territory"/>
-        <card number="1" name="Klauth, Unrivaled Ancient (AFC"/>
         <card number="1" name="Klauth's Will"/>
         <card number="1" name="Lair of the Hydra"/>
-        <card number="1" name="Leyline of Abundance"/>
-        <card number="1" name="Llanowar Loamspeaker"/>
-        <card number="1" name="Llanowar Tribe"/>
-        <card number="1" name="Llanowar Visionary"/>
-        <card number="1" name="Marwyn, the Nurturer"/>
-        <card number="1" name="Mawloc"/>
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Mountain"/>
         <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Nyxbloom Ancient (PTHB"/>
         <card number="1" name="Okina, Temple to the Grandfathers"/>
-        <card number="1" name="Old Gnawbone"/>
-        <card number="1" name="Omnath, Locus of Mana"/>
-        <card number="1" name="Omnath, Locus of Rage"/>
         <card number="1" name="Oran-Rief, the Vastwood"/>
-        <card number="1" name="Paradise Druid"/>
         <card number="1" name="Pendelhaven"/>
-        <card number="1" name="Priest of Titania"/>
-        <card number="1" name="Quirion Elves"/>
-        <card number="1" name="Radha, Heir to Keld"/>
         <card number="1" name="Raging Ravine"/>
-        <card number="1" name="Rampaging Brontodon (G18"/>
-        <card number="1" name="Reclamation Sage"/>
-        <card number="1" name="Reclusive Taxidermist"/>
         <card number="1" name="Rhythm of the Wild"/>
-        <card number="1" name="Rishkar, Peema Renegade"/>
-        <card number="1" name="Road / Ruin"/>
         <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Rootbound Crag"/>
-        <card number="1" name="Runadi, Behemoth Caller"/>
         <card number="1" name="Sandwurm Convergence"/>
-        <card number="1" name="Savageborn Hydra"/>
-        <card number="1" name="Scorned Villager / Moonscarred Werewolf"/>
         <card number="1" name="Shadow in the Warp"/>
-        <card number="1" name="Shaman of Forgotten Ways"/>
-        <card number="0" name="Pass"/>
         <card number="1" name="Sheltered Thicket"/>
         <card number="1" name="Shinka, the Bloodsoaked Keep"/>
         <card number="1" name="Shivan Gorge"/>
         <card number="1" name="Skarrg, the Rage Pits"/>
-        <card number="1" name="Skyline Despot"/>
         <card number="1" name="Sokenzan, Crucible of Defiance"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Spinerock Knoll"/>
-        <card number="1" name="Spire Garden (PCLB"/>
-        <card number="1" name="Star of Extinction"/>
         <card number="1" name="Stomping Ground"/>
-        <card number="1" name="Stonehoof Chieftain"/>
-        <card number="1" name="Sylvan Caryatid"/>
-        <card number="1" name="Tangled Florahedron / Tangled Vale"/>
         <card number="1" name="Temple of Abandon"/>
-        <card number="1" name="Terastodon"/>
         <card number="1" name="Three Visits"/>
-        <card number="1" name="Titan of Industry"/>
-        <card number="1" name="Tooth and Nail"/>
-        <card number="1" name="Triplicate Titan"/>
-        <card number="0" name="Wood"/>
-        <card number="1" name="Tyrant's Familiar"/>
-        <card number="1" name="Ulamog, the Infinite Gyre"/>
-        <card number="1" name="Undermountain Adventurer"/>
-        <card number="1" name="Utvara Hellkite"/>
-        <card number="1" name="Viridian Joiner"/>
-        <card number="1" name="Vorinclex, Voice of Hunger"/>
-        <card number="1" name="Wall of Roots"/>
-        <card number="1" name="Weaver of Blossoms / Blossom-Clad Werewolf"/>
-        <card number="1" name="Werebear"/>
-        <card number="1" name="Whisperer of the Wilds"/>
         <card number="1" name="Wooded Ridgeline"/>
-        <card number="1" name="Woodfall Primus"/>
-        <card number="1" name="Worldspine Wurm"/>
-        <card number="1" name="Zendikar Resurgent"/>
         <card number="1" name="Zhur-Taa Druid"/>
         <card number="1" name="Vanquisher's Banner"/>
         <card number="1" name="Sword of the Animist"/>
         <card number="1" name="Obelisk of Urd"/>
-        <card number="1" name="Heraldic Banner"/>
         <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Immerwolf"/>
+        <card number="1" name="Tovolar, Dire Overlord"/>
+        <card number="1" name="Tovolar's Huntmaster"/>
+        <card number="1" name="Kessig Naturalist"/>
+        <card number="1" name="Kessig Cagebreakers"/>
+        <card number="1" name="Adaptive Automaton"/>
+        <card number="1" name="Bloodline Pretender"/>
+        <card number="1" name="Huntmaster of the Fells"/>
+        <card number="1" name="Ulrich of the Krallenhorde"/>
+        <card number="1" name="Ulrich's Kindred"/>
+        <card number="1" name="Daybreak Ranger"/>
+        <card number="1" name="Child of the Pack"/>
+        <card number="1" name="Outland Liberator"/>
+        <card number="1" name="Duskwatch Recruiter"/>
+        <card number="1" name="Werewolf Pack Leader"/>
+        <card number="1" name="Nightpack Ambusher"/>
+        <card number="1" name="Avabruck Caretaker"/>
+        <card number="1" name="Anara, Wolvid Familiar"/>
+        <card number="1" name="Cemetery Prowler"/>
+        <card number="1" name="Mayor of Avabruck"/>
+        <card number="1" name="Howlpack Piper"/>
+        <card number="1" name="Sage of Ancient Lore"/>
+        <card number="1" name="Hollowhenge Overlord"/>
+        <card number="1" name="Scorned Villager"/>
+        <card number="1" name="Ill-Tempered Loner"/>
+        <card number="1" name="Hound Tamer"/>
+        <card number="1" name="Instigator Gang"/>
+        <card number="1" name="Kruin Outlaw"/>
+        <card number="1" name="Geier Reach Bandit"/>
+        <card number="1" name="Arlinn, the Pack's Hope"/>
+        <card number="1" name="Silverfur Partisan"/>
+        <card number="1" name="Ascendant Packleader"/>
+        <card number="1" name="Hermit of the Natterknolls"/>
+        <card number="1" name="Volatile Arsonist"/>
+        <card number="1" name="Packsong Pup"/>
+        <card number="1" name="Primal Adversary"/>
     </zone>
-    <zone name="side"/>
+    <zone name="side">
+        <card number="1" name="Jegantha, the Wellspring"/>
+    </zone>
 </cockatrice_deck>
