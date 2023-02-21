@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>MonoW Yorion DeathTaxes Legacy version 21-02-2023</deckname>
+    <comments>
+    </comments>
+    <zone name="main">
+        <card number="4" name="Aether Vial"/>
+        <card number="1" name="Batterskull"/>
+        <card number="3" name="Cavern of Souls"/>
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
+        <card number="3" name="Flickerwisp"/>
+        <card number="1" name="Kaldra Compleat"/>
+        <card number="4" name="Karakas"/>
+        <card number="1" name="Lion Sash"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="4" name="Mother of Runes"/>
+        <card number="17" name="Plains"/>
+        <card number="4" name="Recruiter of the Guard"/>
+        <card number="1" name="Remorseful Cleric"/>
+        <card number="4" name="Rishadan Port"/>
+        <card number="3" name="Skyclave Apparition"/>
+        <card number="4" name="Solitude"/>
+        <card number="4" name="Spirit of the Labyrinth"/>
+        <card number="4" name="Stoneforge Mystic"/>
+        <card number="4" name="Swords to Plowshares"/>
+        <card number="4" name="Thalia, Guardian of Thraben"/>
+        <card number="1" name="Timeless Dragon"/>
+        <card number="2" name="Touch the Spirit Realm"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="4" name="Wasteland"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Containment Priest"/>
+        <card number="1" name="Council's Judgment"/>
+        <card number="2" name="Empty-Shrine Kannushi"/>
+        <card number="1" name="Grafdigger's Cage"/>
+        <card number="2" name="Leyline of the Void"/>
+        <card number="2" name="Mindbreak Trap"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="2" name="Rest in Peace"/>
+        <card number="2" name="Surgical Extraction"/>
+        <card number="1" name="Yorion, Sky Nomad"/>
+    </zone>
+</cockatrice_deck>

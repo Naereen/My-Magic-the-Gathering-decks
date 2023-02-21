@@ -1,0 +1,35 @@
+4 Aether Vial
+1 Batterskull
+3 Cavern of Souls
+1 Eiganjo, Seat of the Empire
+3 Flickerwisp
+1 Kaldra Compleat
+4 Karakas
+1 Lion Sash
+1 Loran of the Third Path
+4 Mother of Runes
+17 Plains
+4 Recruiter of the Guard
+1 Remorseful Cleric
+4 Rishadan Port
+3 Skyclave Apparition
+4 Solitude
+4 Spirit of the Labyrinth
+4 Stoneforge Mystic
+4 Swords to Plowshares
+4 Thalia, Guardian of Thraben
+1 Timeless Dragon
+2 Touch the Spirit Realm
+1 Umezawa's Jitte
+4 Wasteland
+
+1 Containment Priest
+1 Council's Judgment
+2 Empty-Shrine Kannushi
+1 Grafdigger's Cage
+2 Leyline of the Void
+2 Mindbreak Trap
+1 Path to Exile
+2 Rest in Peace
+2 Surgical Extraction
+1 Yorion, Sky Nomad
