@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Hammer Cats aggro combo in Pioneer</deckname>
+    <comments>https://decks.tcgplayer.com/magic/pioneer/andreamengucci/hammercats-pioneer/1400560</comments>
+    <zone name="main">
+        <card number="4" name="Adorned Pouncer"/>
+        <card number="4" name="Brimaz, King of Oreskos"/>
+        <card number="4" name="Kemba, Kha Enduring"/>
+        <card number="4" name="Sacred Cat"/>
+        <card number="4" name="Skrelv, Defector Mite"/>
+        <card number="2" name="Brave the Elements"/>
+        <card number="4" name="Colossus Hammer"/>
+        <card number="1" name="Maul of the Skyclaves"/>
+        <card number="4" name="Open the Armory"/>
+        <card number="1" name="Ossification"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="4" name="Sigarda's Aid"/>
+        <card number="1" name="Sword of Forge and Frontier"/>
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
+        <card number="21" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Brave the Elements"/>
+        <card number="2" name="Damping Sphere"/>
+        <card number="4" name="Lay Down Arms"/>
+        <card number="1" name="Ossification"/>
+        <card number="2" name="Rest in Peace"/>
+        <card number="4" name="Wedding Announcement"/>
+        <card number="1" name="Reidane, God of the Worthy"/>
+    </zone>
+</cockatrice_deck>

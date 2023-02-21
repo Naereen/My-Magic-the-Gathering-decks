@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>GW Death&Taxes by Andrea Mengucci</deckname>
+    <comments>https://decks.tcgplayer.com/magic/modern/andreamengucci/gw-death-taxes/1400718</comments>
+    <zone name="main">
+        <card number="4" name="Archon of Emeria"/>
+        <card number="2" name="Flickerwisp"/>
+        <card number="4" name="Giver of Runes"/>
+        <card number="4" name="Leonin Arbiter"/>
+        <card number="1" name="Lion Sash"/>
+        <card number="3" name="Melira, the Living Cure"/>
+        <card number="2" name="Skrelv, Defector Mite"/>
+        <card number="4" name="Solitude"/>
+        <card number="4" name="Stoneforge Mystic"/>
+        <card number="3" name="Thalia, Guardian of Thraben"/>
+        <card number="4" name="Aether Vial"/>
+        <card number="1" name="Kaldra Compleat"/>
+        <card number="1" name="Sword of Fire and Ice"/>
+        <card number="3" name="Boseiju, Who Endures"/>
+        <card number="1" name="Eiganjo Castle"/>
+        <card number="2" name="Eiganjo, Seat of the Empire"/>
+        <card number="4" name="Ghost Quarter"/>
+        <card number="4" name="Horizon Canopy"/>
+        <card number="3" name="Plains"/>
+        <card number="4" name="Razorverge Thicket"/>
+        <card number="2" name="Temple Garden"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Burrenton Forge-Tender"/>
+        <card number="3" name="Gaddock Teeg"/>
+        <card number="3" name="Outland Liberator"/>
+        <card number="2" name="Prismatic Ending"/>
+        <card number="2" name="Sanctifier en-Vec"/>
+        <card number="2" name="Soulless Jailer"/>
+    </zone>
+</cockatrice_deck>
