@@ -51,7 +51,6 @@
         <card number="1" name="Murder"/>
         <card number="1" name="Natural Reclamation"/>
         <card number="1" name="Nettle Sentinel"/>
-        <card number="1" name="Nihil Spellbomb"/>
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Priest of Titania"/>
         <card number="1" name="Quirion Elves"/>
@@ -79,6 +78,7 @@
         <card number="1" name="Witherbloom Campus"/>
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Woodland Chasm"/>
+        <card number="1" name="Snuff Out"/>
     </zone>
     <zone name="side">
         <card number="1" name="Broken Bond"/>
