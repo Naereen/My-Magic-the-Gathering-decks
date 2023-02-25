@@ -3,7 +3,6 @@
     <deckname>Golgari Elves in Pauper Commander</deckname>
     <comments>Golgari Elves in Pauper Commander</comments>
     <zone name="main">
-        <card number="1" name="Abomination of Llanowar"/>
         <card number="1" name="Arbor Armament"/>
         <card number="1" name="Arbor Elf"/>
         <card number="1" name="Avenging Hunter"/>
@@ -93,5 +92,6 @@
         <card number="1" name="Run Afoul"/>
         <card number="1" name="Wirewood Elf"/>
         <card number="1" name="Wirewood Herald"/>
+        <card number="1" name="Abomination of Llanowar"/>
     </zone>
 </cockatrice_deck>
