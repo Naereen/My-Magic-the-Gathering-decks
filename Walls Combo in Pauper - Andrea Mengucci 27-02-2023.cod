@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Walls Combo in Pauper - Andrea Mengucci 27-02-2023</deckname>
+    <comments>https://www.mtggoldfish.com/deck/5443345#online</comments>
+    <zone name="main">
+        <card number="2" name="Avacyn's Pilgrim"/>
+        <card number="4" name="Axebane Guardian"/>
+        <card number="4" name="Drift of Phantasms"/>
+        <card number="12" name="Forest"/>
+        <card number="1" name="Freed from the Real"/>
+        <card number="1" name="Galvanic Alchemist"/>
+        <card number="1" name="Holdout Settlement"/>
+        <card number="3" name="Lead the Stampede"/>
+        <card number="2" name="Orochi Leafcaller"/>
+        <card number="4" name="Overgrown Battlement"/>
+        <card number="4" name="Quirion Ranger"/>
+        <card number="1" name="Reaping the Graves"/>
+        <card number="1" name="Repository Skaab"/>
+        <card number="1" name="Rift Sower"/>
+        <card number="4" name="Saruli Caretaker"/>
+        <card number="1" name="Secret Door"/>
+        <card number="3" name="Shield-Wall Sentinel"/>
+        <card number="3" name="Tinder Wall"/>
+        <card number="2" name="Tuktuk Rubblefort"/>
+        <card number="1" name="Valakut Invoker"/>
+        <card number="1" name="Vivien's Grizzly"/>
+        <card number="4" name="Winding Way"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Crimson Acolyte"/>
+        <card number="2" name="Gorilla Shaman"/>
+        <card number="2" name="Healer of the Glade"/>
+        <card number="1" name="Moment's Peace"/>
+        <card number="1" name="Nylea's Disciple"/>
+        <card number="2" name="Obsidian Acolyte"/>
+        <card number="1" name="Pulse of Murasa"/>
+        <card number="1" name="Ray of Revelation"/>
+        <card number="2" name="Standard Bearer"/>
+    </zone>
+</cockatrice_deck>
