@@ -28,16 +28,13 @@
         <card number="1" name="Eyeblight Cullers"/>
         <card number="1" name="Eyeblight's Ending"/>
         <card number="1" name="Ezuri's Archers"/>
-        <card number="1" name="Farhaven Elf"/>
         <card number="1" name="Feed the Swarm"/>
-        <card number="1" name="Fog"/>
-        <card number="18" name="Forest"/>
+        <card number="15" name="Forest"/>
         <card number="1" name="Fyndhorn Elves"/>
         <card number="1" name="Glistener Elf"/>
         <card number="1" name="Go for the Throat"/>
         <card number="1" name="Golgari Guildgate"/>
         <card number="1" name="Golgari Rot Farm"/>
-        <card number="1" name="Golgari Signet"/>
         <card number="1" name="Haunted Mire"/>
         <card number="1" name="Ivy Lane Denizen"/>
         <card number="1" name="Jaspera Sentinel"/>
@@ -48,7 +45,6 @@
         <card number="1" name="Lys Alana Bowmaster"/>
         <card number="1" name="Lys Alana Huntmaster"/>
         <card number="1" name="Murder"/>
-        <card number="1" name="Natural Reclamation"/>
         <card number="1" name="Nettle Sentinel"/>
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Priest of Titania"/>
@@ -60,7 +56,7 @@
         <card number="1" name="Smell Fear"/>
         <card number="1" name="Snakeskin Veil"/>
         <card number="1" name="Springbloom Druid"/>
-        <card number="8" name="Swamp"/>
+        <card number="7" name="Swamp"/>
         <card number="1" name="Tajuru Beastmaster"/>
         <card number="1" name="Tajuru Blightblade"/>
         <card number="1" name="Tajuru Pathwarden"/>
@@ -78,6 +74,14 @@
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Woodland Chasm"/>
         <card number="1" name="Snuff Out"/>
+        <card number="1" name="Opal Palace"/>
+        <card number="1" name="Study Hall"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Spider Umbra"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Mutagenic Growth"/>
+        <card number="1" name="Silhana Starfletcher"/>
     </zone>
     <zone name="side">
         <card number="1" name="Broken Bond"/>
@@ -93,5 +97,9 @@
         <card number="1" name="Wirewood Elf"/>
         <card number="1" name="Wirewood Herald"/>
         <card number="1" name="Abomination of Llanowar"/>
+        <card number="1" name="Natural Reclamation"/>
+        <card number="1" name="Fog"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Lignify"/>
     </zone>
 </cockatrice_deck>
