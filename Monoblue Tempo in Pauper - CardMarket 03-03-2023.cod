@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Monoblue Tempo in Pauper - CardMarket 03-03-2023</deckname>
+    <comments>https://www.cardmarket.com/fr/Magic/Insight/Articles/On-Video-This-Week-402022#y1</comments>
+    <zone name="main">
+        <card number="3" name="Brainstorm"/>
+        <card number="4" name="Mental Note"/>
+        <card number="4" name="Counterspell"/>
+        <card number="4" name="Deep Analysis"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Echoing Truth"/>
+        <card number="4" name="Foil"/>
+        <card number="2" name="Force Spike"/>
+        <card number="2" name="Rush of Knowledge"/>
+        <card number="4" name="Thought Scour"/>
+        <card number="4" name="Augur of Bolas"/>
+        <card number="4" name="Spire Golem"/>
+        <card number="4" name="Tolarian Terror"/>
+        <card number="19" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Annul"/>
+        <card number="1" name="Blue Elemental Blast"/>
+        <card number="1" name="Curse of Chains"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Echoing Truth"/>
+        <card number="2" name="Gingerbrute"/>
+        <card number="3" name="Hydroblast"/>
+        <card number="2" name="Prohibit"/>
+    </zone>
+</cockatrice_deck>
