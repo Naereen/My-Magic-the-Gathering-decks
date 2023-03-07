@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Sprite Dragon burn and cantrips spells in Pauper EDH</deckname>
+    <comments>Sprite Dragon burn and cantrips spells in Pauper EDH
+https://deckstats.net/decks/136742/1846880-sprite-dragon</comments>
+    <zone name="main">
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Anticipate"/>
+        <card number="1" name="Arc Lightning"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Augur of Bolas"/>
+        <card number="1" name="Bonesplitter"/>
+        <card number="1" name="Burst Lightning"/>
+        <card number="1" name="Chain Lightning"/>
+        <card number="1" name="Clout of the Dominus"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Compulsive Research"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Darksteel Axe"/>
+        <card number="1" name="Daze"/>
+        <card number="1" name="Delver of Secrets"/>
+        <card number="1" name="Disrupt"/>
+        <card number="1" name="Electrickery"/>
+        <card number="1" name="Essence Scatter"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exclude"/>
+        <card number="1" name="Faerie Seer"/>
+        <card number="1" name="False Summoning"/>
+        <card number="1" name="Fire // Ice"/>
+        <card number="1" name="Firebrand Archer"/>
+        <card number="1" name="Flame Slash"/>
+        <card number="1" name="Force Spike"/>
+        <card number="1" name="Foresee"/>
+        <card number="1" name="Forked Bolt"/>
+        <card number="1" name="Ghitu Lavarunner"/>
+        <card number="1" name="Gitaxian Probe"/>
+        <card number="1" name="Gust of Wind"/>
+        <card number="1" name="Gut Shot"/>
+        <card number="1" name="Harvest Pyre"/>
+        <card number="1" name="Highland Lake"/>
+        <card number="1" name="Impulse"/>
+        <card number="1" name="Incinerate"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Izzet Guildgate"/>
+        <card number="1" name="Kiln Fiend"/>
+        <card number="1" name="Lightning Bolt"/>
+        <card number="1" name="Lightning Strike"/>
+        <card number="1" name="Logic Knot"/>
+        <card number="1" name="Magma Jet"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Memory Lapse"/>
+        <card number="1" name="Miscalculation"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Peek"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Preemptive Strike"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Prohibit"/>
+        <card number="1" name="Quench"/>
+        <card number="1" name="Rift Bolt"/>
+        <card number="1" name="Searing Spear"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Sleight of Hand"/>
+        <card number="1" name="Snap"/>
+        <card number="18" name="Snow-Covered Island"/>
+        <card number="9" name="Snow-Covered Mountain"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="1" name="Staggershock"/>
+        <card number="1" name="Swiftwater Cliffs"/>
+        <card number="1" name="Swirling Sandstorm"/>
+        <card number="1" name="Tamiyo's Epiphany"/>
+        <card number="1" name="Tandem Lookout"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Think Twice"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Vapor Snag"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Sprite Dragon"/>
+    </zone>
+</cockatrice_deck>
