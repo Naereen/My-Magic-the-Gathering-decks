@@ -74,5 +74,6 @@
     </zone>
     <zone name="side">
         <card number="1" name="Mikaeus, the Unhallowed"/>
+        <card number="1" name="Kalitas, Traitor of Ghet"/>
     </zone>
 </cockatrice_deck>

@@ -4,31 +4,110 @@
     <comments>Watcher of the Spheres tribal flyers in Pauper EDH</comments>
     <zone name="side">
         <card number="1" name="Watcher of the Spheres"/>
+        <card number="1" name="Azorius Cluestone"/>
+        <card number="1" name="Azorius Keyrune"/>
+        <card number="1" name="Azorius Locket"/>
+        <card number="1" name="Wispmare"/>
+        <card number="1" name="Faerie Trickery"/>
+        <card number="1" name="Ichthyomorphosis"/>
+        <card number="1" name="Faerie Guidemother // Gift of the Fae"/>
+        <card number="1" name="Faerie Impostor"/>
+        <card number="1" name="Faerie Miscreant"/>
+        <card number="1" name="Kor Skyfisher"/>
+        <card number="1" name="Naiad of Hidden Coves"/>
+        <card number="1" name="Planar Ally"/>
+        <card number="1" name="Vedalken Outlander"/>
+        <card number="1" name="Skyscanner"/>
+        <card number="1" name="Azorius First-Wing"/>
+        <card number="1" name="Battlefield Raptor"/>
+        <card number="1" name="Healer's Hawk"/>
+        <card number="1" name="Latchkey Faerie"/>
+        <card number="1" name="Pilgrim's Eye"/>
+        <card number="1" name="Segovian Angel"/>
     </zone>
     <zone name="main">
-        <card number="16" name="Snow-Covered Island"/>
-        <card number="16" name="Snow-Covered Plains"/>
+        <card number="13" name="Snow-Covered Island"/>
+        <card number="13" name="Snow-Covered Plains"/>
         <card number="1" name="Ash Barrens"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Azorius Guildgate"/>
         <card number="1" name="Azorius Chancery"/>
-        <card number="1" name="Azorius First-Wing"/>
-        <card number="1" name="Azorius Locket"/>
-        <card number="1" name="Azorius Cluestone"/>
-        <card number="1" name="Azorius Keyrune"/>
         <card number="1" name="Azorius Knight-Arbiter"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Faerie Seer"/>
-        <card number="1" name="Faerie Impostor"/>
-        <card number="1" name="Faerie Miscreant"/>
         <card number="1" name="Faerie Invaders"/>
-        <card number="1" name="Latchkey Faerie"/>
         <card number="1" name="Weatherseed Faeries"/>
         <card number="1" name="Silkbind Faerie"/>
-        <card number="1" name="Faerie Trickery"/>
         <card number="1" name="Thornwind Faeries"/>
         <card number="1" name="Faerie Duelist"/>
         <card number="1" name="Cloud of Faeries"/>
-        <card number="1" name="Faerie Guidemother // Gift of the Fae"/>
+        <card number="1" name="Daze"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Force Spike"/>
+        <card number="1" name="False Summoning"/>
+        <card number="1" name="Glacial Floodplain"/>
+        <card number="1" name="Idyllic Beachfront"/>
+        <card number="1" name="Meandering River"/>
+        <card number="1" name="Razortide Bridge"/>
+        <card number="1" name="Skybridge Towers"/>
+        <card number="1" name="Tranquil Cove"/>
+        <card number="1" name="Ephemerate"/>
+        <card number="1" name="Momentary Blink"/>
+        <card number="1" name="Impede Momentum"/>
+        <card number="1" name="Hindering Light"/>
+        <card number="1" name="Turn to Mist"/>
+        <card number="1" name="Dust to Dust"/>
+        <card number="1" name="Dramatic Rescue"/>
+        <card number="1" name="Feeling of Dread"/>
+        <card number="1" name="Esper Cormorants"/>
+        <card number="1" name="Steel of the Godhead"/>
+        <card number="1" name="Lawmage's Binding"/>
+        <card number="1" name="Curse of Chains"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="1" name="Hyena Umbra"/>
+        <card number="1" name="Transcendent Envoy"/>
+        <card number="1" name="Minimus Containment"/>
+        <card number="1" name="Reprobation"/>
+        <card number="1" name="Mask of Law and Grace"/>
+        <card number="1" name="Journey to Nowhere"/>
+        <card number="1" name="Bound in Gold"/>
+        <card number="1" name="Chains of Custody"/>
+        <card number="1" name="Nahiri's Binding"/>
+        <card number="1" name="Planar Disruption"/>
+        <card number="1" name="Snap"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Witness Protection"/>
+        <card number="1" name="Frogify"/>
+        <card number="1" name="Kasmina's Transmutation"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Starnheim Courser"/>
+        <card number="1" name="Inspiring Overseer"/>
+        <card number="1" name="Warden of Evos Isle"/>
+        <card number="1" name="Augury Owl"/>
+        <card number="1" name="Cloudkin Seer"/>
+        <card number="1" name="Spellstutter Sprite"/>
+        <card number="1" name="Silver Raven"/>
+        <card number="1" name="Pestermite"/>
+        <card number="1" name="Spiketail Drakeling"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Stormscape Familiar"/>
+        <card number="1" name="Custodi Squire"/>
+        <card number="1" name="Sage Owl"/>
+        <card number="1" name="Ardenvale Tactician // Dizzying Swoop"/>
+        <card number="1" name="Angelic Curator"/>
+        <card number="1" name="Seraph of Dawn"/>
+        <card number="1" name="Basilica Shepherd"/>
+        <card number="1" name="Angel of the Dawn"/>
+        <card number="1" name="Aven Eternal"/>
+        <card number="1" name="Spiketail Hatchling"/>
+        <card number="1" name="Flensing Raptor"/>
+        <card number="1" name="Shriek Raptor"/>
+        <card number="1" name="Winged Shepherd"/>
+        <card number="1" name="Dawnglare Invoker"/>
+        <card number="1" name="Senate Griffin"/>
+        <card number="1" name="Talon Trooper"/>
+        <card number="1" name="Vassal Soul"/>
+        <card number="1" name="Intercessor's Arrest"/>
     </zone>
 </cockatrice_deck>
