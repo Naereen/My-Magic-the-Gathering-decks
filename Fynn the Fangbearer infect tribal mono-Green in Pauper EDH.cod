@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Fynn the Fangbearer infect tribal mono-Green in Pauper EDH</deckname>
+    <comments>Fynn the Fangbearer infect tribal mono-Green in Pauper EDH
+https://www.moxfield.com/decks/YdJ5hNM5eE2szRDPf3OsdQ</comments>
+    <zone name="side">
+        <card number="1" name="Fynn, the Fangbearer"/>
+    </zone>
+    <zone name="main">
+        <card number="34" name="Snow-Covered Forest"/>
+        <card number="1" name="Adaptive Sporesinger"/>
+        <card number="1" name="Aggressive Instinct"/>
+        <card number="1" name="Ambush Viper"/>
+        <card number="1" name="Bite Down"/>
+        <card number="1" name="Blight Mamba"/>
+        <card number="1" name="Bloom Hulk"/>
+        <card number="1" name="Branchblight Stalker"/>
+        <card number="1" name="Bull's Strength"/>
+        <card number="1" name="Carnivorous Canopy"/>
+        <card number="1" name="Charge Through"/>
+        <card number="1" name="Contagious Vorrac"/>
+        <card number="1" name="Copper Longlegs"/>
+        <card number="1" name="Corpse Cur"/>
+        <card number="1" name="Courage in Crisis"/>
+        <card number="1" name="Cystbearer"/>
+        <card number="1" name="Deadly Recluse"/>
+        <card number="1" name="Dune Mover"/>
+        <card number="1" name="Duskshell Crawler"/>
+        <card number="1" name="Fang of Shigeki"/>
+        <card number="1" name="Gaea's Gift"/>
+        <card number="1" name="Glistener Elf"/>
+        <card number="1" name="Groundswell"/>
+        <card number="1" name="Ichorclaw Myr"/>
+        <card number="1" name="Ichorspit Basilisk"/>
+        <card number="1" name="Invigorate"/>
+        <card number="1" name="Larger Than Life"/>
+        <card number="1" name="Lotus Petal"/>
+        <card number="1" name="Massive Might"/>
+        <card number="1" name="Master's Rebuke"/>
+        <card number="1" name="Might of Old Krosa"/>
+        <card number="1" name="Moss Viper"/>
+        <card number="1" name="Nightshade Peddler"/>
+        <card number="1" name="Phyrexian Digester"/>
+        <card number="1" name="Plague Nurse"/>
+        <card number="1" name="Pollenbright Druid"/>
+        <card number="1" name="Predator's Strike"/>
+        <card number="1" name="Rabid Bite"/>
+        <card number="1" name="Ram Through"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Ranger's Guile"/>
+        <card number="1" name="Rot Wolf"/>
+        <card number="1" name="Sedge Scorpion"/>
+        <card number="1" name="Seedling Charm"/>
+        <card number="1" name="Smell Fear"/>
+        <card number="1" name="Snakeskin Veil"/>
+        <card number="1" name="Sylvan Might"/>
+        <card number="1" name="Tajuru Blightblade"/>
+        <card number="1" name="Tamiyo's Safekeeping"/>
+        <card number="1" name="Thirsting Roots"/>
+        <card number="1" name="Thornweald Archer"/>
+        <card number="1" name="Toxic Scorpion"/>
+        <card number="1" name="Tranquil Thicket"/>
+        <card number="1" name="Tread Upon"/>
+        <card number="1" name="Turntimber Grove"/>
+        <card number="1" name="Tyrranax Atrocity"/>
+        <card number="1" name="Underdark Basilisk"/>
+        <card number="1" name="Unnatural Predation"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Viridian Betrayers"/>
+        <card number="1" name="Virulent Sliver"/>
+        <card number="1" name="Vitality Charm"/>
+        <card number="1" name="Wedding Invitation"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Wildsize"/>
+        <card number="1" name="Woodcutter's Grit"/>
+    </zone>
+</cockatrice_deck>
