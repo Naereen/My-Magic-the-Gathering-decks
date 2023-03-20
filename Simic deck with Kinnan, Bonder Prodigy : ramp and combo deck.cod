@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Simic deck with Kinnan, Bonder Prodigy : ramp and combo deck</deckname>
+    <comments>From https://edhrec.com/average-decks/kinnan-bonder-prodigy</comments>
+    <zone name="main">
+        <card number="1" name="Kinnan, Bonder Prodigy"/>
+        <card number="1" name="Armored Scrapgorger"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Bloom Tender"/>
+        <card number="1" name="Consecrated Sphinx"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Faerie Mastermind"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="1" name="Ilysian Caryatid"/>
+        <card number="1" name="Incubation Druid"/>
+        <card number="1" name="Jin-Gitaxias, Progress Tyrant"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Llanowar Loamspeaker"/>
+        <card number="1" name="Maraleaf Pixie"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Nyxbloom Ancient"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Priest of Titania"/>
+        <card number="1" name="Prophet of Distortion"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Sylvan Caryatid"/>
+        <card number="1" name="Thassa's Oracle"/>
+        <card number="1" name="Thrasios, Triton Hero"/>
+        <card number="1" name="Trophy Mage"/>
+        <card number="1" name="Walking Ballista"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Dramatic Reversal"/>
+        <card number="1" name="Fierce Guardianship"/>
+        <card number="1" name="Force of Will"/>
+        <card number="1" name="Mana Drain"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Pact of Negation"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Fabricate"/>
+        <card number="1" name="Finale of Devastation"/>
+        <card number="1" name="Green Sun's Twilight"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Chrome Mox"/>
+        <card number="1" name="Energy Refractor"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Isochron Scepter"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Moonsilver Key"/>
+        <card number="1" name="Mox Amber"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Springleaf Drum"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Freed from the Real"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Pemmin's Aura"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Tezzeret the Seeker"/>
+        <card number="1" name="Barkchannel Pathway"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Otawara, Soaring City"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Treasure Vault"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Waterlogged Grove"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="10" name="Island"/>
+        <card number="7" name="Forest"/>
+    </zone>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Pact of Negation"/>
+        <card number="1" name="Stormtide Leviathan"/>
+    </zone>
+</cockatrice_deck>
