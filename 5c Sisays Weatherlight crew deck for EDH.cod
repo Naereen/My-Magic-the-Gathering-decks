@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5c Sisay's Weatherlight crew deck for EDH</deckname>
+    <comments>Un deck pour le fun, que j'imprimerai peut-être, qui simule l'équipage de l'Acquilon (the Weatherlight) dirigé par la Capitaine Sisay. J'ai pris quelques inspirations sur https://edhrec.com/commanders/sisay-weatherlight-captain</comments>
+    <zone name="main">
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Arvad the Cursed"/>
+        <card number="1" name="Badlands"/>
+        <card number="1" name="Bard Class"/>
+        <card number="1" name="Bayou"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Bloom Tender"/>
+        <card number="1" name="Board the Weatherlight"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Captain Sisay"/>
+        <card number="1" name="Cascading Cataracts"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Chromatic Orrery"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Day of Destiny"/>
+        <card number="1" name="Dihada, Binder of Wills"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
+        <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Faeburrow Elder"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Gerrard, Weatherlight Hero"/>
+        <card number="1" name="Giver of Runes"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Hajar, Loyal Bodyguard"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Hanna, Ship's Navigator"/>
+        <card number="1" name="Heroes' Podium"/>
+        <card number="1" name="Ignoble Hierarch"/>
+        <card number="1" name="Jegantha, the Wellspring"/>
+        <card number="1" name="Jhoira, Weatherlight Captain"/>
+        <card number="1" name="Jodah, Archmage Eternal"/>
+        <card number="1" name="Jodah, the Unifier"/>
+        <card number="1" name="Karn Liberated"/>
+        <card number="1" name="Karn, Silver Golem"/>
+        <card number="1" name="Kethis, the Hidden Hand"/>
+        <card number="1" name="Legacy Weapon"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Mirri the Cursed"/>
+        <card number="1" name="Mirri, Weatherlight Duelist"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Mox Amber"/>
+        <card number="1" name="Multani, Yavimaya's Avatar"/>
+        <card number="1" name="Noble Hierarch"/>
+        <card number="1" name="Oko, Thief of Crowns"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Palace Jailer"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Plateau"/>
+        <card number="1" name="Plaza of Heroes"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Primevals' Glorious Rebirth"/>
+        <card number="1" name="Raff Capashen, Ship's Mage"/>
+        <card number="1" name="Raugrin Triome"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="1" name="Reki, the History of Kamigawa"/>
+        <card number="1" name="Relic of Legends"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Savai Triome"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Scrubland"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="1" name="Shanid, Sleepers' Scourge"/>
+        <card number="1" name="Shanna, Purifying Blade"/>
+        <card number="1" name="Shanna, Sisay's Legacy"/>
+        <card number="1" name="Skyship Weatherlight"/>
+        <card number="1" name="Slimefoot, the Stowaway"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Squee, Dubious Monarch"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Tahngarth, First Mate"/>
+        <card number="1" name="Taiga"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="The World Tree"/>
+        <card number="1" name="Thran Temporal Gateway"/>
+        <card number="1" name="Tiana, Ship's Caretaker"/>
+        <card number="1" name="Timeless Lotus"/>
+        <card number="1" name="Tropical Island"/>
+        <card number="1" name="Tundra"/>
+        <card number="1" name="Underground Sea"/>
+        <card number="1" name="Urza's Ruinous Blast"/>
+        <card number="1" name="Urza's Saga"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Vindicate"/>
+        <card number="1" name="Volcanic Island"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Weatherlight"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Esika, God of the Tree"/>
+        <card number="1" name="Kolvori, God of Kinship"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Sisay, Weatherlight Captain"/>
+    </zone>
+</cockatrice_deck>
