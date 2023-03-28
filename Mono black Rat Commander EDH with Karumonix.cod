@@ -60,7 +60,6 @@
         <card number="1" name="Vorpal Sword"/>
         <card number="1" name="Obelisk of Urd"/>
         <card number="1" name="Cabal Coffers"/>
-        <card number="1" name="Tribute to Horobi"/>
         <card number="1" name="Black Market"/>
         <card number="1" name="Black Market Connections"/>
         <card number="1" name="Dictate of Erebos"/>
@@ -84,6 +83,7 @@
         <card number="1" name="Metallic Mimic"/>
         <card number="1" name="Blightbelly Rat"/>
         <card number="20" name="Snow-Covered Swamp"/>
+        <card number="1" name="Pontiff of Blight"/>
     </zone>
     <zone name="side">
         <card number="1" name="Swiftfoot Boots"/>
@@ -129,5 +129,6 @@
         <card number="1" name="Terror"/>
         <card number="1" name="Tragic Slip"/>
         <card number="2" name="Swamp"/>
+        <card number="1" name="Tribute to Horobi"/>
     </zone>
 </cockatrice_deck>
