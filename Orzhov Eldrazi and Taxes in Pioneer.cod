@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Orzhov Eldrazi and Taxes in Pioneer</deckname>
+    <comments>List from https://www.cardmarket.com/en/Magic/Insight/Articles/On-Video-This-Week-122023#y1</comments>
+    <zone name="main">
+        <card number="3" name="Anointed Peacekeeper"/>
+        <card number="1" name="Athreos, God of Passage"/>
+        <card number="4" name="Elite Spellbinder"/>
+        <card number="2" name="Graveyard Trespasser"/>
+        <card number="3" name="Sheoldred, the Apocalypse"/>
+        <card number="4" name="Silverquill Silencer"/>
+        <card number="3" name="Skyclave Apparition"/>
+        <card number="4" name="Thalia, Guardian of Thraben"/>
+        <card number="4" name="Thought-Knot Seer"/>
+        <card number="4" name="Soul Partition"/>
+        <card number="4" name="Thoughtseize"/>
+        <card number="1" name="Blighted Fen"/>
+        <card number="4" name="Caves of Koilos"/>
+        <card number="1" name="Demolition Field"/>
+        <card number="2" name="Eiganjo, Seat of the Empire"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="4" name="Godless Shrine"/>
+        <card number="1" name="Ifnir Deadlands"/>
+        <card number="2" name="Plains"/>
+        <card number="4" name="Shattered Sanctum"/>
+        <card number="1" name="Swamp"/>
+        <card number="2" name="Takenuma, Abandoned Mire"/>
+        <card number="1" name="Wastes"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Aven Mindcensor"/>
+        <card number="1" name="Clackbridge Troll"/>
+        <card number="3" name="Hope of Ghirapur"/>
+        <card number="2" name="Hushbringer"/>
+        <card number="2" name="Sorcerous Spyglass"/>
+        <card number="2" name="Thalia, Heretic Cathar"/>
+        <card number="1" name="Tomik, Distinguished Advokist"/>
+    </zone>
+</cockatrice_deck>
