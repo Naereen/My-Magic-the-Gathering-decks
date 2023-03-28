@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono-bleu affinity en Modern (8cast)</deckname>
+    <comments>Mono-bleu affinity en Modern (8cast)</comments>
+    <zone name="main">
+        <card number="1" name="Treasure Vault"/>
+        <card number="4" name="Patchwork Automaton"/>
+        <card number="1" name="Gingerbrute"/>
+        <card number="4" name="Urza's Saga"/>
+        <card number="2" name="Nettlecyst"/>
+        <card number="1" name="Aether Spellbomb"/>
+        <card number="4" name="Mistvault Bridge"/>
+        <card number="4" name="Springleaf Drum"/>
+        <card number="4" name="Memnite"/>
+        <card number="4" name="Cranial Plating"/>
+        <card number="4" name="Sojourner's Companion"/>
+        <card number="4" name="Ornithopter"/>
+        <card number="4" name="Thoughtcast"/>
+        <card number="4" name="Thought Monitor"/>
+        <card number="4" name="Frogmite"/>
+        <card number="1" name="Welding Jar"/>
+        <card number="1" name="Etched Champion"/>
+        <card number="2" name="Snow-Covered Island"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="2" name="Otawara, Soaring City"/>
+        <card number="4" name="Darksteel Citadel"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Mystical Dispute"/>
+        <card number="4" name="Metallic Rebuke"/>
+        <card number="1" name="Relic of Progenitus"/>
+        <card number="1" name="Pithing Needle"/>
+        <card number="3" name="Damping Sphere"/>
+        <card number="2" name="Dismember"/>
+        <card number="1" name="Tormod's Crypt"/>
+        <card number="1" name="Hurkyl's Recall"/>
+    </zone>
+</cockatrice_deck>
