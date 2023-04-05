@@ -82,8 +82,9 @@
         <card number="1" name="Ink-Eyes, Servant of Oni"/>
         <card number="1" name="Metallic Mimic"/>
         <card number="1" name="Blightbelly Rat"/>
-        <card number="20" name="Snow-Covered Swamp"/>
+        <card number="20" name="Swamp"/>
         <card number="1" name="Pontiff of Blight"/>
+        <card number="1" name="Nezumi Informant"/>
     </zone>
     <zone name="side">
         <card number="1" name="Swiftfoot Boots"/>
