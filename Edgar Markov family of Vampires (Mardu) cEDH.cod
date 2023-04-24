@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Edgar Markov family of Vampires (Mardu) cEDH</deckname>
+    <comments>A mardu (RWB) tribal deck with lots of big flying + lifelink Vampires, and Edgar Markov as a commander. Quite expensive, I'll just print proxies when back in Strasbourg!</comments>
+    <zone name="main">
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Anje, Maid of Dishonor"/>
+        <card number="1" name="Anowon, the Ruin Sage"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Arvad the Cursed"/>
+        <card number="1" name="Astarion, the Decadent"/>
+        <card number="1" name="Badlands"/>
+        <card number="1" name="Blackcleave Cliffs"/>
+        <card number="1" name="Blade of the Bloodchief"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Bloodline Keeper"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Captivating Vampire"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Champion of Dusk"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Concealed Courtyard"/>
+        <card number="1" name="Cordial Vampire"/>
+        <card number="1" name="Crackling Doom"/>
+        <card number="1" name="Crossway Troublemakers"/>
+        <card number="1" name="Cruel Celebrant"/>
+        <card number="1" name="Damn"/>
+        <card number="1" name="Den of the Bugbear"/>
+        <card number="1" name="Drana and Linvala"/>
+        <card number="1" name="Drana, Kalastria Bloodchief"/>
+        <card number="1" name="Drana, Liberator of Malakir"/>
+        <card number="1" name="Drana, the Last Bloodchief"/>
+        <card number="1" name="Edgar, Charmed Groom"/>
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
+        <card number="1" name="Elenda, the Dusk Rose"/>
+        <card number="1" name="Emeria's Call"/>
+        <card number="1" name="Exquisite Blood"/>
+        <card number="1" name="Forerunner of the Legion"/>
+        <card number="1" name="Fracture"/>
+        <card number="1" name="Gifted Aetherborn"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Hagra Mauling"/>
+        <card number="1" name="Haunted Ridge"/>
+        <card number="1" name="Henrika Domnathi"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Inspiring Vantage"/>
+        <card number="1" name="Kalitas, Traitor of Ghet"/>
+        <card number="1" name="Kazarov, Sengir Pureblood"/>
+        <card number="1" name="Kinzu of the Bleak Coven"/>
+        <card number="1" name="Knight of the Ebon Legion"/>
+        <card number="1" name="Legion Lieutenant"/>
+        <card number="1" name="Legion's Landing"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Malakir Bloodwitch"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Mathas, Fiend Seeker"/>
+        <card number="1" name="Mavren Fein, Dusk Apostle"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Mutavault"/>
+        <card number="1" name="New Blood"/>
+        <card number="1" name="Nighthawk Scavenger"/>
+        <card number="1" name="Nomad Outpost"/>
+        <card number="1" name="Olivia Voldaren"/>
+        <card number="1" name="Olivia, Crimson Bride"/>
+        <card number="1" name="Olivia, Mobilized for War"/>
+        <card number="1" name="Olivia's Wrath"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Patron of the Vein"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Plateau"/>
+        <card number="1" name="Rakish Heir"/>
+        <card number="1" name="Rodolf Duskbringer"/>
+        <card number="1" name="Ruinous Ultimatum"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Sanctum Seeker"/>
+        <card number="1" name="Sanguine Bond"/>
+        <card number="1" name="Savai Triome"/>
+        <card number="1" name="Scrubland"/>
+        <card number="1" name="Secluded Courtyard"/>
+        <card number="1" name="Sengir, the Dark Baron"/>
+        <card number="1" name="Shambling Vent"/>
+        <card number="1" name="Shattered Sanctum"/>
+        <card number="1" name="Shatterskull Smashing"/>
+        <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="1" name="Silent Clearing"/>
+        <card number="1" name="Sokenzan, Crucible of Defiance"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sorin, Imperious Bloodlord"/>
+        <card number="1" name="Sorin, Vengeful Bloodlord"/>
+        <card number="1" name="Spectator Seating"/>
+        <card number="1" name="Stensia Masquerade"/>
+        <card number="1" name="Strefan, Maurer Progenitor"/>
+        <card number="1" name="Stromkirk Captain"/>
+        <card number="1" name="Sunbaked Canyon"/>
+        <card number="1" name="Sundown Pass"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Urza's Incubator"/>
+        <card number="1" name="Vampire Nighthawk"/>
+        <card number="1" name="Vampire of the Dire Moon"/>
+        <card number="1" name="Vampire Socialite"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Vault of Champions"/>
+        <card number="1" name="Verrak, Warped Sengir"/>
+        <card number="1" name="Vindicate"/>
+        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
+        <card number="1" name="Voldaren Estate"/>
+        <card number="1" name="Vona, Butcher of Magan"/>
+        <card number="1" name="Vraan, Executioner Thane"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Zagras, Thief of Heartbeats"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Castle Embereth"/>
+        <card number="1" name="Cave of the Frost Dragon"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Dusk Legion Duelist"/>
+        <card number="1" name="Eiganjo Castle"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Graven Cairns"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Malakir Rebirth"/>
+        <card number="1" name="Merciless Eviction"/>
+        <card number="1" name="Needle Spires"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Sejiri Shelter"/>
+        <card number="1" name="Shinka, the Bloodsoaked Keep"/>
+        <card number="1" name="Shivan Gorge"/>
+        <card number="1" name="Takenuma, Abandoned Mire"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Vault of the Archangel"/>
+        <card number="1" name="Edgar Markov"/>
+    </zone>
+</cockatrice_deck>

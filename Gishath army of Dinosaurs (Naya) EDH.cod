@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Gishath army of Dinosaur (Naya) EDH</deckname>
+    <comments>An army of big dinosaurs, with Gishath as commander, in Naya (RGW) colors. Quite expensive, I'll just print proxies!</comments>
+    <zone name="main">
+        <card number="1" name="Apex Altisaur"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Atzocan Seer"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Burning Sun's Avatar"/>
+        <card number="1" name="Carnage Tyrant"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Drover of the Mighty"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Forerunner of the Empire"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Ghalta and Mavren"/>
+        <card number="1" name="Ghalta, Primal Hunger"/>
+        <card number="1" name="Goring Ceratops"/>
+        <card number="1" name="Grasp of Fate"/>
+        <card number="1" name="Horizon Canopy"/>
+        <card number="1" name="Huatli, Warrior Poet"/>
+        <card number="1" name="Jetmir's Garden"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Kaheera, the Orphanguard"/>
+        <card number="1" name="Kinjalli's Caller"/>
+        <card number="1" name="Kinjalli's Sunwing"/>
+        <card number="1" name="Knight of the Stampede"/>
+        <card number="1" name="Kogla and Yidaro"/>
+        <card number="1" name="Marauding Raptor"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Mutavault"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Needle Spires"/>
+        <card number="1" name="Otepec Huntmaster"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Plateau"/>
+        <card number="1" name="Polyraptor"/>
+        <card number="1" name="Quartzwood Crasher"/>
+        <card number="1" name="Raging Ravine"/>
+        <card number="1" name="Raging Swordtooth"/>
+        <card number="1" name="Rampaging Brontodon"/>
+        <card number="1" name="Rampaging Ferocidon"/>
+        <card number="1" name="Ranging Raptors"/>
+        <card number="1" name="Regal Behemoth"/>
+        <card number="1" name="Regisaur Alpha"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Ripjaw Raptor"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Runic Armasaur"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Savage Stomp"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Secluded Courtyard"/>
+        <card number="1" name="Siegehorn Ceratops"/>
+        <card number="1" name="Silverclad Ferocidons"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spectator Seating"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Stirring Wildwood"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Sunbaked Canyon"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Taiga"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Talisman of Impulse"/>
+        <card number="1" name="Talisman of Unity"/>
+        <card number="1" name="Temple Altisaur"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="The Great Henge"/>
+        <card number="1" name="The Tarrasque"/>
+        <card number="1" name="Thrashing Brontodon"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Thundering Spineback"/>
+        <card number="1" name="Titanoth Rex"/>
+        <card number="1" name="Topiary Stomper"/>
+        <card number="1" name="Trapjaw Tyrant"/>
+        <card number="1" name="Tyrranax Rex"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Urza's Incubator"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Verdant Sun's Avatar"/>
+        <card number="1" name="Wakening Sun's Avatar"/>
+        <card number="1" name="Wayward Swordtooth"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Yavimaya, Cradle of Growth"/>
+        <card number="1" name="Yidaro, Wandering Monster"/>
+        <card number="1" name="Zacama, Primal Calamity"/>
+        <card number="1" name="Zetalpa, Primal Dawn"/>
+        <card number="1" name="Zilortha, Strength Incarnate"/>
+        <card number="1" name="Branchloft Pathway"/>
+        <card number="1" name="Needleverge Pathway"/>
+        <card number="1" name="Khalni Ambush"/>
+        <card number="1" name="Invasion of Ixalan"/>
+        <card number="1" name="Invasion of Ikoria"/>
+        <card number="1" name="Etali, Primal Conqueror"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Gishath, Sun's Avatar"/>
+    </zone>
+</cockatrice_deck>
