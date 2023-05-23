@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Boros Convoke in Pioneer (by Andrea Mengucci)</deckname>
+    <comments>List from https://decks.tcgplayer.com/magic/pioneer/andreamengucci/boros-convoke-pioneer/1408594.</comments>
+    <zone name="main">
+        <card number="3" name="Clarion Spirit"/>
+        <card number="4" name="Knight-Errant of Eos"/>
+        <card number="4" name="Ornithopter"/>
+        <card number="4" name="Reckless Bushwhacker"/>
+        <card number="3" name="Resolute Reinforcements"/>
+        <card number="4" name="Thraben Inspector"/>
+        <card number="4" name="Venerated Loxodon"/>
+        <card number="4" name="Voldaren Epicure"/>
+        <card number="4" name="Forbidden Friendship"/>
+        <card number="4" name="Gleeful Demolition"/>
+        <card number="4" name="Battlefield Forge"/>
+        <card number="2" name="Castle Embereth"/>
+        <card number="4" name="Inspiring Vantage"/>
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Needleverge Pathway"/>
+        <card number="1" name="Plains"/>
+        <card number="4" name="Sacred Foundry"/>
+        <card number="2" name="Giant Killer // Chop Down"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Invasion of Gobakhan"/>
+        <card number="1" name="Jegantha, the Wellspring"/>
+        <card number="1" name="Light of Hope"/>
+        <card number="1" name="Pithing Needle"/>
+        <card number="1" name="Regal Leosaur"/>
+        <card number="4" name="Rending Volley"/>
+        <card number="1" name="Tormod's Crypt"/>
+        <card number="2" name="Wedding Announcement"/>
+        <card number="1" name="Giant Killer // Chop Down"/>
+    </zone>
+</cockatrice_deck>
