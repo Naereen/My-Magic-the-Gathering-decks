@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>New version of Hardened Scales in Modern - Andrea Mengucci 13-05-2023</deckname>
+    <comments>https://www.youtube.com/watch?v=M9GqlstzXLA
+
+    J'ai bien envie de monter ce deck, et sa version Pioneer en Golgari ou mono-vert.
+    https://www.cardmarket.com/en/Magic/Wants/15804118
+    Ça me coûterait ~300€. C'est cher !
+    Et j'ai enlevé les plus chères et ce que j'avais déjà...
+    </comments>
+    <zone name="main">
+        <card number="1" name="Shadowspear"/>
+        <card number="1" name="Springleaf Drum"/>
+        <card number="2" name="The Ozolith"/>
+        <card number="3" name="Ozolith, the Shattered Spire"/>
+        <card number="3" name="Welding Jar"/>
+        <card number="4" name="Ancient Stirrings"/>
+        <card number="4" name="Arcbound Ravager"/>
+        <card number="4" name="Hangarback Walker"/>
+        <card number="4" name="Hardened Scales"/>
+        <card number="4" name="Patchwork Automaton"/>
+        <card number="4" name="Walking Ballista"/>
+        <card number="4" name="Zabaz, the Glimmerwasp"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Gemstone Caverns"/>
+        <card number="1" name="Pendelhaven"/>
+        <card number="2" name="Grove of the Burnwillows"/>
+        <card number="2" name="Horizon Canopy"/>
+        <card number="3" name="Forest"/>
+        <card number="4" name="Cragcrown Pathway"/>
+        <card number="4" name="Inkmoth Nexus"/>
+        <card number="4" name="Urza's Saga"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Pithing Needle"/>
+        <card number="1" name="Gemstone Caverns"/>
+        <card number="2" name="Relic of Progenitus"/>
+        <card number="1" name="Emrakul, the Aeons Torn"/>
+        <card number="3" name="Orvar, the All-Form"/>
+        <card number="3" name="Haywire Mite"/>
+        <card number="4" name="Soulless Jailer"/>
+    </zone>
+</cockatrice_deck>
