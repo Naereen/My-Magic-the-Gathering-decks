@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
     <deckname>Boros Convoke in Pioneer (by Andrea Mengucci)</deckname>
-    <comments>List from https://decks.tcgplayer.com/magic/pioneer/andreamengucci/boros-convoke-pioneer/1408594.</comments>
+    <comments>List from https://decks.tcgplayer.com/magic/pioneer/andreamengucci/boros-convoke-pioneer/1408594.
+
+    Environ 140€ avec 40€ frais de ports, et le gros vient des 8 lands chers (4 fast land, 4 shock land).
+
+    Je peux tenter avec juste des basiques, et Clifftop Retreat + Furycalm Snarl.
+    https://www.cardmarket.com/en/Magic/Wants/15804282
+    </comments>
     <zone name="main">
         <card number="3" name="Clarion Spirit"/>
         <card number="4" name="Knight-Errant of Eos"/>
@@ -15,12 +21,12 @@
         <card number="4" name="Gleeful Demolition"/>
         <card number="4" name="Battlefield Forge"/>
         <card number="2" name="Castle Embereth"/>
-        <card number="4" name="Inspiring Vantage"/>
         <card number="4" name="Mountain"/>
         <card number="1" name="Needleverge Pathway"/>
         <card number="1" name="Plains"/>
-        <card number="4" name="Sacred Foundry"/>
         <card number="2" name="Giant Killer // Chop Down"/>
+        <card number="4" name="Sacred Foundry"/>
+        <card number="4" name="Inspiring Vantage"/>
     </zone>
     <zone name="side">
         <card number="3" name="Invasion of Gobakhan"/>
@@ -32,5 +38,7 @@
         <card number="1" name="Tormod's Crypt"/>
         <card number="2" name="Wedding Announcement"/>
         <card number="1" name="Giant Killer // Chop Down"/>
+        <card number="4" name="Clifftop Retreat"/>
+        <card number="4" name="Furycalm Snarl"/>
     </zone>
 </cockatrice_deck>
