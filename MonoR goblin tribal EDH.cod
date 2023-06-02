@@ -9,6 +9,7 @@ So far, it's about 170€ after cutting the top 3 expensive cards (including pos
     <zone name="main">
         <card number="21" name="Mountain"/>
         <card number="1" name="Goblin Guide"/>
+        <card number="1" name="Moria Marauder"/>
         <card number="1" name="Goblin Chieftain"/>
         <card number="1" name="Goblin Warchief"/>
         <card number="1" name="Tarfire"/>
