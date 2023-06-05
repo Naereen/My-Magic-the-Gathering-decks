@@ -5,7 +5,6 @@
     <zone name="main">
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Foulmire Knight // Profane Insight"/>
-        <card number="1" name="Shambling Ghast"/>
         <card number="1" name="Champion of the Perished"/>
         <card number="1" name="Lord of the Accursed"/>
         <card number="1" name="Diregraf Colossus"/>
@@ -71,10 +70,12 @@
         <card number="1" name="Dredge the Mire"/>
         <card number="1" name="Jet Medallion"/>
         <card number="32" name="Snow-Covered Swamp"/>
+        <card number="1" name="Court of Ambition"/>
     </zone>
     <zone name="side">
         <card number="1" name="Mikaeus, the Unhallowed"/>
         <card number="1" name="Kalitas, Traitor of Ghet"/>
         <card number="1" name="Grimoire of the Dead"/>
+        <card number="1" name="Shambling Ghast"/>
     </zone>
 </cockatrice_deck>
