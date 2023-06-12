@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono-white Lightpaws for 1vs1 commander</deckname>
+    <comments>Mono-white Lightpaws for 1vs1 commander
+Je vais probablement l'acheter en octobre, j'ai déjà plein de cartes qu'il faut pour ce deck et il est &quot;pas cher&quot;.</comments>
+    <zone name="main">
+        <card number="1" name="Cliffside Rescuer"/>
+        <card number="1" name="Benevolent Bodyguard"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Selfless Samurai"/>
+        <card number="1" name="Dauntless Bodyguard"/>
+        <card number="1" name="Selfless Savior"/>
+        <card number="1" name="Cathar Commando"/>
+        <card number="1" name="Tithe Taker"/>
+        <card number="1" name="Starnheim Courser"/>
+        <card number="1" name="Hero of Iroas"/>
+        <card number="1" name="Danitha Capashen, Paragon"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Kor Spiritdancer"/>
+        <card number="1" name="Standard Bearer"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Transcendent Envoy"/>
+        <card number="1" name="Open the Armory"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Reverent Mantra"/>
+        <card number="1" name="Karametra's Blessing"/>
+        <card number="1" name="Blacksmith's Skill"/>
+        <card number="1" name="Unexpectedly Absent"/>
+        <card number="1" name="Helm of the Gods"/>
+        <card number="1" name="Robe of Stars"/>
+        <card number="1" name="Pithing Needle"/>
+        <card number="1" name="Portable Hole"/>
+        <card number="1" name="Thran Power Suit"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="Daybreak Coronet"/>
+        <card number="1" name="Timely Ward"/>
+        <card number="1" name="Flickering Ward"/>
+        <card number="1" name="Flickerform"/>
+        <card number="1" name="Paladin Class"/>
+        <card number="1" name="Ward of Lights"/>
+        <card number="1" name="Conviction"/>
+        <card number="1" name="Unquestioned Authority"/>
+        <card number="1" name="Angelic Gift"/>
+        <card number="1" name="Spirit Link"/>
+        <card number="1" name="Curse of Silence"/>
+        <card number="1" name="Sentinel's Mark"/>
+        <card number="1" name="Gift of Granite"/>
+        <card number="1" name="Light of Promise"/>
+        <card number="1" name="Raffine's Guidance"/>
+        <card number="1" name="Spirit Mantle"/>
+        <card number="1" name="Spectral Steel"/>
+        <card number="1" name="Lifelink"/>
+        <card number="1" name="Saving Grace"/>
+        <card number="1" name="All That Glitters"/>
+        <card number="1" name="Benevolent Blessing"/>
+        <card number="1" name="Battle Mastery"/>
+        <card number="1" name="Sage's Reverie"/>
+        <card number="1" name="Ethereal Armor"/>
+        <card number="1" name="Cartouche of Solidarity"/>
+        <card number="1" name="Shield of Duty and Reason"/>
+        <card number="1" name="Solid Footing"/>
+        <card number="1" name="Mask of Law and Grace"/>
+        <card number="1" name="Gryff's Boon"/>
+        <card number="1" name="Sentinel's Eyes"/>
+        <card number="1" name="Glaring Aegis"/>
+        <card number="1" name="Indomitable Will"/>
+        <card number="1" name="Skyblade's Boon"/>
+        <card number="1" name="Hyena Umbra"/>
+        <card number="1" name="Pacifism"/>
+        <card number="1" name="Hall of Heliod's Generosity"/>
+        <card number="1" name="New Benalia"/>
+        <card number="1" name="Mistveil Plains"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Surge of Salvation"/>
+        <card number="33" name="Snow-Covered Plains"/>
+        <card number="1" name="On Thin Ice"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Light-Paws, Emperor's Voice"/>
+    </zone>
+</cockatrice_deck>
