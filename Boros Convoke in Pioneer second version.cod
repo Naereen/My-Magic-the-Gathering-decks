@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Boros Convoke in Pioneer second version</deckname>
+    <comments>List from https://melee.gg/Decklist/View/302944
+
+    Environ 140€ avec 40€ frais de ports, et le gros vient des 8 lands chers (4 fast land, 4 shock land).
+
+    Je peux tenter avec juste des basiques, et Clifftop Retreat + Furycalm Snarl.
+    https://www.cardmarket.com/en/Magic/Wants/15804282
+    </comments>
+    <zone name="main">
+        <card number="4" name="Ornithopter"/>
+        <card number="4" name="Knight-Errant of Eos"/>
+        <card number="4" name="Gleeful Demolition"/>
+        <card number="4" name="Resolute Reinforcements"/>
+        <card number="4" name="Voldaren Epicure"/>
+        <card number="2" name="Den of the Bugbear"/>
+        <card number="3" name="Clarion Spirit"/>
+        <card number="2" name="Needleverge Pathway"/>
+        <card number="1" name="Regal Leosaur"/>
+        <card number="3" name="Giant Killer"/>
+        <card number="2" name="Legion's Landing"/>
+        <card number="1" name="Plains"/>
+        <card number="4" name="Battlefield Forge"/>
+        <card number="4" name="Sacred Foundry"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="3" name="Reckless Bushwhacker"/>
+        <card number="4" name="Thraben Inspector"/>
+        <card number="4" name="Inspiring Vantage"/>
+        <card number="2" name="Shefet Dunes"/>
+        <card number="4" name="Venerated Loxodon"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Jegantha, the Wellspring"/>
+        <card number="3" name="Forge Devil"/>
+        <card number="1" name="Pithing Needle"/>
+        <card number="3" name="Rending Volley"/>
+        <card number="2" name="Light of Hope"/>
+        <card number="2" name="Wedding Announcement"/>
+        <card number="2" name="Invasion of Gobakhan"/>
+        <card number="1" name="Surge of Salvation"/>
+    </zone>
+</cockatrice_deck>
