@@ -18,7 +18,6 @@
         <card number="3" name="Clarion Spirit"/>
         <card number="2" name="Needleverge Pathway"/>
         <card number="1" name="Regal Leosaur"/>
-        <card number="3" name="Giant Killer"/>
         <card number="2" name="Legion's Landing"/>
         <card number="1" name="Plains"/>
         <card number="4" name="Battlefield Forge"/>
@@ -29,6 +28,7 @@
         <card number="4" name="Inspiring Vantage"/>
         <card number="2" name="Shefet Dunes"/>
         <card number="4" name="Venerated Loxodon"/>
+        <card number="3" name="Giant Killer // Chop Down"/>
     </zone>
     <zone name="side">
         <card number="1" name="Jegantha, the Wellspring"/>
