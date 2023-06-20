@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Syr Faren, The Hengehammer monoGreen in Duel Commander list from MTG GoldFish</deckname>
+    <comments>Syr Faren, The Hengehammer monoGreen in Duel Commander list from MTG GoldFish
+Je vais probablement l'acheter en octobre, j'ai déjà plein de cartes qu'il faut pour ce deck et il est &quot;pas cher&quot;.
+Cf https://www.mtggoldfish.com/deck/5625882?view_mode_override=cheapest#paper</comments>
+    <zone name="main">
+        <card number="1" name="Arbor Elf"/>
+        <card number="1" name="Aspect of Hydra"/>
+        <card number="1" name="Audacity"/>
+        <card number="1" name="Avoid Fate"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Berserk"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Blinkmoth Nexus"/>
+        <card number="1" name="Blossoming Defense"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Cankerbloom"/>
+        <card number="1" name="Canopy Cover"/>
+        <card number="1" name="Caustic Caterpillar"/>
+        <card number="1" name="Centaur Garden"/>
+        <card number="1" name="Dryad Sophisticate"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Elvish Spirit Guide"/>
+        <card number="1" name="Embiggen"/>
+        <card number="1" name="Endurance"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Faceless Haven"/>
+        <card number="1" name="Flaxen Intruder"/>
+        <card number="1" name="Frostwalk Bastion"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Gaea's Gift"/>
+        <card number="1" name="Gather Courage"/>
+        <card number="1" name="Gilded Goose"/>
+        <card number="1" name="Great Sable Stag"/>
+        <card number="1" name="Groundbreaker"/>
+        <card number="1" name="Groundswell"/>
+        <card number="1" name="Guardian Augmenter"/>
+        <card number="1" name="Hashep Oasis"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Hexdrinker"/>
+        <card number="1" name="Invigorate"/>
+        <card number="1" name="Kenrith's Transformation"/>
+        <card number="1" name="Lair of the Hydra"/>
+        <card number="1" name="Larger Than Life"/>
+        <card number="1" name="Lignify"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Massive Might"/>
+        <card number="1" name="Might of Old Krosa"/>
+        <card number="1" name="Mishra's Factory"/>
+        <card number="1" name="Mistcutter Hydra"/>
+        <card number="1" name="Mutagenic Growth"/>
+        <card number="1" name="Mutavault"/>
+        <card number="1" name="Okina, Temple to the Grandfathers"/>
+        <card number="1" name="Outland Liberator"/>
+        <card number="1" name="Pelt Collector"/>
+        <card number="1" name="Pendelhaven"/>
+        <card number="1" name="Phytoburst"/>
+        <card number="1" name="Primal Order"/>
+        <card number="1" name="Questing Beast"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Ranger's Guile"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Resilient Khenra"/>
+        <card number="1" name="Scale Up"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Scryb Sprites"/>
+        <card number="1" name="Silhana Ledgewalker"/>
+        <card number="1" name="Silkguard"/>
+        <card number="1" name="Skyshroud Elite"/>
+        <card number="1" name="Snakeskin Veil"/>
+        <card number="21" name="Snow-Covered Forest"/>
+        <card number="1" name="Spire Tracer"/>
+        <card number="1" name="Strangleroot Geist"/>
+        <card number="1" name="Sylvan Safekeeper"/>
+        <card number="1" name="Syr Faren, the Hengehammer"/>
+        <card number="1" name="Tamiyo's Safekeeping"/>
+        <card number="1" name="Taunting Elf"/>
+        <card number="1" name="Treetop Scout"/>
+        <card number="1" name="Treetop Village"/>
+        <card number="1" name="Tyvar's Stand"/>
+        <card number="1" name="Uktabi Drake"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Werewolf Pack Leader"/>
+        <card number="1" name="Wild Shape"/>
+        <card number="1" name="Young Wolf"/>
+    </zone>
+</cockatrice_deck>
