@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>MonoW Yorion DeathTaxes Legacy version 21-06-2023</deckname>
+    <comments>J'expérimenterai cette liste quand il y aura des tournois Legacy à Strasbourg
+    </comments>
+    <zone name="main">
+        <card number="4" name="Aether Vial"/>
+        <card number="1" name="Batterskull"/>
+        <card number="2" name="Eiganjo, Seat of the Empire"/>
+        <card number="3" name="Flickerwisp"/>
+        <card number="1" name="Kaldra Compleat"/>
+        <card number="4" name="Karakas"/>
+        <card number="1" name="Lion Sash"/>
+        <card number="4" name="Mother of Runes"/>
+        <card number="4" name="Rishadan Port"/>
+        <card number="3" name="Skyclave Apparition"/>
+        <card number="4" name="Solitude"/>
+        <card number="4" name="Spirit of the Labyrinth"/>
+        <card number="4" name="Stoneforge Mystic"/>
+        <card number="4" name="Swords to Plowshares"/>
+        <card number="4" name="Thalia, Guardian of Thraben"/>
+        <card number="1" name="Timeless Dragon"/>
+        <card number="2" name="Touch the Spirit Realm"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="4" name="Wasteland"/>
+        <card number="3" name="Silent Clearing"/>
+        <card number="3" name="Palace Jailer"/>
+        <card number="4" name="Seasoned Dungeoneer"/>
+        <card number="4" name="Archon of Emeria"/>
+        <card number="3" name="Boromir, Warden of the Tower"/>
+        <card number="1" name="Cave of the Frost Dragon"/>
+        <card number="2" name="On Thin Ice"/>
+        <card number="4" name="Ephemerate"/>
+        <card number="17" name="Snow-Covered Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Containment Priest"/>
+        <card number="2" name="Grafdigger's Cage"/>
+        <card number="4" name="Path to Exile"/>
+        <card number="4" name="Rest in Peace"/>
+        <card number="1" name="Yorion, Sky Nomad"/>
+        <card number="1" name="Remorseful Cleric"/>
+        <card number="1" name="Loran of the Third Path"/>
+    </zone>
+</cockatrice_deck>
