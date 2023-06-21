@@ -2,7 +2,8 @@
 <cockatrice_deck version="1">
     <deckname>Mono-rouge burn en Legacy avec Obosh</deckname>
     <comments>Mono-rouge burn en Legacy avec Obosh.
-Liste du Legacy venant d'Aurélie (Ptit Joueur).
+
+Liste du Legacy inspirée d'Aurélie (Ptit Joueur).
 https://www.mtgtop8.com/event?e=38427&amp;d=487153&amp;f=LE
 
 Jouable en Pauper ou Modern avec qqs changements.</comments>
@@ -13,28 +14,25 @@ Jouable en Pauper ou Modern avec qqs changements.</comments>
         <card number="4" name="Monastery Swiftspear"/>
         <card number="4" name="Goblin Guide"/>
         <card number="4" name="Bonecrusher Giant // Stomp"/>
-        <card number="4" name="Rift Bolt"/>
+        <card number="3" name="Rift Bolt"/>
         <card number="2" name="Den of the Bugbear"/>
         <card number="4" name="Chain Lightning"/>
-        <card number="4" name="Exquisite Firecraft"/>
-        <card number="4" name="Fireblast"/>
-        <card number="4" name="Skewer the Critics"/>
-        <card number="3" name="Sulfuric Vortex"/>
+        <card number="2" name="Exquisite Firecraft"/>
+        <card number="3" name="Fireblast"/>
+        <card number="3" name="Skewer the Critics"/>
         <card number="3" name="Blood Moon"/>
         <card number="4" name="Price of Progress"/>
+        <card number="1" name="Sokenzan, Crucible of Defiance"/>
     </zone>
     <zone name="side">
         <card number="1" name="Obosh, the Preypiercer"/>
-        <card number="4" name="Eidolon of the Great Revel"/>
-        <card number="1" name="Alpine Moon"/>
-        <card number="2" name="Dead // Gone"/>
-        <card number="1" name="Pithing Needle"/>
-        <card number="2" name="Red Elemental Blast"/>
-        <card number="4" name="Searing Blood"/>
+        <card number="4" name="Red Elemental Blast"/>
         <card number="4" name="Smash to Smithereens"/>
-        <card number="2" name="Tormod's Crypt"/>
-        <card number="3" name="Volcanic Fallout"/>
-        <card number="1" name="Pyrite Spellbomb"/>
+        <card number="4" name="Pyrite Spellbomb"/>
         <card number="4" name="Roiling Vortex"/>
+        <card number="3" name="Sulfuric Vortex"/>
+        <card number="4" name="Faerie Macabre"/>
+        <card number="4" name="Shattering Spree"/>
+        <card number="4" name="Leyline of the Void"/>
     </zone>
 </cockatrice_deck>
