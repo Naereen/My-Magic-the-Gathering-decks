@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>MonoW 60cards DeathTaxes Legacy version 17-07-2023</deckname>
+    <comments>J'expérimenterai cette liste quand il y aura des tournois Legacy à Strasbourg. Il me manque encore les terrains...
+
+    https://decks.tcgplayer.com/magic/legacy/andreamengucci/monow-death-taxes-legacy/1409401
+    </comments>
+    <zone name="main">
+        <card number="2" name="Extraction Specialist"/>
+        <card number="1" name="Lion Sash"/>
+        <card number="3" name="Mother of Runes"/>
+        <card number="2" name="Recruiter of the Guard"/>
+        <card number="4" name="Samwise the Stouthearted"/>
+        <card number="2" name="Solitude"/>
+        <card number="2" name="Spirit of the Labyrinth"/>
+        <card number="4" name="Stoneforge Mystic"/>
+        <card number="4" name="Thalia, Guardian of Thraben"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="4" name="Aether Vial"/>
+        <card number="1" name="Kaldra Compleat"/>
+        <card number="4" name="Swords to Plowshares"/>
+        <card number="2" name="Touch the Spirit Realm"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="2" name="Eiganjo, Seat of the Empire"/>
+        <card number="1" name="Flagstones of Trokair"/>
+        <card number="2" name="Flooded Strand"/>
+        <card number="1" name="Horizon Canopy"/>
+        <card number="3" name="Karakas"/>
+        <card number="2" name="Marsh Flats"/>
+        <card number="4" name="Plains"/>
+        <card number="4" name="Rishadan Port"/>
+        <card number="4" name="Wasteland"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Anointed Peacekeeper"/>
+        <card number="1" name="Batterskull"/>
+        <card number="1" name="Cataclysm"/>
+        <card number="1" name="Containment Priest"/>
+        <card number="1" name="Council's Judgment"/>
+        <card number="1" name="Faerie Macabre"/>
+        <card number="1" name="Grafdigger's Cage"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Sanctum Prelate"/>
+        <card number="1" name="Serenity"/>
+        <card number="1" name="Soul-Guide Lantern"/>
+        <card number="2" name="Surgical Extraction"/>
+        <card number="1" name="Trailblazer's Torch"/>
+    </zone>
+</cockatrice_deck>
