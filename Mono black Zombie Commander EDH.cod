@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
     <deckname>Mono black Zombie Commander EDH</deckname>
-    <comments></comments>
+    <comments>A imprimer en proxies quand je serai à Strasbourg ?</comments>
     <zone name="main">
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Foulmire Knight // Profane Insight"/>
@@ -77,5 +77,6 @@
         <card number="1" name="Kalitas, Traitor of Ghet"/>
         <card number="1" name="Grimoire of the Dead"/>
         <card number="1" name="Shambling Ghast"/>
+        <card number="1" name="God-Eternal Bontu"/>
     </zone>
 </cockatrice_deck>
