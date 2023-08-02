@@ -55,15 +55,16 @@ Total : 1 + 3 + 34 + 35 + 10 + 10 + 3 + 4 = 100
 ### 3 Planeswalkers
 
 Idée : ils ont tous le *Partner*, et le *Can be your commander* ?
+Si j'ai assez de place dessus...
 
 - *Isaac Newton et la gravité* : {3}{W}{U}
-  > Loyauté à 5, son +2 génère un jeton Food (pour la pomme), et son -1 empêche une créature non volante d'attaquer une fois, et son ultimate à 7 donne un emblème qui donne le vol à toutes ses créatures, Mythique. FIXME:
+  > Loyauté à 5, son +2 génère deux jeton Food (pour la pomme), et son -1 empêche les créatures non volantes d'attaquer une fois, et son ultimate à -8 donne un emblème qui donne le vol à toutes ses créatures et empêche les créatures adverses sans vol d'attaquer, Mythique.
 
 - *Benoît Mandelbrot et ses fractales* : {U}{G}
-  > Loyauté à 3, son +2 "itère le dessin" d'une fractale en donnant +1/+1, son -X invoque une fractale légendaire à nommer comme on veut, de type Fractale, X/X, pas d'ultimate, Mythique.
+  > Loyauté à 4, son +2 "itère le dessin" des fractale en leur donnant toutes +1/+1, son -X invoque une fractale légendaire à nommer comme on veut, de type Fractale, 0/0 avec X marqueurs +1/+1, pas d'ultimate, Mythique.
 
 - *Alan Turing et ses machines* : {2}{W}{G}
-  > Loyauté à 3, Son +1 donne un marqueur +1/+1 à un permanent ciblé que tu contrôles, qui devient une créature-artefact ce tour ci, son -1 génère une "Machine de Turing" 0/0 comme une construct d'Urza, son ultimate à -5 donne un emblème à la Gideon, qui empêche de perdre tant qu'on contrôle une "Machine de Turing", Mythique.
+  > Loyauté à 3, Son +1 donne un marqueur +1/+1 à un permanent ciblé que tu contrôles, qui devient une créature-artefact ce tour ci, son -1 génère une "Machine de Turing" 0/0 comme une construct d'Urza, son ultimate à -6 donne un emblème à la Gideon, qui empêche de perdre tant qu'on contrôle une "Machine de Turing" (ou un artéfact ?), Mythique.
 
 -----
 
@@ -110,6 +111,8 @@ Idée : ils ont tous le *Partner*, et le *Can be your commander* ?
 - *Tim Berners-Lee, grand navigateur*, {2}{W}{G}, 4/5, Reach, *Web browser* -- {T},{X}: destroy target creature with flying with mana value X or less. (WWW, navigateur web), Rare.
 - *Rivest, Shamir et Adleman*, {W}{G}, 2/2, *Cryptography* -- Activated abilities of artifacts can't be activated. (cryptographie à clef publique et RSA), Rare.
 
+- TODO: *Ada Lovelace, première programmeuse*, {3}{W/G}{W/G}
+
 #### Mathématiciens (sans carte associée) : en U + G (Simic)
 
 - *Pythagore*, {G}{U}, 1/3, *Pythagorean Theorem* -- {T}: let X and Y be target creature's power and toughness. Until end of turn, its power and toughness become Z, where Z is the square root of X^2 + Y^2, rounded up. Frame rétro, (géométrie) Unco.
@@ -123,6 +126,9 @@ Idée : ils ont tous le *Partner*, et le *Can be your commander* ?
 > Des créatures déjà existantes :
 
 - *Biomathematician*
+- [*Gor Muldrak, Amphinologist*](https://scryfall.com/card/cmr/277/gor-muldrak-amphinologist) ?
+- https://scryfall.com/card/ncc/86/bennie-bracks-zoologist
+- https://scryfall.com/search?q=gist
 
 > Des mana dorks reskins :
 
