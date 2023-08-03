@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Jimmy's Zhulodok Extra Turns 38 - Colorless big Eldrazi</deckname>
+    <comments>Jimmy's Zhulodok Extra Turns 38 - Colorless big Eldrazi
+https://www.archidekt.com/decks/4972432/jimmys_zhulodok_extra_turns_38</comments>
+    <zone name="main">
+        <card number="1" name="All Is Dust"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Arch of Orazca"/>
+        <card number="1" name="Bane of Bala Ged"/>
+        <card number="1" name="Bitterthorn, Nissa's Animus"/>
+        <card number="1" name="Blasted Landscape"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Conduit of Ruin"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Crystal Grotto"/>
+        <card number="1" name="Crystal Vein"/>
+        <card number="1" name="Darksteel Citadel"/>
+        <card number="1" name="Desecrate Reality"/>
+        <card number="1" name="Eldrazi Temple"/>
+        <card number="1" name="Endbringer"/>
+        <card number="1" name="Erratic Portal"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Eye of Ugin"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Field of the Dead"/>
+        <card number="1" name="Flayer of Loyalties"/>
+        <card number="1" name="Forsaken Monument"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Grim Monolith"/>
+        <card number="1" name="Hall of Tagsin"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Introduction to Annihilation"/>
+        <card number="1" name="Jhoira's Familiar"/>
+        <card number="1" name="Karn, Legacy Reforged"/>
+        <card number="1" name="Karn, Scion of Urza"/>
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="1" name="Kozilek, the Great Distortion"/>
+        <card number="1" name="Krark-Clan Ironworks"/>
+        <card number="1" name="Liberator, Urza's Battlethopter"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Liquimetal Torque"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="Manakin"/>
+        <card number="1" name="Manifold Key"/>
+        <card number="1" name="Metalwork Colossus"/>
+        <card number="1" name="Meteor Golem"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mind's Eye"/>
+        <card number="1" name="Mirage Mirror"/>
+        <card number="1" name="Myr Enforcer"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Mystic Forge"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Palladium Myr"/>
+        <card number="1" name="Plague Myr"/>
+        <card number="1" name="Portal to Phyrexia"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rise of the Eldrazi"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Sanctum of Ugin"/>
+        <card number="1" name="Sandstone Oracle"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Scour from Existence"/>
+        <card number="1" name="Shrine of the Forsaken Gods"/>
+        <card number="1" name="Skittering Cicada"/>
+        <card number="1" name="Skittering Invasion"/>
+        <card number="1" name="Sojourner's Companion"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Staff of Compleation"/>
+        <card number="1" name="Stonespeaker Crystal"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="The Immortal Sun"/>
+        <card number="1" name="The Mightstone and Weakstone"/>
+        <card number="1" name="The Mycosynth Gardens"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Tomb of the Spirit Dragon"/>
+        <card number="1" name="Treasure Map"/>
+        <card number="1" name="Treasure Vault"/>
+        <card number="1" name="Ugin, the Ineffable"/>
+        <card number="1" name="Ugin, the Spirit Dragon"/>
+        <card number="1" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" name="Urza's Saga"/>
+        <card number="1" name="War Room"/>
+        <card number="10" name="Wastes"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Wondrous Crucible"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Zhalfirin Void"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Zhulodok, Void Gorger"/>
+    </zone>
+</cockatrice_deck>

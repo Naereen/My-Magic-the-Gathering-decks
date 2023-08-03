@@ -1,0 +1,100 @@
+Mainboard
+1 Alseid of Life's Bounty
+1 Anikthea, Hand of Erebos
+1 Anointed Procession
+1 Arasta of the Endless Web
+1 Arcane Signet
+1 Archon of Sun's Grace
+1 Aura of Silence
+1 Bala Ged Recovery // Bala Ged Sanctuary
+1 Battle for Bretagard
+1 Binding the Old Gods
+1 Black Market Connections
+1 Blooming Marsh
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Bow of Nylea
+1 Branchloft Pathway // Boulderloft Pathway
+1 Brightclimb Pathway // Grimclimb Pathway
+1 Brushland
+1 Burgeoning
+1 Cacophony Unleashed
+1 Calix, Destiny's Hand
+1 Calix, Guided by Fate
+1 Caves of Koilos
+1 Commune with the Gods
+1 Concealed Courtyard
+1 Courser of Kruphix
+1 Deathcap Glade
+1 Demon of Fate's Design
+1 Destiny Spinner
+1 Doomwake Giant
+1 Dryad of the Ilysian Grove
+1 Eidolon of Blossoms
+1 Eiganjo, Seat of the Empire
+1 Elspeth Conquers Death
+1 Elvish Mystic
+1 Enchantress's Presence
+1 Erebos, God of the Dead
+1 Ethereal Absolution
+1 Extinguish All Hope
+1 Farseek
+2 Forest
+1 Generous Gift
+1 Godless Shrine
+1 Gravebreaker Lamia
+1 Hall of Heliod's Generosity
+1 Hallowed Haunting
+1 Heliod, God of the Sun
+1 Indatha Triome
+1 Isolated Chapel
+1 Jukai Naturalist
+1 Karametra, God of Harvests
+1 Kenrith's Transformation
+1 Kodama's Reach
+1 Lightning Greaves
+1 Llanowar Wastes
+1 Mindwrack Harpy
+1 Mirari's Wake
+1 Nature's Lore
+1 Nessian Wanderer
+1 Nylea's Colossus
+1 Nylea, God of the Hunt
+1 Nyx Weaver
+1 Nyxbloom Ancient
+1 Ondu Spiritdancer
+1 Overgrown Farmland
+1 Overgrown Tomb
+1 Parallel Lives
+1 Pernicious Deed
+1 Pharika, God of Affliction
+2 Plains
+1 Razorverge Thicket
+1 Reliquary Tower
+1 Sanctum Weaver
+1 Satyr Enchanter
+1 Selesnya Sanctuary
+1 Setessan Champion
+1 Shattered Sanctum
+1 Shigeki, Jukai Visionary
+1 Sol Ring
+1 Song of the Worldsoul
+1 Spirited Companion
+1 Starfield of Nyx
+1 Sunpetal Grove
+1 Swamp
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Sythis, Harvest's Hand
+1 Takenuma, Abandoned Mire
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Temple Garden
+1 Temple of Malady
+1 Temple of Plenty
+1 Temple of Silence
+1 The Eldest Reborn
+1 Undergrowth Stadium
+1 Vault of Champions
+1 Weaver of Harmony
+1 Woodland Cemetery
+
