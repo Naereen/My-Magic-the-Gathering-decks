@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono-White Aggro in Standard 16-06-2023</deckname>
+    <comments>Mono-White Aggro in Standard 16-06-2023
+https://www.mtggoldfish.com/archetype/standard-mono-white-aggro-mid#paper</comments>
+    <zone name="main">
+        <card number="4" name="Thalia, Guardian of Thraben"/>
+        <card number="4" name="Adeline, Resplendent Cathar"/>
+        <card number="4" name="Brutal Cathar"/>
+        <card number="4" name="Intrepid Adversary"/>
+        <card number="4" name="Hopeful Initiate"/>
+        <card number="2" name="Guardian of New Benalia"/>
+        <card number="4" name="Recruitment Officer"/>
+        <card number="2" name="Skrelv, Defector Mite"/>
+        <card number="4" name="Coppercoat Vanguard"/>
+        <card number="3" name="Ossification"/>
+        <card number="3" name="Invasion of Gobakhan"/>
+        <card number="16" name="Plains"/>
+        <card number="2" name="Eiganjo, Seat of the Empire"/>
+        <card number="4" name="Mishra's Foundry"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Sungold Sentinel"/>
+        <card number="4" name="Wedding Announcement"/>
+        <card number="2" name="The Wandering Emperor"/>
+        <card number="2" name="Extraction Specialist"/>
+        <card number="1" name="Destroy Evil"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Ossification"/>
+        <card number="1" name="Invasion of Gobakhan"/>
+        <card number="1" name="Surge of Salvation"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Azorius Soldiers in Standard - 16-08-2023</deckname>
+    <comments>Azorius Soldiers in Standard - 16-08-2023
+https://www.mtggoldfish.com/archetype/standard-azorius-soldiers-mid#paper</comments>
+    <zone name="main">
+        <card number="4" name="Adarkar Wastes"/>
+        <card number="4" name="Seachrome Coast"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Island"/>
+        <card number="2" name="Deserted Beach"/>
+        <card number="3" name="Spell Pierce"/>
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
+        <card number="1" name="Otawara, Soaring City"/>
+        <card number="2" name="Secluded Courtyard"/>
+        <card number="4" name="Make Disappear"/>
+        <card number="4" name="Resolute Reinforcements"/>
+        <card number="4" name="Valiant Veteran"/>
+        <card number="4" name="Recruitment Officer"/>
+        <card number="4" name="Yotian Frontliner"/>
+        <card number="4" name="Zephyr Sentinel"/>
+        <card number="3" name="Harbin, Vanguard Aviator"/>
+        <card number="4" name="Fortified Beachhead"/>
+        <card number="3" name="Skrelv, Defector Mite"/>
+        <card number="1" name="Mirrex"/>
+        <card number="4" name="Knight-Errant of Eos"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Thalia, Guardian of Thraben"/>
+        <card number="1" name="Brutal Cathar"/>
+        <card number="2" name="Dennick, Pious Apprentice"/>
+        <card number="3" name="Lantern Flare"/>
+        <card number="3" name="Destroy Evil"/>
+        <card number="2" name="Protect the Negotiators"/>
+        <card number="1" name="Surge of Salvation"/>
+    </zone>
+</cockatrice_deck>
