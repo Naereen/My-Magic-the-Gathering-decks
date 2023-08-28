@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Hammer Time aggro combo in Modern ma version 27-08-2023</deckname>
+    <comments>Hammer Time aggro combo in Modern ma version 27-08-2023
+https://www.moxfield.com/decks/PmfGuenAjEKy6PkKeGy4vw</comments>
+    <zone name="main">
+        <card number="1" name="Blacksmith's Skill"/>
+        <card number="4" name="Colossus Hammer"/>
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
+        <card number="4" name="Esper Sentinel"/>
+        <card number="1" name="Forge Anew"/>
+        <card number="1" name="Gingerbrute"/>
+        <card number="3" name="Giver of Runes"/>
+        <card number="3" name="Inkmoth Nexus"/>
+        <card number="1" name="Kaldra Compleat"/>
+        <card number="4" name="Memnite"/>
+        <card number="1" name="Ornithopter"/>
+        <card number="4" name="Puresteel Paladin"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="3" name="Silent Clearing"/>
+        <card number="11" name="Snow-Covered Plains"/>
+        <card number="1" name="Solitude"/>
+        <card number="3" name="Springleaf Drum"/>
+        <card number="1" name="Steelshaper's Gift"/>
+        <card number="4" name="Stoneforge Mystic"/>
+        <card number="4" name="Urza's Saga"/>
+        <card number="4" name="Sigarda's Aid"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Boromir, Warden of the Tower"/>
+        <card number="3" name="Pithing Needle"/>
+        <card number="3" name="Rest in Peace"/>
+        <card number="3" name="Sanctifier en-Vec"/>
+        <card number="3" name="Solitude"/>
+    </zone>
+</cockatrice_deck>
