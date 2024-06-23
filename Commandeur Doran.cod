@@ -14,7 +14,6 @@
         <card number="1" name="Indatha Crystal"/>
         <card number="1" name="Treefolk Umbra"/>
         <card number="1" name="Jungle Hollow"/>
-        <card number="1" name="Skinshifter"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Golgari Guildgate"/>
         <card number="1" name="Forbidding Watchtower"/>
@@ -105,5 +104,6 @@
         <card number="1" name="Command Tower"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Gorm the Great"/>
+        <card number="1" name="Delighted Halfling"/>
     </zone>
 </cockatrice_deck>
