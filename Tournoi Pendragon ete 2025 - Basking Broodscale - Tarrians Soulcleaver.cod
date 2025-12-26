@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Mon Aug 4 20:16:35 2025</lastLoadedTimestamp>
+    <deckname>Tournoi Pendragon ete 2025 - Basking Broodscale + Tarrians Soulcleaver</deckname>
+    <bannerCard providerId="5feba5d6-99a6-4e9b-8a7d-90d955868fc3">Basking Broodscale</bannerCard>
+    <comments> Basking Broodscale + Tarrian's Soulcleaver (mono-Green aggro combo) (in Pendragon format)</comments>
+    <tags>
+        <tag>⚔️ Midrange</tag>
+        <tag>🌀 Combo</tag>
+        <tag>👥 Tokens</tag>
+        <tag>⚔️ Creature</tag>
+        <tag>💎 Artifact</tag>
+        <tag>👾 Eldrazi</tag>
+    </tags>
+    <zone name="main">
+        <card number="1" name="Arbor Elf" setShortName="A25" collectorNumber="160" uuid="4b81165e-f091-4211-8b47-5ea6868b0d4c"/>
+        <card number="1" name="Arcane Signet" setShortName="ONC" collectorNumber="125" uuid="ecedbcca-4d71-46ac-a8e5-a1cf8109f4b7"/>
+        <card number="1" name="Avenging Hunter" setShortName="CLB" collectorNumber="215"/>
+        <card number="1" name="Broken Bond" setShortName="DOM" collectorNumber="157" uuid="b4dcb59f-2a47-4461-9831-204ad15696b5"/>
+        <card number="1" name="Burst of Strength" setShortName="GTC" collectorNumber="115" uuid="d1cbd617-9f2e-4882-b8f0-dfc2fced2281"/>
+        <card number="1" name="Bushwhack" setShortName="FDN" collectorNumber="215" uuid="03ebdb36-55e0-49dd-a514-785fbeb4ae19"/>
+        <card number="1" name="Captivating Cave" setShortName="LCI" collectorNumber="268" uuid="1d1a645e-85c7-4044-b817-6e24744d245e"/>
+        <card number="1" name="Caustic Caterpillar" setShortName="J22" collectorNumber="86" uuid="c5c0e3e1-a578-4c3d-95d1-f1c6c243779d"/>
+        <card number="1" name="Cave of Temptation" setShortName="J25" collectorNumber="763" uuid="4c468c5f-f2c6-473a-8353-a762ec3ab467"/>
+        <card number="1" name="Corrosive Ooze" setShortName="DOM" collectorNumber="158" uuid="d13deb9c-5985-4355-8716-ee1c7b54b8e2"/>
+        <card number="1" name="Crack Open" setShortName="MH2" collectorNumber="154" uuid="42b77a34-9b69-4b01-9f2c-2ff8de47fc12"/>
+        <card number="1" name="Duskshell Crawler" setShortName="MH2" collectorNumber="156" uuid="1af03fc3-5eb6-404e-96d9-e291a1e11ec3"/>
+        <card number="1" name="Elvish Mystic" setShortName="CMM" collectorNumber="284" uuid="75918859-c93f-41b4-9ad0-a4a96c389f0d"/>
+        <card number="1" name="Escape Tunnel" setShortName="MKM" collectorNumber="261" uuid="93ddde4f-d35e-4128-8f43-d0eadbd715de"/>
+        <card number="1" name="Essence Warden" setShortName="PLC" collectorNumber="145" uuid="da2a65d6-0887-4fe8-a6e6-909208fddd90"/>
+        <card number="1" name="Explore" setShortName="C19" collectorNumber="164" uuid="da397007-e9a8-4228-a35d-a606e93e37be"/>
+        <card number="1" name="Forest" setShortName="M20" collectorNumber="280" uuid="43e7e6ec-9bfe-4062-a538-2a748d2eed1f"/>
+        <card number="1" name="Forge of Heroes" setShortName="C18" collectorNumber="58" uuid="826ff8c2-8a1d-45f5-a7e2-d8bf826fcadc"/>
+        <card number="1" name="Fyndhorn Elves" setShortName="CMR" collectorNumber="228" uuid="450744cf-7eba-491b-97b0-ca80c6368bbb"/>
+        <card number="1" name="Gaea's Gift" setShortName="BRO" collectorNumber="182" uuid="5503186a-46fe-4956-8ae3-5ab3343f8a93"/>
+        <card number="1" name="Generous Ent" setShortName="LTR" collectorNumber="169" uuid="85d22d5d-3875-42ff-b51e-c6e21db201f5"/>
+        <card number="1" name="Gift of the Viper" setShortName="MH3" collectorNumber="156" uuid="17fa0b62-d474-4dc7-9631-9d0a9d99e5e2"/>
+        <card number="1" name="Gingerbread Cabin" setShortName="ELD" collectorNumber="245" uuid="b11f5296-5f7d-41ca-a67d-e976273d7386"/>
+        <card number="1" name="Gnarlid Colony" setShortName="FDN" collectorNumber="224" uuid="47565d10-96bf-4fb0-820f-f20a44a76b6f"/>
+        <card number="1" name="Growth Spasm" setShortName="MIC" collectorNumber="139" uuid="d8a6849b-6391-4c2c-97bd-267a31e57b38"/>
+        <card number="1" name="Haunted Cloak" setShortName="CMM" collectorNumber="389" uuid="abffd0a3-ea7a-43cf-b92d-d9f436bef58e"/>
+        <card number="1" name="Horrific Assault" setShortName="MH3" collectorNumber="157" uuid="cfa6ed13-7bba-40c0-8e0e-4ffd3cea6241"/>
+        <card number="1" name="Into the North" setShortName="CSP" collectorNumber="111" uuid="79cea55d-8ef3-44a5-894e-967f1e97fc02"/>
+        <card number="1" name="Invigorate" setShortName="DDD" collectorNumber="19" uuid="65736b5f-1222-41a4-a2ae-3dacb4936664"/>
+        <card number="1" name="Khalni Ambush" setShortName="ZNR" collectorNumber="192" uuid="99535539-aa73-41ed-86ab-21c97b92620d"/>
+        <card number="1" name="Lignify" setShortName="DDD" collectorNumber="16" uuid="c2b4650a-29d0-41c2-ab3b-d685692680d5"/>
+        <card number="1" name="Llanowar Elves" setShortName="DD1" collectorNumber="9" uuid="a6971b0a-274c-444c-aea8-5e114b4aecdd"/>
+        <card number="1" name="Longstalk Brawl" setShortName="BLB" collectorNumber="182" uuid="c7ef748c-b5e5-4e7d-bf2e-d3e6c08edb42"/>
+        <card number="1" name="Malevolent Rumble" setShortName="MH3" collectorNumber="161" uuid="a178cfe8-f9fa-4255-88d0-54a0bed079f5"/>
+        <card number="1" name="Masked Vandal" setShortName="KHM" collectorNumber="184" uuid="f0a9c72a-e450-41e3-80e5-06f2f1171245"/>
+        <card number="1" name="Master Chef" setShortName="CLB" collectorNumber="241"/>
+        <card number="1" name="Myr Scrapling" setShortName="MH2" collectorNumber="230" uuid="5b9072a5-bd7f-4007-a34a-ebe251c95356"/>
+        <card number="1" name="Naturalize" setShortName="M10" collectorNumber="195" uuid="ae52b4dc-4acd-4fa5-a6b5-613e808cf0ab"/>
+        <card number="1" name="Nature's Lore" setShortName="5ED" collectorNumber="316" uuid="00a4ffc1-7731-42d9-b970-2a8d84cba14d"/>
+        <card number="1" name="Nightshade Dryad" setShortName="MH3" collectorNumber="163" uuid="71f9252d-241f-45ea-9d80-663150963b59"/>
+        <card number="1" name="Nyxborn Hydra" setShortName="MH3" collectorNumber="164" uuid="902a969e-9f22-4e92-93eb-9d4536ca82e5"/>
+        <card number="1" name="Oran-Rief Invoker" setShortName="BFZ" collectorNumber="182" uuid="0957875c-e1a2-4d14-8b61-c806903fc760"/>
+        <card number="1" name="Pick Your Poison" setShortName="MKM" collectorNumber="170" uuid="f58cfb23-4d99-4133-bf4b-d7e7c7d17cea"/>
+        <card number="1" name="Pollenbright Druid" setShortName="WAR" collectorNumber="173" uuid="4b0f478c-54f8-4087-ad52-d089e2049dda"/>
+        <card number="1" name="Pridemalkin" setShortName="M21" collectorNumber="196" uuid="df520254-0c72-496b-9222-263ca9d3c5d5"/>
+        <card number="1" name="Prizefight" setShortName="SNC" collectorNumber="154" uuid="544c810b-5f90-4535-aa76-14f8c6b9428a"/>
+        <card number="1" name="Radiant Fountain" setShortName="M15" collectorNumber="245" uuid="8090e148-2550-4156-89e3-052abda9f0e7"/>
+        <card number="1" name="Ram Through" setShortName="CMM" collectorNumber="314" uuid="44063a90-e4cf-4bcd-a128-792de15371a7"/>
+        <card number="1" name="Rancor" setShortName="DDD" collectorNumber="15" uuid="a13768a2-caa3-4489-b1e2-ba5f0e104931"/>
+        <card number="1" name="Return to Nature" setShortName="MID" collectorNumber="195" uuid="6e25c252-4177-4193-914c-b6933d9c0d7d"/>
+        <card number="1" name="Rubblebelt Maverick" setShortName="MKM" collectorNumber="174" uuid="81c7ff67-b9e1-4d2e-b1ae-da9b946da00b"/>
+        <card number="1" name="Sakura-Tribe Elder" setShortName="DSC" collectorNumber="194" uuid="7a0dd468-9317-42bd-946d-ef96805fc6a4"/>
+        <card number="1" name="Scale the Heights" setShortName="ZNR" collectorNumber="202" uuid="e781d6ad-950e-49bf-9645-e2354086ae49"/>
+        <card number="1" name="Seal of Primordium" setShortName="TSR" collectorNumber="228" uuid="fd5592ab-6883-4c5a-8d50-d9530d905b19"/>
+        <card number="1" name="Snake Umbra" setShortName="PC2" collectorNumber="78" uuid="48837e30-d025-4951-bcce-a81017608863"/>
+        <card number="1" name="Snakeskin Veil" setShortName="TDM" collectorNumber="159" uuid="a3d2c692-7566-468e-9c86-47a9f768fde2"/>
+        <card number="26" name="Snow-Covered Forest" setShortName="KHM" collectorNumber="285" uuid="fe241460-f7c1-4ba8-a156-6720b494ac97"/>
+        <card number="1" name="Spider Food" setShortName="WOE" collectorNumber="186" uuid="b9fd720b-e9c2-4e82-917e-bab6c544afb0"/>
+        <card number="1" name="Spider Umbra" setShortName="UMA" collectorNumber="184" uuid="762b8d61-53c9-41e1-aaa7-098b91d9b938"/>
+        <card number="1" name="Stony Strength" setShortName="J25" collectorNumber="720" uuid="c68038be-cf6b-4fca-8cca-430d41dc83be"/>
+        <card number="1" name="Sunshower Druid" setShortName="BLB" collectorNumber="195" uuid="7740abc5-54e1-478d-966e-0fa64e727995"/>
+        <card number="1" name="Tamiyo's Safekeeping" setShortName="NEO" collectorNumber="211" uuid="fd4b7ee2-de65-4288-872d-486065a4f226"/>
+        <card number="1" name="Three Visits" setShortName="PTK" collectorNumber="153" uuid="306d22ae-657e-4b52-8cd9-6fc3df9e8376"/>
+        <card number="1" name="Tranquil Thicket" setShortName="BLC" collectorNumber="350" uuid="bdf8439b-a31e-49d4-981a-d9532f83c370"/>
+        <card number="1" name="Tuskguard Captain" setShortName="2X2" collectorNumber="163" uuid="a4a4eab4-a2e6-4cb0-b32a-700aac59fc40"/>
+        <card number="1" name="Vines of Vastwood" setShortName="MM2" collectorNumber="168" uuid="6203e3d4-8998-41d6-9f7e-b68af0f1f8b5"/>
+        <card number="1" name="Wall of Roots" setShortName="TDC" collectorNumber="278" uuid="e4e7d3b7-9b0c-463d-975c-ef81d7fd8dad"/>
+        <card number="1" name="Warped Tusker" setShortName="MH3" collectorNumber="16" uuid="2b5f3a1a-8514-4598-be3d-c3be719f6951"/>
+        <card number="1" name="Wedding Invitation" setShortName="VOW" collectorNumber="260" uuid="ddc22ff6-4081-47ce-bc8a-e063f5f4d044"/>
+        <card number="1" name="Whispersilk Cloak" setShortName="DST" collectorNumber="160" uuid="ac4fdefd-8774-400d-bea6-4064d87383f1"/>
+        <card number="1" name="Wildheart Invoker" setShortName="CMR" collectorNumber="263" uuid="143231b3-23c4-4c6d-8b58-e401e1ac6e29"/>
+        <card number="1" name="Wrap in Vigor" setShortName="FUT" collectorNumber="141" uuid="070d438a-ce68-480b-bdfc-1fc3e151e5f8"/>
+        <card number="1" name="You Find a Cursed Idol" setShortName="AFR" collectorNumber="213" uuid="efb5671a-942a-4730-9756-32fe600e0528"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Tarrian's Soulcleaver" setShortName="LCI" collectorNumber="264" uuid="99413817-1218-4947-b12f-9a952b095a89"/>
+        <card number="1" name="Basking Broodscale" setShortName="MH3" collectorNumber="145" uuid="5feba5d6-99a6-4e9b-8a7d-90d955868fc3"/>
+    </zone>
+</cockatrice_deck>
