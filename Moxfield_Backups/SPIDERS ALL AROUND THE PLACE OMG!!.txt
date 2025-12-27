@@ -1,0 +1,112 @@
+1 Arachnus Web
+1 Beastmaster Ascension
+1 Jungle Hollow
+1 Obelisk Spider
+1 Watcher in the Web
+1 Putrefy
+1 Nature's Lore
+1 Sol Ring
+1 Sentinel Spider
+1 Spider Umbra
+1 Urborg, Tomb of Yawgmoth
+1 Hatchery Spider
+1 Overgrown Tomb
+1 Metallic Mimic
+1 Arachnus Spinner
+1 Penumbra Spider
+1 Kessig Recluse
+1 Acid Web Spider
+1 Mutavault
+1 Sporeweb Weaver
+1 Graveshifter
+1 Nurturing Peatland
+1 Rotwidow Pack
+1 Talisman of Resilience
+1 Twin-Silk Spider
+1 Cultivate
+1 Nyx Weaver
+1 Golgari Charm
+1 Blightwidow
+1 Hidden Spider
+1 Chainweb Aracnir
+1 Assault Formation
+1 Glowstone Recluse
+1 Farseek
+1 Llanowar Wastes
+1 Silklash Spider
+1 Swarmyard
+1 Eaten by Spiders
+1 Graverobber Spider
+1 Skysnare Spider
+1 Hissing Quagmire
+1 Kodama's Reach
+1 Lightning Greaves
+1 Blooming Marsh
+1 Woodland Cemetery
+1 Twilight Mire
+1 Assassin's Trophy
+1 Beast Whisperer
+1 Journey to Eternity // Atzal, Cave of Eternity
+1 Kindred Dominance
+1 Kindred Summons
+1 Arachnogenesis
+1 Golgari Signet
+1 Urza's Incubator
+1 Deadly Recluse
+1 Spider Spawning
+1 Juvenile Gloomwidow
+1 Viridian Longbow
+1 Undergrowth Stadium
+1 Ishkanah, Grafwidow
+1 Three Visits
+1 Stingerfling Spider
+1 Darkbore Pathway // Slitherbore Pathway
+1 Herald's Horn
+1 Masked Vandal
+1 Fynn, the Fangbearer
+1 Path of Ancestry
+1 Realmwalker
+1 Blex, Vexing Pest // Search for Blex
+1 Beast Within
+1 Gyome, Master Chef
+1 Temple of Malady
+1 Verdant Catacombs
+1 Patriarch's Bidding
+1 Yavimaya, Cradle of Growth
+1 Hive of the Eye Tyrant
+1 Drider
+1 Lair of the Hydra
+1 Brood Weaver
+1 Curse of Clinging Webs
+1 Doom Weaver
+1 Ancient Lumberknot
+1 Deathcap Glade
+1 Command Tower
+1 Arcane Signet
+8 Swamp
+1 Ettercap // Web Shot
+1 Arasta of the Endless Web
+1 Sweet-Gum Recluse
+1 Lolth, Spider Queen
+8 Forest
+1 Llanowar Greenwidow
+1 Canoptek Spyder
+1 Skyfisher Spider
+1 Bushwhack
+1 Adaptive Automaton
+1 Phyrexian Arena
+1 The Shire
+1 Ruins Recluse
+1 Last March of the Ents
+1 Mirkwood Spider
+1 Shelob, Dread Weaver
+1 Vanquisher's Banner
+SB: 1 Rampant Growth
+SB: 1 Bayou
+SB: 1 Bloodstained Mire
+SB: 1 Polluted Delta
+SB: 1 Wooded Foothills
+SB: 1 Windswept Heath
+SB: 1 Marsh Flats
+SB: 1 Misty Rainforest
+SB: 1 Shelob, Child of Ungoliant

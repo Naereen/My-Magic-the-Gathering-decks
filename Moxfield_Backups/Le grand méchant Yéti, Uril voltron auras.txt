@@ -1,0 +1,139 @@
+1 Archon of Sun's Grace
+1 Setessan Champion
+1 Return of the Wildspeaker
+1 Armadillo Cloak
+1 Jungle Shrine
+1 Rogue's Passage
+1 Forest
+1 Plains
+1 Nature's Lore
+1 Bear Umbra
+1 Tajuru Preserver
+1 Stomping Ground
+1 Boros Charm
+1 Contested Cliffs
+1 Swiftfoot Boots
+1 Kor Spiritdancer
+1 Unflinching Courage
+1 Daybreak Coronet
+1 Spider Umbra
+1 Misty Rainforest
+1 Blessing of the Nephilim
+1 Ancestral Mask
+1 Birds of Paradise
+1 Single Combat
+1 Hunter's Insight
+1 Silent Arbiter
+1 Temple Garden
+1 Spirit Mantle
+1 Transcendent Envoy
+1 Sacred Foundry
+1 Brushland
+1 Cavern of Souls
+1 Wooded Foothills
+1 Herald of the Pantheon
+1 Mountain
+1 Sage's Reverie
+1 Divine Reckoning
+1 Farseek
+1 Rancor
+1 Arid Mesa
+1 Scalding Tarn
+1 Shield of the Oversoul
+1 Yavimaya Hollow
+1 Spectator Seating
+1 Three Visits
+1 Kediss, Emberclaw Familiar
+1 Slash the Ranks
+1 Open the Armory
+1 Sram, Senior Edificer
+1 Swords to Plowshares
+1 Snow-Covered Mountain
+1 Snow-Covered Forest
+1 Snow-Covered Plains
+1 Axgard Armory
+1 Command Tower
+1 Marsh Flats
+1 Verdant Catacombs
+1 Sanctum Weaver
+1 Sythis, Harvest's Hand
+1 Holy Avenger
+1 Sol Ring
+1 Jukai Naturalist
+1 Chishiro, the Shattered Blade
+1 Eiganjo, Seat of the Empire
+1 Eidolon of Blossoms
+1 Reyav, Master Smith
+1 Rishkar's Expertise
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Spire Garden
+1 Jetmir's Garden
+1 Mazzy, Truesword Paladin
+1 Hyena Umbra
+1 Mayael's Aria
+1 Plaza of Heroes
+1 Arcane Signet
+1 Calix, Guided by Fate
+1 Danitha, New Benalia's Light
+1 Delighted Halfling
+1 All That Glitters
+1 Danitha Capashen, Paragon
+1 Ellivere of the Wild Court
+1 Destiny Spinner
+1 Eidolon of Countless Battles
+1 Umbra Mystic
+1 Idolized
+1 Kutzil, Malamet Exemplar
+1 Xenagos, God of Revels
+1 Winds of Rath
+1 Mantle of the Ancients
+1 Heroic Intervention
+1 Path of Ancestry
+1 Strong Back
+1 Bloodstained Mire
+1 Flooded Strand
+1 Windswept Heath
+1 Pearl-Ear, Imperial Advisor
+1 Strength of the Harvest // Haven of the Harvest
+1 Legion Leadership // Legion Stronghold
+1 Lion Umbra
+1 Arena of Glory
+1 Chandra's Ignition
+1 Dawn's Truce
+1 Wildsear, Scouring Maw
+1 Ethereal Armor
+1 Sheltered by Ghosts
+1 Hall of Heliod's Generosity
+1 Bloom Tender
+1 Sigarda, Host of Herons
+1 Tempest Technique
+1 Command Beacon
+1 Kessig Wolf Run
+SB: 1 Holy Mantle
+SB: 1 Beast Within
+SB: 1 Sigarda's Aid
+SB: 1 Hero of Iroas
+SB: 1 Deflecting Swat
+SB: 1 Flawless Maneuver
+SB: 1 Verduran Enchantress
+SB: 1 Path to Exile
+SB: 1 Satyr Enchanter
+SB: 1 Seize the Day
+SB: 1 Enlightened Tutor
+SB: 1 Sterling Grove
+SB: 1 Light-Paws, Emperor's Voice
+SB: 1 Teferi's Protection
+SB: 1 Mesa Enchantress
+SB: 1 Enchantress's Presence
+SB: 1 Generous Gift
+SB: 1 Tanglespan Lookout
+SB: 1 Utopia Sprawl
+SB: 1 Yenna, Redtooth Regent
+SB: 1 Siona, Captain of the Pyleas
+SB: 1 Talisman of Unity
+SB: 1 Wild Growth
+SB: 1 Talisman of Conviction
+SB: 1 Eldrazi Conscription
+SB: 1 Talisman of Impulse
+SB: 1 Uril, the Miststalker

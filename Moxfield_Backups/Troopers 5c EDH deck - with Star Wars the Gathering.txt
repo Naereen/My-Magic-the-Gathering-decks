@@ -1,0 +1,66 @@
+1 Command Tower
+1 Swamp
+1 Sacred Foundry
+1 Sea of Clouds
+1 Blood Crypt
+1 Godless Shrine
+1 Rhythm of the Wild
+1 Breeding Pool
+1 Guardian Project
+1 Stomping Ground
+1 Steam Vents
+1 Temple Garden
+1 Watery Grave
+1 Shared Animosity
+1 Reflecting Pool
+1 Hallowed Fountain
+1 Gaea's Cradle
+1 Shadowspear
+1 Plains
+1 Cavern of Souls
+1 Descendants' Path
+1 Flooded Strand
+1 Island
+1 Cryptolith Rite
+1 Overgrown Tomb
+1 Rhystic Study
+1 Unclaimed Territory
+1 Heroic Intervention
+1 Metallic Mimic
+1 Mana Confluence
+1 Rejuvenating Springs
+1 Training Center
+1 Spectator Seating
+1 Undergrowth Stadium
+1 Vault of Champions
+1 Path to Exile
+1 Arcane Signet
+1 Blasphemous Act
+1 Realmwalker
+1 Vanquisher's Banner
+1 Scalding Tarn
+1 Misty Rainforest
+1 Patriarch's Bidding
+1 Inevitable Betrayal
+1 Bloom Tender
+1 Kindred Summons
+1 Secluded Courtyard
+1 Morphic Pool
+1 Spire Garden
+1 Herald's Horn
+1 Forest
+1 Path of Ancestry
+1 Bountiful Promenade
+1 Luxury Suite
+1 Kindred Discovery
+1 Teferi's Protection
+1 Mountain
+1 Sol Ring
+1 Swords to Plowshares
+1 Adaptive Automaton
+1 Commander's Sphere
+1 Chromatic Lantern
+1 Sylvan Library
+1 Worldly Tutor
+1 The Great Henge
+SB: 1 Morophon, the Boundless

@@ -1,0 +1,90 @@
+1 Castle Garenbrig
+1 Heraldic Banner
+1 Rhonas's Monument
+1 Okina, Temple to the Grandfathers
+1 Primal Vigor
+1 Sylvan Library
+1 Emerald Medallion
+1 Metallic Mimic
+1 Rishkar's Expertise
+1 Obelisk of Urd
+1 Pendelhaven
+1 Ancient Tomb
+1 Karn's Bastion
+1 Triumph of the Hordes
+1 Gaea's Cradle
+1 Adaptive Automaton
+1 Branching Evolution
+1 The Ozolith
+1 Doubling Season
+1 Mutavault
+1 Sol Ring
+1 Nissa's Judgment
+1 Cultivate
+1 Mosswort Bridge
+1 Inspiring Call
+1 Nykthos, Shrine to Nyx
+1 Llanowar Reborn
+1 Vigor
+1 Yavimaya Hollow
+1 Khalni Ambush // Khalni Territory
+1 Kodama's Reach
+1 Three Visits
+1 War Room
+1 Cavern of Souls
+1 Realmwalker
+1 Sylvan Anthem
+1 Lair of the Hydra
+1 Visions of Dominance
+1 Arcane Signet
+1 Umezawa's Jitte
+1 Oran-Rief, the Vastwood
+1 Boseiju, Who Endures
+1 Path of Ancestry
+1 Ezuri's Predation
+1 Defiler of Vigor
+17 Forest
+1 Commander's Sphere
+1 Hardened Scales
+1 Bonders' Enclave
+1 Treetop Village
+1 Nature's Lore
+1 Beast Within
+SB: 1 Nyxbloom Ancient
+SB: 1 Return of the Wildspeaker
+SB: 1 Garruk's Uprising
+SB: 1 Invigorating Surge
+SB: 1 Nature's Claim
+SB: 1 Heroic Intervention
+SB: 1 Force of Vigor
+SB: 1 Unbound Flourishing
+SB: 1 The Great Henge
+SB: 1 Krosan Grip
+SB: 1 Solidarity of Heroes
+SB: 1 Renata, Called to the Hunt
+SB: 1 Shadowspear
+SB: 1 Ram Through
+SB: 1 Zendikar Resurgent
+SB: 1 Colossal Majesty
+SB: 1 Beast Whisperer
+SB: 1 The Immortal Sun
+SB: 1 Vanquisher's Banner
+SB: 1 Herald's Horn
+SB: 1 Mana Reflection
+SB: 1 Lightning Greaves
+SB: 1 Song of the Dryads
+SB: 1 Snakeskin Veil
+SB: 1 Bloodline Pretender
+SB: 1 Vorinclex, Monstrous Raider
+SB: 1 Elementalist's Palette
+SB: 1 Chameleon Colossus
+SB: 1 Unnatural Growth
+SB: 1 Glorious Sunrise
+SB: 1 Thunderfoot Baloth
+SB: 1 Bone Sabres
+SB: 1 Clamavus
+SB: 1 Mind Stone
+SB: 1 Caged Sun
+SB: 1 Gaea's Gift
+SB: 1 Gwenna, Eyes of Gaea
+SB: 1 Urza's Incubator

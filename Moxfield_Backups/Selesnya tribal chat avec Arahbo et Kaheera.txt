@@ -1,0 +1,119 @@
+3 Plains
+1 Arcane Signet
+3 Forest
+1 Keeper of Fables
+1 Beast Within
+1 Blossoming Sands
+1 Cultivate
+1 Graypelt Refuge
+1 Leonin Relic-Warder
+1 Path to Exile
+1 Sol Ring
+1 Animal Sanctuary
+1 Feline Sovereign
+1 Highcliff Felidar
+1 Jareth, Leonine Titan
+1 Oreskos Explorer
+1 Selesnya Sanctuary
+1 Sungrass Prairie
+1 Okina, Temple to the Grandfathers
+1 Selesnya Charm
+1 Bountiful Promenade
+1 Mosswort Bridge
+1 Kodama's Reach
+1 Temple Garden
+1 Pride Sovereign
+1 Felidar Sovereign
+1 Felidar Cub
+1 Kemba's Skyguard
+1 Leonin Arbiter
+1 Razorverge Thicket
+1 Wild Nacatl
+1 King of the Pride
+1 Canopy Vista
+1 Adorned Pouncer
+1 Regal Caracal
+1 Prowling Serpopard
+1 Sacred Cat
+1 Scattered Groves
+1 Stirring Wildwood
+1 Windbrisk Heights
+1 Bronzehide Lion
+1 Temple of Plenty
+1 Cubwarden
+1 Wooded Bastion
+1 Brimaz, King of Oreskos
+1 Sunpetal Grove
+1 Spirit of the Hearth
+1 Pendelhaven
+1 Leonin Warleader
+1 Alms Collector
+1 Fleecemane Lion
+1 Hungry Lynx
+1 Jazal Goldmane
+1 Mirri, Weatherlight Duelist
+1 Phantom Nishoba
+1 Qasali Slingers
+1 White Sun's Zenith
+1 Horizon Canopy
+1 Command Tower
+1 Branchloft Pathway // Boulderloft Pathway
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Felidar Retreat
+1 Trove Warden
+1 Swords to Plowshares
+1 Rally the Ranks
+1 Esika's Chariot
+1 Realmwalker
+1 Qasali Pridemage
+1 Oran-Rief, the Vastwood
+1 Stalking Leonin
+1 Fortified Village
+1 Overgrown Farmland
+1 Talisman of Unity
+1 Fateful Absence
+1 Unclaimed Territory
+1 Secluded Courtyard
+1 Lion Sash
+1 Umezawa's Jitte
+1 Gavony Township
+1 Nature's Lore
+1 Ezuri's Predation
+1 Radiant Grove
+1 Jedit Ojanen of Efrava
+1 Brushland
+1 Unbreakable Formation
+1 Skyhunter Strike Force
+1 Farseek
+1 Stroke of Midnight
+1 Sovereign Okinec Ahau
+1 Kutzil, Malamet Exemplar
+1 Ocelot Pride
+1 Patchwork Banner
+1 Arahbo, the First Fang
+1 Undergrowth Leopard
+1 G'raha Tia
+SB: 1 Savannah Lions
+SB: 1 Sabertooth Nishoba
+SB: 1 Scavenger Grounds
+SB: 1 Arctic Flats
+SB: 1 Leonin Skyhunter
+SB: 1 Mirri, Cat Warrior
+SB: 1 Gemrazer
+SB: 1 Kaheera, the Orphanguard
+SB: 1 Hammer of Nazahn
+SB: 1 Nazahn, Revered Bladesmith
+SB: 1 Seht's Tiger
+SB: 1 Cathedral of War
+SB: 1 Kabira Takedown // Kabira Plateau
+SB: 1 Prava of the Steel Legion
+SB: 1 Anara, Wolvid Familiar
+SB: 1 Arctic Treeline
+SB: 1 Eiganjo, Seat of the Empire
+SB: 1 Generous Gift
+SB: 1 Boseiju, Who Endures
+SB: 1 Nishoba Brawler
+SB: 1 Zar Ojanen, Scion of Efrava
+SB: 1 Mind Stone
+SB: 1 Scythecat Cub
+SB: 1 Arahbo, Roar of the World

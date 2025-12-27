@@ -1,0 +1,116 @@
+1 Mana Crypt
+1 Palladium Myr
+1 Sanctum of Eternity
+1 Mana Vault
+1 Kozilek, Butcher of Truth
+1 Swiftfoot Boots
+1 Maze of Ith
+1 Emrakul, the Promised End
+1 Bane of Bala Ged
+1 Conduit of Ruin
+1 Kozilek's Channeler
+1 Ulamog, the Ceaseless Hunger
+1 Void Winnower
+1 Mox Opal
+1 Wurmcoil Engine
+1 Blinkmoth Nexus
+1 Darksteel Citadel
+1 Whispersilk Cloak
+1 Emergence Zone
+1 Ugin, the Ineffable
+1 Karn, the Great Creator
+1 Eldrazi Temple
+1 Mind Stone
+1 It That Betrays
+1 All Is Dust
+1 Ulamog, the Infinite Gyre
+1 Ugin, the Spirit Dragon
+1 Ancient Tomb
+1 Karn, Silver Golem
+1 Field of the Dead
+1 Shadowspear
+1 Grim Monolith
+1 Thran Dynamo
+1 Urza's Factory
+1 Eye of Ugin
+1 Mutavault
+1 Tomb of the Spirit Dragon
+1 Arcane Lighthouse
+1 Ghost Quarter
+1 Eldrazi Mimic
+1 Reality Smasher
+1 Spatial Contortion
+1 Warden of Geometries
+1 Endbringer
+1 Inventors' Fair
+1 Worn Powerstone
+1 Jhoira's Familiar
+1 Zhalfirin Void
+1 Urza's Incubator
+1 Commander's Plate
+1 Witch's Clinic
+1 Radiant Fountain
+1 Urza's Saga
+1 Liquimetal Torque
+1 Mishra's Factory
+1 Mirage Mirror
+1 Urza's Fun House
+1 Unwinding Clock
+1 Karn Liberated
+1 Walking Ballista
+1 Titan's Presence
+1 Urza's Workshop
+1 Hedron Archive
+1 The Mycosynth Gardens
+1 Karn, Legacy Reforged
+1 Zhulodok, Void Gorger
+1 Mithril Coat
+1 Basalt Monolith
+1 Kozilek, the Great Distortion
+1 Gilded Lotus
+1 Forge of Heroes
+1 Rise of the Eldrazi
+1 Skittering Cicada
+1 Desecrate Reality
+1 Flayer of Loyalties
+1 Urza's Tower
+1 Urza's Mine
+1 Urza's Power Plant
+1 Warping Wail
+1 Not of This World
+1 Foundry Inspector
+1 Pathrazer of Ulamog
+1 Shimmer Myr
+1 Wastes
+1 Syr Ginger, the Meal Ender
+1 Arch of Orazca
+1 Karn's Bastion
+1 Temple of the False God
+1 Vanquisher's Banner
+1 Herald's Horn
+1 Shrine of the Forsaken Gods
+1 Steel Hellkite
+1 Ugin's Mastery
+1 War Room
+1 Basilisk Collar
+1 Buried Ruin
+1 Emrakul, the World Anew
+1 Thought Vessel
+1 Treasure Vault
+1 Everflowing Chalice
+1 Mystic Forge
+1 Snow-Covered Wastes
+1 Sol Ring
+1 Lightning Greaves
+1 Command Beacon
+1 Bonders' Enclave
+1 Demolition Field
+1 Rogue's Passage
+1 Access Tunnel
+1 Reliquary Tower
+1 Scavenger Grounds
+1 Urza's Cave
+1 Ugin's Labyrinth
+1 Planar Nexus
+1 Null Elemental Blast
+SB: 1 Liberator, Urza's Battlethopter

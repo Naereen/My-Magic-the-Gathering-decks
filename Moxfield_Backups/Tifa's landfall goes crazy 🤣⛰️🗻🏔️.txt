@@ -1,0 +1,100 @@
+1 Questing Beast
+1 Groundswell
+1 Wild Growth
+1 Ranger's Guile
+1 Nature's Lore
+1 Okina, Temple to the Grandfathers
+1 Dryad Arbor
+1 Seal of Strength
+1 Ghost Quarter
+1 Gather Courage
+1 Boreal Druid
+1 Birds of Paradise
+1 Fabled Passage
+1 Prismatic Vista
+1 Scale Up
+1 Mutagenic Growth
+1 Inkmoth Nexus
+1 Wild Might
+1 Allosaurus Shepherd
+1 Gemstone Caverns
+1 Stonewood Invocation
+1 Arbor Elf
+1 Savage Summoning
+1 Wooded Foothills
+1 Windswept Heath
+1 Titania, Protector of Argoth
+1 Blossoming Defense
+1 Invigorate
+1 Llanowar Elves
+1 Harrow
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Vines of Vastwood
+1 Centaur Garden
+1 Skyclave Pick-Axe
+1 Naya Panorama
+1 Fyndhorn Elves
+1 Command Beacon
+1 Become Immense
+1 Guardian Augmenter
+1 Urza's Saga
+1 Wild Shape
+1 Boseiju, Who Endures
+1 Tamiyo's Safekeeping
+1 Veil of Summer
+1 Cabaretti Courtyard
+1 Riveteers Overlook
+1 Brokers Hideout
+1 Bant Panorama
+1 Green Sun's Zenith
+1 Might of Old Krosa
+1 Embiggen
+1 Haywire Mite
+1 Crop Rotation
+1 Elvish Spirit Guide
+1 Tyvar's Stand
+1 Cankerbloom
+1 Delighted Halfling
+1 Shire Terrace
+1 Evolving Wilds
+1 Entish Restoration
+1 Elvish Mystic
+1 Royal Treatment
+1 Utopia Sprawl
+1 Legolas's Quick Reflexes
+1 Promising Vein
+1 Escape Tunnel
+1 Lavaspur Boots
+1 Bristly Bill, Spine Sower
+1 Hashep Oasis
+1 Sylvan Safekeeper
+1 Bridgeworks Battle // Tanglespan Bridgeworks
+1 Talon Gates of Madara
+1 Yavimaya, Cradle of Growth
+1 Horizon of Progress
+1 Overprotect
+1 Terramorphic Expanse
+1 Berserk
+1 Giant Growth
+1 Mossborn Hydra
+1 Scythecat Cub
+1 Adventuring Gear
+1 Defend the Rider
+1 Snakeskin Veil
+1 Traveling Chocobo
+1 Three Visits
+1 Frenzied Baloth
+15 Snow-Covered Forest
+SB: 1 Titanic Growth
+SB: 1 Pendelhaven
+SB: 1 Skullclamp
+SB: 1 Hapatra's Mark
+SB: 1 Oracle of Mul Daya
+SB: 1 Kazandu Mammoth // Kazandu Valley
+SB: 1 Explorer's Scope
+SB: 1 Sentinel of the Nameless City
+SB: 1 Six
+SB: 1 Elvish Reclaimer
+SB: 1 Tireless Tracker
+SB: 1 Tifa Lockhart

@@ -1,0 +1,124 @@
+1 Umbral Mantle
+1 Llanowar Visionary
+1 Okina, Temple to the Grandfathers
+1 Elvish Mystic
+1 Mosswort Bridge
+1 Reclamation Sage
+1 Elvish Visionary
+1 Mutavault
+1 Pendelhaven
+1 Boreal Druid
+1 Skullclamp
+1 Wirewood Symbiote
+1 Natural Order
+1 Finale of Devastation
+1 Heroic Intervention
+1 Castle Garenbrig
+1 Return of the Wildspeaker
+1 Llanowar Elves
+1 Seedborn Muse
+1 Wirewood Channeler
+1 Sol Ring
+1 Allosaurus Shepherd
+1 Wirewood Lodge
+1 Elvish Archdruid
+1 Marwyn, the Nurturer
+1 Nykthos, Shrine to Nyx
+1 Creeping Renaissance
+1 Yavimaya Hollow
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Imperious Perfect
+1 Staff of Domination
+1 Canopy Tactician
+1 Realmwalker
+1 Wolverine Riders
+1 Elvish Warmaster
+1 Beast Whisperer
+1 Beast Within
+1 Oran-Rief, the Vastwood
+1 Quirion Ranger
+1 Yavimaya, Cradle of Growth
+1 Circle of Dreams Druid
+1 Varis, Silverymoon Ranger
+1 Arbor Elf
+1 Shamanic Revelation
+1 Rishkar, Peema Renegade
+1 Boseiju, Who Endures
+1 Ezuri's Predation
+1 Fyndhorn Elves
+1 Wood Elves
+1 Leaf-Crowned Visionary
+1 Elvish Champion
+1 Invasion of Ikoria // Zilortha, Apex of Ikoria
+1 Lifecrafter's Bestiary
+1 Essence Warden
+21 Forest
+1 Elvish Harbinger
+1 Galadhrim Brigade
+1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
+1 Sword of the Paruns
+1 Wellwisher
+1 Archdruid's Charm
+1 Toski, Bearer of Secrets
+1 Priest of Titania
+1 Timberwatch Elf
+1 Disciple of Freyalise // Garden of Freyalise
+1 Eladamri, Korvecdal
+1 Evolution Witness
+1 Collective Resistance
+1 Bridgeworks Battle // Tanglespan Bridgeworks
+1 Shifting Woodland
+1 Fierce Empath
+1 Coat of Arms
+1 Three Tree City
+1 Season of Gathering
+1 Nullmage Shepherd
+1 Tyvar, the Pummeler
+1 Dionus, Elvish Archdruid
+1 Craterhoof Behemoth
+1 Rishkar's Expertise
+1 Formidable Speaker
+SB: 1 Wildborn Preserver
+SB: 1 Lead the Stampede
+SB: 1 Nature's Lore
+SB: 1 Seasons Past
+SB: 1 Beastmaster Ascension
+SB: 1 Sprouting Renewal
+SB: 1 Eladamri, Lord of Leaves
+SB: 1 Treetop Village
+SB: 1 Throne of the God-Pharaoh
+SB: 1 Triumph of the Hordes
+SB: 1 Wren's Run Vanquisher
+SB: 1 Jagged-Scar Archers
+SB: 1 Heedless One
+SB: 1 Umezawa's Jitte
+SB: 1 Joraga Warcaller
+SB: 1 Steel Leaf Champion
+SB: 1 Vanquisher's Banner
+SB: 1 Kindred Summons
+SB: 1 Yeva, Nature's Herald
+SB: 1 Sylvan Ranger
+SB: 1 Voice of the Woods
+SB: 1 Freyalise, Llanowar's Fury
+SB: 1 Three Visits
+SB: 1 Immaculate Magistrate
+SB: 1 War Room
+SB: 1 Elven Ambush
+SB: 1 Dwynen, Gilt-Leaf Daen
+SB: 1 Blighted Woodland
+SB: 1 Lair of the Hydra
+SB: 1 Gala Greeters
+SB: 1 Sharpshooter Elf
+SB: 1 Imaryll, Elfhame Elite
+SB: 1 Path of Ancestry
+SB: 1 The Shire
+SB: 1 Shower of Arrows
+SB: 1 Galadhrim Ambush
+SB: 1 Windswift Slice
+SB: 1 Haldir, Lórien Lieutenant
+SB: 1 Genesis Wave
+SB: 1 For the Ancestors
+SB: 1 Pick Your Poison
+SB: 1 Emerald Medallion
+SB: 1 Patchwork Banner
+SB: 1 Ezuri, Renegade Leader

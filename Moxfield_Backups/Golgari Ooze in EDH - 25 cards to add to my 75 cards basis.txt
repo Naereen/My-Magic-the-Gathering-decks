@@ -1,0 +1,38 @@
+1 Experiment One
+1 Mitotic Slime
+1 Inexorable Blob
+1 Biogenic Ooze
+1 Necrotic Ooze
+1 Consumptive Goo
+1 Predator Ooze
+1 Umori, the Collector
+1 Scavenging Ooze
+1 Splitting Slime
+1 Acidic Slime
+1 Ravenous Slime
+1 Corrosive Ooze
+1 Corpsejack Menace
+1 Oran-Rief Ooze
+1 Biowaste Blob
+1 Masked Vandal
+1 Aeve, Progenitor Ooze
+1 Gelatinous Cube
+1 Ochre Jelly
+1 Green Slime
+1 Uchuulon
+1 Clamavus
+SB: 1 New Horizons
+SB: 1 Gluttonous Slime
+SB: 1 Ancient Ooze
+SB: 1 Birds of Paradise
+SB: 1 Necroplasm
+SB: 1 Manaplasm
+SB: 1 Vanquisher's Banner
+SB: 1 Golgari Charm
+SB: 1 Bioplasm
+SB: 1 Snakeskin Veil
+SB: 1 Skemfar Elderhall
+SB: 1 Consuming Blob
+SB: 1 Nexos
+SB: 1 Reyhan, Last of the Abzan
+SB: 1 Slurrk, All-Ingesting

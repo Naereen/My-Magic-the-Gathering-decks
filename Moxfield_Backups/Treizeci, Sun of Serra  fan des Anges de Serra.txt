@@ -1,0 +1,100 @@
+1 Heraldic Banner
+1 Shimmer Myr
+1 Swords to Plowshares
+1 Weathered Wayfarer
+1 Lightning Greaves
+1 Sword of Feast and Famine
+1 Enlightened Tutor
+1 Ancient Den
+1 Solemn Simulacrum
+1 Fabled Passage
+1 Sword of Truth and Justice
+1 Liquimetal Torque
+1 Prismatic Vista
+1 Generous Gift
+1 Rogue's Passage
+1 Eiganjo, Seat of the Empire
+1 Nykthos, Shrine to Nyx
+1 Reliquary Tower
+1 Serra Angel
+1 Liberator, Urza's Battlethopter
+1 Mind Stone
+1 Mondrak, Glory Dominus
+1 Coat of Arms
+1 Blackblade Reforged
+1 Swiftfoot Boots
+1 Unwinding Clock
+1 Linvala, Keeper of Silence
+1 The Ozolith
+1 Shadowspear
+1 Sword of the Animist
+1 Fellwar Stone
+1 Commander's Plate
+1 Flowering of the White Tree
+1 Andúril, Narsil Reforged
+1 Minas Tirith
+1 Ojer Taq, Deepest Foundation // Temple of Civilization
+1 Roaming Throne
+1 Chimil, the Inner Sun
+1 Everflowing Chalice
+1 Archaeomancer's Map
+1 Arcane Signet
+1 Esper Sentinel
+1 Whispersilk Cloak
+1 Three Tree City
+1 Inventors' Fair
+1 Lyra Dawnbringer
+1 Giada, Font of Hope
+1 Patchwork Banner
+1 Adeline, Resplendent Cathar
+1 Palladium Myr
+1 Urza's Saga
+1 Wayfarer's Bauble
+1 Land Tax
+1 Temple of the False God
+1 Mother of Runes
+1 Platinum Angel
+1 Jhoira's Familiar
+1 Path to Exile
+1 Intangible Virtue
+1 Arid Mesa
+1 Marsh Flats
+1 Ornithopter of Paradise
+1 Skullclamp
+1 Commander's Sphere
+1 Buried Ruin
+1 Idol of Oblivion
+1 Thought Vessel
+1 Angel of the Ruins
+1 Austere Command
+1 Indomitable Archangel
+1 Myriad Landscape
+1 Maze of Ith
+1 Elesh Norn, Grand Cenobite
+1 Mithril Coat
+1 Basalt Monolith
+1 Blind Obedience
+1 Flooded Strand
+1 Windswept Heath
+1 Flare of Fortitude
+1 Ocelot Pride
+1 Brotherhood Regalia
+1 Cathars' Crusade
+1 Elspeth, Storm Slayer
+18 Plains
+1 Sol Ring
+SB: 1 Ashnod's Altar
+SB: 1 Chromatic Lantern
+SB: 1 Ancient Tomb
+SB: 1 Grim Monolith
+SB: 1 Mana Vault
+SB: 1 Mox Diamond
+SB: 1 Chrome Mox
+SB: 1 Strionic Resonator
+SB: 1 Unbreakable Formation
+SB: 1 The One Ring
+SB: 1 Thran Dynamo
+SB: 1 Phyrexian Altar
+SB: 1 Ephemerate
+SB: 1 Ranger-Captain of Eos
+SB: 1 Treizeci, Sun of Serra

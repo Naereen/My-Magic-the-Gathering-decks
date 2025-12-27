@@ -1,0 +1,96 @@
+1 Castle Garenbrig
+1 Heraldic Banner
+1 Rhonas's Monument
+1 Animal Sanctuary
+1 Okina, Temple to the Grandfathers
+1 Orochi Sustainer
+1 Sakura-Tribe Elder
+1 Sachi, Daughter of Seshiro
+1 Wasteland Viper
+1 Ohran Viper
+1 Sylvan Library
+1 Noose Constrictor
+1 Emerald Medallion
+1 Ramunap Hydra
+1 Metallic Mimic
+1 Rishkar's Expertise
+1 Obelisk of Urd
+1 Pendelhaven
+1 Ancient Tomb
+1 God-Eternal Rhonas
+1 Hexdrinker
+1 Stonecoil Serpent
+1 Honored Hydra
+1 Prowling Serpopard
+1 Triumph of the Hordes
+1 Kashi-Tribe Elite
+1 Seed the Land
+1 Sakura-Tribe Scout
+1 Gaea's Cradle
+1 Moss Viper
+1 Sosuke, Son of Seshiro
+1 Adaptive Automaton
+1 Patron of the Orochi
+1 Sakiko, Mother of Summer
+1 Sakura-Tribe Springcaller
+1 Mutavault
+1 Hooded Hydra
+1 Sol Ring
+1 Nissa's Judgment
+1 Nessian Asp
+1 Mosswort Bridge
+1 Chameleon Colossus
+1 Cobra Trap
+1 Orochi Hatchery
+1 Nykthos, Shrine to Nyx
+1 Llanowar Reborn
+1 Vigor
+1 Yavimaya Hollow
+1 Lotus Cobra
+1 Khalni Ambush // Khalni Territory
+1 Kodama's Reach
+1 Three Visits
+1 War Room
+1 Ambush Viper
+1 Cavern of Souls
+1 Ohran Frostfang
+1 Masked Vandal
+1 Bloodline Pretender
+1 Realmwalker
+1 Sylvan Anthem
+1 Lair of the Hydra
+1 Visions of Dominance
+1 Arcane Signet
+1 Fang of Shigeki
+1 Coiling Stalker
+1 Tales of Master Seshiro // Seshiro's Living Legacy
+1 Orochi Merge-Keeper
+1 Sosuke's Summons
+1 Umezawa's Jitte
+1 Oran-Rief, the Vastwood
+1 Boseiju, Who Endures
+1 Dread Linnorm // Scale Deflection
+1 Path of Ancestry
+1 Ezuri's Predation
+1 Defiler of Vigor
+16 Forest
+1 Commander's Sphere
+1 Rhonas the Indomitable
+1 Bonders' Enclave
+1 Treetop Village
+1 Nature's Lore
+1 Beast Within
+1 Blight Mamba
+1 Vorinclex // The Grand Evolution
+SB: 1 Primal Vigor
+SB: 1 Karn's Bastion
+SB: 1 Woodland Changeling
+SB: 1 Branching Evolution
+SB: 1 Doubling Season
+SB: 1 Shizuko, Caller of Autumn
+SB: 1 Cultivate
+SB: 1 Inspiring Call
+SB: 1 Guardian Gladewalker
+SB: 1 Jewel-Eyed Cobra
+SB: 1 Hardened Scales
+SB: 1 Seshiro the Anointed

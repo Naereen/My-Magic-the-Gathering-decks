@@ -1,0 +1,66 @@
+1 Sporoloth Ancient
+1 Cryptolith Rite
+1 Verdant Force
+1 Thallid
+1 Skullclamp
+1 Deathreap Ritual
+1 Mycoloth
+1 Verdant Embrace
+1 Deathspore Thallid
+1 Sporesower Thallid
+1 Thelonite Hermit
+1 Thallid Germinator
+1 Tendershoot Dryad
+1 Sporecrown Thallid
+1 Eldrazi Monument
+1 Verdeloth the Ancient
+1 Psychotrope Thallid
+1 Vitaspore Thallid
+1 Thallid Devourer
+1 Spore Flower
+1 Thorn Thallid
+1 Slimefoot, the Stowaway
+1 Thallid Shell-Dweller
+1 Utopia Mycon
+1 Undercellar Myconid
+1 Nemata, Primeval Warden
+1 Nemata, Grove Guardian
+SB: 1 Gruesome Fate
+SB: 1 Scatter the Seeds
+SB: 1 Yavimaya Sapherd
+SB: 1 Deathbloom Thallid
+SB: 1 Fungal Rebirth
+SB: 1 Bone Splinters
+SB: 1 Sprout Swarm
+SB: 1 Molderhulk
+SB: 1 Fists of Ironwood
+SB: 1 Rot Shambler
+SB: 1 Gaze of Granite
+SB: 1 Species Specialist
+SB: 1 Corpsejack Menace
+SB: 1 Necrogenesis
+SB: 1 Sporogenesis
+SB: 1 Golgari Germination
+SB: 1 Sporemound
+SB: 1 Fungal Infection
+SB: 1 Fungal Plots
+SB: 1 Saproling Migration
+SB: 1 Mazirek, Kraul Death Priest
+SB: 1 Fungal Sprouting
+SB: 1 Psychotrope Thallid
+SB: 1 Vitaspore Thallid
+SB: 1 Night Soil
+SB: 1 Spore Flower
+SB: 1 Masked Vandal
+SB: 1 Life and Limb
+SB: 1 Thallid Shell-Dweller
+SB: 1 Trudge Garden
+SB: 1 Grist, the Hunger Tide
+SB: 1 Bone Shards
+SB: 1 Smell Fear
+SB: 1 Deathbonnet Sprout // Deathbonnet Hulk
+SB: 1 Kodama of the West Tree
+SB: 1 Jaheira, Friend of the Forest
+SB: 1 Myconid Spore Tender
+SB: 1 Saproling Symbiosis
+SB: 1 Thelon of Havenwood

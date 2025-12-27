@@ -1,0 +1,82 @@
+1 Heraldic Banner
+1 Forgotten Cave
+1 Ruby Medallion
+1 Pyroblast
+1 Balthor the Stout
+1 Hell-Bent Raider
+1 Pardic Arsonist
+1 Pardic Lancer
+1 Rogue's Passage
+1 Keldon Champion
+1 Neheb, the Eternal
+1 Balduvian Warlord
+1 Sword of Fire and Ice
+1 Red Elemental Blast
+1 Castle Embereth
+1 Frontier Warmonger
+1 Flamerush Rider
+1 Sword of Feast and Famine
+1 Swiftfoot Boots
+1 Balduvian Barbarians
+1 Shadowspear
+1 Balduvian War-Makers
+1 Barbarian General
+1 Lightning Bolt
+1 Basilisk Collar
+1 Lightning Greaves
+1 Cavern of Souls
+1 Zealous Conscripts
+1 Godo, Bandit Warlord
+1 Sol Ring
+1 Helm of the Host
+1 Blasphemous Act
+1 Spinerock Knoll
+1 Nykthos, Shrine to Nyx
+1 Chaos Warp
+1 Barbarian Bully
+1 Jeska, Warrior Adept
+1 Barbarian Lunatic
+1 Halberdier
+1 Kamahl, Pit Fighter
+1 Valakut Awakening // Valakut Stoneforge
+1 Shatterskull Smashing // Shatterskull, the Hammer Pass
+1 Moraug, Fury of Akoum
+1 Blackblade Reforged
+1 Jeska's Will
+1 Arcane Signet
+1 Abrade
+1 Commander's Plate
+1 Frenzied Saddlebrute
+1 Comet Storm
+1 Quakebringer
+1 Vandalblast
+1 Urza's Saga
+1 Plundering Barbarian
+1 Hobgoblin Captain
+1 Tiger-Tribe Hunter
+1 Zalto, Fire Giant Duke
+1 Archetype of Aggression
+1 Sokenzan, Crucible of Defiance
+1 Chain Reaction
+1 Professional Face-Breaker
+1 Fire Diamond
+1 Karlach, Fury of Avernus
+1 Caves of Chaos Adventurer
+1 Reckless Barbarian
+1 Laelia, the Blade Reforged
+1 Cursed Mirror
+1 Urza's Incubator
+1 Jurin, Leading the Charge
+1 Herald's Horn
+1 Vanquisher's Banner
+1 Arni Metalbrow
+27 Mountain
+SB: 1 Balduvian Horde
+SB: 1 Sword of the Animist
+SB: 1 Caged Sun
+SB: 1 Barbarian Guides
+SB: 1 Hammer of Nazahn
+SB: 1 Barbarian Riftcutter
+SB: 1 Sword of Hearth and Home
+SB: 1 Sardian Cliffstomper
+SB: 1 Lovisa Coldeyes

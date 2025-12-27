@@ -1,0 +1,126 @@
+1 Mystic Sanctuary
+1 Angelic Purge
+1 Deep Analysis
+1 Essence Scatter
+1 Opt
+1 Palace Sentinels
+1 Warden of Evos Isle
+1 Skyscanner
+1 Cloudkin Seer
+1 False Summoning
+1 Serum Visions
+1 Rewind
+1 Pillar of Light
+1 Kabira Crossroads
+1 Journey to Nowhere
+1 Sage Owl
+1 Azorius Chancery
+1 Azorius Signet
+1 Stormscape Familiar
+1 Sunscape Familiar
+1 Daze
+1 Angelic Curator
+1 Ephemerate
+8 Plains
+1 Brainstorm
+1 Gitaxian Probe
+1 Hovermyr
+1 Fellwar Stone
+1 Wispmare
+1 Spire Owl
+1 Naiad of Hidden Coves
+1 Mana Leak
+1 Cloudchaser Kestrel
+1 Ponder
+1 Sejiri Steppe
+1 Seraph of Dawn
+1 Alabaster Kirin
+1 Cancel
+1 Treasure Cruise
+1 Commander's Sphere
+1 Arcane Denial
+1 Canal Courier
+1 Secluded Steppe
+1 Unwind
+1 Radiant Fountain
+1 Thought Vessel
+1 Augury Owl
+1 Delver of Secrets // Insectile Aberration
+1 Lonely Sandbar
+1 Merchant Scroll
+1 Command Tower
+1 Mulldrifter
+1 Staunch Throneguard
+1 Counterspell
+1 Angel of the Dawn
+1 Azure Fleet Admiral
+1 Opal Palace
+1 Ravenform
+1 Starnheim Courser
+1 Introduction to Annihilation
+1 Study Hall
+1 Ornithopter of Paradise
+1 Consider
+1 Arcane Signet
+1 Spell Pierce
+1 Disruption Protocol
+1 Tranquil Cove
+1 Disdainful Stroke
+1 Inspiring Overseer
+1 Preordain
+1 Aarakocra Sneak
+1 Trailblazer's Torch
+1 Pegasus Guardian // Rescue the Foal
+1 Young Blue Dragon // Sand Augury
+1 Sword Coast Serpent // Capsizing Wave
+1 Goliath Paladin
+1 Scouting Hawk
+1 Crib Swap
+1 Tocasia's Dig Site
+1 Ambush Paratrooper
+1 Spellstutter Sprite
+1 Chains of Custody
+1 Aether Spellbomb
+1 Pestermite
+1 Sandstone Bridge
+1 Peregrine Drake
+1 Vanish into Eternity
+1 Bring the Ending
+1 The Fair Basilica
+1 Negate
+10 Island
+1 Assimilate Essence
+1 Path of Ancestry
+1 Cloud of Faeries
+1 Shire Terrace
+1 Glorious Gale
+1 Banish from Edoras
+1 Battle Screech
+1 Windrider Wizard
+1 Generous Gift
+1 Murmuring Mystic
+1 Frantic Search
+1 Sunblade Angel
+SB: 1 Empyrean Eagle
+SB: 1 Winged Words
+SB: 1 Evolving Wilds
+SB: 1 Sunscorched Desert
+SB: 1 Stonehorn Dignitary
+SB: 1 Dramatic Reversal
+SB: 1 Artificer's Assistant
+SB: 1 Terramorphic Expanse
+SB: 1 Pili-Pala
+SB: 1 Anticognition
+SB: 1 Battlefield Raptor
+SB: 1 Thunderclap Wyvern
+SB: 1 Mana Tithe
+SB: 1 Momentary Blink
+SB: 1 Planar Ally
+SB: 1 Silver Raven
+SB: 1 Cathar Commando
+SB: 1 Faerie Seer
+SB: 1 Gwaihir the Windlord
+SB: 1 Great Hall of the Citadel
+SB: 1 Ash Barrens
+SB: 1 Resculpt
+SB: 1 Watcher of the Spheres

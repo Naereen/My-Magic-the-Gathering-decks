@@ -1,0 +1,372 @@
+1 Doom Foretold
+1 Fires of Invention
+1 Korvold, Fae-Cursed King
+1 Questing Beast
+1 Faithless Looting
+1 Rancor
+1 Sacred Cat
+1 Basri Ket
+1 Sanctum of All
+1 Cavalier of Flame
+1 Empyrean Eagle
+1 Shifting Ceratops
+1 Tale's End
+1 Sol Ring
+1 Sudden Substitution
+1 Bird Maiden
+1 Gifts Ungiven
+1 Honden of Infinite Rage
+1 Honden of Life's Web
+1 Honden of Cleansing Fire
+1 Honden of Night's Reach
+1 Jugan, the Rising Star
+1 Keiga, the Tide Star
+1 Kokusho, the Evening Star
+1 Sensei's Divining Top
+1 Ryusei, the Falling Star
+1 Yosei, the Morning Star
+1 Contagion
+1 Generous Patron
+1 Selesnya Sanctuary
+1 Tragic Slip
+1 Assassin's Trophy
+1 Vraska, Golgari Queen
+1 The Scorpion God
+1 Winding Constrictor
+1 Kor Skyfisher
+1 Arcbound Worker
+1 Epochrasite
+1 Lingering Souls
+1 Memnite
+1 Doom Blade
+1 Fauna Shaman
+1 Lightning Bolt
+1 Grave Pact
+1 Sword of Fire and Ice
+1 Sadistic Glee
+1 Unearth
+1 Fireball
+1 Ashiok, Dream Render
+1 Kaya's Guile
+1 Prismatic Vista
+1 Soulherder
+1 Wrenn and Six
+1 As Foretold
+1 Decimator Beetle
+1 Hapatra, Vizier of Poisons
+1 Rakdos Carnarium
+1 Izzet Boilerworks
+1 Autumn's Veil
+1 Spellskite
+1 Blightsteel Colossus
+1 Inkmoth Nexus
+1 Bayou
+1 Badlands
+1 Scrubland
+1 Plateau
+1 Savannah
+1 Tundra
+1 Underground Sea
+1 Taiga
+1 Volcanic Island
+1 Tropical Island
+1 Enduring Ideal
+1 One with Nothing
+1 Mikokoro, Center of the Sea
+1 Twincast
+1 Klothys, God of Destiny
+1 Omen of the Sea
+1 Chandra, Torch of Defiance
+1 Expedition Map
+1 The Scarab God
+1 Fiend Artisan
+1 Raugrin Triome
+1 Shark Typhoon
+1 Vivien, Monsters' Advocate
+1 Zagoth Triome
+1 Frankenstein's Monster
+1 Nantuko Husk
+1 Polluted Delta
+1 Goryo's Vengeance
+1 Tendo Ice Bridge
+1 Toshiro Umezawa
+1 Yomiji, Who Bars the Way
+1 Anafenza, the Foremost
+1 Bloodstained Mire
+1 Jeskai Ascendancy
+1 Monastery Swiftspear
+1 Mycosynth Wellspring
+1 Hangarback Walker
+1 Whirler Rogue
+1 Hazardous Conditions
+1 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen
+1 Search for Azcanta // Azcanta, the Sunken Ruin
+1 Squee, the Immortal
+1 Vivid Marsh
+1 Channel
+1 Misty Rainforest
+1 Punishing Fire
+1 Roil Elemental
+1 Scalding Tarn
+1 Batwing Brume
+1 Quillspike
+1 Dusk Urchins
+1 Grim Poppet
+1 Ruin Crab
+1 Angrath, Captain of Chaos
+1 Omnath, Locus of Creation
+1 Boros Garrison
+1 Naya Charm
+1 Prophetic Prism
+1 Varragoth, Bloodsky Sire
+1 Kroxa, Titan of Death's Hunger
+1 Mana Tithe
+1 Ephemerate
+1 Negate
+1 Bold Plagiarist
+1 Lolth, Spider Queen
+1 Arcbound Whelp
+1 Calibrated Blast
+1 Tireless Tracker
+1 You Find the Villains' Lair
+1 Memory Deluge
+1 Lurrus of the Dream-Den
+1 Atsushi, the Blazing Sky
+1 Ao, the Dawn Sky
+1 Kairi, the Swirling Sky
+1 Go-Shintai of Shared Purpose
+1 Kyodai, Soul of Kamigawa
+1 Goro-Goro, Disciple of Ryusei
+1 Jukai Naturalist
+1 Kodama of the West Tree
+1 Junji, the Midnight Sky
+1 Go-Shintai of Ancient Wars
+1 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+1 Go-Shintai of Hidden Cruelty
+1 Reckoner Bankbuster
+1 Go-Shintai of Boundless Vigor
+1 Kura, the Boundless Sky
+1 Rabbit Battery
+1 Go-Shintai of Lost Wisdom
+1 Go-Shintai of Life's Origin
+1 Honden of Seeing Winds
+1 Farewell
+1 Ambitious Assault
+1 Blossoming Sands
+1 Bloodfell Caves
+1 One with the Kami
+1 Satoru Umezawa
+1 Brokers Charm
+1 Unlicensed Hearse
+1 Sanctuary Warden
+1 Ob Nixilis, the Adversary
+1 Wilson, Refined Grizzly
+1 Sea Gate
+1 Cliffgate
+1 Citadel Gate
+1 Black Dragon Gate
+1 Felisa, Fang of Silverquill
+1 Seasoned Dungeoneer
+1 Mulldrifter
+1 Crucible of Worlds
+1 Flickerwisp
+1 Mana Leak
+1 Sheoldred, the Apocalypse
+1 Cut Down
+1 Ertai Resurrected
+1 Elspeth, Sun's Champion
+1 Portal to Phyrexia
+1 Oversold Cemetery
+1 Felidar Retreat
+1 Gemstone Mine
+1 Archfiend of the Dross
+1 Staff of the Storyteller
+1 Atraxa, Grand Unifier
+1 Invasion of Ikoria // Zilortha, Apex of Ikoria
+1 Sword of Once and Future
+1 Invasion of Gobakhan // Lightshield Array
+1 The Locust God
+1 Together Forever
+1 Lórien Revealed
+1 Anguished Unmaking
+1 All That Glitters
+1 Up the Beanstalk
+1 Paradise Druid
+1 The Meathook Massacre
+1 Arwen, Mortal Queen
+1 Danny Pink
+1 Malcolm, Alluring Scoundrel
+1 Spitting Dilophosaurus
+1 Xolatoyac, the Smiling Flood
+1 Bloodghast
+1 Colossal Dreadmaw
+1 The Celestial Toymaker
+1 Izzet Charm
+1 Nicol Bolas, Dragon-God
+1 Drown in the Loch
+1 Undercity Sewers
+1 Lavinia, Foil to Conspiracy
+1 Carnage Interpreter
+1 Lonis, Genetics Expert
+1 Ecstatic Electromancer
+1 Afterlife Insurance
+1 Leyline of the Guildpact
+1 Dimir Guildmage
+1 Golgari Guildmage
+1 Tesak, Judith's Hellhound
+1 Dimir Aqueduct
+1 Simic Growth Chamber
+1 Gruul Turf
+1 Prisoner's Dilemma
+1 Ian the Reckless
+1 ED-E, Lonesome Eyebot
+1 Sword of Feast and Famine
+1 Psychic Frog
+1 Mystic Snake
+1 Vraska Joins Up
+1 Three Steps Ahead
+1 Blazing Rootwalla
+1 Cold-Eyed Selkie
+1 Thief of Sanity
+1 Flare of Denial
+1 Phelia, Exuberant Shepherd
+1 Writhing Chrysalis
+1 Thraben Charm
+1 Collective Resistance
+1 Revitalizing Repast // Old-Growth Grove
+1 Waterlogged Teachings // Inundated Archive
+1 Phlage, Titan of Fire's Fury
+1 Glyph Elemental
+1 Golden-Tail Trainer
+1 Lion Umbra
+1 Sheltering Landscape
+1 Shattered Landscape
+1 Contaminated Landscape
+1 Deceptive Landscape
+1 Foreboding Landscape
+1 Seething Landscape
+1 Tranquil Landscape
+1 Twisted Landscape
+1 Goldspan Dragon
+1 Azorius Chancery
+1 Skyclave Apparition
+1 Mutated Cultist
+1 Ramunap Excavator
+1 Bloodbraid Elf
+1 Jace, the Mind Sculptor
+1 Iridescent Vinelasher
+1 Esika's Chariot
+1 Ravenous Squirrel
+1 Daze
+1 Deathrite Shaman
+1 Mental Misstep
+1 Narset, Parter of Veils
+1 Searing Blaze
+1 Twitching Doll
+1 Persistent Constrictor
+1 Aesi, Tyrant of Gyre Strait
+1 Orzhov Basilica
+1 Ob Nixilis Reignited
+1 Liliana, Dreadhorde General
+1 Muldrotha, the Gravetide
+1 Go for the Throat
+1 Drake Hatcher
+1 Healer's Hawk
+1 Grim Bauble
+1 Sun Titan
+1 Shorikai, Genesis Engine
+1 Celes, Rune Knight
+1 Dragonspeaker Shaman
+1 Caldera Pyremaw
+1 Perilous Landscape
+1 Dragonback Assault
+1 Gix, Yawgmoth Praetor
+1 Emeria Angel
+1 Conduit of Worlds
+1 Golgari Rot Farm
+1 Hollowmurk Siege
+1 Staff of Compleation
+1 Wall of Roots
+1 Temur Ascendancy
+1 Bountiful Landscape
+1 Starting Town
+1 Toxic Deluge
+1 Moraug, Fury of Akoum
+1 Infernal Grasp
+1 The Gitrog Monster
+1 Soul of Windgrace
+1 Omnath, Locus of Rage
+1 Icetill Explorer
+1 Redirect Lightning
+1 Heartless Act
+1 Biorganic Carapace
+1 Wan Shi Tong, Librarian
+1 Fire Lord Azula
+1 Ob Nixilis, the Fallen
+1 Obsessive Pursuit
+1 Volrath, the Shapestealer
+1 Llanowar Elves
+1 Fact or Fiction
+1 Goblin Game
+1 Treetop Village
+1 Cursed Scroll
+1 Phage the Untouchable
+1 Dack Fayden
+1 Battlefield Forge
+1 Caves of Koilos
+1 Llanowar Wastes
+1 Shivan Reef
+1 Yavimaya Coast
+1 Silvos, Rogue Elemental
+1 Abrupt Decay
+1 Painter's Servant
+1 Grindstone
+1 Blade of the Bloodchief
+1 Demonic Tutor
+1 Devoted Druid
+1 Kamahl, Pit Fighter
+1 Valakut Exploration
+1 Dreadhorde Arcanist
+1 Garth One-Eye
+1 Luxior, Giada's Gift
+1 Aarakocra Sneak
+1 Adarkar Wastes
+1 Brushland
+1 Karplusan Forest
+1 Sulfurous Springs
+1 Underground River
+1 Thalia and The Gitrog Monster
+1 Walking Ballista
+1 Misdirection
+1 Jegantha, the Wellspring
+1 Thalia, Guardian of Thraben
+1 Palantír of Orthanc
+1 Andúril, Narsil Reforged
+1 Legolas's Quick Reflexes
+1 Shadowspear
+1 Golgari Grave-Troll
+1 Basking Broodscale
+1 Solitude
+1 Subtlety
+1 Karn, the Great Creator
+1 Arbor Elf
+1 Thalia, Heretic Cathar
+1 Griselbrand
+1 Kaldra Compleat
+1 Hedron Crab
+1 Gilgamesh, Master-at-Arms
+1 City of Brass
+1 Rikku, Resourceful Guardian
+2 Reflecting Pool
+SB: 1 Terror
+SB: 1 Disenchant
+SB: 1 Shivan Dragon
+SB: 1 Regrowth
+SB: 1 Arid Mesa
+SB: 1 Braingeyser
+SB: 1 Flooded Strand
+SB: 1 Wooded Foothills
+SB: 1 Windswept Heath
+SB: 1 Marsh Flats
+SB: 1 Verdant Catacombs
+SB: 1 Black Lotus

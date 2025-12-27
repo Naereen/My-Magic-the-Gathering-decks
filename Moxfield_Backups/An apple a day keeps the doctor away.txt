@@ -1,0 +1,114 @@
+1 Forest
+1 Plains
+1 City of Brass
+1 Nature's Lore
+1 Stomping Ground
+1 Breeding Pool
+1 Misty Rainforest
+2 Island
+1 Birds of Paradise
+1 Prismatic Vista
+1 Mountain
+1 Reflecting Pool
+1 Hallowed Fountain
+1 Steam Vents
+1 Temple Garden
+1 Sacred Foundry
+1 Cavern of Souls
+1 Polluted Delta
+1 Wooded Foothills
+1 Path to Exile
+1 Cultivate
+1 Farseek
+1 Arid Mesa
+1 Scalding Tarn
+1 Mana Confluence
+1 Training Center
+1 Spectator Seating
+1 Three Visits
+1 Command Tower
+1 Marsh Flats
+1 Verdant Catacombs
+1 Sol Ring
+1 Boseiju, Who Endures
+1 Farewell
+1 Bountiful Promenade
+1 Spire Garden
+1 Sea of Clouds
+1 Relic of Legends
+1 Plaza of Heroes
+1 Arcane Signet
+1 Delighted Halfling
+1 Rejuvenating Springs
+1 TARDIS
+1 The Eleventh Hour
+1 Rose Tyler
+1 Time Lord Regeneration
+1 Sarah Jane Smith
+1 Yasmin Khan
+1 Eriette's Tempting Apple
+1 Donna Noble
+1 Gallifrey Stands
+1 Clara Oswald
+1 Everybody Lives!
+1 Jo Grant
+1 The Night of the Doctor
+1 Peri Brown
+1 Tegan Jovanka
+1 An Unearthly Child
+1 K-9, Mark I
+1 Amy Pond
+1 Ryan Sinclair
+1 Ace, Fearless Rebel
+1 Jamie McCrimmon
+1 Susan Foreman
+1 The Eighth Doctor
+1 The First Doctor
+1 The Eleventh Doctor
+1 The Fifth Doctor
+1 The Fugitive Doctor
+1 The Ninth Doctor
+1 The Second Doctor
+1 The Seventh Doctor
+1 The Sixth Doctor
+1 The Third Doctor
+1 The Twelfth Doctor
+1 Gallifrey Council Chamber
+1 The Tenth Doctor
+1 The War Doctor
+1 Martha Jones
+1 Everything Comes to Dust
+1 Trenzalore Clocktower
+1 Twice Upon a Time // Unlikely Meeting
+1 The Fourth Doctor
+1 Graham O'Brien
+1 The Thirteenth Doctor
+1 Bill Potts
+1 Dan Lewis
+1 Nardole, Resourceful Cyborg
+1 Adric, Mathematical Genius
+1 Alistair, the Brigadier
+1 Barbara Wright
+1 Ian Chesterton
+1 Romana II
+1 Leela, Sevateem Warrior
+1 Traverse Eternity
+1 The Five Doctors
+1 Nyssa of Traken
+1 Bessie, the Doctor's Roadster
+1 Day of Destiny
+1 Heroes' Podium
+1 Roaming Throne
+1 The Fifteenth Doctor
+1 Path of Ancestry
+1 Bloodstained Mire
+1 Flooded Strand
+1 Windswept Heath
+1 Arcade Gannon
+1 Annie Joins Up
+1 Sonic Screwdriver
+1 Opal Palace
+1 Cult Healer
+1 Exotic Orchard
+SB: 1 The Fourteenth Doctor
+SB: 1 Rose Noble

@@ -1,0 +1,86 @@
+1 Serum Visions
+1 Izzet Boilerworks
+1 Shock
+1 Izzet Guildgate
+1 Corpse Cur
+1 Ichorclaw Myr
+1 Steady Progress
+1 Desert
+1 Whispersilk Cloak
+1 Contentious Plan
+1 Guildpact Informant
+1 Highland Lake
+1 Slither Blade
+1 Triton Shorestalker
+1 Guttersnipe
+1 Izzet Charm
+1 Mana Leak
+1 Chained Throatseeker
+1 Razor Swine
+1 Fuel for the Cause
+1 Brainstorm
+1 Expedite
+1 Built to Smash
+1 Lightning Bolt
+1 Forge of Heroes
+1 Negate
+1 Mist-Cloaked Herald
+1 Aqueous Form
+1 Brute Force
+1 Counterspell
+1 Memory Lapse
+1 Volatile Fjord
+1 Ravenform
+1 Prismari Campus
+1 Ornithopter of Paradise
+1 Consider
+1 Kessig Flamebreather
+1 Opal Palace
+1 Preordain
+1 Heap Gate
+1 Sea Gate
+1 Cliffgate
+1 Shiny Impetus
+1 Mulldrifter
+1 Molten Tributary
+1 Snap
+1 Experimental Augury
+1 Mesmerizing Dose
+1 Volt Charge
+1 Arcane Signet
+1 Bring the Ending
+1 Thrummingbird
+1 Prologue to Phyresis
+1 Vivisurgeon's Insight
+1 Shire Terrace
+1 Lórien Revealed
+1 Murmuring Mystic
+1 Fists of Flame
+1 Command Tower
+1 Tectonic Hazard
+1 Goblin Electromancer
+1 Escape Tunnel
+1 Thriving Bluff
+1 Silverbluff Bridge
+1 Eroded Canyon
+1 Basilisk Gate
+1 Shore Up
+1 Peculiar Lighthouse
+1 Enter the Enigma
+1 Thriving Isle
+1 Mocking Sprite
+1 Witness Protection
+1 Firebrand Archer
+1 Abrade
+1 Imprisoned in the Moon
+1 Swiftwater Cliffs
+1 Arcane Denial
+1 Path of Ancestry
+1 Ash Barrens
+1 Spell Pierce
+1 Fellwar Stone
+1 Izzet Signet
+1 Ponder
+9 Snow-Covered Island
+6 Snow-Covered Mountain
+SB: 1 Blighted Agent

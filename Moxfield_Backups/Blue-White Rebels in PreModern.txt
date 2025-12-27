@@ -1,0 +1,29 @@
+2 Forbid
+2 Disenchant
+2 Defiant Falcon
+2 Mishra's Factory
+4 Coastal Tower
+4 Ramosian Sergeant
+4 Mother of Runes
+4 Standstill
+4 Swords to Plowshares
+4 Counterspell
+1 Cho-Manno, Revolutionary
+1 Jhovall Queen
+1 Ramosian Sky Marshal
+1 Defiant Vanguard
+1 Whipcorder
+3 Lin Sivvi, Defiant Hero
+3 Mana Leak
+5 Island
+8 Plains
+4 Adarkar Wastes
+SB: 1 Disenchant
+SB: 1 Nightwind Glider
+SB: 1 Thermal Glider
+SB: 1 Aura of Silence
+SB: 2 Gainsay
+SB: 2 Circle of Protection: Red
+SB: 2 Light of Day
+SB: 3 Tormod's Crypt
+SB: 2 Worship

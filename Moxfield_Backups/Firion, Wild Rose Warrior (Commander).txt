@@ -1,0 +1,134 @@
+1 Shadowspear
+1 Chaos Warp
+1 Loxodon Warhammer
+1 Goblin Welder
+1 Sol Ring
+1 Magnetic Theft
+1 Swiftfoot Boots
+1 Cavern of Souls
+1 Iron Myr
+1 Darksteel Citadel
+1 Skullclamp
+1 Sword of Fire and Ice
+1 Goblin Engineer
+1 Sword of Truth and Justice
+1 Fervent Champion
+1 Buried Ruin
+1 Darksteel Plate
+1 Batterskull
+1 Goblin Gaveleer
+1 Kazuul's Toll Collector
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Sword of the Animist
+1 Inventors' Fair
+1 Solemn Simulacrum
+1 Rogue's Gloves
+1 Dowsing Dagger // Lost Vale
+1 Jhoira's Familiar
+1 Valduk, Keeper of the Flame
+1 Thought Vessel
+1 Valakut, the Molten Pinnacle
+1 Trailblazer's Boots
+1 Golem-Skin Gauntlets
+1 Great Furnace
+1 Vulshok Battlemaster
+1 Valakut Awakening // Valakut Stoneforge
+1 Mask of Memory
+1 Kediss, Emberclaw Familiar
+1 Command Beacon
+1 Commander's Plate
+1 Champion of the Flame
+1 Brass Squire
+1 Witch's Clinic
+1 Arid Mesa
+1 Urza's Saga
+1 Sword of Hearth and Home
+1 Kaldra Compleat
+1 Ornithopter of Paradise
+1 Blasphemous Act
+1 Sokenzan, Crucible of Defiance
+1 Rabbit Battery
+1 Komainu Battle Armor
+1 Akki Battle Squad
+1 Lizard Blades
+1 Gilded Pinions
+1 Professional Face-Breaker
+1 Descent into Avernus
+1 Wild Magic Surge
+1 Ingenious Artillerist
+1 Fellwar Stone
+1 Sceptre of Eternal Glory
+1 Inquisitorial Rosette
+1 Thran Power Suit
+1 Scrap Trawler
+1 The Mycosynth Gardens
+1 Dragonwing Glider
+1 Vulshok Splitter
+1 Hexplate Wallbreaker
+1 Goldwardens' Gambit
+1 Sword of Forge and Frontier
+1 Hexgold Halberd
+1 Arcane Signet
+1 Castle Embereth
+1 Rebel Salvo
+1 Bladegraft Aspirant
+1 Barbed Batterfist
+1 Beamtown Beatstick
+1 Bitterthorn, Nissa's Animus
+1 Reckless Handling
+1 Mines of Moria
+1 Hammer of Nazahn
+1 Godo, Bandit Warlord
+1 Scytheclaw
+1 Foundry Inspector
+1 The Irencrag
+1 Throne of Eldraine
+1 War Room
+1 Rogue's Passage
+1 Dan Lewis
+1 Cursed Mirror
+1 Roaming Throne
+1 Diamond Pick-Axe
+1 Tarrian's Soulcleaver
+1 Broadside Bombardiers
+1 Demand Answers
+1 Crime Novelist
+1 Nettlecyst
+1 Mister Gutsy
+1 Bloodforged Battle-Axe
+1 Masterwork of Ingenuity
+1 Pip-Boy 3000
+1 Champion's Helm
+1 Sword of Feast and Famine
+1 Return the Favor
+1 Arena of Glory
+1 The Reaver Cleaver
+1 Headsplitter
+1 Excalibur, Sword of Eden
+1 Chainsaw
+1 Emberheart Challenger
+1 Blacksmith's Talent
+1 Untimely Malfunction
+1 Basilisk Collar
+1 Daretti, Rocketeer Engineer
+1 Abrade
+1 Adaptive Omnitool
+1 Treasure Vault
+1 Reckless Fireweaver
+1 Sunset Strikemaster
+1 Infantry Shield
+1 Cori-Steel Cutter
+1 Gilgamesh, Master-at-Arms
+1 Barret Wallace
+1 Yuffie, Materia Hunter
+1 Vincent, Vengeful Atoner
+1 Armory Automaton
+1 Judgment Bolt
+1 Freya Crescent
+1 Samurai's Katana
+1 Item Shopkeep
+1 Buster Sword
+1 Raubahn, Bull of Ala Mhigo
+17 Mountain
+SB: 1 Firion, Wild Rose Warrior

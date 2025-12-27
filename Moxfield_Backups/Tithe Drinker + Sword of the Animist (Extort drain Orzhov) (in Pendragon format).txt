@@ -1,0 +1,88 @@
+1 Witch's Cottage
+1 Bojuka Bog
+1 Gray Merchant of Asphodel
+1 Hyena Umbra
+1 Duress
+1 Soul's Attendant
+1 Basilica Screecher
+1 Basilica Guards
+1 Syndic of Tithes
+1 Syndicate Enforcer
+6 Plains
+1 Falkenrath Noble
+1 Soul Warden
+1 Radiant Fountain
+1 Doom Blade
+1 Snuff Out
+1 Orzhov Guildgate
+1 Ephemerate
+1 Reprobation
+1 Unearth
+1 Suture Priest
+1 Oblivion Ring
+1 Cast Down
+1 Prismatic Lens
+1 Seraph Sanctuary
+1 Whitemane Lion
+1 Forsaken Sanctuary
+1 Forge of Heroes
+1 Dusk Legion Zealot
+7 Swamp
+1 Orzhov Basilica
+1 Kingpin's Pet
+1 Oubliette
+1 Kor Cartographer
+1 Fleshbag Marauder
+1 Disenchant
+1 Snowfield Sinkhole
+1 Starnheim Courser
+1 Mana Tithe
+1 Silverquill Campus
+1 Epicure of Blood
+1 Goldmire Bridge
+1 Bone Shards
+1 Ornithopter of Paradise
+1 Mortuary Mire
+1 Eaten Alive
+1 Lunarch Veteran // Luminous Phantom
+1 Scoured Barrens
+1 Opal Palace
+1 Heap Gate
+1 Citadel Gate
+1 Black Dragon Gate
+1 Crib Swap
+1 Phyrexian Rager
+1 Sunlit Marsh
+1 Go for the Throat
+1 Creeping Bloodsucker
+1 Mind Stone
+1 Planar Disruption
+1 Arcane Signet
+1 Annihilating Glare
+1 Shire Terrace
+1 Westfold Rider
+1 Troll of Khazad-dûm
+1 Lembas
+1 Pristine Talisman
+1 Generous Gift
+1 Demon's Disciple
+1 Commander's Sphere
+1 Hopeless Nightmare
+1 Command Tower
+1 Greedy Freebooter
+1 Seal of Cleansing
+1 Forlorn Flats
+1 Thraben Charm
+1 Accursed Marauder
+1 Basilisk Gate
+1 Banishing Light
+1 Spirited Companion
+1 Inspiring Overseer
+1 Cathar Commando
+1 Burglar Rat
+1 Marauding Blight-Priest
+1 Path of Ancestry
+1 Deadly Dispute
+1 Feed the Swarm
+1 Orzhov Signet
+SB: 1 Tithe Drinker

@@ -1,0 +1,32 @@
+2 Island
+4 Thoughtcast
+2 Memnite
+1 Aether Spellbomb
+4 Frogmite
+1 Blinkmoth Nexus
+1 Shadowspear
+4 Cranial Plating
+1 Welding Jar
+4 Darksteel Citadel
+4 Urza's Saga
+4 Mistvault Bridge
+1 Nettlecyst
+4 Sojourner's Companion
+2 Treasure Vault
+3 Patchwork Automaton
+1 Otawara, Soaring City
+4 Ornithopter
+1 Etched Champion
+4 Springleaf Drum
+1 Gingerbrute
+3 Thought Monitor
+1 Lavaspur Boots
+3 Kappa Cannoneer
+SB: 2 Mystical Dispute
+SB: 3 Metallic Rebuke
+SB: 2 Hurkyl's Recall
+SB: 2 Dismember
+SB: 1 Relic of Progenitus
+SB: 3 Damping Sphere
+SB: 1 Cursed Totem
+SB: 1 Pithing Needle

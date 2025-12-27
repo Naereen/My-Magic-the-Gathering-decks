@@ -1,0 +1,74 @@
+1 Shadowspear
+1 Steelshaper's Gift
+1 Swiftfoot Boots
+1 Sword of the Animist
+1 Strength of Arms
+1 Sigarda's Aid
+1 Grafted Exoskeleton
+1 Loxodon Warhammer
+1 Leonin Shikari
+1 Inkmoth Nexus
+1 Ancestral Blade
+1 Stoneforge Mystic
+1 Whispersilk Cloak
+1 Kemba, Kha Regent
+1 Nahiri, the Lithomancer
+1 Darksteel Plate
+1 Sigiled Sword of Valeron
+1 Heavenly Blademaster
+1 Hero's Blade
+1 Kor Outfitter
+1 Auriok Steelshaper
+1 Lightning Greaves
+1 Loxodon Punisher
+1 Maul of the Skyclaves
+1 Ardenn, Intrepid Archaeologist
+1 Armored Skyhunter
+1 Commander's Plate
+1 Open the Armory
+1 Danitha Capashen, Paragon
+1 Relic Seeker
+1 Sword of Vengeance
+1 Urza's Saga
+1 Nettlecyst
+1 Icingdeath, Frost Tyrant
+1 Moonsilver Spear
+1 Sram, Senior Edificer
+1 Batterskull
+1 Lion Sash
+1 Citizen's Crowbar
+1 Horn of Valhalla // Ysgard's Call
+1 Puresteel Paladin
+1 Danitha, Benalia's Hope
+1 Balan, Wandering Knight
+SB: 1 Colossus Hammer
+SB: 1 Sword of Fire and Ice
+SB: 1 Sword of Light and Shadow
+SB: 1 Sword of Truth and Justice
+SB: 1 Blinkmoth Nexus
+SB: 1 Taj-Nar Swordsmith
+SB: 1 Godsend
+SB: 1 Sword of War and Peace
+SB: 1 Hammer of Nazahn
+SB: 1 Sword of Body and Mind
+SB: 1 Sword of Feast and Famine
+SB: 1 Gingerbrute
+SB: 1 Stonehewer Giant
+SB: 1 Prowler's Helm
+SB: 1 Tormod's Crypt
+SB: 1 Champion's Helm
+SB: 1 Trailblazer's Boots
+SB: 1 Sword of Kaldra
+SB: 1 Seraphic Greatsword
+SB: 1 Keleth, Sunmane Familiar
+SB: 1 Sword of Hearth and Home
+SB: 1 Kaldra Compleat
+SB: 1 Blacksmith's Skill
+SB: 1 Mantle of the Ancients
+SB: 1 Cathar Commando
+SB: 1 Basilisk Collar
+SB: 1 Blackblade Reforged
+SB: 1 Kayla's Command
+SB: 1 Sword of Sinew and Steel
+SB: 1 Zamriel, Seraph of Steel
+SB: 1 Halvar, God of Battle // Sword of the Realms

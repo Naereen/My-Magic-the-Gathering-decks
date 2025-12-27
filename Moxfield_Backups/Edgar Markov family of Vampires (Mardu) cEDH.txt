@@ -1,0 +1,141 @@
+1 Plains
+1 Mountain
+1 Mortify
+1 Sorin, Imperious Bloodlord
+1 Vampire of the Dire Moon
+1 Path to Exile
+1 Godless Shrine
+1 Sanguine Bond
+1 Olivia, Mobilized for War
+1 Yahenni, Undying Partisan
+1 Cavern of Souls
+1 Captivating Vampire
+1 Swords to Plowshares
+1 Badlands
+1 Scrubland
+1 Cruel Celebrant
+1 Vito, Thorn of the Dusk Rose
+1 Silent Clearing
+1 Sunbaked Canyon
+1 Talisman of Indulgence
+1 Vampire Nighthawk
+1 Blood Crypt
+1 Plateau
+1 Knight of the Ebon Legion
+1 Ruinous Ultimatum
+1 Blood Artist
+1 Exquisite Blood
+1 Gifted Aetherborn
+1 Savai Triome
+1 Vampire Nocturnus
+1 Mutavault
+1 Bloodstained Mire
+1 Drana, Kalastria Bloodchief
+1 Kalitas, Traitor of Ghet
+1 Crackling Doom
+1 Elenda, the Dusk Rose
+1 Concealed Courtyard
+1 Inspiring Vantage
+1 Anguished Unmaking
+1 Swamp
+1 Sacred Foundry
+1 Forerunner of the Legion
+1 Legion Lieutenant
+1 Legion's Landing // Adanto, the First Fort
+1 Mavren Fein, Dusk Apostle
+1 Sanctum Seeker
+1 Unclaimed Territory
+1 Kazarov, Sengir Pureblood
+1 Bloodsworn Steward
+1 New Blood
+1 Nomad Outpost
+1 Path of Ancestry
+1 Stromkirk Captain
+1 Sol Ring
+1 Bloodline Keeper // Lord of Lineage
+1 Olivia Voldaren
+1 Marsh Flats
+1 Sengir, the Dark Baron
+1 Spectator Seating
+1 Vault of Champions
+1 Shatterskull Smashing // Shatterskull, the Hammer Pass
+1 Hagra Mauling // Hagra Broodpit
+1 Drana, the Last Bloodchief
+1 Zagras, Thief of Heartbeats
+1 Fracture
+1 Arid Mesa
+1 Damn
+1 Den of the Bugbear
+1 Haunted Ridge
+1 Strefan, Maurer Progenitor
+1 Sundown Pass
+1 Anje, Maid of Dishonor
+1 Voldaren Estate
+1 Henrika Domnathi // Henrika, Infernal Seer
+1 Crossway Troublemakers
+1 Patron of the Vein
+1 Anowon, the Ruin Sage
+1 Champion of Dusk
+1 Cordial Vampire
+1 Malakir Bloodwitch
+1 Rakish Heir
+1 Edgar, Charmed Groom // Edgar Markov's Coffin
+1 Vampire Socialite
+1 Shattered Sanctum
+1 Secluded Courtyard
+1 Sokenzan, Crucible of Defiance
+1 Eiganjo, Seat of the Empire
+1 Olivia, Crimson Bride
+1 Luxury Suite
+1 Astarion, the Decadent
+1 Nighthawk Scavenger
+1 Shambling Vent
+1 Talisman of Hierarchy
+1 Mathas, Fiend Seeker
+1 Verrak, Warped Sengir
+1 Shizo, Death's Storehouse
+1 Arvad the Cursed
+1 Drana, Liberator of Malakir
+1 Herald's Horn
+1 Vindicate
+1 Rodolf Duskbringer
+1 Urza's Incubator
+1 Blackcleave Cliffs
+1 Kinzu of the Bleak Coven
+1 Vraan, Executioner Thane
+1 Drana and Linvala
+1 Vanquisher's Banner
+1 Arcane Signet
+1 Vona, Butcher of Magan
+1 Command Tower
+1 Markov Baron
+SB: 1 Temple of Triumph
+SB: 1 Boros Signet
+SB: 1 Shinka, the Bloodsoaked Keep
+SB: 1 Stensia Masquerade
+SB: 1 Dragonskull Summit
+SB: 1 Sorin, Vengeful Bloodlord
+SB: 1 Needle Spires
+SB: 1 Clifftop Retreat
+SB: 1 Orzhov Signet
+SB: 1 Blade of the Bloodchief
+SB: 1 Graven Cairns
+SB: 1 Sejiri Shelter // Sejiri Glacier
+SB: 1 Malakir Rebirth // Malakir Mire
+SB: 1 Emeria's Call // Emeria, Shattered Skyclave
+SB: 1 Eiganjo Castle
+SB: 1 Cave of the Frost Dragon
+SB: 1 Olivia's Wrath
+SB: 1 Rakdos Signet
+SB: 1 Takenuma, Abandoned Mire
+SB: 1 Temple of Silence
+SB: 1 Bojuka Bog
+SB: 1 Shivan Gorge
+SB: 1 Temple of Malice
+SB: 1 Isolated Chapel
+SB: 1 Castle Embereth
+SB: 1 Merciless Eviction
+SB: 1 Dusk Legion Duelist
+SB: 1 Vault of the Archangel
+SB: 1 Fetid Heath
+SB: 1 Edgar Markov

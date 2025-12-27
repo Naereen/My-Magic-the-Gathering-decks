@@ -1,0 +1,38 @@
+1 Palace Jailer
+1 Containment Priest
+1 Shadowspear
+1 Batterskull
+1 Flickerwisp
+1 Kaldra Compleat
+1 Lion Sash
+1 Eiganjo, Seat of the Empire
+1 Loran of the Third Path
+1 Witch Enchanter // Witch-Blessed Meadow
+1 Razorgrass Ambush // Razorgrass Field
+4 Mother of Runes
+4 Aether Vial
+4 Wasteland
+4 Stoneforge Mystic
+4 Recruiter of the Guard
+4 Rishadan Port
+4 Archon of Emeria
+4 Solitude
+4 Esper Sentinel
+4 Thalia, Guardian of Thraben
+4 Seasoned Dungeoneer
+2 Swords to Plowshares
+3 Silent Clearing
+1 Thalia, Heretic Cathar
+1 Cave of the Frost Dragon
+1 Skyclave Apparition
+13 Snow-Covered Plains
+2 March of Otherworldly Light
+2 Karakas
+SB: 3 Leyline of Sanctity
+SB: 3 Rest in Peace
+SB: 3 Sanctifier en-Vec
+SB: 1 Swords to Plowshares
+SB: 1 Phyrexian Revoker
+SB: 1 Phantom Blade
+SB: 1 Yorion, Sky Nomad
+SB: 2 Clarion Conqueror

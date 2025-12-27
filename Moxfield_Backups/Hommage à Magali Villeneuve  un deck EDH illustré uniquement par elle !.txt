@@ -1,0 +1,67 @@
+1 Healing Grace
+1 Negate
+1 Slash of Talons
+1 Wind Strider
+1 Serra's Guardian
+1 Order of Succession
+1 Huddle Up
+1 Hixus, Prison Warden
+1 Pore Over the Pages
+1 Pieces of the Puzzle
+1 Thalia, Heretic Cathar
+1 Zahid, Djinn of the Lamp
+1 Citywatch Sphinx
+1 Wildfire Eternal
+1 Scrapper Champion
+1 Urbis Protector
+1 Exert Influence
+1 Narset, Parter of Veils
+1 Serra the Benevolent
+1 Trueheart Duelist
+1 By Force
+1 Cast Out
+1 Jhoira of the Ghitu
+1 Seeker of the Way
+1 Alseid of Life's Bounty
+1 Winota, Joiner of Forces
+1 Quiet Contemplation
+1 Narset Transcendent
+1 Linvala, the Preserver
+1 Sculpting Steel
+1 Invoke the Divine
+1 Knight's Pledge
+1 Dive Down
+1 Kopala, Warden of Waves
+1 Search for Azcanta // Azcanta, the Sunken Ruin
+1 Academy Journeymage
+1 Nahiri's Binding
+1 Prying Eyes
+1 Flood of Recollection
+1 Behold the Multiverse
+1 Rowan, Scholar of Sparks // Will, Scholar of Frost
+1 Jaya Ballard
+1 Sacred Foundry
+1 Kasmina, Enigmatic Mentor
+1 Chandra, Torch of Defiance
+1 Mulldrifter
+1 Thalia, Guardian of Thraben
+1 Stromkirk Occultist
+1 Norika Yamazaki, the Poet
+1 Heiko Yamazaki, the General
+1 Mother of Runes
+1 Monastery Mentor
+13 Plains
+14 Island
+11 Mountain
+1 Danitha, Benalia's Hope
+1 Defiler of Faith
+1 Teferi, Temporal Pilgrim
+1 Chandra, Flame's Fury
+1 Serene Steward
+1 Vanish into Eternity
+1 Ragavan, Nimble Pilferer
+1 Elesh Norn // The Argent Etchings
+1 Baral and Kari Zev
+SB: 1 Silvergill Adept
+SB: 1 Graceblade Artisan
+SB: 1 Narset, Enlightened Master

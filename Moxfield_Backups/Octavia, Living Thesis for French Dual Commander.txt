@@ -1,0 +1,118 @@
+1 Merfolk Secretkeeper // Venture Deeper
+1 Mystic Sanctuary
+1 Daze
+1 Distortion Strike
+1 Vapor Snag
+1 Tale's End
+1 Serum Visions
+1 Minamo, School at Water's Edge
+1 Faerie Conclave
+1 Counterspell
+1 Deep Analysis
+1 Quiet Speculation
+1 Engulf the Shore
+1 Defy Gravity
+1 Snapcaster Mage
+1 Blinkmoth Nexus
+1 Spell Snare
+1 Psionic Blast
+1 Brain Freeze
+1 Miscalculation
+1 Brazen Borrower // Petty Theft
+1 Censor
+1 Winds of Rebuke
+1 Remand
+1 Gitaxian Probe
+1 Mental Misstep
+1 Cryptic Command
+1 Disrupt
+1 Brainstorm
+1 Thought Scour
+1 Force of Will
+1 Chain of Vapor
+1 Portent
+1 Hedron Crab
+1 Mental Note
+1 Force Spike
+1 Memory Lapse
+1 Merchant Scroll
+1 Silundi Vision // Silundi Isle
+1 Fact or Fiction
+1 Preordain
+1 Think Twice
+1 True-Name Nemesis
+1 Ponder
+1 Witch's Clinic
+1 Subtlety
+1 Mishra's Factory
+1 Lose Focus
+1 Hard Evidence
+1 You Come to a River
+1 Delver of Secrets // Insectile Aberration
+1 Fading Hope
+1 Otherworldly Gaze
+1 Wash Away
+1 Occult Epiphany
+1 Otawara, Soaring City
+1 Ledger Shredder
+1 Sailors' Bane
+1 Mutavault
+1 Mana Leak
+1 Tolarian Terror
+1 Negate
+1 Curate
+1 Snap
+1 Obsessive Search
+1 Stern Scolding
+1 Lórien Revealed
+1 Frantic Search
+1 Sleight of Hand
+1 Phantom Interference
+1 Cactus Preserve
+1 Enter the Enigma
+1 Don't Make a Sound
+1 Opt
+1 Consider
+1 Archmage's Charm
+23 Island
+SB: 1 Dissolve
+SB: 1 Into the Roil
+SB: 1 Strategic Planning
+SB: 1 You Find the Villains' Lair
+SB: 1 Rogue's Passage
+SB: 1 Pteramander
+SB: 1 Quench
+SB: 1 Blighted Cataract
+SB: 1 Artful Dodge
+SB: 1 Peek
+SB: 1 Spiketail Hatchling
+SB: 1 Rune Snag
+SB: 1 Gush
+SB: 1 Ghostly Pilferer
+SB: 1 Force of Negation
+SB: 1 Inkmoth Nexus
+SB: 1 Urza's Factory
+SB: 1 Exhaustion
+SB: 1 Clairvoyance
+SB: 1 Shark Typhoon
+SB: 1 Looter il-Kor
+SB: 1 Spiketail Drakeling
+SB: 1 Slip Through Space
+SB: 1 Detection Tower
+SB: 1 Mist-Cloaked Herald
+SB: 1 Spell Pierce
+SB: 1 Unwind
+SB: 1 High Tide
+SB: 1 Sea Gate Restoration // Sea Gate, Reborn
+SB: 1 Jwari Disruption // Jwari Ruins
+SB: 1 Slither Blade
+SB: 1 Archmage Emeritus
+SB: 1 Yuan-Ti Malison
+SB: 1 Make Disappear
+SB: 1 Ertai's Scorn
+SB: 1 Boing!
+SB: 1 Fallaji Archaeologist
+SB: 1 Triton Shorestalker
+SB: 1 Saruman's Trickery
+SB: 1 Mystic Confluence
+SB: 1 Octavia, Living Thesis

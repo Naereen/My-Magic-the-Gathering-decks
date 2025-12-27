@@ -1,0 +1,133 @@
+1 Shadowspear
+1 Ancient Den
+1 Palladium Myr
+1 Mountain
+1 Forest
+1 Steel Overseer
+1 Myr Retriever
+1 Urza's Power Plant
+1 Vedalken Orrery
+1 Emrakul, the Promised End
+1 Lightning Greaves
+1 Kozilek, Butcher of Truth
+1 Metallic Mimic
+1 Shrine of the Forsaken Gods
+1 Ulamog, the Ceaseless Hunger
+1 Leaden Myr
+1 Myr Reservoir
+1 Myr Galvanizer
+1 Darksteel Citadel
+1 Everflowing Chalice
+1 Sword of Fire and Ice
+1 Wasteland
+1 Karn's Bastion
+1 Unclaimed Territory
+1 All Is Dust
+1 Ulamog, the Infinite Gyre
+1 Alloy Myr
+1 Myr Superion
+1 Myr Welder
+1 Sword of Feast and Famine
+1 Buried Ruin
+1 Chief of the Foundry
+1 Urza's Tower
+1 Urza's Mine
+1 Mutavault
+1 Cavern of Souls
+1 Tomb of the Spirit Dragon
+1 Myr Sire
+1 Perilous Myr
+1 Myr Battlesphere
+1 Chromatic Lantern
+1 Jhoira's Familiar
+1 Vanquisher's Banner
+1 Skullclamp
+1 Gold Myr
+1 Iron Myr
+1 Great Furnace
+1 Prismatic Omen
+1 Copper Myr
+1 Lodestone Myr
+1 Myr Enforcer
+1 Silver Myr
+1 Tree of Tales
+1 Vault of Whispers
+1 Ancient Tomb
+1 Forsaken Monument
+1 Obelisk of Urd
+1 Sol Ring
+1 Bloodline Pretender
+1 Prismatic Lens
+1 Urza's Factory
+1 Urza's Saga
+1 Slagwoods Bridge
+1 Power Depot
+1 Myr Scrapling
+1 Expedition Map
+1 Treasure Vault
+1 Command Tower
+1 Rogue's Passage
+1 Morophon, the Boundless
+1 Secluded Courtyard
+1 Foundry Inspector
+1 Shimmer Myr
+1 Geode Golem
+1 Raggadragga, Goreguts Boss
+1 Jenson Carthalion, Druid Exile
+1 Crystal Quarry
+1 Cascading Cataracts
+1 Herald's Horn
+1 Urza's Workshop
+1 Unwinding Clock
+1 Adaptive Automaton
+1 Seat of the Synod
+1 Urza's Incubator
+1 Maze of Ith
+1 Legacy Weapon
+1 The Mycosynth Gardens
+1 Myr Convert
+1 Ichorclaw Myr
+1 Plague Myr
+1 Arcane Signet
+1 Path of Ancestry
+1 Myr Kinsmith
+1 Myr Custodian
+1 Nettlecyst
+1 Inventors' Fair
+1 Chromatic Orrery
+1 Timeless Lotus
+1 Strip Mine
+SB: 1 Dryad of the Ilysian Grove
+SB: 1 Reliquary Tower
+SB: 1 Chromatic Star
+SB: 1 Sylvan Scrying
+SB: 1 Thought Vessel
+SB: 1 Channel the Suns
+SB: 1 Fist of Suns
+SB: 1 Mycosynth Golem
+SB: 1 Kaleidostone
+SB: 1 Exotic Orchard
+SB: 1 Cryptolith Rite
+SB: 1 Sanctum of Ugin
+SB: 1 Myrsmith
+SB: 1 Thoughtcast
+SB: 1 Composite Golem
+SB: 1 Myr Matrix
+SB: 1 Mirrodin Besieged
+SB: 1 Eye of Ugin
+SB: 1 Etched Monstrosity
+SB: 1 Myr Turbine
+SB: 1 Kozilek, the Great Distortion
+SB: 1 Chromatic Sphere
+SB: 1 Command Beacon
+SB: 1 Realmwalker
+SB: 1 Thought Monitor
+SB: 1 Umezawa's Jitte
+SB: 1 Dispatch
+SB: 1 Temple of the False God
+SB: 1 Jodah, Archmage Eternal
+SB: 1 Mana Vault
+SB: 1 Wastes
+SB: 1 Mind Stone
+SB: 1 Jegantha, the Wellspring
+SB: 1 Urtet, Remnant of Memnarch

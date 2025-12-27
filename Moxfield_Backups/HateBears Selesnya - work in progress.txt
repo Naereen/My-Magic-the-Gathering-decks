@@ -1,0 +1,160 @@
+1 Arcane Signet
+1 Deafening Silence
+1 Hushbringer
+1 Kenrith's Transformation
+1 Acidic Slime
+1 Avacyn's Pilgrim
+1 Aura of Silence
+1 Beast Within
+1 Birds of Paradise
+1 Bloom Tender
+1 Blossoming Sands
+1 Cultivate
+1 Graypelt Refuge
+1 Join Shields
+1 Manglehorn
+1 Path to Exile
+1 Palace Jailer
+1 Qasali Pridemage
+1 Sol Ring
+1 Unflinching Courage
+1 Containment Priest
+1 Heroic Intervention
+1 Scavenging Ooze
+1 Vryn Wingmare
+1 Grafdigger's Cage
+1 Rule of Law
+1 Sylvan Reclamation
+1 Sakura-Tribe Elder
+1 Selesnya Sanctuary
+1 Seedborn Muse
+1 Sungrass Prairie
+1 Dueling Grounds
+1 Okina, Temple to the Grandfathers
+1 Linvala, Keeper of Silence
+1 Tajuru Preserver
+1 Blind Obedience
+1 Selesnya Charm
+1 Selesnya Signet
+1 Bountiful Promenade
+1 Glare of Subdual
+1 Thalia, Heretic Cathar
+1 Mosswort Bridge
+1 Smothering Tithe
+1 Eternal Witness
+1 Kodama's Reach
+1 Sigarda, Host of Herons
+1 Dryad Militant
+1 Loxodon Hierarch
+1 Beast Whisperer
+1 Knight of Autumn
+1 Temple Garden
+1 Scavenger Grounds
+1 Lifecrafter's Bestiary
+1 Elvish Mystic
+1 Hushwing Gryff
+1 Leonin Arbiter
+1 Razorverge Thicket
+1 Root Maze
+1 Arctic Flats
+1 Vivien, Champion of the Wilds
+1 Collector Ouphe
+1 Eladamri's Call
+1 Archon of Valor's Reach
+1 Canopy Vista
+1 Commander's Sphere
+1 Karametra, God of Harvests
+1 Aven Mindcensor
+1 Scattered Groves
+1 Stirring Wildwood
+1 Kataki, War's Wage
+1 Windbrisk Heights
+1 Eidolon of Rhetoric
+1 Collective Blessing
+1 Loxodon Smiter
+1 Rest in Peace
+1 Melira, Sylvok Outcast
+1 Gaea's Cradle
+1 Destiny Spinner
+1 Temple of Plenty
+1 Drannith Magistrate
+1 Ethersworn Canonist
+1 Rhys the Redeemed
+1 Trinisphere
+1 Voice of Resurgence
+1 Wooded Bastion
+1 Spirit of the Labyrinth
+1 Sunpetal Grove
+1 Authority of the Consuls
+1 Shalai, Voice of Plenty
+1 Pendelhaven
+1 Runic Armasaur
+1 Damping Sphere
+1 Llanowar Elves
+1 Mirari's Wake
+1 Teferi's Protection
+1 White Sun's Zenith
+1 Horizon Canopy
+1 Stony Silence
+1 Command Tower
+1 Branchloft Pathway // Boulderloft Pathway
+1 Yasharn, Implacable Earth
+1 Kabira Takedown // Kabira Plateau
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Wrath of God
+1 Fyndhorn Elves
+1 Archon of Coronation
+1 Swords to Plowshares
+1 Terastodon
+1 Arctic Treeline
+1 Weathered Runestone
+1 Silence
+1 Saffi Eriksdotter
+1 Oran-Rief, the Vastwood
+1 Fracturing Gust
+4 Forest
+1 Esper Sentinel
+1 Cursed Totem
+1 Aura Shards
+1 Fortified Village
+1 Dragonlord Dromoka
+1 Overgrown Farmland
+1 Sigarda, Champion of Light
+1 Augur of Autumn
+1 Talisman of Unity
+1 Fateful Absence
+1 Torens, Fist of the Angels
+1 Thalia, Guardian of Thraben
+1 Katilda, Dawnhart Prime
+1 Eiganjo, Seat of the Empire
+1 Umezawa's Jitte
+1 Drumbellower
+1 Generous Gift
+4 Plains
+1 Austere Command
+1 Gavony Township
+1 Wilson, Refined Grizzly
+1 Nature's Lore
+1 Deep Gnome Terramancer
+1 Three Visits
+1 Ezuri's Predation
+1 Mother of Runes
+1 Shield of the Oversoul
+1 Dromoka's Command
+1 Wilt-Leaf Liege
+1 Defiler of Vigor
+1 Faeburrow Elder
+1 King Darien XLVIII
+1 Anointed Peacekeeper
+1 Silverback Elder
+1 Radiant Grove
+1 Farseek
+1 Brushland
+1 Solemn Simulacrum
+1 Unbreakable Formation
+1 Fade from History
+1 Thorn of Amethyst
+1 Loran of the Third Path
+1 Myrel, Shield of Argive
+SB: 1 Vivien, Monsters' Advocate
+SB: 1 Gaddock Teeg

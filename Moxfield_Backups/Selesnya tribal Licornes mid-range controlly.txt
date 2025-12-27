@@ -1,0 +1,121 @@
+3 Plains
+1 Heliod's Intervention
+1 Shadowspear
+1 Arcane Signet
+1 Forest
+1 Kenrith's Transformation
+1 Lonesome Unicorn // Rider in Need
+1 Beast Within
+1 Blossoming Sands
+1 Grasp of Fate
+1 Graypelt Refuge
+1 Path to Exile
+1 Sol Ring
+1 Triumph of the Hordes
+1 Daybreak Charger
+1 Valorous Steed
+1 Banishing Light
+1 Selesnya Sanctuary
+1 Sungrass Prairie
+1 Pearled Unicorn
+1 Capashen Unicorn
+1 Okina, Temple to the Grandfathers
+1 Darksteel Mutation
+1 Selesnya Charm
+1 Bountiful Promenade
+1 Mosswort Bridge
+1 Beastmaster Ascension
+1 Smothering Tithe
+1 Cavern of Souls
+1 Kodama's Reach
+1 Inspiring Unicorn
+1 Temple Garden
+1 Razorverge Thicket
+1 True Conviction
+1 Lignify
+1 Good-Fortune Unicorn
+1 Canopy Vista
+1 Scattered Groves
+1 Stirring Wildwood
+1 Valorous Stance
+1 Council's Judgment
+1 Windbrisk Heights
+1 Oblivion Ring
+1 Revered Unicorn
+1 Benevolent Unicorn
+1 Zebra Unicorn
+1 Savannah
+1 Captivating Unicorn
+1 Temple of Plenty
+1 Wooded Bastion
+1 Brightmare
+1 Ronom Unicorn
+1 Majestic Auricorn
+1 Splendor Mare
+1 Prized Unicorn
+1 Sunpetal Grove
+1 Overrun
+1 Pendelhaven
+1 Loyal Unicorn
+1 Mesa Unicorn
+1 Kindred Summons
+1 Horizon Canopy
+1 Metallic Mimic
+1 Aura of Silence
+1 Noble Quarry
+1 Opaline Unicorn
+1 Regal Unicorn
+1 Command Tower
+1 Sylvan Library
+1 Branchloft Pathway // Boulderloft Pathway
+1 Kabira Takedown // Kabira Plateau
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Return of the Wildspeaker
+1 Three Visits
+1 Lathiel, the Bounteous Dawn
+1 Swords to Plowshares
+1 Rally the Ranks
+1 Realmwalker
+1 Oran-Rief, the Vastwood
+1 Ghostly Prison
+1 Mirari's Wake
+1 Celestial Unicorn
+1 Fortified Village
+1 Rishkar's Expertise
+1 Overgrown Farmland
+1 Talisman of Unity
+1 Fateful Absence
+1 Unclaimed Territory
+1 Secluded Courtyard
+1 Eiganjo, Seat of the Empire
+1 Umezawa's Jitte
+1 Generous Gift
+1 Boseiju, Who Endures
+1 Gavony Township
+1 Nature's Lore
+1 Steadfast Unicorn
+1 Ezuri's Predation
+1 Radiant Grove
+1 Farseek
+1 Brushland
+1 Adaptive Automaton
+1 Mind Stone
+1 Court of Grace
+1 Regal Bunnicorn
+SB: 1 Cultivate
+SB: 1 Heroic Intervention
+SB: 1 Urza's Incubator
+SB: 1 Selesnya Signet
+SB: 1 Life's Legacy
+SB: 1 Overwhelming Stampede
+SB: 1 Arctic Flats
+SB: 1 Wishmonger
+SB: 1 Dusk // Dawn
+SB: 1 Selesnya Keyrune
+SB: 1 Sundering Growth
+SB: 1 Solemn Simulacrum
+SB: 1 Teferi's Protection
+SB: 1 Felidar Retreat
+SB: 1 Arctic Treeline
+SB: 1 Unbreakable Formation
+SB: 1 Emiel the Blessed

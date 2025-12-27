@@ -1,0 +1,70 @@
+1 Heraldic Banner
+1 Ballynock Cohort
+1 Mirror Entity
+1 Citywide Bust
+1 Metallic Mimic
+1 Obelisk of Urd
+1 Preeminent Captain
+1 Honor of the Pure
+1 Burrenton Bombardier
+1 Rustic Clachan
+1 Oblivion Ring
+1 Galepowder Mage
+1 Knight of Meadowgrain
+1 Kinsbaile Balloonist
+1 Militia's Pride
+1 Plover Knights
+1 Surge of Thoughtweft
+1 Thoughtweft Trio
+1 Wizened Cenn
+1 Crib Swap
+1 Shared Triumph
+1 Ballyrush Banneret
+1 Cenn's Tactician
+1 Kithkin Zephyrnaut
+1 Kinsbaile Cavalier
+1 Kinsbaile Borderguard
+1 Slaughter the Strong
+1 Urza's Incubator
+1 Spear of Heliod
+1 Mentor of the Meek
+1 Cenn's Enlistment
+1 Kithkin Spellduster
+1 Kithkin Rabble
+1 Rally the Ranks
+1 Order of Whiteclay
+1 Oketra's Monument
+1 Herald's Horn
+1 Adaptive Automaton
+1 Bloodline Pretender
+SB: 1 Idyllic Grange
+SB: 1 Temple of the False God
+SB: 1 Goldmeadow Lookout
+SB: 1 Mistmeadow Skulk
+SB: 1 Scavenger Grounds
+SB: 1 Abolish
+SB: 1 Mosquito Guard
+SB: 1 Dismantling Wave
+SB: 1 Burrenton Forge-Tender
+SB: 1 Hall of Triumph
+SB: 1 Cenn's Heir
+SB: 1 Gaddock Teeg
+SB: 1 Goldmeadow Stalwart
+SB: 1 Soul Charmer
+SB: 1 Kithkin Armor
+SB: 1 Silence
+SB: 1 Radiant Purge
+SB: 1 Radiant Destiny
+SB: 1 Kabira Crossroads
+SB: 1 Patrol Signaler
+SB: 1 War Room
+SB: 1 Condemn
+SB: 1 Sun Titan
+SB: 1 Ascend from Avernus
+SB: 1 Your Temple Is Under Attack
+SB: 1 Irregular Cohort
+SB: 1 Maskwood Nexus
+SB: 1 Icon of Ancestry
+SB: 1 Austere Command
+SB: 1 Solemn Simulacrum
+SB: 1 Brigid, Hero of Kinsbaile

@@ -1,0 +1,112 @@
+1 Shadowspear
+1 Uro, Titan of Nature's Wrath
+1 Kenrith's Transformation
+1 Maraleaf Pixie
+1 Oko, Thief of Crowns
+1 Nature's Claim
+1 Garruk's Uprising
+1 Sol Ring
+1 Sakura-Tribe Elder
+1 Seedborn Muse
+1 Growth Spiral
+1 Guardian Project
+1 Rogue's Passage
+1 Hydroid Krasis
+1 Rishkar's Expertise
+1 Elvish Mystic
+1 Nature's Lore
+1 Breeding Pool
+1 Finale of Devastation
+1 Talisman of Curiosity
+1 Waterlogged Grove
+1 Return of the Wildspeaker
+1 The Great Henge
+1 Reclamation Sage
+1 Kruphix, God of Horizons
+1 Cyclonic Rift
+1 Blightsteel Colossus
+1 Rhystic Study
+1 Tropical Island
+1 Dryad of the Ilysian Grove
+1 Flooded Grove
+1 Progenitor Mimic
+1 Pongify
+1 Kinnan, Bonder Prodigy
+1 Force of Will
+1 Farseek
+1 Lightning Greaves
+1 Flooded Strand
+1 Polluted Delta
+1 Wooded Foothills
+1 Windswept Heath
+1 Propaganda
+1 Thrasios, Triton Hero
+1 Botanical Sanctum
+1 Rashmi, Eternities Crafter
+1 Mystic Snake
+1 Arixmethes, Slumbering Isle
+1 Cold-Eyed Selkie
+1 Beast Whisperer
+1 Hinterland Harbor
+1 Rapid Hybridization
+1 Kiora's Follower
+1 Shamanic Revelation
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Rejuvenating Springs
+1 Lotus Cobra
+1 Scute Swarm
+1 Aesi, Tyrant of Gyre Strait
+1 Explore
+1 Simic Growth Chamber
+1 Thornwood Falls
+1 Barkchannel Pathway // Tidechannel Pathway
+1 Snow-Covered Island
+1 Rimewood Falls
+3 Snow-Covered Forest
+1 Moritte of the Frost
+1 Toski, Bearer of Secrets
+1 Krosan Grip
+1 Eureka Moment
+1 Lumbering Falls
+1 Trygon Predator
+1 Double Major
+1 Arcane Signet
+1 Arbor Elf
+1 Dreamroot Cascade
+1 Cultivator Colossus
+1 Otawara, Soaring City
+1 Beast Within
+1 Boseiju, Who Endures
+1 Roalesk, Apex Hybrid
+1 Urban Evolution
+1 Green Slime
+1 Three Visits
+1 Mosswort Bridge
+1 Murkfiend Liege
+1 Eternal Witness
+1 Coiling Oracle
+1 Yavimaya Coast
+1 Rampaging Baloths
+1 Avenger of Zendikar
+1 Tatyova, Benthic Druid
+1 Mystic Remora
+1 Temple of Mystery
+1 Vineglimmer Snarl
+1 Command Tower
+SB: 1 Mystic Sanctuary
+SB: 1 Kodama's Reach
+SB: 1 Simic Guildgate
+SB: 1 Birds of Paradise
+SB: 1 Return to Nature
+SB: 1 Reliquary Tower
+SB: 1 Sword of the Animist
+SB: 1 Swan Song
+SB: 1 Llanowar Elves
+SB: 1 Mind Stone
+SB: 1 Cultivate
+SB: 1 Commander's Sphere
+SB: 1 Force of Negation
+SB: 1 Blackblade Reforged
+SB: 1 Koma, Cosmos Serpent

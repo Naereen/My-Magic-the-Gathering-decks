@@ -1,0 +1,119 @@
+1 Temple of Plenty
+1 Bake into a Pie
+1 Cauldron Familiar
+1 Gluttonous Troll
+1 Return to Nature
+1 Savvy Hunter
+1 Tectonic Edge
+3 Swamp
+3 Plains
+1 Putrefy
+1 Crucible of Worlds
+1 Path to Exile
+1 Godless Shrine
+1 Avenger of Zendikar
+1 Blood Artist
+1 Wasteland
+1 Status // Statue
+1 Temple Garden
+1 Sylvan Scrying
+1 Doubling Season
+1 Skullclamp
+1 Dust Bowl
+1 Sylvan Library
+1 Birds of Paradise
+1 Talisman of Resilience
+1 Feasting Troll King
+1 Gilded Goose
+1 Canopy Vista
+1 Sol Ring
+1 Verge Rangers
+1 Scattered Groves
+1 Swords to Plowshares
+1 Overgrown Tomb
+1 Armageddon
+1 Temple of Silence
+1 Dryad of the Ilysian Grove
+1 Shadowspear
+1 Indatha Triome
+1 Ravages of War
+3 Forest
+1 Desolation Angel
+1 Seedborn Muse
+1 Bojuka Bog
+1 Sandsteppe Citadel
+1 Wayward Swordtooth
+1 Anguished Unmaking
+1 Courser of Kruphix
+1 Command Tower
+1 Stirring Wildwood
+1 Ghost Quarter
+1 Oracle of Mul Daya
+1 Reflecting Pool
+1 Mortify
+1 Land Tax
+1 Strip Mine
+1 Sylvan Tutor
+1 Worldly Tutor
+2 Branchloft Pathway // Boulderloft Pathway
+1 Brightclimb Pathway // Grimclimb Pathway
+1 Dryad Arbor
+1 Ancient Greenwarden
+1 Three Visits
+1 Kodama's Reach
+1 Slaughter the Strong
+1 Viscera Seer
+1 Ramunap Excavator
+1 Path of Ancestry
+1 Fracture
+1 Gingerbread Cabin
+1 Gyome, Master Chef
+1 Taste of Death
+1 Witherbloom Command
+1 Chatterfang, Squirrel General
+1 Scurry Oak
+1 Vindicate
+1 Old Gnawbone
+1 Druid Class
+1 Field of Ruin
+1 Witch's Oven
+1 Augur of Autumn
+1 Fateful Absence
+1 Eiganjo, Seat of the Empire
+1 Boseiju, Who Endures
+1 Dusk // Dawn
+1 Killer Service
+1 Arcane Signet
+1 Temple of Malady
+1 Cultivate
+1 Demolition Field
+1 Perennial Behemoth
+1 Talisman of Unity
+1 Nature's Lore
+1 Conduit of Worlds
+1 The Shire
+1 Academy Manufactor
+1 Talisman of Hierarchy
+1 Despark
+1 Delighted Halfling
+1 Mirkwood Bats
+1 Samwise Gamgee
+1 Peregrin Took
+1 Rosie Cotton of South Lane
+1 Butterbur, Bree Innkeeper
+1 The Battle of Bywater
+1 Old Man Willow
+1 Banquet Guests
+1 Feasting Hobbit
+SB: 1 Scrubland
+SB: 1 Bayou
+SB: 1 Savannah
+SB: 1 Beast Within
+SB: 1 Yawgmoth, Thran Physician
+SB: 1 Late to Dinner
+SB: 1 Generous Gift
+SB: 1 Ixhel, Scion of Atraxa
+SB: 1 Andúril, Flame of the West
+SB: 1 Pippin, Warden of Isengard
+SB: 1 Merry, Warden of Isengard
+SB: 1 Thalia and The Gitrog Monster

@@ -1,0 +1,127 @@
+3 Plains
+1 Heliod's Intervention
+1 Shadowspear
+1 Arcane Signet
+3 Forest
+1 Beast Within
+1 Bitterbow Sharpshooters
+1 Blossoming Sands
+1 Grasp of Fate
+1 Graypelt Refuge
+1 Longshot Squad
+1 Mirror Entity
+1 Path to Exile
+1 Sol Ring
+1 Triumph of the Hordes
+1 Vigor
+1 Skyway Sniper
+1 Banishing Light
+1 Sungrass Prairie
+1 Okina, Temple to the Grandfathers
+1 Scattershot Archer
+1 Darksteel Mutation
+1 Selesnya Charm
+1 Bountiful Promenade
+1 Mosswort Bridge
+1 Thornweald Archer
+1 Titania's Chosen
+1 Smothering Tithe
+1 Cavern of Souls
+1 Kodama's Reach
+1 Temple Garden
+1 Razorverge Thicket
+1 True Conviction
+1 Birds of Paradise
+1 Wildborn Preserver
+1 Beast Whisperer
+1 Canopy Vista
+1 Scattered Groves
+1 Stirring Wildwood
+1 Valorous Stance
+1 Council's Judgment
+1 Windbrisk Heights
+1 Bassara Tower Archer
+1 Brigid, Hero of Kinsbaile
+1 Jagged-Scar Archers
+1 Savannah
+1 Temple of Plenty
+1 Wooded Bastion
+1 Matsu-Tribe Sniper
+1 Greatbow Doyen
+1 Lys Alana Bowmaster
+1 Sunpetal Grove
+1 Overrun
+1 Kindred Summons
+1 Stalking Leonin
+1 Horizon Canopy
+1 Metallic Mimic
+1 Aura of Silence
+1 Chameleon Colossus
+1 Reverent Hunter
+1 Sakura-Tribe Elder
+1 Silhana Starfletcher
+1 Command Tower
+1 Halana, Kessig Ranger
+1 Sylvan Library
+1 Branchloft Pathway // Boulderloft Pathway
+1 Kabira Takedown // Kabira Plateau
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Return of the Wildspeaker
+1 Three Visits
+1 Reclamation Sage
+1 Swords to Plowshares
+1 Masked Vandal
+1 Rally the Ranks
+1 Realmwalker
+1 Oran-Rief, the Vastwood
+1 Ghostly Prison
+1 Mirari's Wake
+1 Arcus Acolyte
+1 Catti-brie of Mithral Hall
+1 Fortified Village
+1 Rishkar's Expertise
+1 Solemn Simulacrum
+1 Overgrown Farmland
+1 Talisman of Unity
+1 Fateful Absence
+1 Unclaimed Territory
+1 Secluded Courtyard
+1 Bamboo Grove Archer
+1 Eiganjo, Seat of the Empire
+1 Umezawa's Jitte
+1 Generous Gift
+1 Boseiju, Who Endures
+1 Gavony Township
+1 Nature's Lore
+1 Ezuri's Predation
+1 Defiler of Vigor
+1 Radiant Grove
+1 Brushland
+1 Adaptive Automaton
+1 Bloodline Pretender
+1 Court of Grace
+1 Legolas, Master Archer
+1 Legolas Greenleaf
+SB: 1 Kenrith's Transformation
+SB: 1 Cultivate
+SB: 1 Heroic Intervention
+SB: 1 Urza's Incubator
+SB: 1 Selesnya Sanctuary
+SB: 1 Selesnya Signet
+SB: 1 Beastmaster Ascension
+SB: 1 Life's Legacy
+SB: 1 Overwhelming Stampede
+SB: 1 Lignify
+SB: 1 Arctic Flats
+SB: 1 Dusk // Dawn
+SB: 1 Selesnya Keyrune
+SB: 1 Sundering Growth
+SB: 1 Oblivion Ring
+SB: 1 Pendelhaven
+SB: 1 Teferi's Protection
+SB: 1 Felidar Retreat
+SB: 1 Arctic Treeline
+SB: 1 Farseek
+SB: 1 Unbreakable Formation
+SB: 1 Mind Stone
+SB: 1 Ohabi Caleria

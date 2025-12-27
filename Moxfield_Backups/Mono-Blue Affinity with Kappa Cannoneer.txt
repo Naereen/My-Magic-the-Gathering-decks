@@ -1,0 +1,25 @@
+2 Island
+2 Otawara, Soaring City
+4 Thoughtcast
+4 Urza's Bauble
+4 Mox Opal
+4 Lotus Petal
+4 Emry, Lurker of the Loch
+4 Force of Will
+4 Sai, Master Thopterist
+4 Mishra's Bauble
+4 Seat of the Synod
+4 Chalice of the Void
+4 Urza's Saga
+4 Ancient Tomb
+1 Aether Spellbomb
+1 Mox Amber
+3 Thought Monitor
+3 Kappa Cannoneer
+SB: 2 Tormod's Crypt
+SB: 2 Flusterstorm
+SB: 2 Brazen Borrower // Petty Theft
+SB: 3 Dismember
+SB: 1 Shadowspear
+SB: 1 Pithing Needle
+SB: 4 Force of Negation

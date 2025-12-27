@@ -1,0 +1,99 @@
+1 Arcane Signet
+1 Heraldic Banner
+1 Faerie Conclave
+1 Herald's Horn
+1 Propaganda
+1 Counterspell
+1 Empress Galina
+1 Minamo, School at Water's Edge
+1 Reliquary Tower
+1 Coralhelm Commander
+1 True-Name Nemesis
+1 Negate
+1 Imprisoned in the Moon
+1 Cavern of Souls
+1 Obelisk of Urd
+1 Seahunter
+1 Castle Vantress
+1 Halimar Depths
+1 Merrow Harbinger
+1 Merrow Commerce
+1 Silvergill Adept
+1 Surgespanner
+1 Rhystic Study
+1 Brainstorm
+1 Mystic Remora
+1 Shadowspear
+1 Force of Will
+1 Stonybrook Banneret
+1 Sigil Tracer
+1 Thada Adel, Acquisitor
+1 Cyclonic Rift
+1 Swan Song
+1 Seafloor Oracle
+1 Rogue's Passage
+1 Aquitect's Will
+1 Merfolk Sovereign
+1 Mistcaller
+1 Aquatic Incursion
+1 Mist-Cloaked Herald
+1 Deeproot Waters
+1 Kopala, Warden of Waves
+1 Merfolk Trickster
+1 Path of Ancestry
+1 Sol Ring
+1 Mind Stone
+1 Thought Vessel
+1 Thassa, God of the Sea
+1 Cosi's Trickster
+1 Lullmage Mentor
+1 Cursecatcher
+1 Deepchannel Mentor
+1 Pongify
+1 Wonder
+1 Lord of Atlantis
+1 Sea Gate Restoration // Sea Gate, Reborn
+1 Jwari Disruption // Jwari Ruins
+1 Glasspool Mimic // Glasspool Shore
+1 Thieving Skydiver
+1 War Room
+1 Master of the Pearl Trident
+1 Mystic Sanctuary
+1 Lonely Sandbar
+1 Tide Shaper
+1 Riptide Laboratory
+1 Hall of Storm Giants
+1 Wash Away
+1 Otawara, Soaring City
+1 An Offer You Can't Refuse
+1 Witness Protection
+1 Archmage's Charm
+1 Mutavault
+1 Talrand, Sky Summoner
+1 Emperor Mihail II
+1 Vodalian Hexcatcher
+1 Icon of Ancestry
+1 Merrow Reejerey
+1 Harbinger of the Tides
+1 Wake Thrasher
+21 Island
+SB: 1 Thassa, Deep-Dwelling
+SB: 1 Serum Visions
+SB: 1 Pact of Negation
+SB: 1 Rapid Hybridization
+SB: 1 Force of Negation
+SB: 1 Triton Shorestalker
+SB: 1 Wanderwine Prophets
+SB: 1 Wizard's Retort
+SB: 1 Thassa's Rebuff
+SB: 1 Ponder
+SB: 1 River Sneak
+SB: 1 Spell Pierce
+SB: 1 Preordain
+SB: 1 Master of Waves
+SB: 1 Stormtide Leviathan
+SB: 1 Riptide Pilferer
+SB: 1 Merfolk Windrobber
+SB: 1 Distant Melody
+SB: 1 Saw It Coming
+SB: 1 Svyelun of Sea and Sky

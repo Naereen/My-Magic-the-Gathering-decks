@@ -1,0 +1,80 @@
+1 Heliod, Sun-Crowned
+1 Idyllic Tutor
+1 Wishclaw Talisman
+4 Mountain
+1 Marsh Flats
+1 Verdant Catacombs
+1 Diabolic Tutor
+1 Elixir of Immortality
+1 Daru Spiritualist
+1 Worthy Cause
+1 Grim Tutor
+1 Ranger-Captain of Eos
+1 Blood Crypt
+1 Miren, the Moaning Well
+1 Nomads en-Kor
+1 Shaman en-Kor
+1 Spirit en-Kor
+1 Warrior en-Kor
+1 Sunforger
+1 Shuko
+1 Fellwar Stone
+1 Outrider en-Kor
+1 Archangel of Thune
+1 Flooded Strand
+1 Polluted Delta
+1 Wooded Foothills
+1 Windswept Heath
+1 Alhammarret's Archive
+1 Ayli, Eternal Pilgrim
+1 Lightning Greaves
+1 Aetherflux Reservoir
+1 Recruiter of the Guard
+1 Imperial Recruiter
+4 Swamp
+1 Firesong and Sunspeaker
+1 Arid Mesa
+1 Talisman of Indulgence
+1 Shatterskull Smashing // Shatterskull, the Hammer Pass
+1 Cruel Tutor
+1 Falthis, Shadowcat Familiar
+1 Righteous Valkyrie
+1 Scalding Tarn
+1 Profane Tutor
+1 Arcane Signet
+1 Eiganjo, Seat of the Empire
+1 Seasoned Dungeoneer
+1 Path of Ancestry
+1 Starlit Sanctum
+1 Pristine Talisman
+1 Sol Ring
+1 Karlov of the Ghost Council
+1 Elegant Parlor
+1 Raucous Theater
+1 Shadowy Backstreet
+1 Command Tower
+1 Bloodstained Mire
+1 Witch Enchanter // Witch-Blessed Meadow
+4 Plains
+1 Sundering Eruption // Volcanic Fissure
+1 Pinnacle Monk // Mystic Peak
+1 Urza's Saga
+1 Blazemire Verge
+1 Exemplar of Light
+1 Sunbillow Verge
+1 Bleachbone Verge
+1 Talisman of Conviction
+1 Talisman of Hierarchy
+1 Battlefield Forge
+1 Walking Ballista
+1 Godless Shrine
+1 Sacred Foundry
+1 The Destined White Mage
+SB: 1 Demonic Tutor
+SB: 1 Enlightened Tutor
+SB: 1 Vampiric Tutor
+SB: 1 Ojer Axonil, Deepest Might // Temple of Power
+SB: 1 Minwu, White Mage
+SB: 1 Spider-Man, Peter Parker
+SB: 1 Tymna the Weaver
+SB: 1 Kediss, Emberclaw Familiar

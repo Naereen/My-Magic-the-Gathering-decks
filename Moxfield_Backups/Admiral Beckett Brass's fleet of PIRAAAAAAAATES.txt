@@ -1,0 +1,126 @@
+1 Crumbling Necropolis
+1 March of the Drowned
+1 Icon of Ancestry
+1 Dockside Extortionist
+1 Watery Grave
+1 Command Tower
+1 Kari Zev, Skyship Raider
+1 Scalding Tarn
+1 Drowned Catacomb
+1 Coastal Piracy
+1 Talisman of Creativity
+1 Shivan Reef
+1 Blood Crypt
+1 Cyclonic Rift
+1 Steam Vents
+1 Vandalblast
+1 Rhystic Study
+1 Corsair Captain
+1 Blatant Thievery
+1 Lightning Greaves
+1 Cavern of Souls
+1 Door of Destinies
+1 Bloodstained Mire
+1 Polluted Delta
+1 Sword of the Animist
+1 Dire Fleet Poisoner
+1 Murder
+1 Dire Fleet Neckbreaker
+1 Forerunner of the Coalition
+1 Protean Raider
+1 Storm Fleet Sprinter
+1 Vona's Hunger
+1 Warkite Marauder
+1 Angrath's Marauders
+1 Conqueror's Galleon // Conqueror's Foothold
+1 Dire Fleet Ravager
+1 Dragonskull Summit
+1 Dire Fleet Captain
+1 Dreamcaller Siren
+1 Revel in Riches
+1 Unclaimed Territory
+1 Treasure Map // Treasure Cove
+1 Fathom Fleet Captain
+1 Kindred Dominance
+1 Marchesa, the Black Rose
+1 Reality Shift
+1 Sol Ring
+1 Terminate
+1 Training Center
+1 Riverglide Pathway // Lavaglide Pathway
+1 Clearwater Pathway // Murkwater Pathway
+1 Siren Stormtamer
+1 Breeches, Brazen Plunderer
+1 Emberwilde Captain
+1 Malcolm, Keen-Eyed Navigator
+1 Merchant Raiders
+1 Port Razer
+1 Zara, Renegade Recruiter
+1 Amphin Mutineer
+1 Coercive Recruiter
+1 Captain Vargus Wrath
+1 Azure Fleet Admiral
+1 Fiery Cannonade
+1 Blightstep Pathway // Searstep Pathway
+1 Herald's Horn
+1 Path of Ancestry
+1 Urborg, Tomb of Yawgmoth
+2 Island
+1 Ragavan, Nimble Pilferer
+1 Treasure Vault
+1 Arcane Signet
+1 Hostage Taker
+1 Infernal Grasp
+1 Shipwreck Marsh
+1 Haunted Ridge
+1 Stormcarved Coast
+1 Feed the Swarm
+1 Secluded Courtyard
+1 Otawara, Soaring City
+1 Morphic Pool
+1 Luxury Suite
+1 Blasphemous Act
+1 Xander's Lounge
+1 Dire Fleet Daredevil
+1 Ramirez DePietro, Pillager
+2 Mountain
+1 Swamp
+1 Sulfurous Springs
+1 Underground River
+1 Bedevil
+1 Adaptive Automaton
+1 Pirated Copy
+1 Daring Piracy
+1 Captain Lannery Storm
+1 Talisman of Indulgence
+1 Talisman of Dominance
+1 Zephyr Singer
+1 Mines of Moria
+1 Raise the Palisade
+1 Corsairs of Umbar
+1 Sulfur Falls
+1 Vanquisher's Banner
+SB: 1 Temple of Deceit
+SB: 1 Crosis's Charm
+SB: 1 Kitesail Freebooter
+SB: 1 Temple of Epiphany
+SB: 1 Spectral Sailor
+SB: 1 Badlands
+SB: 1 Underground Sea
+SB: 1 Fierce Guardianship
+SB: 1 Izzet Signet
+SB: 1 Volcanic Island
+SB: 1 Chaos Warp
+SB: 1 Angrath, Minotaur Pirate
+SB: 1 Captain's Hook
+SB: 1 Deadeye Brawler
+SB: 1 Fell Flagship
+SB: 1 Commander's Sphere
+SB: 1 Rogue's Passage
+SB: 1 Rakdos Signet
+SB: 1 Dimir Signet
+SB: 1 Ghost of Ramirez DePietro
+SB: 1 Takenuma, Abandoned Mire
+SB: 1 Exotic Orchard
+SB: 1 Spell Swindle
+SB: 1 Admiral Beckett Brass

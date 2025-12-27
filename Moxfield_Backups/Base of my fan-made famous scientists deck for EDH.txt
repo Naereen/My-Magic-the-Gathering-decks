@@ -1,0 +1,26 @@
+4 Island
+4 Plains
+1 Command Tower
+1 Breeding Pool
+1 Yavimaya Coast
+1 Waterlogged Grove
+1 Hallowed Fountain
+1 Temple Garden
+1 Cavern of Souls
+1 Flooded Strand
+1 Windswept Heath
+4 Forest
+1 Unclaimed Territory
+1 Reliquary Tower
+1 Misty Rainforest
+1 Mystic Gate
+1 Wooded Bastion
+1 Horizon Canopy
+1 Path of Ancestry
+1 Biomathematician
+1 Study Hall
+1 Secluded Courtyard
+1 Adarkar Wastes
+1 Brushland
+1 Flooded Grove
+SB: 1 Sisay, Weatherlight Captain

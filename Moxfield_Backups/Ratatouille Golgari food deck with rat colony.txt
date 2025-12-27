@@ -1,0 +1,65 @@
+1 Gilded Goose
+1 Beast Within
+1 Exsanguinate
+1 Cabal Coffers
+1 Marrow-Gnawer
+1 Command Tower
+1 Jarad, Golgari Lich Lord
+1 Marsh Flats
+1 Verdant Catacombs
+1 Sylvan Scrying
+1 Hot Soup
+1 Kuldotha Forgemaster
+1 Skullclamp
+1 Fabled Passage
+1 Vito, Thorn of the Dusk Rose
+1 Prismatic Vista
+1 Piper of the Swarm
+1 The Great Henge
+1 Bontu's Monument
+1 Expedition Map
+1 Temple of Malady
+1 Pack Rat
+1 Golgari Signet
+1 Fangren Marauder
+1 Greater Good
+1 Mazirek, Kraul Death Priest
+1 Ogre Slumlord
+1 Bloodbond March
+1 Coat of Arms
+1 Swarmyard
+1 Wooded Foothills
+1 Windswept Heath
+1 Crypt Ghast
+1 Ash Barrens
+1 Beast Whisperer
+1 Overgrown Tomb
+1 Golgari Charm
+1 Sol Ring
+1 Nykthos, Shrine to Nyx
+1 Whip of Erebos
+1 Filth
+1 Bala Ged Recovery // Bala Ged Sanctuary
+1 Woodland Chasm
+1 Toski, Bearer of Secrets
+1 Urborg, Tomb of Yawgmoth
+1 Yavimaya, Cradle of Growth
+1 Timeless Witness
+1 Echoing Return
+1 Arcane Signet
+1 Garruk's Uprising
+1 Moonsilver Key
+1 Ruthless Technomancer
+1 Mirror Box
+1 Jaheira, Friend of the Forest
+1 Castle Locthwain
+1 Thrumming Stone
+1 Tear Asunder
+1 Haunted Mire
+1 Ashcoat of the Shadow Swarm
+1 Academy Manufactor
+1 Vanquisher's Banner
+12 Swamp
+2 Forest
+24 Rat Colony
+SB: 1 Gyome, Master Chef

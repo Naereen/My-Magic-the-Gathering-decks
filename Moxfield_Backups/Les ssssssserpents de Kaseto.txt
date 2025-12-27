@@ -1,0 +1,148 @@
+1 Rhonas's Monument
+1 Animal Sanctuary
+1 Simic Signet
+1 Kadena's Silencer
+1 Okina, Temple to the Grandfathers
+1 Sakura-Tribe Elder
+1 Sachi, Daughter of Seshiro
+1 Breeding Pool
+1 Ohran Viper
+1 Ramunap Hydra
+1 Rishkar's Expertise
+1 Pendelhaven
+1 Hexdrinker
+1 Mist-Syndicate Naga
+3 Snow-Covered Forest
+1 Stonecoil Serpent
+1 Naga Vitalist
+1 Prowling Serpopard
+1 Slither Blade
+1 Vizier of the Menagerie
+1 Triumph of the Hordes
+1 Kashi-Tribe Elite
+1 Sakura-Tribe Scout
+1 Sosuke, Son of Seshiro
+1 Mutavault
+1 Flooded Strand
+1 Hooded Hydra
+1 Polluted Delta
+1 Wooded Foothills
+1 Windswept Heath
+1 Sol Ring
+1 Mystic Snake
+1 Cobra Trap
+1 Orochi Hatchery
+1 Farseek
+1 Vigor
+1 Beastmaster Ascension
+1 Verdant Catacombs
+1 Yavimaya Hollow
+1 Rejuvenating Springs
+1 Lotus Cobra
+1 Kodama's Reach
+1 Three Visits
+1 Cavern of Souls
+1 Ohran Frostfang
+3 Snow-Covered Island
+1 Masked Vandal
+1 Koma, Cosmos Serpent
+1 Realmwalker
+1 Pongify
+1 Novijen, Heart of Progress
+1 Scalding Tarn
+1 Misty Rainforest
+1 Lonis, Cryptozoologist
+1 Lair of the Hydra
+1 Arcane Signet
+1 Otawara, Soaring City
+1 Fang of Shigeki
+1 Orochi Merge-Keeper
+1 Seshiro the Anointed
+1 Sosuke's Summons
+1 Boseiju, Who Endures
+1 Kindred Discovery
+1 Path of Ancestry
+1 Ezuri's Predation
+1 Broodbirth Viper
+1 Winged Coatl
+1 Nature's Lore
+1 Beast Within
+1 Command Tower
+1 Waterlogged Grove
+1 Roaming Throne
+1 Coiling Oracle
+1 Hedge Maze
+1 Lonis, Genetics Expert
+1 Rapid Hybridization
+1 Return of the Wildspeaker
+1 Temple of Mystery
+1 Tower Winder
+1 Fanatic of Rhonas
+1 Hope-Ender Coatl
+1 Flooded Grove
+1 Patchwork Banner
+1 Ice-Fang Coatl
+1 Kheru Spellsnatcher
+1 Aesi, Tyrant of Gyre Strait
+1 Dreamroot Cascade
+1 Willowrush Verge
+1 Rampaging Aetherhood
+1 Hinterland Harbor
+1 Overflowing Basin
+1 Yavimaya Coast
+1 Talisman of Curiosity
+1 Champion of Wits
+1 Skyserpent Seeker
+SB: 1 Castle Garenbrig
+SB: 1 Heraldic Banner
+SB: 1 Wasteland Viper
+SB: 1 Primal Vigor
+SB: 1 Sylvan Library
+SB: 1 Emerald Medallion
+SB: 1 Guardian Project
+SB: 1 Obelisk of Urd
+SB: 1 God-Eternal Rhonas
+SB: 1 Karn's Bastion
+SB: 1 Honored Hydra
+SB: 1 Woodland Changeling
+SB: 1 Seed the Land
+SB: 1 Moss Viper
+SB: 1 Adaptive Automaton
+SB: 1 Branching Evolution
+SB: 1 Doubling Season
+SB: 1 Patron of the Orochi
+SB: 1 Sakiko, Mother of Summer
+SB: 1 Shizuko, Caller of Autumn
+SB: 1 Sakura-Tribe Springcaller
+SB: 1 Nissa's Judgment
+SB: 1 Cultivate
+SB: 1 Nessian Asp
+SB: 1 Vanquisher's Banner
+SB: 1 Mosswort Bridge
+SB: 1 Inspiring Call
+SB: 1 Chameleon Colossus
+SB: 1 Nykthos, Shrine to Nyx
+SB: 1 Llanowar Reborn
+SB: 1 Khalni Ambush // Khalni Territory
+SB: 1 War Room
+SB: 1 Ambush Viper
+SB: 1 Bloodline Pretender
+SB: 1 Guardian Gladewalker
+SB: 1 Sylvan Anthem
+SB: 1 Jewel-Eyed Cobra
+SB: 1 Visions of Dominance
+SB: 1 Bamboo Grove Archer
+SB: 1 Tales of Master Seshiro // Seshiro's Living Legacy
+SB: 1 Umezawa's Jitte
+SB: 1 Oran-Rief, the Vastwood
+SB: 1 Dread Linnorm // Scale Deflection
+SB: 1 Defiler of Vigor
+SB: 1 Commander's Sphere
+SB: 1 Hardened Scales
+SB: 1 Rhonas the Indomitable
+SB: 1 Bonders' Enclave
+SB: 1 Blight Mamba
+SB: 1 Vorinclex // The Grand Evolution
+SB: 1 Botanical Sanctum
+SB: 1 Metallic Mimic
+SB: 1 Kaseto, Orochi Archmage

@@ -1,0 +1,135 @@
+1 Baleful Strix
+1 Blind Seer
+1 Sea of Clouds
+1 Teferi, Mage of Zhalfir
+1 Darksteel Citadel
+1 Seat of the Synod
+1 Snow-Covered Island
+1 Urza's Guilt
+1 Stroke of Genius
+1 Planar Collapse
+1 Glasses of Urza
+1 Scrubland
+1 Tundra
+1 Underground Sea
+1 Dispatch
+1 Shimmer Myr
+1 Pacifism
+1 Urza's Bauble
+1 Path to Exile
+1 Urza's Power Plant
+1 Urza's Tower
+1 Urza's Mine
+1 Karn, Scion of Urza
+1 Swords to Plowshares
+1 Phyrexian Arena
+1 Bloodstained Mire
+1 Flooded Strand
+1 Inventors' Fair
+1 Sol Ring
+1 Karn's Temporal Sundering
+1 Reliquary Tower
+1 Jhoira's Familiar
+1 Marsh Flats
+1 Misty Rainforest
+1 Ancient Den
+1 Vault of Whispers
+1 Opposition
+1 Thought Vessel
+1 Cranial Plating
+1 Urza's Factory
+1 Arid Mesa
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Goldmire Bridge
+1 Mistvault Bridge
+1 Damn
+1 Ornithopter of Paradise
+1 Arcane Signet
+1 Otawara, Soaring City
+1 Eiganjo, Seat of the Empire
+1 Research Thief
+1 Raffine's Tower
+1 Morphic Pool
+1 Karn, Living Legacy
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Karn's Sylex
+1 Urza, Lord Protector
+1 The Mightstone and Weakstone
+1 Urza, Powerstone Prodigy
+1 Thopter Spy Network
+1 Myr Battlesphere
+1 Sai, Master Thopterist
+1 Digsite Engineer
+1 Thought Monitor
+1 Austere Command
+1 Bronze Guardian
+1 Etherium Sculptor
+1 Losheel, Clockwork Scholar
+1 Master of Etherium
+1 Urza's Ruinous Blast
+1 Calamity's Wake
+1 Loran, Disciple of History
+1 Urza's Rebuff
+1 Urza's Workshop
+1 Liberator, Urza's Battlethopter
+1 Urza's Command
+1 Unwinding Clock
+1 Urza, Prince of Kroog
+1 Foundry Inspector
+1 Perilous Vault
+1 Swiftfoot Boots
+1 Karn, Legacy Reforged
+1 Vault of Champions
+1 Farewell
+1 Stroke of Midnight
+1 Command Tower
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Illustrious Wanderglyph
+1 Polluted Delta
+1 Windswept Heath
+1 Razortide Bridge
+1 Simulacrum Synthesizer
+1 Urza's Cave
+1 Kappa Cannoneer
+1 Esper Sentinel
+1 Urza's Saga
+1 Karn, the Great Creator
+1 Urza, Lord High Artificer
+1 Karn Liberated
+1 Treasure Vault
+1 Academy Ruins
+1 Path of Ancestry
+SB: 1 Shadowspear
+SB: 1 Urza's Chalice
+SB: 1 Urza's Miter
+SB: 1 Urza's Filter
+SB: 1 Mox Opal
+SB: 1 Thoughtcast
+SB: 1 Tezzeret, Master of the Bridge
+SB: 1 Ugin, the Ineffable
+SB: 1 Emry, Lurker of the Loch
+SB: 1 Supreme Verdict
+SB: 1 Cavern of Souls
+SB: 1 Urza's Tome
+SB: 1 Spatula of the Ages
+SB: 1 Nettlecyst
+SB: 1 Organic Extinction
+SB: 1 Urza Assembles the Titans
+SB: 1 Their Name Is Death
+SB: 1 Indomitable Archangel
+SB: 1 Urza's Sylex
+SB: 1 Portal to Phyrexia
+SB: 1 Platoon Dispenser
+SB: 1 Sharding Sphinx
+SB: 1 Ornithopter
+SB: 1 Breach the Multiverse
+SB: 1 Noxious Gearhulk
+SB: 1 Padeem, Consul of Innovation
+SB: 1 Shimmer Dragon
+SB: 1 Urza's Incubator
+SB: 1 Bident of Thassa
+SB: 1 Mystic Forge
+SB: 1 Urza, Chief Artificer

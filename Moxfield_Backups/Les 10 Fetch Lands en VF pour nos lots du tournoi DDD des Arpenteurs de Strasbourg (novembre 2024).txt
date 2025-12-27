@@ -1,0 +1,10 @@
+1 Verdant Catacombs
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Arid Mesa
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Bloodstained Mire
+1 Wooded Foothills

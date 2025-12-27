@@ -1,0 +1,131 @@
+1 Shadowspear
+1 Palace Jailer
+1 Baneslayer Angel
+1 Angel of Vitality
+1 Bishop of Wings
+1 Angel of Sanctions
+1 Angel of Grace
+1 Sublime Archangel
+1 Shefet Dunes
+1 Path to Exile
+1 Mother of Runes
+1 On Thin Ice
+1 Castle Ardenvale
+1 Angel of Finality
+1 Knight of the White Orchid
+1 Oketra's Monument
+1 Battlegrace Angel
+1 Bonders' Enclave
+1 Drannith Magistrate
+1 Council's Judgment
+1 Linvala, Keeper of Silence
+1 Umezawa's Jitte
+1 Swords to Plowshares
+1 Angel of Jubilation
+1 Seraph Sanctuary
+1 Emeria, the Sky Ruin
+1 Settle the Wreckage
+1 Angel of Serenity
+1 Cathedral of War
+1 Lightning Greaves
+1 Sejiri Shelter // Sejiri Glacier
+1 Kabira Takedown // Kabira Plateau
+1 Court of Grace
+1 Commander's Plate
+1 Starnheim Aspirant
+1 Youthful Valkyrie
+1 Path of Ancestry
+1 Faceless Haven
+1 Starnheim Unleashed
+1 Urza's Saga
+1 Portable Hole
+1 Solitude
+1 Esper Sentinel
+1 Cave of the Frost Dragon
+1 Enduring Angel // Angelic Enforcer
+1 Bastion Protector
+1 Touch the Spirit Realm
+1 Eiganjo, Seat of the Empire
+1 Arcane Signet
+1 Seasoned Dungeoneer
+1 Mutavault
+1 Vexilus Praetor
+1 Valkyrie Harbinger
+1 Lyra Dawnbringer
+1 Righteous Valkyrie
+1 Sandstone Bridge
+1 Plains
+1 Norn's Choirmaster
+1 Planar Disruption
+1 Seal from Existence
+1 Boon-Bringer Valkyrie
+1 Firemane Commando
+1 Metropolis Reformer
+1 Minas Tirith
+1 Flowering of the White Tree
+1 Pearl Medallion
+1 Angelic Field Marshal
+1 Stroke of Midnight
+1 Get Lost
+1 Gisela, the Broken Blade
+1 Sunblast Angel
+1 Emeria's Call // Emeria, Shattered Skyclave
+1 Fateful Absence
+1 March of Otherworldly Light
+1 Skyclave Apparition
+1 White Plume Adventurer
+22 Snow-Covered Plains
+1 Giver of Runes
+SB: 1 Idyllic Grange
+SB: 1 Sephara, Sky's Blade
+SB: 1 Serra's Guardian
+SB: 1 Opal Palace
+SB: 1 Eiganjo Castle
+SB: 1 Angelic Skirmisher
+SB: 1 Bruna, the Fading Light
+SB: 1 Exquisite Archangel
+SB: 1 Relic of Progenitus
+SB: 1 Angelic Arbiter
+SB: 1 Akroma, Angel of Wrath
+SB: 1 Orim's Chant
+SB: 1 Generous Gift
+SB: 1 Segovian Angel
+SB: 1 Serra the Benevolent
+SB: 1 Winds of Abandon
+SB: 1 Scavenger Grounds
+SB: 1 Windbrisk Heights
+SB: 1 Aegis Angel
+SB: 1 Angel of the Dire Hour
+SB: 1 Herald of War
+SB: 1 Linvala, the Preserver
+SB: 1 Angel of Invention
+SB: 1 Rishadan Port
+SB: 1 Empyrial Storm
+SB: 1 Kabira Crossroads
+SB: 1 Serra Angel
+SB: 1 Grasp of Fate
+SB: 1 Rogue's Passage
+SB: 1 Makindi Stampede // Makindi Mesas
+SB: 1 Platinum Angel
+SB: 1 Akroma, Vision of Ixidor
+SB: 1 Resplendent Marshal
+SB: 1 Flagstones of Trokair
+SB: 1 Serra's Emissary
+SB: 1 Sanctifier en-Vec
+SB: 1 Unbreakable Formation
+SB: 1 Lion Sash
+SB: 1 Sanctuary Warden
+SB: 1 Temple of the False God
+SB: 1 Windshaper Planetar
+SB: 1 War Room
+SB: 1 Plaza of Heroes
+SB: 1 Angel of the Ruins
+SB: 1 Steel Seraph
+SB: 1 Excise the Imperfect
+SB: 1 Archangel of Tithes
+SB: 1 Serra Avenger
+SB: 1 Angelic Guardian
+SB: 1 Thalia, Heretic Cathar
+SB: 1 Sigrid, God-Favored
+SB: 1 Mind Stone
+SB: 1 Giada, Font of Hope

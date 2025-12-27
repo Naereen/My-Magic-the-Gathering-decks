@@ -1,0 +1,172 @@
+1 Return of the Wildspeaker
+1 Corpse Knight
+1 Nature's Lore
+1 Sadistic Glee
+1 Ivy Lane Denizen
+1 Beast Within
+1 Graypelt Refuge
+1 Stirring Wildwood
+1 Zulaport Cutthroat
+1 Geralf's Messenger
+1 Strangleroot Geist
+1 Young Wolf
+1 Skullclamp
+1 Birds of Paradise
+1 Cruel Celebrant
+1 Good-Fortune Unicorn
+1 Cryptic Trilobite
+1 Gavony Township
+1 Anointed Procession
+1 Reflecting Pool
+1 Sunpetal Grove
+1 Renata, Called to the Hunt
+1 Mazirek, Kraul Death Priest
+1 Inspiring Call
+1 Doubling Season
+1 Farseek
+1 Temple Garden
+1 Vitu-Ghazi, the City-Tree
+1 Sandsteppe Citadel
+1 Caves of Koilos
+1 Utter End
+1 Pitiless Plunderer
+1 Blood Artist
+1 Parallel Lives
+1 Marsh Flats
+1 Sigil Captain
+1 Ashnod's Altar
+1 Branchloft Pathway // Boulderloft Pathway
+1 Slimefoot, the Stowaway
+1 Three Visits
+1 Utopia Mycon
+1 Chatterfang, Squirrel General
+1 Scurry Oak
+1 Herd Baloth
+1 Overgrown Farmland
+1 Bountiful Promenade
+1 Shambling Vent
+1 Phyrexian Altar
+1 Conclave Mentor
+1 Elas il-Kor, Sadistic Pilgrim
+1 Death's Presence
+1 Brushland
+1 Command Tower
+1 Razorverge Thicket
+1 Sol Ring
+1 Arcane Signet
+1 Cankerbloom
+1 Kami of Whispered Hopes
+1 Tribute to the World Tree
+1 Ozolith, the Shattered Spire
+1 Juniper Order Ranger
+1 Delighted Halfling
+1 Rosie Cotton of South Lane
+1 Chromatic Lantern
+1 Stroke of Midnight
+1 Primal Vigor
+1 Path of Ancestry
+1 Tarrian's Soulcleaver
+1 Temple of Plenty
+1 Sungrass Prairie
+1 Scattered Groves
+1 Canopy Vista
+1 Hardened Scales
+1 Winding Constrictor
+1 Corpsejack Menace
+1 Blooming Marsh
+1 Concealed Courtyard
+1 Basking Broodscale
+1 Evolution Witness
+1 Revitalizing Repast // Old-Growth Grove
+1 Branching Evolution
+1 Assassin's Trophy
+1 Tear Asunder
+1 Cathars' Crusade
+1 Insidious Fungus
+1 Temple of Silence
+1 Sakura-Tribe Elder
+1 Llanowar Wastes
+1 Temple of Malady
+3 Swamp
+3 Plains
+4 Forest
+SB: 1 Heliod, Sun-Crowned
+SB: 1 Idyllic Tutor
+SB: 1 Eldrazi Monument
+SB: 1 Basri's Lieutenant
+SB: 1 Grim Tutor
+SB: 1 Woodland Champion
+SB: 1 Champion of Lambholt
+SB: 1 Crystalline Crawler
+SB: 1 Eldritch Evolution
+SB: 1 Mikaeus, the Unhallowed
+SB: 1 Rishkar's Expertise
+SB: 1 Walking Ballista
+SB: 1 Kodama's Reach
+SB: 1 Cultivate
+SB: 1 Llanowar Elves
+SB: 1 Deathsprout
+SB: 1 Eladamri's Call
+SB: 1 Despark
+SB: 1 Tayam, Luminous Enigma
+SB: 1 Birthing Pod
+SB: 1 Green Sun's Zenith
+SB: 1 Sporemound
+SB: 1 Elves of Deep Shadow
+SB: 1 Silence
+SB: 1 Grand Abolisher
+SB: 1 Dragonlord Dromoka
+SB: 1 Avacyn's Pilgrim
+SB: 1 Life and Limb
+SB: 1 Natural Order
+SB: 1 Fracture
+SB: 1 Profane Tutor
+SB: 1 Vindicate
+SB: 1 Valorous Stance
+SB: 1 Old Gnawbone
+SB: 1 Dig Up
+SB: 1 One with the Kami
+SB: 1 Swift Reconfiguration
+SB: 1 Devoted Druid
+SB: 1 Jaheira, Friend of the Forest
+SB: 1 Abzan Charm
+SB: 1 Diabolic Intent
+SB: 1 Myrel, Shield of Argive
+SB: 1 Swords to Plowshares
+SB: 1 Mondrak, Glory Dominus
+SB: 1 Sheoldred's Edict
+SB: 1 Scoured Barrens
+SB: 1 Teysa Karlov
+SB: 1 Barad-dûr
+SB: 1 Mirkwood Bats
+SB: 1 Peregrin Took
+SB: 1 Elven Chorus
+SB: 1 Arwen, Weaver of Hope
+SB: 1 Karador, Ghost Chieftain
+SB: 1 Tooth and Nail
+SB: 1 Bloodspore Thrinax
+SB: 1 Generous Gift
+SB: 1 Beseech the Mirror
+SB: 1 Spider Food
+SB: 1 Ojer Taq, Deepest Foundation // Temple of Civilization
+SB: 1 Kutzil, Malamet Exemplar
+SB: 1 Putrefy
+SB: 1 Archdruid's Charm
+SB: 1 Insidious Roots
+SB: 1 Sidar Kondo of Jamuraa
+SB: 1 Kambal, Profiteering Mayor
+SB: 1 Orim's Chant
+SB: 1 Warren Soultrader
+SB: 1 Nadier's Nightblade
+SB: 1 Mortify
+SB: 1 Ygra, Eater of All
+SB: 1 Patchwork Banner
+SB: 1 Brightcap Badger // Fungus Frolic
+SB: 1 Rootcast Apprenticeship
+SB: 1 Tendershoot Dryad
+SB: 1 Enduring Vitality
+SB: 1 Bastion of Remembrance
+SB: 1 Culling Ritual
+SB: 1 Finale of Devastation
+SB: 1 Chord of Calling
+SB: 1 Ghave, Guru of Spores

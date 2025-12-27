@@ -1,0 +1,140 @@
+1 Dryad of the Ilysian Grove
+1 Archon of Sun's Grace
+1 Arasta of the Endless Web
+1 Heliod, Sun-Crowned
+1 Shadowspear
+1 Setessan Champion
+1 Kenrith's Transformation
+1 Bloom Tender
+1 Phyrexian Arena
+1 Sandsteppe Citadel
+1 Plains
+1 Nature's Lore
+1 Forest
+1 Ghostly Prison
+1 Blind Obedience
+1 Godless Shrine
+1 Mesa Enchantress
+1 Sylvan Library
+1 Yavimaya Enchantress
+1 Smothering Tithe
+1 Knight of Autumn
+1 Eidolon of Blossoms
+1 Celestial Ancient
+1 Verduran Enchantress
+1 Nurturing Peatland
+1 Silent Clearing
+1 Faeburrow Elder
+1 Bayou
+1 Savannah
+1 Scrubland
+1 Mirari's Wake
+1 Isolated Chapel
+1 Aegis of the Gods
+1 Doomwake Giant
+1 Extinguish All Hope
+1 Eidolon of Rhetoric
+1 Thoughtrender Lamia
+1 Overgrown Tomb
+1 Starfield Mystic
+1 Alseid of Life's Bounty
+1 Destiny Spinner
+1 Nylea's Forerunner
+1 Nyxbloom Ancient
+1 Archetype of Endurance
+1 Indatha Triome
+1 Path to Exile
+1 Twilight Mire
+1 Ajani's Chosen
+1 Farseek
+1 Umezawa's Jitte
+1 Eidolon of Countless Battles
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Wooded Foothills
+1 Windswept Heath
+1 Cathars' Crusade
+1 Crypt Ghast
+1 Herald of the Pantheon
+1 Satyr Enchanter
+1 Temple Garden
+1 Sol Ring
+1 Zendikar Resurgent
+1 Fate Unraveler
+1 Nighthowler
+1 Terastodon
+1 Arid Mesa
+1 Reflecting Pool
+1 Wooded Bastion
+1 Undergrowth Stadium
+1 Vault of Champions
+1 Marsh Flats
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Enchantress's Presence
+1 Sanctum Weaver
+1 Sythis, Harvest's Hand
+1 Foundation Breaker
+1 Moon-Blessed Cleric
+1 Shriekmaw
+1 Overgrown Farmland
+1 Shattered Sanctum
+1 Deathcap Glade
+1 Jukai Naturalist
+1 Generous Visitor
+1 Kami of Transience
+1 Boseiju, Who Endures
+1 Eiganjo, Seat of the Empire
+1 Weaver of Harmony
+1 Bountiful Promenade
+1 Titan of Industry
+1 Green Slime
+1 End-Raze Forerunners
+1 Swamp
+1 Silverback Elder
+1 Swords to Plowshares
+1 Tainted Field
+1 Tainted Wood
+1 Spirited Companion
+1 Path of Ancestry
+1 Arcane Signet
+1 Command Tower
+1 Fetid Heath
+1 Calix, Guided by Fate
+SB: 1 Elesh Norn, Grand Cenobite
+SB: 1 Urborg, Tomb of Yawgmoth
+SB: 1 Utopia Sprawl
+SB: 1 Birds of Paradise
+SB: 1 Prismatic Vista
+SB: 1 Murderous Rider // Swift End
+SB: 1 Grand Abolisher
+SB: 1 Sunpetal Grove
+SB: 1 Transcendent Envoy
+SB: 1 Drannith Magistrate
+SB: 1 Blightsteel Colossus
+SB: 1 Craterhoof Behemoth
+SB: 1 Abzan Banner
+SB: 1 Shalai, Voice of Plenty
+SB: 1 Woodland Cemetery
+SB: 1 Beast Whisperer
+SB: 1 Brightclimb Pathway // Grimclimb Pathway
+SB: 1 Branchloft Pathway // Boulderloft Pathway
+SB: 1 Emeria's Call // Emeria, Shattered Skyclave
+SB: 1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+SB: 1 Archon of Emeria
+SB: 1 Agadeem's Awakening // Agadeem, the Undercrypt
+SB: 1 Felidar Retreat
+SB: 1 Kodama of the East Tree
+SB: 1 Toski, Bearer of Secrets
+SB: 1 Darkbore Pathway // Slitherbore Pathway
+SB: 1 Yavimaya, Cradle of Growth
+SB: 1 Esper Sentinel
+SB: 1 Timeless Witness
+SB: 1 Garruk's Uprising
+SB: 1 Windborn Muse
+SB: 1 Reclamation Sage
+SB: 1 Acidic Slime
+SB: 1 Ulamog, the Infinite Gyre
+SB: 1 Wild Growth
+SB: 1 Anikthea, Hand of Erebos

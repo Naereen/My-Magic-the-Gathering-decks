@@ -1,0 +1,102 @@
+1 Ancient Den
+2 Island
+2 Plains
+1 Minamo, School at Water's Edge
+1 Hallowed Fountain
+1 Smothering Tithe
+1 Shivan Reef
+1 Thoughtcast
+1 Darksteel Citadel
+1 Darksteel Forge
+1 Mycosynth Lattice
+1 Skullclamp
+1 Karn, the Great Creator
+1 Mirrodin Besieged
+1 Emry, Lurker of the Loch
+1 Steam Vents
+1 Raugrin Triome
+1 Academy Ruins
+1 Mystic Monastery
+1 Etherium Sculptor
+1 Inventors' Fair
+1 Sacred Foundry
+1 Golden Guardian // Gold-Forge Garrison
+1 Dowsing Dagger // Lost Vale
+1 Thaumatic Compass // Spires of Orazca
+1 Jhoira, Weatherlight Captain
+1 Jhoira's Familiar
+1 Great Furnace
+1 Seat of the Synod
+1 Alibou, Ancient Witness
+1 Urza's Saga
+1 Razortide Bridge
+1 Esper Sentinel
+1 Power Depot
+2 Mountain
+1 Enthusiastic Mechanaut
+1 Cyberdrive Awakener
+1 Shorikai, Genesis Engine
+1 Eiganjo, Seat of the Empire
+1 Sea of Clouds
+1 Adarkar Wastes
+1 Urza, Lord Protector
+1 Swords to Plowshares
+1 Urza, Prince of Kroog
+1 Bronze Guardian
+1 Tempered Steel
+1 Unwinding Clock
+1 The Mycosynth Gardens
+1 Chrome Host Seedshark
+1 Thopter Spy Network
+1 Kykar, Wind's Fury
+1 Sai, Master Thopterist
+1 Urza, Lord High Artificer
+1 Spectator Seating
+1 Training Center
+1 Losheel, Clockwork Scholar
+1 Foundry Inspector
+1 Padeem, Consul of Innovation
+1 Stroke of Midnight
+1 The Enigma Jewel // Locus of Enlightenment
+1 Spring-Loaded Sawblades // Bladewheel Chariot
+1 Matzalantli, the Great Door // The Core
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Roaming Throne
+1 Threefold Thunderhulk
+1 Brass's Tunnel-Grinder // Tecutlan, the Searing Rift
+1 Akal Pakal, First Among Equals
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Illustrious Wanderglyph
+1 Eye of Ojer Taq // Apex Observatory
+1 Anim Pakal, Thousandth Moon
+1 Scene of the Crime
+1 Forensic Gadgeteer
+1 Nettlecyst
+1 Organic Extinction
+1 Tezzeret, Betrayer of Flesh
+1 Kappa Cannoneer
+1 Thought Monitor
+1 Mechanized Production
+1 Buried Ruin
+1 Rustvale Bridge
+1 Silverbluff Bridge
+1 Spire of Industry
+1 Treasure Vault
+1 Wake the Past
+1 Dispatch
+1 Mystic Forge
+1 Path to Exile
+1 Oltec Matterweaver
+1 Transmutation Font
+1 Simulacrum Synthesizer
+1 Fomori Vault
+1 Sol Ring
+1 Arcane Signet
+1 Third Path Iconoclast
+1 Command Tower
+1 Rogue's Passage
+1 Reliquary Tower
+1 Path of Ancestry
+1 Battlefield Forge
+1 Sulfur Falls
+SB: 1 Tetzin, Gnome Champion // The Golden-Gear Colossus

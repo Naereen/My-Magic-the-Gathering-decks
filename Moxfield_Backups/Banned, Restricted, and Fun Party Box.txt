@@ -1,0 +1,348 @@
+1 Enter the Dungeon
+1 Richard Garfield, Ph.D.
+1 Staying Power
+1 Cauldron Familiar
+1 Fires of Invention
+1 Lucky Clover
+1 Mystic Sanctuary
+1 Oko, Thief of Crowns
+1 Ancient Den
+1 Beacon of Immortality
+1 Invigorate
+1 Serendib Efreet
+1 Sol Ring
+1 Agent of Treachery
+1 Golos, Tireless Pilgrim
+1 Kethis, the Hidden Hand
+1 Black Lotus
+1 Candelabra of Tawnos
+1 Mishra's Workshop
+1 Divine Intervention
+1 Falling Star
+1 Mirror Universe
+1 Sword of the Ages
+1 Counterspell
+1 Dingus Egg
+1 Feldon's Cane
+1 Mana Vault
+1 Recall
+1 Dark Ritual
+1 Orcish Oriflamme
+1 Limited Resources
+1 Mind Over Matter
+1 Recurring Nightmare
+1 Survival of the Fittest
+1 Land Tax
+1 Crucible of Worlds
+1 Krark-Clan Ironworks
+1 Glimpse of Nature
+1 Kokusho, the Evening Star
+1 Sensei's Divining Top
+1 Emrakul, the Aeons Torn
+1 Splinter Twin
+1 Sylvan Primordial
+1 Undercity Informer
+1 Swords to Plowshares
+1 Entomb
+1 Intangible Virtue
+1 Hymn to Tourach
+1 Maze of Ith
+1 Sinkhole
+1 Vampiric Tutor
+1 Gifts Ungiven
+1 Mystical Tutor
+1 Wilderness Reclamation
+1 Bridge from Below
+1 Karakas
+1 Leovold, Emissary of Trest
+1 Runed Halo
+1 Baral, Chief of Compliance
+1 Battle at the Bridge
+1 Felidar Guardian
+1 Paradox Engine
+1 Blood Moon
+1 Riftsweeper
+1 Mox Opal
+1 Lightning Bolt
+1 Voltaic Key
+1 Darksteel Citadel
+1 Seat of the Synod
+1 Arcbound Ravager
+1 Coalition Victory
+1 Protean Hulk
+1 Aether Vial
+1 Mycosynth Lattice
+1 Panoptic Mirror
+1 Skullclamp
+1 Sundering Titan
+1 Trinisphere
+1 Mind's Desire
+1 Lin Sivvi, Defiant Hero
+1 Cursed Scroll
+1 Earthcraft
+1 Grindstone
+1 Lotus Petal
+1 Grim Monolith
+1 Memory Jar
+1 Balance
+1 Channel
+1 Squandered Resources
+1 Bazaar of Baghdad
+1 Ali from Cairo
+1 Library of Alexandria
+1 Ring of Ma'rûf
+1 Shahrazad
+1 Dreadhorde Arcanist
+1 Narset, Parter of Veils
+1 Karn, the Great Creator
+1 Teferi, Time Raveler
+1 Arcum's Astrolabe
+1 Hogaak, Arisen Necropolis
+1 Wrenn and Six
+1 Escape to the Wilds
+1 Fluctuator
+1 Gideon's Intervention
+1 Temporal Fissure
+1 Cranial Plating
+1 Eye of Ugin
+1 Niv-Mizzet, the Firemind
+1 Hurkyl's Recall
+1 Ugin, the Spirit Dragon
+1 Wild Nacatl
+1 Primeval Titan
+1 Birthing Pod
+1 Gitaxian Probe
+1 Green Sun's Zenith
+1 Erayo, Soratami Ascendant // Erayo's Essence
+1 Gaea's Cradle
+1 Serra's Sanctum
+1 Tolarian Academy
+1 Time Spiral
+1 Yawgmoth's Will
+1 Lion's Eye Diamond
+1 Strip Mine
+1 Amulet of Quoz
+1 Demonic Consultation
+1 Atog
+1 Braingeyser
+1 Contract from Below
+1 Copy Artifact
+1 Demonic Attorney
+1 Demonic Tutor
+1 Darkpact
+1 Fastbond
+1 Fork
+1 Wheel of Fortune
+1 Field of the Dead
+1 Thassa's Oracle
+1 Underworld Breach
+1 Winota, Joiner of Forces
+1 Ad Nauseam
+1 Dread Return
+1 Mana Crypt
+1 Meddling Mage
+1 Sneak Attack
+1 Walking Ballista
+1 Drannith Magistrate
+1 Lutri, the Spellchaser
+1 Zirda, the Dawnwaker
+1 Ancestral Recall
+1 Chaos Orb
+1 Gauntlet of Might
+1 Illusionary Mask
+1 Mox Emerald
+1 Mox Sapphire
+1 Mox Pearl
+1 Mox Jet
+1 Mox Ruby
+1 Timetwister
+1 Time Walk
+1 Time Vault
+1 Thawing Glaciers
+1 Dream Halls
+1 Ashnod's Coupon
+1 Booster Tutor
+1 Magical Hacker
+1 Mox Lotus
+1 R&D's Secret Lair
+1 Time Machine
+1 Sway of the Stars
+1 Umezawa's Jitte
+1 Biorhythm
+1 Kird Ape
+1 Rukh Egg
+1 Seething Song
+1 Underworld Dreams
+1 Ancestral Vision
+1 Hypergenesis
+1 Brainstorm
+1 Bitterblossom
+1 Hypnotic Specter
+1 Ponder
+1 Time Warp
+1 Stoneforge Mystic
+1 Valakut, the Molten Pinnacle
+1 Punishing Fire
+1 Primal Surge
+1 Bloodstained Mire
+1 Dig Through Time
+1 Flooded Strand
+1 Polluted Delta
+1 Wooded Foothills
+1 Windswept Heath
+1 Inverter of Truth
+1 Oath of Nissa
+1 Attune with Aether
+1 Smuggler's Copter
+1 Berserk
+1 Burning Wish
+1 Expropriate
+1 Flash
+1 Jace, the Mind Sculptor
+1 Living Wish
+1 Regrowth
+1 Nexus of Fate
+1 Saheeli, the Gifted
+1 Rampaging Ferocidon
+1 Sorcerous Spyglass
+1 Mana Drain
+1 Necropotence
+1 Prophet of Kruphix
+1 Worldfire
+1 Trade Secrets
+1 Spreading Seas
+1 Painter's Servant
+1 Chalice of the Void
+1 Chrome Mox
+1 Cloudpost
+1 Disciple of the Vault
+1 Great Furnace
+1 Second Sunrise
+1 Tree of Tales
+1 Vault of Whispers
+1 Tooth and Nail
+1 Death Wish
+1 Golden Wish
+1 Memory Lapse
+1 Metalworker
+1 Replenish
+1 Rofellos, Llanowar Emissary
+1 Yawgmoth's Bargain
+1 Enlightened Tutor
+1 Timmerian Fiends
+1 Double Play
+1 Double Cross
+1 Double Deal
+1 Double Take
+1 Double Dip
+1 Once More with Feeling
+1 Bronze Tablet
+1 Rebirth
+1 Tempest Efreet
+1 Omnath, Locus of Creation
+1 Preordain
+1 Fall from Favor
+1 Hullbreacher
+1 Thirst for Knowledge
+1 Faceless Haven
+1 Alrund's Epiphany
+1 Tibalt's Trickery
+1 Grapeshot
+1 Grinning Ignus
+1 Rough // Tumble
+1 Simian Spirit Guide
+1 Divide by Zero
+1 Natural Order
+1 Tainted Pact
+1 Chatterstorm
+1 Zuran Orb
+1 Ragavan, Nimble Pilferer
+1 Upheaval
+1 Braids, Cabal Minion
+1 Galvanic Relay
+1 Sojourner's Companion
+1 Fury
+1 Staff of Domination
+1 The Book of Exalted Deeds
+1 Pithing Needle
+1 The Meathook Massacre
+1 Invoke Despair
+1 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+1 Blazing Shoal
+1 Heartless Hidetsugu
+1 Reckoner Bankbuster
+1 White Plume Adventurer
+1 Aarakocra Sneak
+1 Underdark Explorer
+1 Vicious Battlerager
+1 Stirring Bard
+1 Imperial Seal
+1 Balustrade Spy
+1 Kaervek the Merciless
+1 Burning-Tree Emissary
+1 Monastery Swiftspear
+1 Summer Bloom
+1 Lodestone Golem
+1 Ivory Tower
+1 Phyrexian Revoker
+1 Mishra's Bauble
+1 Thorn of Amethyst
+1 Sword of the Meek
+1 High Tide
+1 Cloud of Faeries
+1 Crop Rotation
+1 Juggernaut
+1 Icy Manipulator
+1 Peregrine Drake
+1 Stroke of Genius
+1 Empty the Warrens
+1 Test of Endurance
+1 Worldgorger Dragon
+1 Jeweled Lotus
+1 Monastery Mentor
+1 Lurrus of the Dream-Den
+1 Personal Tutor
+1 Fact or Fiction
+1 Frantic Search
+1 Bonder's Ornament
+1 Faithless Looting
+1 Intruder Alarm
+1 Up the Beanstalk
+1 Leyline of Abundance
+1 Prophetic Prism
+1 Geological Appraiser
+1 Windfall
+1 Growth Spiral
+1 Golgari Grave-Troll
+1 Mystic Forge
+1 Ramunap Ruins
+1 Aetherworks Marvel
+1 Expedition Map
+1 Dark Depths
+1 Uro, Titan of Nature's Wrath
+1 Treasure Cruise
+1 Bloodbraid Elf
+1 Daze
+1 Merchant Scroll
+1 Expressive Iteration
+1 Yorion, Sky Nomad
+1 Black Vise
+1 Cunning Wish
+1 Doomsday
+1 Deathrite Shaman
+1 Iona, Shield of Emeria
+1 Gush
+1 Goblin Recruiter
+1 Mind Twist
+1 Mental Misstep
+1 Once Upon a Time
+1 Oath of Druids
+1 Rite of Flame
+1 Rishadan Port
+1 Show and Tell
+1 Tinker
+1 Veil of Summer
+1 Lingering Souls
+1 Emrakul, the Promised End
+1 Hermit Druid
+1 Griselbrand

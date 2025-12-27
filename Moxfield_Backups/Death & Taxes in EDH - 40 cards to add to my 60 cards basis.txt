@@ -1,0 +1,60 @@
+1 Shadowspear
+1 Containment Priest
+1 Thalia, Guardian of Thraben
+1 Flickerwisp
+1 Wasteland
+1 Mother of Runes
+1 Hushwing Gryff
+1 Ethersworn Canonist
+1 God-Eternal Oketra
+1 Charming Prince
+1 Banisher Priest
+1 Ghost Quarter
+1 Oblivion Ring
+1 Drannith Magistrate
+1 Luminous Broodmoth
+1 Loxodon Gatekeeper
+1 Spirit of the Labyrinth
+1 Pearl Medallion
+1 Eldrazi Displacer
+1 Alms Collector
+1 Thalia, Heretic Cathar
+1 Skyclave Apparition
+1 Strip Mine
+1 Commander's Plate
+1 Sigrid, God-Favored
+1 Reidane, God of the Worthy // Valkmira, Protector's Shield
+1 Urza's Saga
+1 Sanctum Prelate
+1 Ephemerate
+1 Solitude
+1 Aven Mindcensor
+1 Teleportation Circle
+1 Cathar Commando
+1 March of Otherworldly Light
+1 Lion Sash
+1 Archon of Coronation
+1 Extraction Specialist
+1 White Plume Adventurer
+1 Seasoned Dungeoneer
+1 Leonin Arbiter
+1 Loran of the Third Path
+1 Windborn Muse
+SB: 1 Cataclysm
+SB: 1 Smothering Tithe
+SB: 1 Solemnity
+SB: 1 Orim's Chant
+SB: 1 Grand Abolisher
+SB: 1 Batterskull
+SB: 1 Stoneforge Mystic
+SB: 1 Radiant Purge
+SB: 1 Baird, Steward of Argive
+SB: 1 Greymond, Avacyn's Stalwart
+SB: 1 Akroma's Will
+SB: 1 Kaldra Compleat
+SB: 1 Portable Hole
+SB: 1 Icingdeath, Frost Tyrant
+SB: 1 Archivist of Oghma
+SB: 1 Deep Gnome Terramancer
+SB: 1 Austere Command
+SB: 1 Myrel, Shield of Argive

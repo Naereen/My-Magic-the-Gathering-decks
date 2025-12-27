@@ -1,0 +1,95 @@
+1 Universal Automaton
+1 Nature's Lore
+1 Frenzy Sliver
+1 Wrap in Vigor
+1 Nature's Claim
+1 Survivors' Encampment
+1 Terminate
+1 Doom Blade
+1 Lignify
+1 Horned Sliver
+1 Heart Sliver
+1 Metallic Sliver
+1 Muscle Sliver
+1 Winged Sliver
+1 Oubliette
+1 Cleaving Sliver
+1 Bladeback Sliver
+1 Unearth
+1 Nameless Inversion
+1 Go for the Throat
+1 Crypt Sliver
+1 Hunter Sliver
+1 Quick Sliver
+1 Frogify
+1 Bonesplitter Sliver
+1 Shadow Sliver
+1 Screeching Sliver
+1 Mothdust Changeling
+1 Groundshaker Sliver
+1 Predatory Sliver
+1 Striking Sliver
+1 Holdout Settlement
+1 Lightning Bolt
+1 Broken Bond
+1 Farseek
+1 Battering Sliver
+1 Synchronous Sliver
+1 Spitting Sliver
+1 Changeling Outcast
+1 Masked Vandal
+1 Snow-Covered Island
+1 Woodland Chasm
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+1 Snow-Covered Forest
+1 Two-Headed Sliver
+1 Reflex Sliver
+1 Spinneret Sliver
+1 Virulent Sliver
+1 Study Hall
+1 Eaten Alive
+1 Return to Nature
+1 Distant Melody
+1 Tamiyo's Safekeeping
+1 Opal Palace
+1 Heap Gate
+1 Sea Gate
+1 Manor Gate
+1 Cliffgate
+1 Black Dragon Gate
+1 Three Visits
+1 Webweaver Changeling
+1 Thriving Grove
+1 Arcane Signet
+1 Oliphaunt
+1 Shire Terrace
+1 Generous Ent
+1 Troll of Khazad-dûm
+1 Lórien Revealed
+1 Clot Sliver
+1 Blur Sliver
+1 Commander's Sphere
+1 Snuff Out
+1 Promising Vein
+1 Command Tower
+1 Dreadbore
+1 Thriving Bluff
+1 Foreboding Landscape
+1 Seething Landscape
+1 Twisted Landscape
+1 Basilisk Gate
+1 Three Tree Mascot
+1 Thriving Moor
+1 Thriving Isle
+1 Witness Protection
+1 Abrade
+1 Imprisoned in the Moon
+1 Path of Ancestry
+1 Ash Barrens
+1 Deadly Dispute
+1 Haunted Mire
+1 Feed the Swarm
+1 Bountiful Landscape
+5 Forest
+SB: 1 Gemhide Sliver

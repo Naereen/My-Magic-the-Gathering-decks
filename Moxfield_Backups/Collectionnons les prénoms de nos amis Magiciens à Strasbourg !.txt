@@ -1,0 +1,108 @@
+1 Chulane, Teller of Tales
+1 Command Tower
+1 Faeburrow Elder
+1 Birds of Paradise
+1 Prodigal Sorcerer
+1 Raff Capashen, Ship's Mage
+1 Island
+1 Mountain
+1 Plains
+1 Forest
+1 Swamp
+1 Temple of Malice
+1 Captain Sisay
+1 Adriana, Captain of the Guard
+1 Path of Ancestry
+1 Gerrard, Weatherlight Hero
+1 Barktooth Warbeard
+1 Jacques le Vert
+1 City of Brass
+1 Bloodstained Mire
+1 Flooded Strand
+1 Breeding Pool
+1 Godless Shrine
+1 Sacred Foundry
+1 Stomping Ground
+1 Watery Grave
+1 Steam Vents
+1 Temple Garden
+1 Arid Mesa
+1 Marsh Flats
+1 Misty Rainforest
+1 Olivia Voldaren
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Mana Confluence
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Kira, Great Glass-Spinner
+1 Sun Quan, Lord of Wu
+1 Liliana, Heretical Healer // Liliana, Defiant Necromancer
+1 Cavern of Souls
+1 Mikaeus, the Unhallowed
+1 Blood Crypt
+1 Hallowed Fountain
+1 Marchesa, the Black Rose
+1 Alexi, Zephyr Mage
+1 Jegantha, the Wellspring
+1 Indatha Triome
+1 Ketria Triome
+1 Zagoth Triome
+1 Jhoira, Weatherlight Captain
+1 Savai Triome
+1 Raugrin Triome
+1 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen
+1 Gregor, Shrewd Magistrate
+1 Realmwalker
+1 Toski, Bearer of Secrets
+1 The World Tree
+1 Valentin, Dean of the Vein // Lisette, Dean of the Root
+1 Fain, the Broker
+1 Florian, Voldaren Scion
+1 Bjorna, Nightfall Alchemist
+1 Yoshimaru, Ever Faithful
+1 Jetmir's Garden
+1 Spara's Headquarters
+1 Raffine's Tower
+1 Xander's Lounge
+1 Oskar, Rubbish Reclaimer
+1 Bhaal, Lord of Murder
+1 Wilson, Refined Grizzly
+1 Plaza of Heroes
+1 Stenn, Paranoid Partisan
+1 Celestine, the Living Saint
+1 Hajar, Loyal Bodyguard
+1 Rodolf Duskbringer
+1 Rory Williams
+1 Delighted Halfling
+1 Samwise Gamgee
+1 Ian Malcolm, Chaotician
+1 Lily Bowen, Raging Grandma
+1 Marcus, Mutant Mayor
+1 Leonardo da Vinci
+1 James, Wandering Dad // Follow Him
+1 Ezio Auditore da Firenze
+1 Mary Read and Anne Bonny
+1 Clement, the Worrywort
+1 Victor, Valgavoth's Seneschal
+1 Elena, Turk Recruit
+1 General Leo Cristophe
+1 Arno Dorian
+1 Vincent, Vengeful Atoner
+1 Joshua, Phoenix's Dominant // Phoenix, Warden of Fire
+1 Torgal, A Fine Hound
+1 Peter Parker // Amazing Spider-Man
+1 Joel, Resolute Survivor
+1 Nathan Drake, Treasure Hunter
+1 Fabled Passage
+1 Animar, Soul of Elements
+1 Ludevic, Necro-Alchemist
+1 Sylvan Caryatid
+1 Greymond, Avacyn's Stalwart
+1 Sarah Jane Smith
+1 Arthur, Marigold Knight
+2 Mathise, Surge Channeler
+SB: 1 Umori, the Collector
+SB: 1 Hans Eriksson
+SB: 1 Jodah, the Unifier

@@ -1,0 +1,115 @@
+1 Shadowspear
+1 Angel of the Dire Hour
+1 Angel of Vitality
+1 Path to Exile
+1 Angelic Skirmisher
+1 Firemane Avenger
+1 Swords to Plowshares
+1 Ghostly Prison
+1 Wind-Scarred Crag
+1 Bruna, the Fading Light
+1 Gisela, the Broken Blade
+1 Boros Signet
+1 Command Tower
+1 Smothering Tithe
+1 Aurelia, Exemplar of Justice
+1 Arid Mesa
+1 Snow-Covered Mountain
+3 Snow-Covered Plains
+1 Pearl Medallion
+1 Sunbaked Canyon
+1 Oketra's Monument
+1 Vandalblast
+1 Plateau
+1 Bishop of Wings
+1 Sephara, Sky's Blade
+1 Temple of Triumph
+1 Avacyn, Angel of Hope
+1 Magmaquake
+1 Baneslayer Angel
+1 Lightning Greaves
+1 Angel of Jubilation
+1 Cavern of Souls
+1 Gisela, Blade of Goldnight
+1 Herald of War
+1 Angelic Field Marshal
+1 Sunblast Angel
+1 Needle Spires
+1 Iroas, God of Victory
+1 Inspiring Vantage
+1 Rugged Prairie
+1 Sacred Foundry
+1 Resplendent Angel
+1 Unclaimed Territory
+1 Earthquake
+1 Archangel of Thune
+1 Anya, Merciless Angel
+1 Nykthos, Shrine to Nyx
+1 Basandra, Battle Seraph
+1 Emeria, the Sky Ruin
+1 Urza's Incubator
+1 Spectator Seating
+1 Needleverge Pathway // Pillarverge Pathway
+1 Valakut Awakening // Valakut Stoneforge
+1 Ancient Tomb
+1 Emeria Shepherd
+1 Austere Command
+1 Akroma's Will
+1 Sunhome, Fortress of the Legion
+1 Starnheim Aspirant
+1 Youthful Valkyrie
+1 Valkyrie Harbinger
+1 Herald's Horn
+1 Alpine Meadow
+1 Path of Ancestry
+1 Restoration Angel
+1 Righteous Valkyrie
+1 Boros Charm
+1 Angel of Serenity
+1 Angel of Finality
+1 Arcane Signet
+1 Enduring Angel // Angelic Enforcer
+1 Sundown Pass
+1 Secluded Courtyard
+1 Kiki-Jiki, Mirror Breaker
+1 Eiganjo, Seat of the Empire
+1 Giada, Font of Hope
+1 Battle Angels of Tyr
+1 Teferi's Protection
+1 Aurelia, the Warleader
+1 Wear // Tear
+1 Battlefield Forge
+1 Generous Gift
+1 Lyra Dawnbringer
+1 Court of Grace
+1 Slayers' Stronghold
+1 Talisman of Conviction
+1 Boon-Bringer Valkyrie
+1 Firemane Commando
+1 Temple of the False God
+1 Seraph Sanctuary
+1 Metropolis Reformer
+1 Minas Tirith
+1 Flowering of the White Tree
+1 Vanquisher's Banner
+1 Furycalm Snarl
+1 Sol Ring
+1 Rogue's Passage
+SB: 1 Angelic Arbiter
+SB: 1 Linvala, Keeper of Silence
+SB: 1 Akroma, Angel of Wrath
+SB: 1 Akroma, Angel of Fury
+SB: 1 Fellwar Stone
+SB: 1 Akroma, Vision of Ixidor
+SB: 1 Deflecting Palm
+SB: 1 Feather, the Redeemed
+SB: 1 Boros Garrison
+SB: 1 Serra's Emissary
+SB: 1 Rustvale Bridge
+SB: 1 Esper Sentinel
+SB: 1 Knight of the White Orchid
+SB: 1 Blasphemous Act
+SB: 1 Sacred Peaks
+SB: 1 Steel Seraph
+SB: 1 Clifftop Retreat
+SB: 1 Archangel Avacyn // Avacyn, the Purifier

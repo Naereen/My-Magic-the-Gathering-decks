@@ -1,0 +1,121 @@
+1 Agent of Treachery
+1 Aeon Engine
+1 Empress Galina
+1 Mindblaze
+1 Sacred Foundry
+1 Game Plan
+1 Sea of Clouds
+1 Control Magic
+1 Blood Crypt
+1 Godless Shrine
+1 Breeding Pool
+1 Stomping Ground
+1 Steam Vents
+1 Temple Garden
+1 Watery Grave
+1 Conundrum Sphinx
+1 Phage the Untouchable
+1 Karplusan Minotaur
+1 Goblin Game
+1 Blood Oath
+1 Stronghold Gambit
+1 Legerdemain
+1 Badlands
+1 Scrubland
+1 Tundra
+1 Underground Sea
+1 Role Reversal
+1 Bite of the Black Rose
+1 Coercive Portal
+1 Magister of Worth
+1 Plea for Power
+1 Reflecting Pool
+1 Tyrant's Choice
+1 Hallowed Fountain
+1 Corrupted Conscience
+1 Pain's Reward
+1 Illicit Auction
+1 Bayou
+1 Plateau
+1 Savannah
+1 Tropical Island
+1 Taiga
+1 Volcanic Island
+1 Puca's Mischief
+1 Zur's Weirding
+1 Kaboom!
+1 Menacing Ogre
+1 Risky Move
+1 Sphinx Ambassador
+1 Perplexing Chimera
+1 Flooded Strand
+1 Island
+1 Capital Punishment
+1 Overgrown Tomb
+1 Rhystic Study
+1 Sphinx of Uthuun
+1 Confusion in the Ranks
+1 Jinxed Choker
+1 Liar's Pendulum
+1 Cultural Exchange
+1 Treachery
+1 Commander's Sphere
+1 Mana Confluence
+1 Rejuvenating Springs
+1 Training Center
+1 Spectator Seating
+1 Undergrowth Stadium
+1 Vault of Champions
+1 Path to Exile
+1 Arcane Signet
+1 Blasphemous Act
+1 The Trickster-God's Heist
+1 Farseek
+1 Scalding Tarn
+1 Misty Rainforest
+1 Inevitable Betrayal
+1 Bloom Tender
+1 The Deck of Many Things
+1 Hidetsugu Consumes All // Vessel of the All-Consuming
+1 Morphic Pool
+1 Spire Garden
+1 Forest
+1 Bountiful Promenade
+1 Luxury Suite
+1 Mountain
+1 Exchange of Words
+1 Boing!
+1 Command Tower
+1 Sol Ring
+1 Swords to Plowshares
+1 Kill! Maim! Burn!
+1 Chromatic Lantern
+1 Hurkyl's Final Meditation
+1 Nature's Lore
+1 Sylvan Library
+1 Fact or Fiction
+1 Booby Trap
+1 Swamp
+1 Plains
+SB: 1 Lieutenants of the Guard
+SB: 1 Messenger Jays
+SB: 1 Isperia the Inscrutable
+SB: 1 Nicol Bolas, Dragon-God
+SB: 1 Grudge Keeper
+SB: 1 Split Decision
+SB: 1 Brilliant Ultimatum
+SB: 1 Darigaaz, the Igniter
+SB: 1 Ballot Broker
+SB: 1 Cultivate
+SB: 1 Crosis, the Purger
+SB: 1 Heroic Intervention
+SB: 1 Opposition Agent
+SB: 1 Tivit, Seller of Secrets
+SB: 1 Kodama's Reach
+SB: 1 Teferi's Protection
+SB: 1 Path of the Schemer
+SB: 1 Path of the Pyromancer
+SB: 1 Path of the Enigma
+SB: 1 Path of the Ghosthunter
+SB: 1 Path of the Animist
+SB: 1 Kenrith, the Returned King

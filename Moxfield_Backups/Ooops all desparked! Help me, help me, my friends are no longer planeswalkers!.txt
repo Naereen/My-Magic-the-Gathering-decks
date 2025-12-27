@@ -1,0 +1,100 @@
+1 Faeburrow Elder
+1 Return of the Wildspeaker
+1 Bloom Tender
+1 Chromatic Orrery
+1 Snow-Covered Plains
+1 Nature's Lore
+1 Breeding Pool
+1 Swords to Plowshares
+1 Noble Hierarch
+1 Godless Shrine
+1 Stomping Ground
+1 Path to Exile
+1 City of Brass
+1 Scrubland
+1 Underground Sea
+1 The Elderspell
+1 Spark Double
+1 Mana Confluence
+1 Hallowed Fountain
+1 Overgrown Tomb
+1 Temple Garden
+1 Bayou
+1 Plateau
+1 Savannah
+1 Tropical Island
+1 Tundra
+1 Taiga
+1 Volcanic Island
+1 Sacred Foundry
+1 Heroes' Podium
+1 Bloodstained Mire
+1 Flooded Strand
+1 Champion's Helm
+1 Sol Ring
+1 Steam Vents
+1 Jhoira, Weatherlight Captain
+1 Farseek
+1 Marsh Flats
+1 Misty Rainforest
+1 Three Visits
+1 Esika, God of the Tree // The Prismatic Bridge
+1 Fabled Path of Searo Point
+1 Arid Mesa
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Garth One-Eye
+1 Ignoble Hierarch
+1 Arcane Signet
+1 Otawara, Soaring City
+1 Eiganjo, Seat of the Empire
+1 Boseiju, Who Endures
+1 Jodah, the Unifier
+1 Urza's Ruinous Blast
+1 Relic of Legends
+1 Jenson Carthalion, Druid Exile
+1 Path of Ancestry
+1 Mox Amber
+1 Swiftfoot Boots
+1 Jegantha, the Wellspring
+1 Nissa, Resurgent Animist
+1 Calix, Guided by Fate
+1 Nahiri, Forged in Fury
+1 Kiora, Sovereign of the Deep
+1 Narset, Enlightened Exile
+1 Karn, Legacy Reforged
+1 Samut, Vizier of Naktamun
+1 Sarkhan, Soul Aflame
+1 Ob Nixilis, Captive Kingpin
+1 Delighted Halfling
+1 Great Hall of the Citadel
+1 Rowan, Scion of War
+1 Will, Scion of Peace
+1 Command Tower
+1 Huatli, Poet of Unity // Roar of the Fifth People
+1 Flowering of the White Tree
+1 Saheeli, the Sun's Brilliance
+1 Austere Command
+1 Birds of Paradise
+1 Ruinous Ultimatum
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Vraska, the Silencer
+1 Farewell
+1 Cascading Cataracts
+1 Morophon, the Boundless
+1 Brotherhood Regalia
+1 Excalibur, Sword of Eden
+1 The Wandering Rescuer
+1 Aminatou, Veil Piercer
+1 Tyvar, the Pummeler
+1 Niko, Light of Hope
+1 Daretti, Rocketeer Engineer
+1 Kiora, the Rising Tide
+1 Basri, Tomorrow's Champion
+1 Nissa, Worldsoul Speaker
+1 Ornithopter of Paradise
+1 Mu Yanling, Wind Rider
+1 Despark
+SB: 1 Sisay, Weatherlight Captain

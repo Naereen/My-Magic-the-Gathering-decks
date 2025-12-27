@@ -1,0 +1,107 @@
+1 Witch's Cottage
+1 Rogue's Passage
+1 Bad Deal
+1 Unnerve
+1 Dakmor Bat
+1 Mephidross Vampire
+1 Gloomhunter
+1 Basilica Screecher
+1 Marrow Bats
+1 Asylum Visitor
+1 Westvale Abbey // Ormendahl, Profane Prince
+1 Bartizan Bats
+1 Burglar Rat
+1 Vicious Rumors
+1 Ifnir Deadlands
+1 Herald of Anguish
+1 Xathrid Slyblade
+1 Liliana's Caress
+1 Vampire Nocturnus
+1 Vampire Bats
+1 Grimclaw Bats
+1 Castle Locthwain
+1 Blighted Bat
+1 Tasigur's Cruelty
+1 Liliana's Specter
+1 Duskhunter Bat
+1 Dementia Bat
+1 Vampire Nighthawk
+1 Yixlid Jailer
+1 Reliquary Tower
+1 Skinwing
+1 Fell Specter
+1 Malakir Familiar
+1 Phyrexian Tower
+1 Dirge Bat
+1 Megrim
+1 Underworld Dreams
+1 Sengir Nosferatu
+1 Kelinore Bat
+1 Gurmag Swiftwing
+1 Foundry Screecher
+1 Bloodhunter Bat
+1 Desecrated Tomb
+1 Arterial Flow
+1 Arguel's Blood Fast // Temple of Aclazotz
+1 Blight Keeper
+1 Raiders' Wake
+1 Cabal Stronghold
+1 Skeletal Vampire
+1 Nykthos, Shrine to Nyx
+1 Bloodline Keeper // Lord of Lineage
+1 Screeching Bat // Stalking Vampire
+1 Bojuka Bog
+1 Leechridden Swamp
+1 Sengir Bats
+1 Sengir, the Dark Baron
+1 Zof Consumption // Zof Bloodbog
+1 Hagra Mauling // Hagra Broodpit
+1 Malakir Rebirth // Malakir Mire
+1 Ghastly Gloomhunter
+1 Agadeem's Awakening // Agadeem, the Undercrypt
+1 Elderfang Disciple
+1 Eyetwitch
+1 Access Tunnel
+1 Cabal Coffers
+1 Tourach, Dread Cantor
+1 Hive of the Eye Tyrant
+1 Westgate Regent
+1 Reanimate
+1 Tainted Adversary
+1 Voldaren Bloodcaster // Bloodbat Summoner
+1 Sorin the Mirthless
+1 Voldaren Estate
+1 Predators' Hour
+1 Timothar, Baron of Bats
+1 Bat Whisperer
+1 Courier Bat
+1 Wedding Invitation
+1 Junji, the Midnight Sky
+1 Virus Beetle
+1 Takenuma, Abandoned Mire
+1 Getaway Car
+1 Stirge
+1 Mortuary Mire
+1 Quest for the Nihil Stone
+11 Swamp
+1 Shizo, Death's Storehouse
+1 The Raven Man
+1 Tomb Fortress
+1 Plaguecrafter
+1 Scythe Specter
+1 Invasion of Ulgrotha // Grandmother Ravi Sengir
+1 Nezumi Informant
+1 Voracious Fell Beast
+1 Barad-dûr
+1 Mirkwood Bats
+1 The Black Gate
+1 The Eldest Reborn
+1 Hopeless Nightmare
+1 Waste Not
+1 War Room
+1 Deep-Cavern Bat
+1 Bloodletter of Aclazotz
+1 Tarrian's Journal // The Tomb of Aclazotz
+SB: 1 Temple of the False God
+SB: 1 Command Beacon
+SB: 1 Aclazotz, Deepest Betrayal // Temple of the Dead

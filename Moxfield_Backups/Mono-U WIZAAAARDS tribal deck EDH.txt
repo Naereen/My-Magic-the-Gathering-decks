@@ -1,0 +1,104 @@
+1 Arcane Signet
+1 Heraldic Banner
+1 Faerie Conclave
+1 Herald's Horn
+1 Propaganda
+1 Barrin, Tolarian Archmage
+1 Serum Visions
+1 Minamo, School at Water's Edge
+1 Pact of Negation
+1 Reliquary Tower
+1 Rapid Hybridization
+1 Negate
+1 Spellseeker
+1 Imprisoned in the Moon
+1 Glen Elendra Archmage
+1 Baral, Chief of Compliance
+1 Cavern of Souls
+1 Narset, Parter of Veils
+1 Force of Negation
+1 Castle Vantress
+1 Halimar Depths
+1 Rhystic Study
+1 Brainstorm
+1 Mystic Remora
+1 Shadowspear
+1 Force of Will
+1 Wizard's Retort
+1 Teferi, Mage of Zhalfir
+1 Sage of Fables
+1 Stonybrook Banneret
+1 Sigil Tracer
+1 Cyclonic Rift
+1 Jace, Vryn's Prodigy // Jace, Telepath Unbound
+1 Swan Song
+1 Memnarch
+1 Mistcaller
+1 Archetype of Imagination
+1 Ponder
+1 Spell Pierce
+1 Naban, Dean of Iteration
+1 Merfolk Trickster
+1 Archaeomancer
+1 Galecaster Colossus
+1 Kindred Discovery
+1 Path of Ancestry
+1 Reality Shift
+1 Sol Ring
+1 Mana Drain
+1 Mind Stone
+1 Preordain
+1 Thought Vessel
+1 Thassa, God of the Sea
+1 Snapcaster Mage
+1 Lullmage Mentor
+1 Cursecatcher
+1 Pongify
+1 Patron Wizard
+1 Umara Wizard // Umara Skyfalls
+1 Sea Gate Restoration // Sea Gate, Reborn
+1 Jwari Disruption // Jwari Ruins
+1 Glasspool Mimic // Glasspool Shore
+1 War Room
+1 Saw It Coming
+1 Cyclone Summoner
+1 Venser, Shaper Savant
+1 Mystic Sanctuary
+1 Archmage Emeritus
+1 Deekah, Fractal Theorist
+1 Naru Meha, Master Wizard
+1 Lonely Sandbar
+1 Riptide Laboratory
+1 Riptide Director
+1 Hall of Storm Giants
+1 Wizard's Spellbook
+1 Triskaidekaphile
+1 Wash Away
+1 Otawara, Soaring City
+1 An Offer You Can't Refuse
+1 Witness Protection
+1 Archmage's Charm
+1 Wizards of Thay
+1 Mutavault
+1 Talrand, Sky Summoner
+1 Icon of Ancestry
+1 Alandra, Sky Dreamer
+1 Harbinger of the Tides
+1 Arcanis the Omnipotent
+20 Island
+1 Windrider Wizard
+1 Murmuring Mystic
+1 Counterspell
+SB: 1 Thassa, Deep-Dwelling
+SB: 1 Vedalken Aethermage
+SB: 1 True-Name Nemesis
+SB: 1 Obelisk of Urd
+SB: 1 Supreme Inquisitor
+SB: 1 Thassa's Rebuff
+SB: 1 Rogue's Passage
+SB: 1 Aquitect's Will
+SB: 1 Master of Waves
+SB: 1 Stormtide Leviathan
+SB: 1 Distant Melody
+SB: 1 Feywild Caretaker
+SB: 1 Azami, Lady of Scrolls

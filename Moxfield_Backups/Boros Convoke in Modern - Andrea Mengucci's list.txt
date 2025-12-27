@@ -1,0 +1,22 @@
+1 Mountain
+4 Ornithopter
+4 Kuldotha Rebirth
+4 Memnite
+4 Venerated Loxodon
+4 Goblin Bushwhacker
+4 Arid Mesa
+4 Voldaren Epicure
+4 Gleeful Demolition
+4 Knight-Errant of Eos
+4 Thraben Inspector
+4 Sunbaked Canyon
+4 Novice Inspector
+4 Inspiring Vantage
+2 Signal Pest
+2 Reckless Bushwhacker
+3 Sacred Foundry
+SB: 4 Containment Priest
+SB: 4 Tormod's Crypt
+SB: 4 Wear // Tear
+SB: 1 Jegantha, the Wellspring
+SB: 2 Requisition Raid

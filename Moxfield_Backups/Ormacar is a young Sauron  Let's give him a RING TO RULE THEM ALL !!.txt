@@ -1,0 +1,94 @@
+3 Island
+7 Swamp
+1 Marsh Flats
+1 Flooded Strand
+1 Polluted Delta
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Morphic Pool
+1 Canoptek Wraith
+1 Street Wraith
+1 Ensnaring Bridge
+1 Sol Ring
+1 Call of the Ring
+1 Sauron, the Necromancer
+1 Gandalf, Friend of the Shire
+1 Voracious Fell Beast
+1 Orcish Bowmasters
+1 Witch-king of Angmar
+1 Barad-dûr
+1 Saruman's Trickery
+1 Minamo, School at Water's Edge
+1 Bojuka Bog
+1 One Ring to Rule Them All
+1 Shadowspear
+1 Ringsight
+1 Troll of Khazad-dûm
+1 Palantír of Orthanc
+1 The Mouth of Sauron
+1 Uruk-hai Berserker
+1 Ringwraiths
+1 Urborg, Tomb of Yawgmoth
+1 Cabal Coffers
+1 Claim the Precious
+1 Soothing of Sméagol
+1 Lórien Revealed
+1 Sauron's Ransom
+1 Raise the Palisade
+1 Corsairs of Umbar
+1 Shelob, Dread Weaver
+1 Lord of the Nazgûl
+1 The Black Gate
+1 Arcane Denial
+1 Boon of the Wish-Giver
+1 Fact or Fiction
+1 Devastation Tide
+1 Plea for Power
+1 Swan Song
+1 Feed the Swarm
+1 Go for the Throat
+1 Witch-king, Bringer of Ruin
+1 Notion Thief
+1 Hostage Taker
+1 Lightning Greaves
+1 Thought Vessel
+1 Herald's Horn
+1 Extract from Darkness
+1 Merciless Executioner
+1 Arcane Signet
+1 Commander's Sphere
+1 Decree of Pain
+1 Drowned Catacomb
+1 Access Tunnel
+1 Living Death
+1 Reanimate
+1 Heirloom Blade
+1 Command Tower
+1 Path of Ancestry
+1 Rogue's Passage
+1 Sunken Hollow
+1 Underground River
+1 Toxic Deluge
+1 Minas Morgul, Dark Fortress
+1 Nazgûl Battle-Mace
+1 Myriad Landscape
+1 Temple of Deceit
+1 Undercity Sewers
+1 Bloodstained Mire
+1 Excalibur, Sword of Eden
+1 Accursed Duneyard
+1 Watery Grave
+9 Nazgûl
+SB: 1 Bog Wraith
+SB: 1 Odylic Wraith
+SB: 1 Dirtwater Wraith
+SB: 1 Bog Tatters
+SB: 1 Gollum's Bite
+SB: 1 Press the Enemy
+SB: 1 Birthday Escape
+SB: 1 The Black Breath
+SB: 1 Sam's Desperate Rescue
+SB: 1 Ormacar, Relic Wraith
+SB: 1 The One Ring

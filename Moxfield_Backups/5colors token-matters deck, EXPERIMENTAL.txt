@@ -1,0 +1,106 @@
+1 Cauldron Familiar
+1 Oko, Thief of Crowns
+1 Witch's Oven
+1 Chromatic Orrery
+1 Godless Shrine
+1 Stomping Ground
+1 Khalni Garden
+1 Second Harvest
+1 Westvale Abbey // Ormendahl, Profane Prince
+1 Smothering Tithe
+1 Breeding Pool
+1 Hallowed Fountain
+1 Flooded Strand
+1 Marsh Flats
+1 City of Brass
+1 Swords to Plowshares
+1 Deranged Hermit
+1 Deep Forest Hermit
+1 Squirrel Nest
+1 Castle Ardenvale
+1 Akim, the Soaring Wind
+1 Artifact Mutation
+1 Beast Within
+1 Arid Mesa
+1 Anointed Procession
+1 Mana Confluence
+1 Cyclonic Rift
+1 Rhystic Study
+1 Indatha Triome
+1 Zagoth Triome
+1 Path to Exile
+1 Ketria Triome
+1 Doubling Season
+1 Sacred Foundry
+1 Temple Garden
+1 Wooded Foothills
+1 Bloodstained Mire
+1 Polluted Delta
+1 Windswept Heath
+1 Brass's Bounty
+1 Chromatic Lantern
+1 Overgrown Tomb
+1 Legion's Landing // Adanto, the First Fort
+1 Farseek
+1 Sol Ring
+1 Parallel Lives
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Springjack Pasture
+1 Reflecting Pool
+1 Pongify
+1 Nut Collector
+1 Emeria's Call // Emeria, Shattered Skyclave
+1 Arcane Signet
+1 Command Tower
+1 Three Visits
+1 The World Tree
+1 Toski, Bearer of Secrets
+1 Urza's Factory
+1 Commander's Sphere
+1 Esix, Fractal Bloom
+1 Inkshield
+1 Pest Infestation
+1 Misty Rainforest
+1 Ravenous Squirrel
+1 Squirrel Sanctuary
+1 Squirrel Sovereign
+1 Chatterfang, Squirrel General
+1 Squirrel Mob
+1 Drey Keeper
+1 Underworld Hermit
+1 Verdant Command
+1 Chatterstorm
+1 Scurry Oak
+1 Lonis, Cryptozoologist
+1 Yavimaya, Cradle of Growth
+1 Chitterspitter
+1 Generous Gift
+1 Xorn
+1 Den of the Bugbear
+1 Blood Crypt
+1 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+1 Sokenzan, Crucible of Defiance
+1 Boseiju, Who Endures
+1 Jolene, the Plunder Queen
+1 Aura Mutation
+1 Gala Greeters
+1 Jinnie Fay, Jetmir's Second
+1 Cadira, Caller of the Small
+1 Ezuri's Predation
+1 Divine Visitation
+6 Forest
+1 Martial Coup
+1 Birds of Paradise
+1 Awaken the Woods
+1 Argoth, Sanctum of Nature
+1 Hour of Reckoning
+1 Nature's Lore
+1 Kher Keep
+1 Path of Ancestry
+1 The Shire
+1 Wrenn and Realmbreaker
+1 Gilded Goose
+1 Academy Manufactor
+SB: 1 Nested Shambler
+SB: 1 Esika, God of the Tree // The Prismatic Bridge

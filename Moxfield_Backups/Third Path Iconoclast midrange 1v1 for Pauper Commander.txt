@@ -1,0 +1,126 @@
+1 Mystic Sanctuary
+1 Brainstorm
+1 Daze
+1 Opt
+1 Treasure Cruise
+9 Mountain
+1 Swiftwater Cliffs
+1 Neurok Stealthsuit
+1 Serum Visions
+1 Lava Spike
+1 Flame Slash
+1 Skewer the Critics
+1 Raid Bombardment
+1 Firebrand Archer
+1 Dragon Fodder
+1 Goblin Electromancer
+1 Rewind
+1 Lightning Strike
+1 Aether Spellbomb
+1 Artful Dodge
+1 Galvanic Blast
+1 Preordain
+1 Thoughtcast
+1 Mana Leak
+1 Capsize
+1 Kasmina's Transmutation
+1 Forked Bolt
+1 Electrickery
+1 Ponder
+1 Gitaxian Probe
+1 Relic of Progenitus
+1 Springleaf Drum
+1 Ichthyomorphosis
+1 Frogify
+1 Pyrite Spellbomb
+1 Thermo-Alchemist
+1 Blazing Volley
+1 Forbidden Friendship
+1 Arcane Denial
+1 Mob Justice
+1 Lightning Bolt
+1 Impact Tremors
+1 Reckless Fireweaver
+1 Krenko's Command
+1 Hordeling Outburst
+1 Unwind
+1 Clout of the Dominus
+1 Izzet Boilerworks
+1 Welding Jar
+1 Command Tower
+1 Volatile Fjord
+1 Ravenform
+1 Disdainful Stroke
+1 Opal Palace
+1 Path of Ancestry
+1 Introduction to Annihilation
+1 Resculpt
+1 Prismari Campus
+1 Silverbluff Bridge
+1 Hard Evidence
+1 Halimar Depths
+1 Consider
+1 Kessig Flamebreather
+1 End the Festivities
+1 Arcane Signet
+1 Moonsnare Prototype
+1 Spell Pierce
+1 Experimental Synthesizer
+1 Maestros Theater
+1 Witness Protection
+1 Witty Roastmaster
+1 Big Score
+1 Trailblazer's Torch
+1 Ingenious Artillerist
+1 Rift Bolt
+1 Izzet Charm
+1 Lava Coil
+10 Island
+1 Smash to Dust
+1 Molten Tributary
+1 Chain Lightning
+1 Snap
+1 The Autonomous Furnace
+1 The Surgical Bay
+1 Negate
+1 Ral's Reinforcements
+1 Forge of Heroes
+1 Ornithopter of Paradise
+1 Murmuring Mystic
+1 Guttersnipe
+1 Abrade
+1 Counterspell
+1 Makeshift Munitions
+1 Reverse Engineer
+SB: 1 Dwarven Mine
+SB: 1 Golden Egg
+SB: 1 Cancel
+SB: 1 Mind Stone
+SB: 1 Shock
+SB: 1 Archaeomancer
+SB: 1 Izzet Guildgate
+SB: 1 Scour from Existence
+SB: 1 Iron Myr
+SB: 1 Silver Myr
+SB: 1 Shadow Rift
+SB: 1 Mulldrifter
+SB: 1 Commander's Sphere
+SB: 1 Dramatic Reversal
+SB: 1 Highland Lake
+SB: 1 Warlord's Fury
+SB: 1 Mark of Fury
+SB: 1 Prophetic Prism
+SB: 1 Study Hall
+SB: 1 Izzet Signet
+SB: 1 Unexpected Windfall
+SB: 1 The Modern Age // Vector Glider
+SB: 1 Etherium Sculptor
+SB: 1 Pirate's Pillage
+SB: 1 Peregrine Drake
+SB: 1 Empty the Warrens
+SB: 1 Birthday Escape
+SB: 1 Inherited Envelope
+SB: 1 Ash Barrens
+SB: 1 Frantic Search
+SB: 1 Foundry Inspector
+SB: 1 Third Path Iconoclast

@@ -1,0 +1,115 @@
+1 Heraldic Banner
+1 Oakhame Adversary
+1 Questing Beast
+1 Beast Within
+1 Hornet Nest
+1 Nature's Claim
+1 Garruk, Unleashed
+1 Sedge Scorpion
+1 Veil of Summer
+1 Nature's Lore
+1 Wasteland Viper
+1 Rancor
+1 Gnarlwood Dryad
+1 Kodama's Reach
+1 Ambuscade
+1 Narnam Renegade
+1 Bellowing Tanglewurm
+1 Acidic Slime
+1 Contagion Clasp
+1 Whispersilk Cloak
+1 Pendelhaven
+1 Sylvan Library
+1 God-Eternal Rhonas
+1 Pollenbright Druid
+1 Planewide Celebration
+1 Karn's Bastion
+1 Scale Up
+21 Snow-Covered Forest
+1 Sword of Truth and Justice
+1 Castle Garenbrig
+1 Rhonas's Monument
+1 Vines of Vastwood
+1 Llanowar Elves
+1 Glistener Elf
+1 Phyrexian Swarmlord
+1 Triumph of the Hordes
+1 Inkmoth Nexus
+1 Plague Myr
+1 Viridian Corrupter
+1 Gaea's Cradle
+1 Fyndhorn Elves
+1 Moss Viper
+1 Invigorate
+1 Nature's Way
+1 Ram Through
+1 Lightning Greaves
+1 Heir of the Wilds
+1 Elvish Mystic
+1 Emerald Medallion
+1 Blossoming Defense
+1 Cultivate
+1 Beast Whisperer
+1 Command Beacon
+1 Oran-Rief, the Vastwood
+1 Rogue's Passage
+1 Sol Ring
+1 Nykthos, Shrine to Nyx
+1 Tranquil Thicket
+1 Predatory Focus
+1 Halana, Kessig Ranger
+1 Tajuru Blightblade
+1 Three Visits
+1 Ambush Viper
+1 Ohran Frostfang
+1 Vorinclex, Monstrous Raider
+1 Snakeskin Veil
+1 Thornweald Archer
+1 Access Tunnel
+1 Devouring Tendrils
+1 Sylvan Anthem
+1 Yavimaya, Cradle of Growth
+1 Smell Fear
+1 Underdark Basilisk
+1 Arcane Signet
+1 Clear Shot
+1 Saryth, the Viper's Fang
+1 Toxic Scorpion
+1 Kappa Tech-Wrecker
+1 Fang of Shigeki
+1 Boseiju, Who Endures
+1 Kura, the Boundless Sky
+1 Evolution Sage
+1 Erinis, Gloom Stalker
+1 War Room
+1 Deadly Recluse
+1 Defiler of Vigor
+1 Bite Down
+1 Deathbloom Gardener
+1 Audacity
+1 Gaea's Gift
+1 Master's Rebuke
+1 Venerated Rotpriest
+1 Bloated Contaminator
+1 Staff of Compleation
+1 Carnivorous Canopy
+1 Glistening Sphere
+1 Contaminant Grafter
+1 Tyrranax Rex
+1 Noxious Assault
+1 Unnatural Restoration
+1 Tyvar's Stand
+1 Infectious Bite
+1 Cankerbloom
+1 Venomous Brutalizer
+1 Ichorspit Basilisk
+1 Thirsting Roots
+1 Tribute to the World Tree
+1 Cosmic Hunger
+1 Serpent-Blade Assailant
+1 Animist's Might
+1 Delighted Halfling
+1 Bombadil's Song
+1 Mirkwood Spider
+1 Hornet Queen
+SB: 1 Fynn, the Fangbearer

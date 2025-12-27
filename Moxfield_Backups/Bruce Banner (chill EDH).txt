@@ -1,0 +1,151 @@
+1 Cultivate
+1 Gelectrode
+1 Gut Shot
+1 Whir of Invention
+1 Beast Within
+1 Seedborn Muse
+1 Nature's Lore
+1 Kodama's Reach
+1 Minamo, School at Water's Edge
+1 Stomping Ground
+1 Swiftfoot Boots
+1 Forest
+1 Biomancer's Familiar
+1 Rhythm of the Wild
+1 Titanic Brawl
+1 Arid Mesa
+1 Lightning Bolt
+1 Desert
+1 Birds of Paradise
+1 Mountain
+1 Steam Vents
+1 Vandalblast
+1 Rampant Growth
+1 Tezzeret the Seeker
+1 Shadowspear
+1 Neyith of the Dire Hunt
+1 Ketria Triome
+1 The Ozolith
+1 Balduvian Trading Post
+1 Farseek
+1 Llanowar Elves
+1 Fabricate
+1 Basilisk Collar
+1 Cunning Sparkmage
+1 Cavern of Souls
+1 Ulvenwald Tracker
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Wooded Foothills
+1 Windswept Heath
+1 Yavimaya Coast
+1 Island
+1 Rogue's Passage
+1 Trophy Mage
+1 Polyraptor
+1 Silverclad Ferocidons
+1 Ranging Raptors
+1 Mox Amber
+1 Fellwar Stone
+1 Moonmist
+1 Lightning Greaves
+1 Misty Rainforest
+1 Scalding Tarn
+1 Bloom Tender
+1 Keen Sense
+1 Pyrohemia
+1 Pongify
+1 Prodigal Pyromancer
+1 Caltrops
+1 Prodigal Sorcerer
+1 Rejuvenating Springs
+1 Training Center
+1 Kediss, Emberclaw Familiar
+1 Fyndhorn Elves
+1 Path of Ancestry
+1 Anara, Wolvid Familiar
+1 Ancient Animus
+1 Tyrite Sanctum
+1 Urza's Saga
+1 Verdant Catacombs
+1 Goblin Anarchomancer
+1 Otawara, Soaring City
+1 Tamiyo's Safekeeping
+1 Boseiju, Who Endures
+1 Spire Garden
+1 Prizefight
+1 Karlach, Fury of Avernus
+1 Talisman of Creativity
+1 Brash Taunter
+1 Sakura-Tribe Elder
+1 Return of the Wildspeaker
+1 Tail Swipe
+1 Frontier Bivouac
+1 Hajar, Loyal Bodyguard
+1 Tyvar's Stand
+1 Sol Ring
+1 Zopandrel, Hunger Dominus
+1 Invasion of Ikoria // Zilortha, Apex of Ikoria
+1 Kami of Whispered Hopes
+1 Etali, Primal Conqueror // Etali, Primal Sickness
+1 Faerie Mastermind
+1 Delighted Halfling
+1 Mithril Coat
+1 Three Visits
+1 Elvish Mystic
+1 Eternal Witness
+1 Arcane Signet
+1 Legolas's Quick Reflexes
+1 Gimli's Reckless Might
+1 Apex Altisaur
+1 Command Tower
+1 Xenagos, God of Revels
+1 Ripjaw Raptor
+1 Hedge Maze
+1 Anzrag, the Quake-Mole
+1 Commercial District
+1 Thundering Falls
+1 Power Fist
+1 Collective Resistance
+1 Sink into Stupor // Soporific Springs
+1 Fanatic of Rhonas
+1 Arena of Glory
+1 Chandra's Ignition
+1 Anger
+1 Kessig Wolf Run
+1 Brotherhood Regalia
+1 Overprotect
+1 Karplusan Forest
+1 Enduring Vitality
+1 Thornspire Verge
+1 Wolverine, Best There Is
+1 An Offer You Can't Refuse
+1 Willowrush Verge
+1 Rishkar's Expertise
+1 Shivan Reef
+1 Herd Heirloom
+1 Mistrise Village
+1 Professional Face-Breaker
+1 Hardened Scales
+1 Walking Ballista
+1 Command Beacon
+1 Kinnan, Bonder Prodigy
+1 Hammer of Nazahn
+1 Swan Song
+1 Breeding Pool
+1 Pain for All
+1 Terrasymbiosis
+1 Redirect Lightning
+1 The Great Henge
+1 Strength of Will
+1 Wan Shi Tong, Librarian
+1 The Last Agni Kai
+1 Badgermole Cub
+1 Heroic Intervention
+1 Origin of Metalbending
+1 Training Grounds
+1 Shared Roots
+1 Fire Nation Palace
+1 Deflecting Swat
+SB: 1 Bruce Banner // The Incredible Hulk

@@ -1,0 +1,60 @@
+1 Knollspine Dragon
+1 Fabled Passage
+1 Dockside Extortionist
+1 Mind Bomb
+1 Trail of Evidence
+1 Steam Vents
+1 Collected Conjuring
+1 Cyclonic Rift
+1 Chart a Course
+1 Locket of Yesterdays
+1 Flamekin Village
+1 Ruby Medallion
+1 Howling Mine
+1 Sulfur Falls
+1 Training Center
+1 Riverglide Pathway // Lavaglide Pathway
+1 Valakut Awakening // Valakut Stoneforge
+1 Shatterskull Smashing // Shatterskull, the Hammer Pass
+1 Notorious Throng
+1 Wheel of Misfortune
+1 Volatile Fjord
+1 Birgi, God of Storytelling // Harnfel, Horn of Bounty
+1 Windfall
+1 Archmage Emeritus
+1 Storm-Kiln Artist
+1 Epic Experiment
+1 Dragon's Rage Channeler
+1 Stormcarved Coast
+1 The Reality Chip
+1 Experimental Synthesizer
+1 Public Enemy
+1 Cascade Bluffs
+1 Goblin Electromancer
+1 Inspired Tinkering
+1 Bothersome Quasit
+1 Niv-Mizzet, Parun
+1 Jeska's Will
+1 Prismari Campus
+1 Shivan Reef
+1 Molten Tributary
+1 Talisman of Creativity
+1 Blast-Furnace Hellkite
+1 Blasphemous Act
+1 Faithless Looting
+1 Bitter Reunion
+1 Demolition Field
+1 Thrill of Possibility
+1 Mathise, Surge Channeler
+1 Chrome Host Seedshark
+1 Themberchaud
+1 Chaos Warp
+1 Sol Ring
+1 Frostboil Snarl
+1 Exotic Orchard
+1 Command Tower
+1 Izzet Signet
+25 Dragon's Approach
+5 Island
+13 Mountain
+SB: 1 Galazeth Prismari

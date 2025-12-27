@@ -1,0 +1,102 @@
+1 Charming Prince
+6 Island
+1 Llanowar Visionary
+1 Kodama's Reach
+1 Minamo, School at Water's Edge
+1 Bane of Progress
+1 Brago, King Eternal
+1 Noble Hierarch
+1 Avacyn's Pilgrim
+1 Momentary Blink
+1 Yavimaya Coast
+1 Swords to Plowshares
+1 Adarkar Wastes
+1 Birds of Paradise
+1 Ephemerate
+1 Deep Forest Hermit
+1 Regal Caracal
+1 Armada Wurm
+1 Acidic Slime
+1 Flickerwisp
+1 Yorion, Sky Nomad
+1 Eerie Interlude
+1 Cloudshift
+6 Plains
+1 Soul of the Harvest
+6 Forest
+1 Avenger of Zendikar
+1 Reclamation Sage
+1 Soulherder
+1 Lumbering Falls
+1 Foundation Breaker
+1 Teleportation Circle
+1 Arbor Elf
+1 Otawara, Soaring City
+1 Touch the Spirit Realm
+1 Eiganjo, Seat of the Empire
+1 Spara's Headquarters
+1 Soul of Emancipation
+1 Commander's Sphere
+1 Thragtusk
+1 Nature's Lore
+1 Hornet Queen
+1 Mulldrifter
+1 Venser, Shaper Savant
+1 Llanowar Loamspeaker
+1 Wood Elves
+1 Command Tower
+1 Eternal Witness
+1 Path of Ancestry
+1 Brushland
+1 Restoration Angel
+1 Guardian of Ghirapur
+1 Vineglimmer Snarl
+1 Path to Exile
+1 Stroke of Midnight
+1 Gruff Triplets
+1 Restless Vinestalk
+1 Twining Twins // Swift Spiral
+1 Exotic Orchard
+1 Soul's Attendant
+1 Sol Ring
+1 Temple of Enlightenment
+1 Abuelo, Ancestral Echo
+1 Regal Behemoth
+1 Coiling Oracle
+1 Ghostway
+1 Sungrass Prairie
+1 Scattered Groves
+1 Seaside Citadel
+1 Loran of the Third Path
+1 Angel of the Ruins
+1 Temple of Plenty
+1 Farseek
+1 Panharmonicon
+1 Prairie Stream
+1 Fortune, Loyal Steed
+1 Another Round
+1 Sun Titan
+1 Arcane Signet
+1 Temple of Mystery
+SB: 1 Displace
+SB: 1 Turn to Mist
+SB: 1 Knight of Autumn
+SB: 1 Elite Guardmage
+SB: 1 Thassa, Deep-Dwelling
+SB: 1 Conjurer's Closet
+SB: 1 Cloudblazer
+SB: 1 Semester's End
+SB: 1 Solitude
+SB: 1 White Plume Adventurer
+SB: 1 Lae'zel's Acrobatics
+SB: 1 Undermountain Adventurer
+SB: 1 Seasoned Dungeoneer
+SB: 1 Emiel the Blessed
+SB: 1 Elesh Norn, Mother of Machines
+SB: 1 Gilraen, Dúnedain Protector
+SB: 1 Ghostly Flicker
+SB: 1 Virtue of Knowledge // Vantress Visions
+SB: 1 Brenard, Ginger Sculptor
+SB: 1 Ghalta, Stampede Tyrant
+SB: 1 Guardian Project
+SB: 1 Roon of the Hidden Realm
